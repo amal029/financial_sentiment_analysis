@@ -5,7 +5,6 @@ import pandas as pd
 import json
 import re
 import numpy as np
-# import plotly.express as px
 
 
 def append_sentiments(am, fname, cf, persons, sentiments):
@@ -51,8 +50,11 @@ def main(ff='./transcript_scores/'):
         for f in onlyfiles:
             fname = f.split('.')[0]
             fyear = fname.split('_')[-1]
-            ceos = list(set(df[df['Year'] == int(fyear)]['CEO']))
-            cfos = list(set(df[df['Year'] == int(fyear)]['CFO']))
+            fquarter = fname.split('_')[1]
+            ceos = list(set(df[(df['Year'] == int(fyear)
+                                and (df['Quarter'] == fquarter))]['CEO']))
+            cfos = list(set(df[(df['Year'] == int(fyear)
+                                and (df['Quarter'] == fquarter))]['CFO']))
             ceos_cfos = ceos + cfos
             if f.startswith(c):
                 no_matches[fname] = list()
