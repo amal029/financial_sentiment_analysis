@@ -91,7 +91,39 @@ if __name__ == '__main__':
         # 'OKE', 'OXY', 'PSX', 'SLB', 'TPL', 'TRGP', 'VLO', 'WMB'
     ]
     # XXX: Fill this in with the new company names
-    sp500 = []
+    sp500 = [
+        'AEE',                  # done
+        'AEP',                  # done
+        'AES',                  # done
+        'ATO',                  # done
+        'AWK',                  # done
+        'CEG',                  # done
+        'CMS',                  # done
+        'CNP',                  # done
+        'D',                    # done
+        'DTE',                  # done
+        'DUK',                  # done
+        'ED',                   # done
+        'EIX',                  # done
+        'ES',                   # done
+        'ETR',                  # done
+        'EVRG',                 # done
+        'EXC',                  # done
+        'FE',                   # done
+        'LNT',                  # done
+        'NEE',                  # done
+        'NI',                   # done
+        'NRG',                  # done
+        'PCG',                  # done
+        'PEG',                  # done
+        'PNW',                  # done
+        'PPL',                  # done
+        'SO',                   # done
+        'SRE',                  # done
+        'VST',                  # done
+        'WEC',                  # done
+        'XEL'                   # done
+    ]
     others = ['Executives', 'Operator', 'Analysts']
     for c in sp500:
         for y in years:

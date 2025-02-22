@@ -35,9 +35,9 @@ def main():
         # 'PPL',                  # done
         # 'SO',                   # done
         # 'SRE',                  # done
-        'VST',
-        # 'WEC',
-        # 'XEL'
+        # 'VST',                  # done
+        # 'WEC',                  # done
+        # 'XEL'                   # done
     ]
     prolouge = "https://discountingcashflows.com/api/transcript/"
     for c in utilities:
