@@ -51,10 +51,10 @@ def main(ff='./transcript_scores/'):
             fname = f.split('.')[0]
             fyear = fname.split('_')[-1]
             fquarter = fname.split('_')[1]
-            ceos = list(set(df[(df['Year'] == int(fyear)
-                                and (df['Quarter'] == fquarter))]['CEO']))
-            cfos = list(set(df[(df['Year'] == int(fyear)
-                                and (df['Quarter'] == fquarter))]['CFO']))
+            ceos = list(set(df[((df['Year'] == int(fyear))
+                                & (df['Quarter'] == str(fquarter)))]['CEO']))
+            cfos = list(set(df[((df['Year'] == int(fyear))
+                                & (df['Quarter'] == str(fquarter)))]['CFO']))
             ceos_cfos = ceos + cfos
             if f.startswith(c):
                 no_matches[fname] = list()
@@ -110,7 +110,7 @@ def main(ff='./transcript_scores/'):
 def sentiment_plot():
     # XXX: Now we can print the timeseries of sentiment for CEO/CFO
     dir_to_process = './transcripts_processed/'
-    df = pd.read_csv(dir_to_process+'comapnies.csv')
+    df = pd.read_csv(dir_to_process+'companies.csv')
     for c in df['Companies']:
         f = dir_to_process+c+'_processed.json'
         # XXX: Plot the sentiment score as a time series
@@ -128,7 +128,7 @@ def sentiment_plot():
         for i, q in enumerate(quarters):
             # XXX: There should be only 4 or less dictionary enteries in
             # each quarter.
-            if len(data[q]) <= 2:
+            if len(data[q]) <= 3:  # if we have no data then continue
                 continue
 
             # XXX: Process only if we have the data available
@@ -159,7 +159,7 @@ def sentiment_plot():
 
 if __name__ == '__main__':
     companies = main()
-    with open('./transcripts_processed/comapnies.csv', 'w') as fd:
+    with open('./transcripts_processed/companies.csv', 'w') as fd:
         fd.write('Companies\n')
         for c in companies:
             fd.write(c+'\n')
