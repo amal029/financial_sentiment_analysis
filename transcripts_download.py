@@ -32,10 +32,10 @@ def main():
         # "LW",                   # done
         # "MDLZ",                 # done
         # "MKC",                  # done
-        "MNST",
-        # "MO",
-        # "PEP",
-        # "PG",
+        # "MNST",                 # done
+        # "MO",                   # done
+        # "PEP",                  # done
+        # "PG",                   # done
         # "PM",
         # "SJM",
         # "STZ",
