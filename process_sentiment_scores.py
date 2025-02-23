@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import re
 import numpy as np
+from pathlib import Path
 
 
 def append_sentiments(am, fname, cf, persons, sentiments):
@@ -46,6 +47,10 @@ def main(ff='./transcript_scores/'):
         no_matches = dict()
         all_matches = dict()
         # XXX: Get the ceo and cfo information for this company
+        exec_file = Path('./ces_cfos/%s.csv' % c)
+        if not exec_file.exists():
+            print('The CEO/CFO Executives file still not present')
+            continue
         df = pd.read_csv('./ces_cfos/%s.csv' % c)
         for f in onlyfiles:
             fname = f.split('.')[0]

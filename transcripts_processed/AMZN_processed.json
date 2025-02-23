@@ -171,8 +171,8 @@
  "AMZN_Q4_2021": [
   {
    "CEO": [
-    "Andy Jassy",
-    "Jeff Bezos"
+    "Jeff Bezos",
+    "Andy Jassy"
    ]
   },
   {
@@ -592,16 +592,70 @@
  "AMZN_Q4_2013": [
   {
    "CEO": [
-    "Jeff Bezos"
+    "John Mackey"
    ]
   },
   {
    "CFO": [
-    "Thomas Szkutak"
+    "Walter Robb"
    ]
   },
   {
    "date": "2013-11-06 17:00:00"
+  },
+  {
+   "John Mackey": {
+    "avg_sentiment_score": 0.25,
+    "sentiment_score": [
+     0.0,
+     -0.15,
+     0.55,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.45,
+     0.65,
+     0.0
+    ],
+    "avg_confidence": 0.8150000000000001,
+    "confidence": [
+     0.8,
+     0.6,
+     0.75,
+     1.0,
+     0.4,
+     1.0,
+     1.0,
+     0.75,
+     0.85,
+     1.0
+    ]
+   }
+  },
+  {
+   "Walter Robb": {
+    "avg_sentiment_score": 0.4785714285714286,
+    "sentiment_score": [
+     0.0,
+     0.55,
+     0.0,
+     0.05,
+     1.0,
+     0.75,
+     1.0
+    ],
+    "avg_confidence": 0.8142857142857143,
+    "confidence": [
+     1.0,
+     0.75,
+     0.9,
+     0.6,
+     0.6,
+     0.85,
+     1.0
+    ]
+   }
   }
  ],
  "AMZN_Q4_2012": [
@@ -943,8 +997,8 @@
  "AMZN_Q3_2021": [
   {
    "CEO": [
-    "Andy Jassy",
-    "Jeff Bezos"
+    "Jeff Bezos",
+    "Andy Jassy"
    ]
   },
   {
@@ -1358,16 +1412,76 @@
  "AMZN_Q3_2013": [
   {
    "CEO": [
-    "Jeff Bezos"
+    "Walter Robb"
    ]
   },
   {
    "CFO": [
-    "Thomas Szkutak"
+    "Ken Meyer"
    ]
   },
   {
    "date": "2013-07-31 05:00:00"
+  },
+  {
+   "Walter Robb": {
+    "avg_sentiment_score": 0.31666666666666665,
+    "sentiment_score": [
+     1.0,
+     -0.45,
+     0.0,
+     0.85,
+     0.55,
+     0.15,
+     0.15,
+     0.45,
+     0.85,
+     0.0,
+     0.0,
+     0.55,
+     0.0,
+     0.65,
+     0.0
+    ],
+    "avg_confidence": 0.8533333333333334,
+    "confidence": [
+     0.8,
+     0.75,
+     1.0,
+     0.9,
+     0.75,
+     0.6,
+     0.75,
+     0.75,
+     0.9,
+     1.0,
+     1.0,
+     0.75,
+     1.0,
+     0.85,
+     1.0
+    ]
+   }
+  },
+  {
+   "Ken Meyer": {
+    "avg_sentiment_score": 0.4,
+    "sentiment_score": [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "avg_confidence": 0.8,
+    "confidence": [
+     1.0,
+     0.6,
+     1.0,
+     1.0,
+     0.4
+    ]
+   }
   }
  ],
  "AMZN_Q3_2012": [
@@ -1699,8 +1813,8 @@
  "AMZN_Q2_2021": [
   {
    "CEO": [
-    "Andy Jassy",
-    "Jeff Bezos"
+    "Jeff Bezos",
+    "Andy Jassy"
    ]
   },
   {
@@ -2523,8 +2637,8 @@
  "AMZN_Q1_2021": [
   {
    "CEO": [
-    "Andy Jassy",
-    "Jeff Bezos"
+    "Jeff Bezos",
+    "Andy Jassy"
    ]
   },
   {
