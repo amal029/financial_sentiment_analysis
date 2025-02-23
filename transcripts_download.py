@@ -29,9 +29,9 @@ def main():
         # "KO",                   # done
         # "KR",                   # done
         # "KVUE",                 # done
-        "LW",
-        # "MDLZ",
-        # "MKC",
+        # "LW",                   # done
+        # "MDLZ",                 # done
+        # "MKC",                  # done
         # "MNST",
         # "MO",
         # "PEP",

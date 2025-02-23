@@ -1,0 +1,1198 @@
+{
+ "CEG_Q4_2024": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2023": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2024-02-27 08:30:00"
+  }
+ ],
+ "CEG_Q4_2022": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2023-02-16 10:00:00"
+  }
+ ],
+ "CEG_Q4_2021": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2020": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2019": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2018": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2017": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2016": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2015": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2014": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2013": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2012": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2011": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q4_2010": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2011-02-04 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": -0.023684210526315787,
+    "sentiment_score": [
+     0.0,
+     -0.45,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     -0.35,
+     -0.45,
+     0.0,
+     0.0,
+     0.0,
+     -0.15,
+     -0.15,
+     0.0,
+     -0.35,
+     1.0,
+     0.0,
+     0.45
+    ],
+    "avg_confidence": 0.7236842105263158,
+    "confidence": [
+     0.4,
+     0.85,
+     1.0,
+     1.0,
+     0.4,
+     0.4,
+     1.0,
+     0.75,
+     0.75,
+     1.0,
+     1.0,
+     0.4,
+     0.75,
+     0.75,
+     1.0,
+     0.75,
+     0.4,
+     0.4,
+     0.75
+    ]
+   }
+  }
+ ],
+ "CEG_Q3_2024": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2024-11-04 10:00:00"
+  }
+ ],
+ "CEG_Q3_2023": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2023-11-06 10:00:00"
+  }
+ ],
+ "CEG_Q3_2022": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2022-11-08 10:00:00"
+  }
+ ],
+ "CEG_Q3_2021": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2020": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2019": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2018": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2017": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2016": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2015": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2014": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2013": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2012": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q3_2011": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2011-10-28 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.21250000000000002,
+    "sentiment_score": [
+     0.0,
+     0.55,
+     -0.15,
+     0.0,
+     0.55,
+     0.65,
+     0.55,
+     0.0,
+     -1.0,
+     0.15,
+     0.45,
+     0.55,
+     0.0,
+     0.05,
+     0.45,
+     0.65,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.65,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "avg_confidence": 0.78125,
+    "confidence": [
+     0.4,
+     0.75,
+     0.75,
+     1.0,
+     0.75,
+     0.85,
+     0.75,
+     1.0,
+     0.4,
+     0.75,
+     0.75,
+     0.75,
+     1.0,
+     0.6,
+     0.75,
+     0.85,
+     1.0,
+     1.0,
+     0.8,
+     0.4,
+     0.85,
+     1.0,
+     1.0,
+     0.6
+    ]
+   }
+  }
+ ],
+ "CEG_Q3_2010": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2010-10-31 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.10394736842105264,
+    "sentiment_score": [
+     0.0,
+     0.55,
+     0.15,
+     -0.15,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.15,
+     0.0,
+     -0.45,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.45,
+     0.6,
+     0.65,
+     0.0,
+     0.45,
+     0.55,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "avg_confidence": 0.8276315789473684,
+    "confidence": [
+     0.6,
+     0.75,
+     0.75,
+     0.75,
+     1.0,
+     1.0,
+     0.6,
+     1.0,
+     0.6,
+     1.0,
+     0.6,
+     1.0,
+     0.75,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     0.4,
+     1.0,
+     0.6,
+     0.4,
+     0.75,
+     0.75,
+     0.85,
+     1.0,
+     0.75,
+     0.75,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     1.0,
+     0.4,
+     0.4,
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  }
+ ],
+ "CEG_Q2_2024": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2024-08-06 10:00:00"
+  }
+ ],
+ "CEG_Q2_2023": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2023-08-06 10:00:00"
+  }
+ ],
+ "CEG_Q2_2022": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2022-08-04 00:00:00"
+  }
+ ],
+ "CEG_Q2_2021": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2020": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2019": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2018": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2017": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2016": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2015": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2014": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2013": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2012": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q2_2011": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2011-08-03 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.2113636363636364,
+    "sentiment_score": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.65,
+     0.45,
+     -0.45,
+     -0.45,
+     0.15,
+     1.0,
+     0.55,
+     0.65,
+     0.05,
+     0.0,
+     0.0,
+     0.55,
+     0.0,
+     0.0,
+     0.0,
+     0.05,
+     1.0,
+     0.45
+    ],
+    "avg_confidence": 0.6590909090909091,
+    "confidence": [
+     0.4,
+     0.4,
+     0.8,
+     0.6,
+     0.75,
+     0.75,
+     0.75,
+     0.75,
+     0.6,
+     0.8,
+     0.75,
+     0.85,
+     0.6,
+     0.4,
+     0.8,
+     0.75,
+     1.0,
+     0.4,
+     0.6,
+     0.6,
+     0.4,
+     0.75
+    ]
+   }
+  }
+ ],
+ "CEG_Q2_2010": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2010-07-28 08:00:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.29,
+    "sentiment_score": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.65,
+     0.85,
+     1.0,
+     0.0,
+     0.0,
+     0.85,
+     0.6,
+     0.0,
+     0.55,
+     0.0,
+     0.65,
+     0.0,
+     0.0,
+     0.55,
+     0.0,
+     0.0,
+     0.0,
+     0.55,
+     0.0,
+     1.0,
+     0.0
+    ],
+    "avg_confidence": 0.8440000000000001,
+    "confidence": [
+     0.4,
+     0.4,
+     1.0,
+     1.0,
+     0.85,
+     0.9,
+     0.6,
+     1.0,
+     1.0,
+     0.9,
+     0.75,
+     1.0,
+     0.75,
+     1.0,
+     0.85,
+     1.0,
+     0.6,
+     0.75,
+     1.0,
+     1.0,
+     1.0,
+     0.75,
+     0.8,
+     0.8,
+     1.0
+    ]
+   }
+  }
+ ],
+ "CEG_Q1_2024": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2024-05-09 10:00:00"
+  }
+ ],
+ "CEG_Q1_2023": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2023-05-05 10:00:00"
+  }
+ ],
+ "CEG_Q1_2022": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2022-05-12 00:00:00"
+  }
+ ],
+ "CEG_Q1_2021": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2020": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2019": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2018": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2017": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2016": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2015": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2014": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2013": [
+  {
+   "CEO": [
+    "Christopher M. Crane"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2012": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  }
+ ],
+ "CEG_Q1_2011": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2011-05-06 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.03888888888888889,
+    "sentiment_score": [
+     0.0,
+     0.0,
+     0.15,
+     0.45,
+     0.0,
+     0.0,
+     -0.35,
+     0.0,
+     0.05,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     -1.0,
+     0.0,
+     0.0,
+     0.65,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     -0.45,
+     0.0,
+     0.55
+    ],
+    "avg_confidence": 0.8203703703703703,
+    "confidence": [
+     0.6,
+     1.0,
+     0.75,
+     0.75,
+     1.0,
+     1.0,
+     0.75,
+     1.0,
+     0.75,
+     1.0,
+     0.8,
+     0.6,
+     1.0,
+     0.4,
+     0.8,
+     0.4,
+     0.6,
+     1.0,
+     1.0,
+     0.85,
+     1.0,
+     0.6,
+     1.0,
+     1.0,
+     0.75,
+     1.0,
+     0.75
+    ]
+   }
+  }
+ ],
+ "CEG_Q1_2010": [
+  {
+   "CEO": [
+    "Mayo A. Shattuck III"
+   ]
+  },
+  {
+   "CFO": [
+    "Jonathan W. Thayer"
+   ]
+  },
+  {
+   "date": "2010-04-30 08:30:00"
+  },
+  {
+   "Jonathan W. Thayer": {
+    "avg_sentiment_score": 0.3547619047619048,
+    "sentiment_score": [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     0.55,
+     0.0,
+     0.0,
+     -0.15,
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     1.0,
+     0.0,
+     1.0,
+     0.0,
+     0.45,
+     0.0,
+     0.6
+    ],
+    "avg_confidence": 0.6571428571428573,
+    "confidence": [
+     0.6,
+     0.8,
+     1.0,
+     0.4,
+     0.4,
+     0.4,
+     0.75,
+     1.0,
+     0.4,
+     0.75,
+     0.4,
+     1.0,
+     1.0,
+     0.4,
+     0.4,
+     0.4,
+     0.4,
+     0.8,
+     0.75,
+     1.0,
+     0.75
+    ]
+   }
+  }
+ ]
+}
