@@ -124,7 +124,33 @@ if __name__ == '__main__':
     #     # 'WEC',                  # done
     #     # 'XEL'                   # done
     # ]
-    sp500 = []
+    sp500 = [
+        # "ADM",                  # done
+        "BF.B",
+        "BG",
+        "CAG",
+        "CHD",
+        "CL",
+        "CLX",
+        "COST",
+        "CPB",
+        "DG",
+        "DLTR",
+        "EL",
+        "GIS",
+        "HRL",
+        "HSY",
+        "K",
+        "KDP",
+        "KHC",
+        "KMB",
+        "KO",
+        "KR",
+        "KVUE",
+        "LW",
+        "MDLZ",
+        "MKC"
+    ]
     others = ['Executives', 'Operator', 'Analysts']
     for c in sp500:
         for y in years:
