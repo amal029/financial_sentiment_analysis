@@ -6,41 +6,48 @@ import requests
 def main():
     years = list(range(2010, 2025))
     quarters = list(range(1, 5))
-    utilities = [
-        # 'AEE',                  # done
-        # 'AEP',                  # done
-        # 'AES',                  # done
-        # 'ATO',                  # done
-        # 'AWK',                  # done
-        # 'CEG',                  # done
-        # 'CMS',                  # done
-        # 'CNP',                  # done
-        # 'D',                    # done
-        # 'DTE',                  # done
-        # 'DUK',                  # done
-        # 'ED',                   # done
-        # 'EIX',                  # done
-        # 'ES',                   # done
-        # 'ETR',                  # done
-        # 'EVRG',                 # done
-        # 'EXC',                  # done
-        # 'FE',                   # done
-        # 'LNT',                  # done
-        # 'NEE',                  # done
-        # 'NI',                   # done
-        # 'NRG',                  # done
-        # 'PCG',                  # done
-        # 'PEG',                  # done
-        # 'PNW',                  # done
-        # 'PPL',                  # done
-        # 'SO',                   # done
-        # 'SRE',                  # done
-        # 'VST',                  # done
-        # 'WEC',                  # done
-        # 'XEL'                   # done
+    consumer_staples = [
+        # "ADM",                  # done
+        # "BF.B",                 # done
+        # "BG",                   # done
+        # "CAG",                  # done
+        # "CHD",                  # done
+        # "CL",                   # done
+        # "CLX",                  # done
+        # "COST",                 # done
+        # "CPB",                  # done
+        # "DG",                   # done
+        # "DLTR",                 # done
+        # "EL",                   # done
+        # "GIS",                  # done
+        # "HRL",                  # done
+        # "HSY",                  # done
+        # "K",                    # done
+        # "KDP",                  # done
+        "KHC",
+        "KMB",
+        "KO",
+        # "KR",
+        # "KVUE",
+        # "LW",
+        # "MDLZ",
+        # "MKC",
+        # "MNST",
+        # "MO",
+        # "PEP",
+        # "PG",
+        # "PM",
+        # "SJM",
+        # "STZ",
+        # "SYY",
+        # "TAP",
+        # "TGT",
+        # "TSN",
+        # "WBA",
+        # "WMT"
     ]
     prolouge = "https://discountingcashflows.com/api/transcript/"
-    for c in utilities:
+    for c in consumer_staples:
         for y in years:
             for q in quarters:
                 try:
