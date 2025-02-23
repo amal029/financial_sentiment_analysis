@@ -24,10 +24,10 @@ def main():
         # "HSY",                  # done
         # "K",                    # done
         # "KDP",                  # done
-        "KHC",
-        "KMB",
-        "KO",
-        # "KR",
+        # "KHC",                  # done
+        # "KMB",                  # done
+        # "KO",                   # done
+        # "KR",                   # done
         # "KVUE",
         # "LW",
         # "MDLZ",
