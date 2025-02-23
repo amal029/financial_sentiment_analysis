@@ -92,37 +92,37 @@ if __name__ == '__main__':
     ]
     # XXX: Fill this in with the new company names
     # utilties_done = [
-    #     # 'AEE',                  # done
-    #     # 'AEP',                  # done
-    #     # 'AES',                  # done
-    #     # 'ATO',                  # done
-    #     # 'AWK',                  # done
-    #     # 'CEG',                  # done
-    #     # 'CMS',                  # done
-    #     # 'CNP',                  # done
-    #     # 'D',                    # done
-    #     # 'DTE',                  # done
-    #     # 'DUK',                  # done
-    #     # 'ED',                   # done
-    #     # 'EIX',                  # done
-    #     # 'ES',                   # done
-    #     # 'ETR',                  # done
-    #     # 'EVRG',                 # done
-    #     # 'EXC',                  # done
-    #     # 'FE',                   # done
-    #     # 'LNT',                  # done
-    #     # 'NEE',                  # done
-    #     # 'NI',                   # done
-    #     # 'NRG',                  # done
-    #     # 'PCG',                  # done
-    #     # 'PEG',                  # done
-    #     # 'PNW',                  # done
-    #     # 'PPL',                  # done
-    #     # 'SO',                   # done
-    #     # 'SRE',                  # done
-    #     # 'VST',                  # done
-    #     # 'WEC',                  # done
-    #     # 'XEL'                   # done
+    #     'AEE',                  # done
+    #     'AEP',                  # done
+    #     'AES',                  # done
+    #     'ATO',                  # done
+    #     'AWK',                  # done
+    #     'CEG',                  # done
+    #     'CMS',                  # done
+    #     'CNP',                  # done
+    #     'D',                    # done
+    #     'DTE',                  # done
+    #     'DUK',                  # done
+    #     'ED',                   # done
+    #     'EIX',                  # done
+    #     'ES',                   # done
+    #     'ETR',                  # done
+    #     'EVRG',                 # done
+    #     'EXC',                  # done
+    #     'FE',                   # done
+    #     'LNT',                  # done
+    #     'NEE',                  # done
+    #     'NI',                   # done
+    #     'NRG',                  # done
+    #     'PCG',                  # done
+    #     'PEG',                  # done
+    #     'PNW',                  # done
+    #     'PPL',                  # done
+    #     'SO',                   # done
+    #     'SRE',                  # done
+    #     'VST',                  # done
+    #     'WEC',                  # done
+    #     'XEL'                   # done
     # ]
     sp500 = [
         # "ADM",                  # done
