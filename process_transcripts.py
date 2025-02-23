@@ -154,6 +154,7 @@ if __name__ == '__main__':
         "MO",
         "PEP",
         "PG",
+        "PM"
     ]
     others = ['Executives', 'Operator', 'Analysts']
     for c in sp500:
