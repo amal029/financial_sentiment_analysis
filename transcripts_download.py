@@ -32,7 +32,7 @@ def main():
         # "LW",                   # done
         # "MDLZ",                 # done
         # "MKC",                  # done
-        # "MNST",
+        "MNST",
         # "MO",
         # "PEP",
         # "PG",
