@@ -28,8 +28,8 @@ def main():
         # "KMB",                  # done
         # "KO",                   # done
         # "KR",                   # done
-        # "KVUE",
-        # "LW",
+        # "KVUE",                 # done
+        "LW",
         # "MDLZ",
         # "MKC",
         # "MNST",
