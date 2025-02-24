@@ -126,10 +126,10 @@ if __name__ == '__main__':
     # ]
     sp500 = [
         # "ADM",                  # done
-        "BF.B",
-        "BG",
-        "CAG",
-        "CHD",
+        # "BF.B",                 # done
+        # "BG",                   # done
+        # "CAG",                  # done
+        # "CHD",                  # done
         "CL",
         "CLX",
         "COST",
@@ -154,7 +154,16 @@ if __name__ == '__main__':
         "MO",
         "PEP",
         "PG",
-        "PM"
+        "PM",
+        "SJM",
+        "STZ",
+        "SYY",
+        "TAP",
+        "TGT",
+        "TSN",
+        "WBA",
+        "WMT"
+
     ]
     others = ['Executives', 'Operator', 'Analysts']
     for c in sp500:

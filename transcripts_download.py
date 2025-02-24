@@ -37,14 +37,14 @@ def main():
         # "PEP",                  # done
         # "PG",                   # done
         # "PM",                   # done
-        # "SJM",
-        # "STZ",
-        # "SYY",
-        # "TAP",
-        # "TGT",
-        # "TSN",
-        # "WBA",
-        # "WMT"
+        # "SJM",                  # done
+        # "STZ",                  # done
+        # "SYY",                  # done
+        # "TAP",                  # done
+        # "TGT",                  # done
+        # "TSN",                  # done
+        # "WBA",                  # done
+        # "WMT"                   # done
     ]
     prolouge = "https://discountingcashflows.com/api/transcript/"
     for c in consumer_staples:
