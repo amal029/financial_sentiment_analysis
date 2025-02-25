@@ -107,3 +107,4 @@ if __name__ == '__main__':
         # XXX: Write the done company name to done.csv
         with open('./done.csv', 'a') as f:
             f.write(c+'\n')
+        print('Processed and wrote: ', c)
