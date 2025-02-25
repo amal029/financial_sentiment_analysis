@@ -102,3 +102,8 @@ if __name__ == '__main__':
                 with open('./transcript_scores/%s_Q%s_%s.json'
                           % (c, q, y), 'w') as f:
                     json.dump(senscore, f)
+        # XXX: Append to the done company list too
+        done_df.append(c)
+        # XXX: Write the done company name to done.csv
+        with open('./done.csv', 'a') as f:
+            f.write(c+'\n')
