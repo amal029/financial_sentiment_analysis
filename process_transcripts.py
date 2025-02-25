@@ -3,7 +3,8 @@
 import json
 from ollama import chat
 import re
-# from ollama import ChatResponse
+import transcripts_download as TD
+import pandas as pd
 
 
 def get_sentiment(person, text):
@@ -83,90 +84,17 @@ def process(f, others):
 if __name__ == '__main__':
     years = list(range(2010, 2025))
     quarters = list(range(1, 5))
-    all_done = [
-        # 'TSLA','NVDA', 'NFLX', 'AMD', 'INTC', 'JNJ',
-        # 'GOOG', 'META', 'MSFT', 'AMZN','ZION','APA', 'BKR', 'COP',
-        # 'CVX', 'XOM', 'HAL', 'IBM', 'CTRA', 'DVN', 'EOG', 'EQT', 'FANG',
-        # 'HES', 'KMI', 'MPC', 'AAPL', 'ABT',
-        # 'OKE', 'OXY', 'PSX', 'SLB', 'TPL', 'TRGP', 'VLO', 'WMB'
-    ]
-    # XXX: Fill this in with the new company names
-    # utilties_done = [
-    #     'AEE',                  # done
-    #     'AEP',                  # done
-    #     'AES',                  # done
-    #     'ATO',                  # done
-    #     'AWK',                  # done
-    #     'CEG',                  # done
-    #     'CMS',                  # done
-    #     'CNP',                  # done
-    #     'D',                    # done
-    #     'DTE',                  # done
-    #     'DUK',                  # done
-    #     'ED',                   # done
-    #     'EIX',                  # done
-    #     'ES',                   # done
-    #     'ETR',                  # done
-    #     'EVRG',                 # done
-    #     'EXC',                  # done
-    #     'FE',                   # done
-    #     'LNT',                  # done
-    #     'NEE',                  # done
-    #     'NI',                   # done
-    #     'NRG',                  # done
-    #     'PCG',                  # done
-    #     'PEG',                  # done
-    #     'PNW',                  # done
-    #     'PPL',                  # done
-    #     'SO',                   # done
-    #     'SRE',                  # done
-    #     'VST',                  # done
-    #     'WEC',                  # done
-    #     'XEL'                   # done
-    # ]
-    sp500 = [
-        # "ADM",                  # done
-        # "BF.B",                 # done
-        # "BG",                   # done
-        # "CAG",                  # done
-        # "CHD",                  # done
-        "CL",
-        "CLX",
-        "COST",
-        "CPB",
-        "DG",
-        "DLTR",
-        "EL",
-        "GIS",
-        "HRL",
-        "HSY",
-        "K",
-        "KDP",
-        "KHC",
-        "KMB",
-        "KO",
-        "KR",
-        "KVUE",
-        "LW",
-        "MDLZ",
-        "MKC",
-        "MNST",
-        "MO",
-        "PEP",
-        "PG",
-        "PM",
-        "SJM",
-        "STZ",
-        "SYY",
-        "TAP",
-        "TGT",
-        "TSN",
-        "WBA",
-        "WMT"
-
-    ]
+    # XXX: The companies that are done
+    done_df = [x.strip() for x in list(pd.read_csv('done.csv')['Companies'])]
+    sp500 = [x.strip() for x in list(pd.read_csv('sp500.csv')['Symbol'])]
     others = ['Executives', 'Operator', 'Analysts']
     for c in sp500:
+        if c in done_df:
+            print('Already Done: ', c)
+            continue
+        # XXX: First download the transcript
+        TD.main(c)
+        # XXX: Now process the downloaded files
         for y in years:
             for q in quarters:
                 senscore = process(
