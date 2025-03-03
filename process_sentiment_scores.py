@@ -99,7 +99,8 @@ def main(ff='./transcript_scores/'):
                             no_matches[fname].append((persons +
                                                       '!='+cc[0] +
                                                       ' '+cc[-1]))
-                            # XXX: Always append the date                        if (firstName and lastName):
+                            # XXX: Always append the date
+                        if (firstName and lastName):
                             append_sentiments(all_matches, fname, cf, persons,
                                               sentiments)
                             # XXX: We found our guy!
@@ -128,7 +129,6 @@ def main(ff='./transcript_scores/'):
 
 def process_exec_dataset(ff='./transcript_scores/',
                          ff1='./ceo_cfo_dataset.csv'):
-    toret = []
     # XXX: First go through the directory and get all the company names
     # that have been processed.
     onlyfiles = [f for f in listdir(ff) if isfile(join(ff, f))]
@@ -141,49 +141,61 @@ def process_exec_dataset(ff='./transcript_scores/',
     # XXX: Now start processing the files one after then another for CEO
     # and CFO information.
     df = pd.read_csv(ff1)
-    print(df.info())
+    # print(df.info())
 
-    for c in companies:
-        print("Processing company: ", c)
-        # XXX: First get the company from the database
-        for f in onlyfiles:
-            # XXX: process each file in the ticker
-            fname = f.split('.')[0]
-            fyear = int(fname.split('_')[-1])
-            # fquarter = fname.split('_')[1]
-            # XXX: Get the data for this year
-            print('processing year: ', fyear)
-            dfc = df[(df['ticker'] == c) & (df['year'] == fyear)]
-            # XXX: Now get the names of the different people
-            full_name = list(set(df['exec_fullname']))
-            # XXX: Only if we have something do we process it
-            for full_name in set(dfc['exec_fullname']):
-                # XXX: Get the first name and last name separately
-                dfcf = dfc['exec_fullname']
-                fname = dfcf['exec_fname']
-                lname = dfcf['exec_lname']
-                title = dfcf['title']
-                # XXX: Now check if this person was on the call
-                firstName = re.search(cc[0], persons, re.IGNORECASE)
-                lastName = re.search(cc[-1], persons, re.IGNORECASE)
+    done = False
+    for f in onlyfiles:
+        # XXX: Open the JSON file for reading
+        with open(('%s%s' % (ff, f)), 'rb') as fd:
+            sentiments = json.load(fd)
+        # XXX: Continue if the file is empty
+        if sentiments == {}:
+            continue
 
-                # TODO: Here we go through the JSON dictionary and then
+        # XXX: process each file in the ticker
+        fname = f.split('.json')[0]
+        # XXX: Debugging
+        if not done:
+            print("processing file: ", fname)
+            done = True
+
+        fyear = int(fname.split('_')[-1])
+        dfc = df[(df['ticker'] == fname.split('_')[0]) & (df['year'] == fyear)]
+        # XXX: Now get the names of the different people
+        full_name = list(set(dfc['exec_fullname'].values))
+        # print('all full names %s for year %s' % (full_name, fyear))
+        # assert (False)
+        # XXX: Only if we have something do we process it
+
+        for full_name in dfc['exec_fullname']:
+            # XXX: Get the first name and last name separately
+            # print(full_name)
+            dfcf = dfc[dfc['exec_fullname'] == full_name]
+            fname = str(dfcf['exec_fname'].values[0])
+            lname = str(dfcf['exec_lname'].values[0])
+            title = str(dfcf['title'].values[0])
+            # print('fname: %s, lname: %s, title: %s' % (fname,
+            #                                            lname, title))
+            # XXX: Now check if this person was on the call
+            for persons in sentiments:
+                # print("search %s in %s" % (fname, persons))
+                # print("search %s in %s" % (lname, persons))
+
+                try:
+                    firstName = re.search(fname, persons, re.IGNORECASE)
+                    lastName = re.search(lname, persons, re.IGNORECASE)
+                except Exception:
+                    firstName = False
+                    lastName = False
                 # check if the name matches to any one in the file.
-                if (firstName and lastName):
-                    append_sentiments(all_matches, fname, cf, persons,
-                                      sentiments)
-                    # XXX: We found our guy!
-                elif lastName:
-                    # XXX: We hope this is our guy!
-                    append_sentiments(all_matches, fname, cf, persons,
-                                      sentiments)
-                else:
-                    # XXX: Just write the data to a file to
-                    # check later on
-                    no_matches[fname].append((persons +
-                                              '!='+cc[0] +
-                                              ' '+cc[-1]))
-                    # XXX: Always append the date
+                if (firstName and lastName) or (lastName):
+                    sentiments[persons]['title'] = title
+                    break
+
+            # XXX: Write the json file with the title etc into a new file
+            with open('./transcripts_processed/%s' % f, 'w') as fd:
+                json.dump(sentiments, fp=fd, indent=1)
+            done = False
 
 
 def sentiment_plot():
