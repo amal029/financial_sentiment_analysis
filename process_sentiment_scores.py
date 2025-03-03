@@ -17,13 +17,13 @@ def append_sentiments(am, fname, cf, persons, sentiments):
         k = kdict[0]
         for x in sentiments[persons]['sentiment_score']:
             k[cf]['sentiment_score'].append(x)
-        avss = (sum(k[cf]['sentiment_score']) /
-                len(k[cf]['sentiment_score']))
+            avss = (sum(k[cf]['sentiment_score']) /
+                    len(k[cf]['sentiment_score']))
         for x in sentiments[persons]['confidence']:
             k[cf]['confidence'].append(x)
-        avcs = (sum(k[cf]['confidence']) / len(k[cf]['confidence']))
-        k[cf]['avg_sentiment_score'] = avss
-        k[cf]['avg_confidence'] = avcs
+            avcs = (sum(k[cf]['confidence']) / len(k[cf]['confidence']))
+            k[cf]['avg_sentiment_score'] = avss
+            k[cf]['avg_confidence'] = avcs
     else:
         am[fname].append({cf: sentiments[persons]})
 
@@ -99,17 +99,91 @@ def main(ff='./transcript_scores/'):
                             no_matches[fname].append((persons +
                                                       '!='+cc[0] +
                                                       ' '+cc[-1]))
-                        # XXX: Always append the date
-            # print(no_matches)
+                            # XXX: Always append the date                        if (firstName and lastName):
+                            append_sentiments(all_matches, fname, cf, persons,
+                                              sentiments)
+                            # XXX: We found our guy!
+                        elif lastName:
+                            # XXX: We hope this is our guy!
+                            append_sentiments(all_matches, fname, cf, persons,
+                                              sentiments)
+                        else:
+                            # XXX: Just write the data to a file to
+                            # check later on
+                            no_matches[fname].append((persons +
+                                                      '!='+cc[0] +
+                                                      ' '+cc[-1]))
+                            # XXX: Always append the date
+                            # print(no_matches)
 
         # XXX: Print all the mathces for all the files for a given
         # company
         with open('%s%s_processed.json' % ('./transcripts_processed/', c),
                   'w') as fd:
             json.dump(all_matches, fp=fd, indent=1)
-        toret.append(c)
-        # assert (False)
+            toret.append(c)
+            # assert (False)
     return toret
+
+
+def process_exec_dataset(ff='./transcript_scores/',
+                         ff1='./ceo_cfo_dataset.csv'):
+    toret = []
+    # XXX: First go through the directory and get all the company names
+    # that have been processed.
+    onlyfiles = [f for f in listdir(ff) if isfile(join(ff, f))]
+    onlyfiles.sort(reverse=True)      # sorted to make things faster
+    # XXX: Get just the company name from the file
+    companies = [c.split('_')[0] for c in onlyfiles]
+    companies = list(set(companies))
+    # XXX: Sort them alphabetically
+    companies.sort(reverse=True)
+    # XXX: Now start processing the files one after then another for CEO
+    # and CFO information.
+    df = pd.read_csv(ff1)
+    print(df.info())
+
+    for c in companies:
+        print("Processing company: ", c)
+        # XXX: First get the company from the database
+        for f in onlyfiles:
+            # XXX: process each file in the ticker
+            fname = f.split('.')[0]
+            fyear = int(fname.split('_')[-1])
+            # fquarter = fname.split('_')[1]
+            # XXX: Get the data for this year
+            print('processing year: ', fyear)
+            dfc = df[(df['ticker'] == c) & (df['year'] == fyear)]
+            # XXX: Now get the names of the different people
+            full_name = list(set(df['exec_fullname']))
+            # XXX: Only if we have something do we process it
+            for full_name in set(dfc['exec_fullname']):
+                # XXX: Get the first name and last name separately
+                dfcf = dfc['exec_fullname']
+                fname = dfcf['exec_fname']
+                lname = dfcf['exec_lname']
+                title = dfcf['title']
+                # XXX: Now check if this person was on the call
+                firstName = re.search(cc[0], persons, re.IGNORECASE)
+                lastName = re.search(cc[-1], persons, re.IGNORECASE)
+
+                # TODO: Here we go through the JSON dictionary and then
+                # check if the name matches to any one in the file.
+                if (firstName and lastName):
+                    append_sentiments(all_matches, fname, cf, persons,
+                                      sentiments)
+                    # XXX: We found our guy!
+                elif lastName:
+                    # XXX: We hope this is our guy!
+                    append_sentiments(all_matches, fname, cf, persons,
+                                      sentiments)
+                else:
+                    # XXX: Just write the data to a file to
+                    # check later on
+                    no_matches[fname].append((persons +
+                                              '!='+cc[0] +
+                                              ' '+cc[-1]))
+                    # XXX: Always append the date
 
 
 def sentiment_plot():
@@ -163,11 +237,14 @@ def sentiment_plot():
 
 
 if __name__ == '__main__':
-    companies = main()
-    with open('./transcripts_processed/companies.csv', 'w') as fd:
-        fd.write('Companies\n')
-        for c in companies:
-            fd.write(c+'\n')
+    # companies = main()
+    # with open('./transcripts_processed/companies.csv', 'w') as fd:
+    #     fd.write('Companies\n')
+    #     for c in companies:
+    #         fd.write(c+'\n')
+
+    # XXX: Processing the large dataset to add titles to the scores
+    process_exec_dataset()
 
     # XXX: Plot the sentiments
     # sentiment_plot()
