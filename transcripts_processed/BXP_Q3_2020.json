@@ -1,0 +1,404 @@
+{
+ "date": "2020-10-28 10:00:00",
+ "Sara Buda": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Owen Thomas ": {
+  "avg_sentiment_score": 0.33,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.45,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Doug Linde ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.45,
+   0.15,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75
+  ],
+  "title": "President & Director"
+ },
+ "Mike LaBelle ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP, Treasurer & CFO"
+ },
+ "Derek Johnston ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Doug Linde": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.8,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.5
+  ]
+ },
+ "Owen Thomas": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.65,
+   -0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "Nick Yulico ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Bilerman ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Alexander Goldfarb ": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steve Sakwa": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Mike LaBelle": {
+  "avg_sentiment_score": 0.18571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Vikram Malhotra": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Blaine Heck": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Ray Ritchey": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   0.85,
+   0.6,
+   0.67
+  ],
+  "title": "Senior Executive Vice President"
+ },
+ "Peter Johnston": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ardie Kamran": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Omotayo Okusanya": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Pester": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Frank Lee": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Powers": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel Ismail": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan Koop": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President of Boston Region"
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "date": "2012-12-20 10:00:00",
+ "Howard S. Frank": {
+  "avg_sentiment_score": 0.18518518518518523,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7703703703703703,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.4
+  ],
+  "title": "Special Adviser"
+ },
+ "David Bernstein": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "CFO & Chief Accounting Officer"
+ },
+ "Robin M. Farley - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Micky M. Arison": {
+  "avg_sentiment_score": 0.04629629629629631,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.45,
+   1.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   -0.45,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7851851851851853,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Beth Roberts": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Felicia R. Hendrix - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory R. Badishkanian - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Harry C. Curtis - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Sharon Zackfia - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven M. Wieczynski - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.6
+  ]
+ },
+ "Timothy A. Conder - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Assia Georgieva": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven E. Kent - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Richard Ellis Lyall - John W. Bristol & Co., Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

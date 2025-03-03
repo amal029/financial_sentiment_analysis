@@ -1,0 +1,349 @@
+{
+ "date": "2010-11-03 08:30:00",
+ "Nancy Christal": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Thomas Ryan": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.85,
+   1.0,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Executive Officer, Chairman and Member of Executive Committee"
+ },
+ "David Denton": {
+  "avg_sentiment_score": 0.07727272727272728,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.05,
+   0.0,
+   -0.55
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Larry Merlo": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7208333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.85
+  ],
+  "title": "Strategic Advisor & Director"
+ },
+ "Per Lofberg": {
+  "avg_sentiment_score": 0.4666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "Meredith Adler": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Thomas Gallucci": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Mark Wiltamuth": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Lawrence Marsh": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Edward Kelly": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Helene Wolk": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "John Heinbockel": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Robert Willoughby": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Mushkin": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Ransom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.8,
+   0.4,
+   0.8
+  ]
+ },
+ "Deborah Weinswig": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Steven Halper": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "date": "2024-05-08 08:30:00",
+ "Edings Thibault": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Gokey": {
+  "avg_sentiment_score": 0.7875,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.8
+  ],
+  "title": "CEO & Director"
+ },
+ "Edmund Reese": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.0,
+   0.85,
+   0.9,
+   0.75
+  ],
+  "title": "VP & CFO"
+ },
+ "Q - David Togut": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Vu": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "End of Q&A": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

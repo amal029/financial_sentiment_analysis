@@ -1,0 +1,225 @@
+{
+ "date": "2017-11-01 13:30:00",
+ "Lisah Burhan - The Clorox Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Stephen M. Robb - The Clorox Co.": {
+  "avg_sentiment_score": 0.12692307692307694,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   -0.35,
+   -0.45,
+   -0.15,
+   -0.15,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7207692307692307,
+  "confidence": [
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Benno O. Dorer - The Clorox Co.": {
+  "avg_sentiment_score": 0.4928571428571429,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.45,
+   0.15,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7607142857142858,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jason English - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.5800000000000001,
+  "confidence": [
+   0.4,
+   0.4,
+   0.85,
+   0.67
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Wendy C. Nicholson - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrea F. Teixeira - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Feeney - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher M. Carey - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.6,
+   0.65
+  ]
+ },
+ "Shirley Serrao - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Jason M. Gere - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

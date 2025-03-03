@@ -1,0 +1,174 @@
+{
+ "date": "2022-08-09 10:00:00",
+ "Kevin Kim": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Hourican": {
+  "avg_sentiment_score": 0.5058823529411764,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.15,
+   0.45,
+   0.85,
+   0.45,
+   0.85,
+   -0.35,
+   0.55,
+   0.05,
+   0.65,
+   0.15,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7852941176470588,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.8
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Aaron Alt": {
+  "avg_sentiment_score": 0.515,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.05,
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.772,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Lauren Silberman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ed Kelly": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mark Carden": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "John Heinbockel": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "John Glass": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Slagle": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jeffrey Bernstein": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

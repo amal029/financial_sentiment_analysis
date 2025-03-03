@@ -1,0 +1,256 @@
+{
+ "date": "2017-10-26 09:00:00",
+ "Unverified Participant": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "Martin J. Barrington - Altria Group, Inc.": {
+  "avg_sentiment_score": 0.1921875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8896875,
+  "confidence": [
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "William F. Gifford - Altria Group, Inc.": {
+  "avg_sentiment_score": -0.01111111111111111,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher R. Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Vivien Azer - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6839999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Adam J. Spielman - Citigroup Global Markets Ltd.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   0.65
+  ]
+ },
+ "Michael S. Lavery - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.67
+  ]
+ },
+ "Matthew C. Grainger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bonnie L. Herzog - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.30625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7775,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Nik Modi - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "date": "2019-02-08 08:30:00",
+ "Debbie Koopman": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Ed Tilly": {
+  "avg_sentiment_score": 0.18421052631578946,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8263157894736842,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Brian Schell": {
+  "avg_sentiment_score": 0.185,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.05,
+   0.45,
+   0.15,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.6849999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Executive VP, CFO & Treasurer"
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.64,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Deters": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Isaacson": {
+  "avg_sentiment_score": 0.8333333333333334,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeremy Campbell": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.4083333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9049999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Norman": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Michael Carrier": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Chris Harris": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ken Hill": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Herbert": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Q \u2013 Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "A \u2013 John Deters": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

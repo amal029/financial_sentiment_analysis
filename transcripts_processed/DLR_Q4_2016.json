@@ -1,0 +1,246 @@
+{
+ "date": "2017-02-16 17:30:00",
+ "John J. Stewart - Digital Realty Trust, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "William Stein - Digital Realty Trust, Inc.": {
+  "avg_sentiment_score": 0.4666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6944444444444444,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Andrew Power - Digital Realty Trust, Inc.": {
+  "avg_sentiment_score": 0.2735294117647059,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.55,
+   0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.45,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7176470588235294,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jonathan Atkin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Peterson - Digital Realty Trust, Inc.": {
+  "avg_sentiment_score": 0.41250000000000003,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "Daniel W. Papes - Digital Realty Trust, Inc.": {
+  "avg_sentiment_score": 0.7375,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4,
+   0.85
+  ]
+ },
+ "Jordan Sadler - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael I. Rollins - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lukas Hartwich - Green Street Advisors, LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Colby Synesael - Cowen and Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Richard Y. Choe - \u200eJ.P. Morgan": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Chao - Deutsche Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Frank Garreth Louthan - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan M. Petersen - Jefferies LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew Heinz - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

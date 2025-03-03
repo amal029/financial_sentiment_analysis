@@ -1,0 +1,281 @@
+{
+ "date": "2015-04-30 08:30:00",
+ "Thomas Robey - Senior Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9466666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Robert D. Marcus - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.446875,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   -0.15,
+   0.15,
+   0.65,
+   1.0,
+   0.15,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.7312499999999998,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.8,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "Arthur T. Minson - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.45,
+   -0.15,
+   0.65,
+   -0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.6849999999999999,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.8,
+   0.75
+  ]
+ },
+ "Craig E. Moffett - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dinesh C. Jain - Chief Operating Officer": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Jessica Jean Reif Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Benjamin Swinburne - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John C. Hodulik - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Philip A. Cusick - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich S. Greenfield - BTIG LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Boisvert Bazinet - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Amy Yong - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas William Eagan - Telsey Advisory Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Marci L. Ryvicker - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael L. McCormack - Jefferies LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Vijay Jayant - Evercore ISI": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   0.68
+  ]
+ }
+}

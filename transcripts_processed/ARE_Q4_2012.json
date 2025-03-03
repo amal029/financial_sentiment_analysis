@@ -1,0 +1,315 @@
+{
+ "date": "2013-02-07 15:00:00",
+ "Rhonda Chiger": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Joel Marcus": {
+  "avg_sentiment_score": 0.22777777777777775,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8583333333333333,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Steve Richardson": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.6,
+   0.45,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75
+  ],
+  "title": "Co-Chief Executive Officer"
+ },
+ "Dean Shigenaga": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8535714285714285,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jamie Feldman \u2013 Bank of America": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter Moglia": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "CEO & Chief Investment Officer"
+ },
+ "Quentin Velleley \u2013 Citi": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sheila McGrath \u2013 Evercore": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "George Auerbach \u2013 ISI Group": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Dave Rodgers \u2013 Robert Baird": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9642857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Theiler \u2013 Green Street Advisors": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Bilerman \u2013 Citi": {
+  "avg_sentiment_score": -0.16999999999999998,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   -0.35,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

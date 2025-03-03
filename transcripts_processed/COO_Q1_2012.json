@@ -1,0 +1,166 @@
+{
+ "date": "2012-03-09 17:00:00",
+ "Kim Duncan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Weiss": {
+  "avg_sentiment_score": 0.4230769230769231,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.45,
+   0.05,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7346153846153847,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President and Non-Independent Director"
+ },
+ "Greg Matz": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Larry Keusch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Johnson": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Steve Willoughby": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Cooley": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew O\u2019Brien": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kim Gailun": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Amit Bhalla": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

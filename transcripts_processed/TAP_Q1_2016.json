@@ -1,0 +1,330 @@
+{
+ "date": "2016-05-03 11:00:00",
+ "Mark R. Hunter - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.1880952380952381,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8911904761904762,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "David Heede - Chief Financial Officer-Europe Region": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ],
+  "title": "Interim Chief Financial Officer"
+ },
+ "Vivien Azer - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stewart F. Glendinning - President & Chief Executive Officer, Molson Coors Canada, Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Vice-Chairman of the Board, Chief Customer Relations Officer, Chairman of Millercoors LLC and Chairman of Coors Brewing Company"
+ },
+ "Judy E. Hong - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Simon Cox - President & CEO-Molson Coors Europe, Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6
+  ]
+ },
+ "Mark Swartzberg - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.2928571428571428,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45,
+   1.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Mauricio Restrepo Pinto - Chief Financial Officer": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Global Chief Financial Officer"
+ },
+ "Pablo Zuanic - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.5,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Gavin Hattersley - Chief Executive Officer, MillerCoors LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Robert E. Ottenstein - Evercore ISI": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Krishnan Anand - President and Chief Executive Officer, Molson Coors International, Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Filippe Goossens - Mitsubishi UFJ Securities (USA), Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.5,
+   1.0,
+   0.4
+  ]
+ },
+ "Brett Cooper - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

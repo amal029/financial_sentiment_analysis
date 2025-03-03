@@ -1,0 +1,295 @@
+{
+ "date": "2013-06-18 17:00:00",
+ "Mike Saviage": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Shantanu Narayen": {
+  "avg_sentiment_score": 0.5043478260869565,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.6,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8086956521739131,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.6,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Mark S. Garrett": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8361111111111111,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Brad A. Zelnick - Macquarie Research": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter L. Goldmacher - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Walter H. Pritchard - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Brent Thill - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Jennifer Swanson Lowe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Steven M. Ashley - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Ross MacMillan - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kash G. Rangan - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.5,
+   0.6
+  ]
+ },
+ "Robert P. Breza - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark L. Moerdler - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Barnicle - Pacific Crest Securities, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer - Griffin Securities, Inc., Research Division": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Stewart Materne - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael J. Olson - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

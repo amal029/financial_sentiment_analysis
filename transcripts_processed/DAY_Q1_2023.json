@@ -1,0 +1,269 @@
+{
+ "date": "2023-05-03 17:00:00",
+ "Matthew Wells": {
+  "avg_sentiment_score": -0.03461538461538462,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9807692307692307,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Ossip": {
+  "avg_sentiment_score": 0.5904761904761905,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.75,
+   0.65,
+   0.65,
+   1.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   1.0,
+   0.65,
+   1.0,
+   0.15,
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7619047619047619,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Leagh Turner": {
+  "avg_sentiment_score": 0.7428571428571429,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.85,
+   1.0,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.4,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Co-CEO & Director"
+ },
+ "Joseph Korngiebel": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Noemie Heuland": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Sitikantha Panigrahi": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mark Marcon": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9
+  ]
+ },
+ "Bhavin Shah": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mark Murphy": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jordan Boretz": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew Pfau": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jared Levine": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Simmons": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Turrin": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Daniel Jester": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

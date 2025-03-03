@@ -1,0 +1,256 @@
+{
+ "date": "2012-01-26 07:00:00",
+ "Mary Kay Ladone": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   0.8,
+   0.9,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert L. Parkinson": {
+  "avg_sentiment_score": 0.38409090909090904,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.6,
+   0.85,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.8113636363636364,
+  "confidence": [
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.6,
+   0.75
+  ]
+ },
+ "Robert J. Hombach": {
+  "avg_sentiment_score": 0.1611111111111111,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.45,
+   0.15,
+   -0.35,
+   0.6,
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7472222222222222,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Corporate Vice President"
+ },
+ "Michael N. Weinstein": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "David R. Lewis": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "David H. Roman": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Frederick A. Wise": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert A. Hopkins": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Norbert G. Riedel": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Lawrence S. Keusch": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8
+  ]
+ },
+ "Kristen M. Stewart": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew S. Miksic": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ }
+}

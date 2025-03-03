@@ -1,0 +1,229 @@
+{
+ "date": "2014-07-31 10:00:00",
+ "Mark Haden": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8
+  ]
+ },
+ "Soren W. Schroder": {
+  "avg_sentiment_score": 0.27631578947368424,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.45,
+   0.45,
+   0.65,
+   0.55,
+   0.55,
+   0.65,
+   -0.15,
+   0.05,
+   0.6,
+   -0.35,
+   0.15,
+   -0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7289473684210526,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.5,
+   0.75,
+   0.6,
+   0.6,
+   0.85
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Andrew J. Burke": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Global Operational Excellence Officer"
+ },
+ "Gordon J. Hardie": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Ann P. Duignan - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.35,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael E. Cox - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Cornell Burnette - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Christine Healy - Scotiabank Global Banking and Markets, Research Division": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "Kenneth B. Zaslow - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Tim J. Tiberio - Miller Tabak + Co., LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

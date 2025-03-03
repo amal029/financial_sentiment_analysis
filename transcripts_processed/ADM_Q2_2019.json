@@ -1,0 +1,167 @@
+{
+ "date": "2019-08-01 09:00:00",
+ "Victoria de la Huerga": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Juan Luciano": {
+  "avg_sentiment_score": 0.016666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   -0.45,
+   -0.45,
+   0.45,
+   -0.45,
+   0.65,
+   -1.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Ray Young": {
+  "avg_sentiment_score": -0.024999999999999984,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.35,
+   -0.35,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice-Chairman"
+ },
+ "Heather Jones": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Eric Larson": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas Simonitsch": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kenneth Zaslow": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Piken": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

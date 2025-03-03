@@ -1,0 +1,217 @@
+{
+ "date": "2023-01-25 08:30:00",
+ "Danyal Hussain": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Maria Black": {
+  "avg_sentiment_score": 0.4346153846153846,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.75,
+   0.75,
+   0.55,
+   0.15,
+   -0.15,
+   0.55,
+   0.15,
+   0.75,
+   0.45,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.7730769230769231,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.9
+  ],
+  "title": "President, CEO & DIrector"
+ },
+ "Don McGuire": {
+  "avg_sentiment_score": 0.21363636363636365,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.55,
+   0.45,
+   0.45,
+   0.35,
+   -0.45,
+   -0.15,
+   0.55,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7363636363636363,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eugene Simuni": {
+  "avg_sentiment_score": 0.7666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0
+  ]
+ },
+ "James Faucette": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Mark Marcon": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bryan Bergin": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Samad Samana": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Kupferberg": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ }
+}

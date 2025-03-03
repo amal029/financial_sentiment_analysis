@@ -1,0 +1,203 @@
+{
+ "date": "2021-04-20 08:30:00",
+ "Jon Moeller": {
+  "avg_sentiment_score": 0.4394736842105263,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.85,
+   0.45,
+   0.45,
+   -0.35,
+   0.05,
+   0.65,
+   1.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7542105263157894,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.68,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Andre Schulten": {
+  "avg_sentiment_score": 0.3642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   -0.45,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Dara Mohsenian": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Wendy Nicholson": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lauren Lieberman": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason English": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Grundy": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rob Ottenstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrea Teixeira": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kaumil Gajrawala": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Carey": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Astrachan": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jonathan Feeney": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

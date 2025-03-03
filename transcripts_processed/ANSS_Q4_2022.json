@@ -1,0 +1,135 @@
+{
+ "date": "2023-02-23 08:30:00",
+ "Alex Deruta": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Ajei Gopal": {
+  "avg_sentiment_score": 0.6583333333333333,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.05,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.8
+  ]
+ },
+ "Nicole Anasenes": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   0.65,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.5,
+   0.6,
+   0.85
+  ],
+  "title": "CFO & Senior VP of finance"
+ },
+ "Ken Wong": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Joseph Vruwink": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Senior VP, General Counsel & Secretary"
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "Saket Kalia": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Tyler Radke": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

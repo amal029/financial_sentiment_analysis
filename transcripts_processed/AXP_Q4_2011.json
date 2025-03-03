@@ -1,0 +1,216 @@
+{
+ "date": "2012-01-19 17:00:00",
+ "Rick Petrino": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Daniel T. Henry": {
+  "avg_sentiment_score": 0.19655172413793104,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   -0.15,
+   0.65,
+   0.05,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   1.0,
+   -0.15,
+   -0.15,
+   0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.696551724137931,
+  "confidence": [
+   0.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.8,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Financial Officer, Executive Vice President and Chairman of Asset-Liability Committee"
+ },
+ "Richard B. Shane - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Kwok - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Craig J. Maurer - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert P. Napoli - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Mark C. DeVries - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ryan M. Nash - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Marc Lombardo - Meredith Whitney Advisory Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Brendler - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bradley G. Ball - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Scott Valentin - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ }
+}

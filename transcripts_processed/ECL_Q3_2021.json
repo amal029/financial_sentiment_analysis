@@ -1,0 +1,344 @@
+{
+ "date": "2021-10-26 13:00:00",
+ "Michael Monahan": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Christophe Beck ": {
+  "avg_sentiment_score": 0.44047619047619047,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.75,
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   1.0,
+   0.55,
+   0.65,
+   1.0,
+   0.75,
+   0.45,
+   0.85,
+   0.75,
+   0.0,
+   0.55,
+   0.15,
+   0.05,
+   0.0,
+   0.85,
+   0.15,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.8564285714285714,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.67,
+   0.9,
+   0.85,
+   0.65,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Tim Mulrooney ": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Manav Patnaik ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Begleiter": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Begleiter ": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "John P. Mc Nulty ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christophe Beck": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Parkinson": {
+  "avg_sentiment_score": 0.7999999999999999,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "John Roberts ": {
+  "avg_sentiment_score": -0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "John Roberts": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gary Bisbee ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Vincent Andrews": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Daniel Rizzo": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Eric Petrie ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Kevin Mc Carthy ": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rosemarie Morbelli ": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Schneeberger": {
+  "avg_sentiment_score": 0.8833333333333333,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ }
+}

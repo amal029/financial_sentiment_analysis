@@ -1,0 +1,173 @@
+{
+ "date": "2015-07-30 08:30:00",
+ "Jon R. Moeller - Chief Financial Officer": {
+  "avg_sentiment_score": 0.24545454545454548,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.15,
+   -0.35,
+   0.65,
+   0.05,
+   0.55,
+   0.05,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7545454545454546,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Alan G. Lafley - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.33076923076923076,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7230769230769231,
+  "confidence": [
+   0.6,
+   0.85,
+   0.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Executive Chairman and Member of Proxy Committee"
+ },
+ "John A. Faucher - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dara W. Mohsenian - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Christopher Ferrara - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.48333333333333334,
+  "sentiment_score": [
+   -1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

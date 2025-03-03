@@ -1,0 +1,248 @@
+{
+ "date": "2011-04-21 09:00:00",
+ "Nicholas Rolli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Hermann Waldemer": {
+  "avg_sentiment_score": 0.17857142857142858,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   -0.15,
+   1.0,
+   0.45,
+   -0.15,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   -1.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   -0.35,
+   0.05,
+   0.45,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7494285714285714,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.5,
+   0.6,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   0.75,
+   0.68,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Judy Hong - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Adelman - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Jonathan Fell - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christine Farkas - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.794,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Leinster - UBS Investment Bank": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7716666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Rogerio Fujimori - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vivien Azer - Citigroup Inc": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Rey Wium - Renaissance BJM": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.45,
+   0.75
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Thomas Russo - Gardner Russo": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,386 @@
+{
+ "date": "2018-06-07 08:30:00",
+ "Aaron Broholm": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Smucker": {
+  "avg_sentiment_score": 0.4722222222222222,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.65,
+   0.15,
+   0.85,
+   0.15,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "CEO, President & Chairman"
+ },
+ "Mark Belgya": {
+  "avg_sentiment_score": 0.24400000000000002,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.15,
+   0.15,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.45,
+   0.6
+  ],
+  "avg_confidence": 0.736,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "Andrew Lazar ": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Growe ": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Driscoll": {
+  "avg_sentiment_score": 0.033333333333333326,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Stanziano": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.35,
+   0.75,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Kenneth Goldman": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Dave Lemmon": {
+  "avg_sentiment_score": 0.41875,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "President of Canada & International and U.S. Away From Home"
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Barry Dunaway": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85
+  ]
+ },
+ "Pablo Zuanic": {
+  "avg_sentiment_score": -0.012499999999999997,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Belgya ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Smucker ": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Scott Mushkin": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Farha Aslam": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   0.6
+  ]
+ },
+ "Tina Floyd": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Akshay Jagdale": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jason English ": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Baumgartner": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Rob Dickerson ": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Pamela Kaufman": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Holland": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

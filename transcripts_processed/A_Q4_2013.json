@@ -1,0 +1,439 @@
+{
+ "date": "2013-11-14 16:30:00",
+ "Alicia Rodriguez": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Bill Sullivan": {
+  "avg_sentiment_score": 0.20714285714285716,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8934285714285715,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.67
+  ],
+  "title": "Senior Advisor"
+ },
+ "Ron Nersesian": {
+  "avg_sentiment_score": 0.4727272727272727,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.4,
+   0.9,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President, Chief Executive Officer of Electronic Measurement Group, Chief Executive Officer of Keysight Technologies Inc, President of Electronic Measurement Group and President of Keysight Technologies Inc"
+ },
+ "Didier Hirsch": {
+  "avg_sentiment_score": 0.10909090909090909,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   -1.0,
+   0.0,
+   0.6,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7981818181818181,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   0.8,
+   0.68,
+   1.0,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Tycho Peterson - JPMorgan": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Lars Holmkvist": {
+  "avg_sentiment_score": 0.6041666666666666,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.85,
+   0.45,
+   1.0,
+   0.0,
+   0.75,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.8291666666666666,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   0.8,
+   0.75
+  ],
+  "title": "Senior Vice President and President of Diagnostics & Genomics Group"
+ },
+ "Brandon Couillard - Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel Brennan - Morgan Stanley": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Ross Muken - ISI Group": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike McMullen": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Jon Groberg - Macquarie": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Doug Schenkel - Cowen and Company": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.67
+  ]
+ },
+ "Isaac Ro - Goldman Sachs": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Anthony Butler - Barclays Capital": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7725,
+  "confidence": [
+   0.75,
+   0.67,
+   0.67,
+   1.0
+  ]
+ },
+ "Paul Knight - Janney Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Arias - UBS": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Bhalla - Citi Group": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Newton - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7616666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Derik de Bruin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

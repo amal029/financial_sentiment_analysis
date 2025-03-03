@@ -1,0 +1,186 @@
+{
+ "date": "2015-05-20 17:00:00",
+ "John Cummings - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Marc Russell Benioff - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.8685714285714285,
+  "sentiment_score": [
+   0.98,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9135714285714286,
+  "confidence": [
+   0.995,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Keith G. Block - Vice Chairman & President": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "Advisor to the Chief Executive Officer"
+ },
+ "Mark J. Hawkins - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.95,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   0.9
+  ],
+  "title": "Chief Financial Officer Emeritus"
+ },
+ "Kasthuri G. Rangan - Merrill Lynch, Pierce, Fenner & Smith, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jason A. Maynard - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ross MacMillan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brent J. Thill - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Heather A. Bellini - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "S. Kirk Materne - Evercore Group LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Keith E. Weiss - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve M. Ashley - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sarah Hindlian - Brean Capital LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Raimo Lenschow - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

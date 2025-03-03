@@ -1,0 +1,255 @@
+{
+ "date": "2014-01-28 09:00:00",
+ "Carl Lukach": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ellen Kullman": {
+  "avg_sentiment_score": 0.31086956521739134,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.0,
+   -0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   0.35,
+   0.05,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   -1.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8065217391304348,
+  "confidence": [
+   0.6,
+   0.9,
+   0.9,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Nick Fanandakis": {
+  "avg_sentiment_score": 0.48,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.55,
+   1.0,
+   1.0,
+   0.75,
+   -0.35,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "P.J. Juvekar - Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeff Zekauskas \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jeff Zekauskas - JPMorgan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Don Carson - Susquehanna Financial": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David Begleiter - Deutsche Bank": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Koort - Goldman Sachs": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Roberts \u2013 UBS": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Kevin McCarthy - Bank of America": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.3,
+  "confidence": [
+   0.6,
+   0.0
+  ]
+ },
+ "Frank Mitch - Wells Fargo": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Laurence Alexander - Jefferies": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Duffy Fischer - Barclays Capital": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Ritzenthaler - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ }
+}

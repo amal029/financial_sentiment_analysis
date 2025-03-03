@@ -1,0 +1,318 @@
+{
+ "date": "2013-02-04 08:30:00",
+ "J. Powell Brown": {
+  "avg_sentiment_score": 0.005555555555555562,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   -1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7597222222222223,
+  "confidence": [
+   0.6,
+   0.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Cory T. Walker": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.35,
+   -0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7275,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   0.4,
+   0.6
+  ],
+  "title": "Executive VP & President of Programs Segment"
+ },
+ "Gregory Locraft - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Sarah DeWitt - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Brett Huff - Stephens Inc., Research Division": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.6
+  ]
+ },
+ "Michael Nannizzi - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew G. Heimermann - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Douglas Mewhirter - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Joshua D. Shanker - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.2785714285714286,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.6214285714285713,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.5,
+   0.4
+  ]
+ },
+ "Meyer Shields - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Adam Klauber - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Raymond Iardella - Macquarie Research": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Mark A. Dwelle - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Justin C. Maurer - Lord, Abbett & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

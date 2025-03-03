@@ -1,0 +1,242 @@
+{
+ "date": "2016-02-25 17:00:00",
+ "John Cummings - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Marc Russell Benioff - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.3642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Keith G. Block - Vice Chairman, President & Chief Operating Officer": {
+  "avg_sentiment_score": 0.478125,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75
+  ],
+  "title": "Advisor to the Chief Executive Officer"
+ },
+ "Mark J. Hawkins - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.7875,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.9,
+   0.9,
+   0.75
+  ],
+  "title": "Chief Financial Officer Emeritus"
+ },
+ "Keith Eric Weiss - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Kash Rangan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Heather Bellini - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steve M. Ashley - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kirk Materne - Evercore": {
+  "avg_sentiment_score": 0.875,
+  "sentiment_score": [
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   0.8
+  ]
+ },
+ "Brent Thill - UBS Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark R. Murphy - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Karl E. Keirstead - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Roderick - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alex Zukin - Stephens, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

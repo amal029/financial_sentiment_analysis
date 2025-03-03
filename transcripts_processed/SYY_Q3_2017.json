@@ -1,0 +1,353 @@
+{
+ "date": "2017-05-08 10:00:00",
+ "Neil A. Russell - Sysco Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "William J. DeLaney - Sysco Corp.": {
+  "avg_sentiment_score": 0.3173913043478261,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   -0.15,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8173913043478261,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas L. Ben\u00e9 - Sysco Corp.": {
+  "avg_sentiment_score": 0.3394736842105263,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.05,
+   0.0,
+   0.65,
+   0.35,
+   0.15,
+   1.0,
+   1.0,
+   0.75,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7552631578947369,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "President & COO"
+ },
+ "Joel T. Grade - Sysco Corp.": {
+  "avg_sentiment_score": 0.20333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice President of Business Development"
+ },
+ "Kelly Ann Bania - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Karen Short - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Marisa C. Sullivan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Christopher Mandeville - Jefferies LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "John Heinbockel - Guggenheim Securities LLC": {
+  "avg_sentiment_score": -0.08,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent J. Sinisi - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Edward J. Kelly - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Zachary Fadem - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Shane Higgins - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William Kirk - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ajay Jain - Pivotal Research Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Karen Holthouse - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "John William Ivankoe - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Steven Ivan Gojak - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

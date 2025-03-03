@@ -1,0 +1,346 @@
+{
+ "date": "2017-08-02 11:00:00",
+ "Mark R. Hunter - Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.31046511627906975,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.15,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7827906976744186,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.67,
+   0.6,
+   0.6,
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.65,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Tracey Joubert - Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Andrea F. Teixeira - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Gavin Hattersley - Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.45,
+   0.55,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Laurent Grandet - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Vivien Azer - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ]
+ },
+ "Judy E. Hong - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Mark David Swartzberg - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Frederic Landtmeters - Molson Coors Canada, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Ottenstein - Evercore ISI": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Simon Cox - Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Stewart F. Glendinning - Molson Coors Brewing Co.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Brett Cooper - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Michael Pitcher - Redburn (Europe) Ltd.": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Pablo Zuanic - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "date": "2013-10-29 17:00:00",
+ "Rob Sison": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andrew Wilson": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.85,
+   0.65,
+   1.0,
+   0.85,
+   0.75,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.85,
+   0.9,
+   0.9,
+   0.85,
+   0.6,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Blake J. Jorgensen": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.05,
+   0.55,
+   -0.15,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7866666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice President of Special Projects"
+ },
+ "Colin A. Sebastian - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Patrick S\u00f6derlund": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0
+  ]
+ },
+ "Peter Robert Moore": {
+  "avg_sentiment_score": 0.63125,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.6,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Competition Officer and  Executive Vice President"
+ },
+ "Edward S. Williams - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Gee - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Douglas Creutz - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew E. Crum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen Ju - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Arvind Bhatia - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Benjamin A. Schachter - Macquarie Research": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Timothy O'Shea - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael J. Olson - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

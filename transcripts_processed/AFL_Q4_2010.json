@@ -1,0 +1,193 @@
+{
+ "date": "2011-02-02 09:00:00",
+ "Robin Wilkey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Amos": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.4
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Jamminder Bhullar - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Kriss Cloninger": {
+  "avg_sentiment_score": 0.02307692307692308,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Toru Tonoike": {
+  "avg_sentiment_score": -0.016666666666666653,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chairman of Aflac Japan"
+ },
+ "John Nadel - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jeffrey Schuman - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.85
+  ]
+ },
+ "Thomas Gallagher - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "W. Jeremy Jeffery": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Edward Spehar - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.018750000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.5,
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "date": "2012-08-16 09:00:00",
+ "Tim Reid": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Bob Sasser": {
+  "avg_sentiment_score": 0.43913043478260866,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   1.0,
+   0.45,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.7921739130434782,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Kevin Wampler": {
+  "avg_sentiment_score": 0.50625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.55,
+   0.15,
+   1.0,
+   0.85,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.78625,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.69,
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Matt Boss \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Meredith Adler \u2013 Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Wewer \u2013 Raymond James": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter Keith \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan Binder \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Parkhill \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Anthony Chukumba \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.55,
+   0.4,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Mann \u2013 Johnson Rice": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Adrianne Shapira \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Charles Grom \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

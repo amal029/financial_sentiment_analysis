@@ -1,0 +1,209 @@
+{
+ "date": "2019-10-31 09:30:00",
+ "Patrick Nolan": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   1.0,
+   0.67,
+   0.4
+  ]
+ },
+ "Fred Lissalde": {
+  "avg_sentiment_score": 0.43823529411764706,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.35,
+   0.75,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8058823529411764,
+  "confidence": [
+   0.9,
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kevin Nowlan": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Joseph Spak": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.4,
+   0.45,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Brinkman": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Fed Lissalde": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Armintas Sinkevicius": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Kelley": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.6,
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Fred Lissalde ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

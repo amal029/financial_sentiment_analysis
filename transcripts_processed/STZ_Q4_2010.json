@@ -1,0 +1,213 @@
+{
+ "date": "2010-04-09 10:30:00",
+ "Patty Yahn-Urlaub": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Sands": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Ryder ": {
+  "avg_sentiment_score": -0.07692307692307693,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.05,
+   -1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6923076923076923,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Lauren Torres - HSBC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Robert Sands ": {
+  "avg_sentiment_score": 0.103125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.753125,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Timothy Ramey - D.A. Davidson & Co.": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Reza Vahabzadeh \u2013 Barclays Capital ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Lindsey Druckerman \u2013 Goldman Sachs": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Carla Casella \u2013 JP Morgan ": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Swartzberg - Stifel Nicolaus": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Kevin Dryer - Cavelli & Company": {
+  "avg_sentiment_score": -0.1142857142857143,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

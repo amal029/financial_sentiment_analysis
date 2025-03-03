@@ -1,0 +1,286 @@
+{
+ "date": "2013-04-30 15:00:00",
+ "Paula Schwartz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Joel S. Marcus": {
+  "avg_sentiment_score": 0.23714285714285716,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   -0.35,
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8508571428571429,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Dean A. Shigenaga": {
+  "avg_sentiment_score": 0.1388888888888889,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Emmanuel Korchman \u2013 Citigroup": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.776,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Michael Bilerman \u2013 Citigroup Global Markets": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Jamie Feldman \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Peter M. Moglia": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Chief Investment Officer"
+ },
+ "Matthew Rand \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Sheila McGrath \u2013 Evercore Partners Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jeff Theiler \u2013 Green Street Advisors": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "George Auerbach \u2013 ISI Group": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Carroll \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Anthony Paolone \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

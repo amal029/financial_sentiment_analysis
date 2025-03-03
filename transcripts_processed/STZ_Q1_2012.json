@@ -1,0 +1,195 @@
+{
+ "date": "2011-06-30 10:30:00",
+ "Patty Yahn-Urlaub": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Robert Sands": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.55,
+   -0.15,
+   0.45,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7625000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.8
+  ]
+ },
+ "Robert Ryder": {
+  "avg_sentiment_score": -0.08249999999999999,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   -0.15,
+   -1.0,
+   -0.15,
+   0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -1.0,
+   0.05,
+   0.0,
+   -1.0,
+   1.0,
+   -1.0
+  ],
+  "avg_confidence": 0.6575,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Judy Hong - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Lauren Torres - HSBC": {
+  "avg_sentiment_score": 0.02,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Timothy Ramey - D.A. Davidson & Co.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Swartzberg - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.08181818181818182,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.8,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin Dreyer - Gabelli": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Carlos LaBoy - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

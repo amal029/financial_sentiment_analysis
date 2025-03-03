@@ -1,0 +1,237 @@
+{
+ "date": "2011-08-17 10:30:00",
+ "Gregg Steinhafel": {
+  "avg_sentiment_score": 0.3888888888888889,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7444444444444445,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.8,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Kathryn Tesija": {
+  "avg_sentiment_score": 0.4388888888888889,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   0.55,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Douglas Scovanner": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.05,
+   0.0,
+   -0.15,
+   -0.15,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.05,
+   0.15,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Jeffrey Klinefelter - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Peter Benedict - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Drbul - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wiltamuth - Morgan Stanley": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Ohmes - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Greg Melich - ISI Group Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Adrianne Shapira - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Deborah Weinswig - Citigroup Inc": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Wayne Hood - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Daniel Binder - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ }
+}

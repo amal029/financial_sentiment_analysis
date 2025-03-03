@@ -1,0 +1,250 @@
+{
+ "date": "2011-02-09 16:30:00",
+ "Natalie Temple": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul Sagan": {
+  "avg_sentiment_score": 0.47333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.85,
+   0.65,
+   0.45,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8533333333333334,
+  "confidence": [
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice Chairman"
+ },
+ "J. Sherman": {
+  "avg_sentiment_score": 0.3342105263157895,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   -0.15,
+   -0.45,
+   0.65,
+   0.05,
+   1.0,
+   -0.35,
+   0.15,
+   0.75,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.85
+  ]
+ },
+ "Mark Kelleher - Dougherty & Company LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Clarke": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Neil Doshi - ThinkEquity Partners": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Philip Winslow - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Todd Raker - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Edward Maguire - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jennifer Swanson - Morgan Stanley": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Derek Bingham - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Turits - Raymond James & Associates": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Saurabh Paranjape": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Chad Bartley - Pacific Crest Securities, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Katherine Egbert - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Sterling Auty - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

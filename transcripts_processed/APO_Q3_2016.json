@@ -1,0 +1,265 @@
+{
+ "date": "2016-10-28 10:00:00",
+ "Gary Stein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Joshua Harris": {
+  "avg_sentiment_score": 0.18863636363636366,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   -0.35,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7227272727272728,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Co-Founder, Senior MD & Director"
+ },
+ "Martin Kelly": {
+  "avg_sentiment_score": 0.11153846153846153,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.05,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15,
+   0.75,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7730769230769231,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.8,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & Partner"
+ },
+ "Mike Carrier": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Devin Ryan": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Lee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Siegenthaler": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Harris": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Kotowski": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Kaimon Chung": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Cyprys": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "A - Gary Stein": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

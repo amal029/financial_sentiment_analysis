@@ -1,0 +1,243 @@
+{
+ "date": "2016-07-22 17:00:00",
+ "Jeff Norris": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9454545454545454,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Richard Fairbank": {
+  "avg_sentiment_score": 0.1735294117647059,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7323529411764705,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Founder, Chairman, CEO & President"
+ },
+ "Scott Blackley": {
+  "avg_sentiment_score": 0.03125000000000001,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Nash": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Shane": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Arren Cyganovich": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Chris Brendler": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steve Crawford": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Advisor to the CEO"
+ },
+ "Moshe Orenbuch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "James Fotheringham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matt Burnell": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.5,
+   0.75
+  ]
+ }
+}

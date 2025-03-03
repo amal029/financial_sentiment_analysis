@@ -1,0 +1,266 @@
+{
+ "date": "2016-05-06 11:00:00",
+ "Jennifer Pasquino - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": -0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   0.67,
+   1.0
+  ]
+ },
+ "Floyd F. Sherman - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.2611111111111111,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   -0.35,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.4,
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "M. Chad Crow - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.22413793103448276,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.75,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8396551724137932,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Rob G. Hansen - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.605,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Jay McCanless - Sterne Agee": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.726,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Trey H. Grooms - Stephens, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6033333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Will Randow - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Nicholas Andrew Coppola - Thompson Research Group LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Reuben Garner - BB&T Securities LLC": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael G. Dahl - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Dillard Watt - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "date": "2014-11-26 10:00:00",
+ "Tony Huegel": {
+  "avg_sentiment_score": 0.15476190476190477,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.55,
+   0.15,
+   -0.15,
+   0.45,
+   -0.45,
+   0.15,
+   0.05,
+   0.65,
+   -0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7642857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Susan Karlix": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Kaplowitz": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Raj Kalathur": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Information Officer"
+ },
+ "Steve Volkmann": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steven Fisher": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mircea Dobre": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Adam Uhlman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "date": "2013-09-19 09:30:00",
+ "Gary M. Rodkin": {
+  "avg_sentiment_score": 0.12666666666666668,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.35,
+   0.55,
+   0.35,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.1,
+   0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8133333333333332,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Special Advisor"
+ },
+ "Chris Klinefelter": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John F. Gehring": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.15,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas M. McGough": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "COO & Executive VP"
+ },
+ "David Driscoll - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Bryan D. Spillane - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan P. Feeney - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul T. Maass": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6
+  ],
+  "title": "President of Private Brands and Commercial Foods"
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric R. Katzman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Akshay S. Jagdale - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Moskow - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher R. Growe - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory Hessler - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

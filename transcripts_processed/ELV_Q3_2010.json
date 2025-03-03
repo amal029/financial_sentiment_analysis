@@ -1,0 +1,211 @@
+{
+ "date": "2010-11-03 07:30:00",
+ "Michael Kleinman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Angela Braly": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman, Chief Executive Officer, President and Chairman of Executive Committee"
+ },
+ "Wayne Deveydt": {
+  "avg_sentiment_score": 0.10909090909090909,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.6909090909090909,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6,
+   1.0,
+   0.95,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "John Rex - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Justin Lake - UBS Investment Bank": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Doug Simpson - Morgan Stanley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joshua Raskin - Barclays Capital": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Sassi": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4800000000000001,
+  "confidence": [
+   0.4,
+   0.8,
+   0.4,
+   0.4,
+   0.4
+  ],
+  "title": "Executive Vice President of Marketing, Chief Executive Officer of Consumer Business Unit and President of Consumer Business Unit"
+ },
+ "Charles Boorady - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Fidel - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Borsch - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Carl McDonald - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ken Goulet": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Executive Vice President of Commercial & Specialty Business, Chief Executive Officer of Commercial & Specialty Division and President of Commercial & Specialty Division"
+ }
+}

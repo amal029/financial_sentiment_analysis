@@ -1,0 +1,244 @@
+{
+ "date": "2020-04-30 10:30:00",
+ "Ben Lowe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jay Brown": {
+  "avg_sentiment_score": 0.4055555555555556,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.6,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8303703703703704,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "Dan Schlanger": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Philip Cusick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Colby Synesael": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ric Prentiss": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.734,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nick Del Deo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Batya Levi": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Spencer Kurn": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "date": "2012-01-18 17:00:00",
+ "Jennifer Ceran": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "John J. Donahoe": {
+  "avg_sentiment_score": 0.37083333333333335,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert H. Swan": {
+  "avg_sentiment_score": 0.4444444444444444,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Senior Vice President of Finance"
+ },
+ "Ross Sandler - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Scott W. Devitt - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Heath P. Terry - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Thomas Forte - Telsey Advisory Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Youssef H. Squali - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark S. Mahaney - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian J. Pitz - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Spencer Wang - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

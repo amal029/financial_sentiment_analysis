@@ -1,0 +1,329 @@
+{
+ "date": "2011-04-28 13:00:00",
+ "John Christie": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryce Blair": {
+  "avg_sentiment_score": 0.11785714285714287,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   -0.35,
+   0.0,
+   -0.35,
+   -0.35,
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, Member of Investment Committee and Member of Finance Committee"
+ },
+ "Timothy Naughton": {
+  "avg_sentiment_score": 0.21956521739130433,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.15,
+   1.0,
+   0.55,
+   0.55,
+   0.45,
+   -0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.35,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7717391304347826,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Eric Wolfe - Citigroup Inc": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Swaroop Yalla - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Spector - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Leo Horey": {
+  "avg_sentiment_score": 0.3071428571428571,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.55,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "David Toti - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Habermann - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Jeffrey Donnelly - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexander Goldfarb - Sandler O'Neill + Partners, L.P.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Sargeant": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Andy McCulloch - Green Street Advisors, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Nicholas Yulico - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Karin Ford - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Swett - Morgan Keegan & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Paula Poskon - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Bilerman - Citigroup Inc": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

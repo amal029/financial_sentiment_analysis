@@ -1,0 +1,213 @@
+{
+ "date": "2019-07-26 09:00:00",
+ "Liz Shea": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9833333333333333,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Gonzalez": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.15,
+   0.65,
+   0.15,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7958333333333334,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Michael Severino": {
+  "avg_sentiment_score": 0.5875,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.85
+  ]
+ },
+ "Rob Michael": {
+  "avg_sentiment_score": 0.4666666666666666,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Geoff Porges": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Laura Schumacher": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "Vice Chairman of External Affairs & Chief Legal Officer"
+ },
+ "Jason Gerberry": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Elizabeth Shea": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Navin Jacob": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

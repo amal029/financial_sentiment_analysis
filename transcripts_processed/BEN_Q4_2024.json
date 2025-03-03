@@ -1,0 +1,150 @@
+{
+ "date": "2024-11-04 11:00:00",
+ "Selene Oh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jenny Johnson": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   0.65,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Matt Nicholls ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP, CFO & COO"
+ },
+ "Bill Katz": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Matt Nicholls": {
+  "avg_sentiment_score": 0.305,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.65,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Spector": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ],
+  "title": "Executive VP & Head of Global Distribution"
+ },
+ "Benjamin Budish": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Cyprys": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "John Dunn": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.67,
+   1.0
+  ]
+ }
+}

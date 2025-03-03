@@ -1,0 +1,230 @@
+{
+ "date": "2022-04-27 09:00:00",
+ "Chris Jakubik": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Miguel Patricio": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.4,
+   0.9
+  ],
+  "title": "Chair & CEO"
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Carlos Abrams-Rivera": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.7818181818181817,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Palmer ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andre Maciel": {
+  "avg_sentiment_score": 0.4714285714285714,
+  "sentiment_score": [
+   0.35,
+   0.85,
+   0.55,
+   -0.15,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7742857142857142,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.67
+  ],
+  "title": "Executive VP & Global CFO"
+ },
+ "Rafael Oliveira": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jason English": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jason English ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "KenGoldman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75
+  ]
+ },
+ "ChrisGrowe": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "ChrisJakubik": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

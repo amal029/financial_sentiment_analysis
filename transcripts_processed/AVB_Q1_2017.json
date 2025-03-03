@@ -1,0 +1,342 @@
+{
+ "date": "2017-04-27 13:00:00",
+ "Jason Reilley - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy J. Naughton - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.061764705882352944,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   -0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7529411764705882,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Nicholas Joseph - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sean J. Breslin - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.15,
+   0.85,
+   -0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7707142857142857,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.6,
+   0.75,
+   0.69,
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Richard Allen Hightower - Evercore ISI": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew H. Birenbaum - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7363636363636363,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.5,
+   0.75
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "Dennis Patrick McGill - Zelman Partners LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Jeffrey A. Spector - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Kevin P. O'Shea - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Austin Wurschmidt - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Wes Golladay - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Vincent Chao - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Gaurav Mehta - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Omotayo Tejumade Okusanya - Jefferies LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Anderson - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": 0.01875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Santos - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Conor Wagner - Green Street Advisors, LLC": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   1.0
+  ]
+ }
+}

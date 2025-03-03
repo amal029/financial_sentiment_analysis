@@ -1,0 +1,176 @@
+{
+ "date": "2019-11-21 11:00:00",
+ "Jeff Liaw": {
+  "avg_sentiment_score": 0.34074074074074073,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.15,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7962962962962963,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.5,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Darren Hart": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Bob Labick": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Craig Kennison": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Healy": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Bret Jordan": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Bottiglieri": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Derek Glynn": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

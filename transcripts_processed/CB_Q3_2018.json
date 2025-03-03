@@ -1,0 +1,302 @@
+{
+ "date": "2018-10-24 08:30:00",
+ "Helen Wilson - Chubb Ltd.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Evan G. Greenberg - Chubb Ltd.": {
+  "avg_sentiment_score": 0.0967741935483871,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.85,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.5,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8790322580645161,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Philip V. Bancroft - Chubb Ltd.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul J. Krump - Chubb Ltd.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Vice Chairman of Global Underwriting & Claims"
+ },
+ "Brian Meredith - UBS Securities LLC": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Paul O\u2019Connell - Chubb Ltd.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John W. Keogh - Chubb Ltd.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President & COO"
+ },
+ "John Joseph Lupica - Chubb Ltd.": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Vice Chairman of Chubb Group & President of North America Insurance Operations"
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Jay A. Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Juan C. Andrade - Chubb Ltd.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Ryan J. Tunis - Autonomous Research": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Zaremski - Credit Suisse Group AG": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Yaron Kinar - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.06875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.96875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Meyer Shields - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

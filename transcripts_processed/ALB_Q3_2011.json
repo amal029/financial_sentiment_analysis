@@ -1,0 +1,342 @@
+{
+ "date": "2011-10-25 11:00:00",
+ "Lorin Crenshaw": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Luke Kissam": {
+  "avg_sentiment_score": 0.26785714285714285,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Steitz": {
+  "avg_sentiment_score": 0.2631578947368421,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   0.35,
+   0.65,
+   0.75,
+   0.6,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8473684210526317,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.85
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Scott Tozier": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.4,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex \u2013 Bank of America": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "PJ Juvekar \u2013 Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "P J Juvekar \u2013 Citi": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Begleiter - Deutsche Bank": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Schwartz - First Analysis": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Jeff Zakauskas - JPMorgan": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7783333333333333,
+  "confidence": [
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Koort \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Laurence Alexander \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Laurence Alexander \u2013 Jefferies & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Sison \u2013 Keybanc Capital Markets": {
+  "avg_sentiment_score": 0.6900000000000001,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.604,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Edward Yan \u2013 Oppenheimer & Co.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Edward Yang \u2013 Oppenheimer & Co.": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

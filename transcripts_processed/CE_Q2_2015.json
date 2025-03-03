@@ -1,0 +1,350 @@
+{
+ "date": "2015-07-17 10:00:00",
+ "Jon Puckett - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.12692307692307692,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8961538461538462,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4
+  ]
+ },
+ "Mark C. Rohr - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.32125000000000004,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.85,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8704999999999998,
+  "confidence": [
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.67,
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Patrick Duffy Fischer - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John P. McNulty - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Jensen - Senior Vice President, Finance": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Vincent S. Andrews - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David I. Begleiter - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.6,
+   0.9,
+   1.0
+  ]
+ },
+ "Frank J. Mitsch - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9125000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   0.8,
+   1.0
+  ]
+ },
+ "Brian P. Maguire - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "P.J. Juvekar - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Laurence Alexander - Jefferies LLC": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Hassan I. Ahmed - Alembic Global Advisors LLC": {
+  "avg_sentiment_score": 0.07727272727272727,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9409090909090909,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John E. Roberts - UBS Securities LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

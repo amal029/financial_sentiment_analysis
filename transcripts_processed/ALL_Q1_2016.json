@@ -1,0 +1,244 @@
+{
+ "date": "2016-05-05 10:00:00",
+ "Patrick Macellaro - Vice President-Investor Relations": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Joseph Wilson - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.2523809523809524,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.35,
+   0.45,
+   0.15,
+   0.45,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.7723809523809523,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Steven E. Shebik - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Gregory Peters - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew E. Winter - President": {
+  "avg_sentiment_score": 0.2777777777777778,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.05,
+   1.0,
+   0.15,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7466666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Don Civgin - President-Emerging Businesses, Allstate Insurance Co.": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Vice Chair and CEO of Protection Products & Services"
+ },
+ "Josh D. Shanker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Stirling - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8383333333333334,
+  "confidence": [
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Kumar - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6966666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.69
+  ]
+ },
+ "Robert Glasspiegel - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

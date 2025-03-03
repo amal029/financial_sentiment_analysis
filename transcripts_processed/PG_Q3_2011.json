@@ -1,0 +1,291 @@
+{
+ "date": "2011-04-28 08:30:00",
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jon Moeller": {
+  "avg_sentiment_score": 0.33529411764705885,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   -1.0,
+   0.55,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7823529411764706,
+  "confidence": [
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.8,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Teri List": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nik Modi - UBS Investment Bank": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert McDonald": {
+  "avg_sentiment_score": 0.20277777777777778,
+  "sentiment_score": [
+   0.45,
+   0.35,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   1.0,
+   0.15,
+   -0.15,
+   0.45,
+   0.0,
+   -1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "William Schmitz - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Wendy Nicholson - Citigroup Inc": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lauren Lieberman - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Faucher - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Ferrara - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Altobello - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Constance Maneaty - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "William Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Andersen - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason Gere - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Douglas Lane - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Conder - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alice Longley - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Javier Escalante - Weeden & Co., LP": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Linda Weiser - Caris & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mark Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

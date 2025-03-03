@@ -1,0 +1,233 @@
+{
+ "date": "2013-05-03 08:30:00",
+ "Deborah Koopman": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "William J. Brodsky": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7457142857142857,
+  "confidence": [
+   0.6,
+   0.67,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Alan J. Dean": {
+  "avg_sentiment_score": 0.011111111111111113,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Edward T. Tilly": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Richard H. Repetto - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Jillian Miller - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.016666666666666666,
+  "sentiment_score": [
+   -0.45,
+   -0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Edward L. Provost": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.4
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher J. Allen - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrick J. O'Shaughnessy - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Niamh Alexander - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Christopher Harris - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kenneth B. Worthington - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gaston F. Ceron - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Akhil Bhatia": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

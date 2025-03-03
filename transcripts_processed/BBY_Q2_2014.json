@@ -1,0 +1,150 @@
+{
+ "date": "2013-08-20 08:00:00",
+ "Bill Seymour": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Hubert Joly": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.6,
+   0.0,
+   0.15,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Consultant"
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sharon McCollam": {
+  "avg_sentiment_score": 0.1111111111111111,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.35,
+   0.0,
+   0.05,
+   0.55,
+   -0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7444444444444445,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Balter": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Anthony Chukumba": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Gober": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kate McShane": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Horvers": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Baker": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

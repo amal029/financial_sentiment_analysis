@@ -1,0 +1,254 @@
+{
+ "date": "2022-07-28 17:30:00",
+ "Jordan Sadler": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Bill Stein": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.65,
+   0.6,
+   -0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Andy Power ": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Eric Luebchow": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Corey Dyer": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.9
+  ],
+  "title": "Chief Revenue Officer"
+ },
+ "Andy Power": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.15,
+   -0.15,
+   0.55,
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.8041666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.9,
+   0.75
+  ]
+ },
+ "Corey Dyer ": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.9
+  ]
+ },
+ "Eric Luebchow ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Niknam ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Bilerman ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Bilerman": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Barden ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Stein ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Atkin ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Jon Atkin": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Aryeh Klein ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Aryeh Klein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simon Flannery ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Frank Louthan ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nicholas Del Deo ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nicholas Del Deo": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

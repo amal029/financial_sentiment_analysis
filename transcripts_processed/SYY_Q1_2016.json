@@ -1,0 +1,290 @@
+{
+ "date": "2015-11-02 10:00:00",
+ "Neil A. Russell - Vice President, Investor Relations, Sysco Corp.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "William J. DeLaney - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.21794871794871795,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   -0.15,
+   -0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8405128205128205,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.68,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joel T. Grade - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.018749999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President of Business Development"
+ },
+ "John Heinbockel - Guggenheim Securities LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Meredith Adler - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Gregory Wiltamuth - Jefferies LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward J. Kelly - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Karen F. Short - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.016666666666666673,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent J. Sinisi - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Paul Wolf - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Ajay Jain - Pivotal Research Group LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kelly A. Bania - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John William Ivankoe - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

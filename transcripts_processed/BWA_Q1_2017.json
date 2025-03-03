@@ -1,0 +1,344 @@
+{
+ "date": "2017-04-27 10:00:00",
+ "Patrick Nolan - BorgWarner, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James R. Verrier - BorgWarner, Inc.": {
+  "avg_sentiment_score": 0.2939024390243903,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.75,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8629268292682928,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Ronald T. Hundzinski - BorgWarner, Inc.": {
+  "avg_sentiment_score": 0.19736842105263158,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.92,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Colin Langan - UBS Securities LLC": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.65,
+   0.75,
+   1.0
+  ]
+ },
+ "Rod Lache - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.33888888888888885,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.5,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian A. Johnson - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "John Murphy - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris McNally - Evercore ISI": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jacob Hughes - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David L. Kelley - Jefferies LLC": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4
+  ]
+ },
+ "Adam Michael Jonas - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard M. Kwas - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.17222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe D. Vruwink - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

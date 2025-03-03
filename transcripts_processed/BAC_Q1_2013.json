@@ -1,0 +1,423 @@
+{
+ "date": "2013-04-17 08:30:00",
+ "Kevin Stitt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce Thompson ": {
+  "avg_sentiment_score": 0.17386363636363636,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   -0.15,
+   0.45,
+   0.65,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.6,
+   0.55,
+   0.45,
+   -0.35,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.25,
+   0.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.35,
+   -0.35,
+   0.05,
+   0.35,
+   0.65,
+   -0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8204545454545454,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Managing Director"
+ },
+ "Brian Moynihan ": {
+  "avg_sentiment_score": 0.4394736842105263,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.45,
+   0.55,
+   0.55,
+   0.85,
+   0.85,
+   -0.35,
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   1.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8078947368421052,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Glenn Schorr - Nomura ": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8,
+   0.75
+  ]
+ },
+ "Matt O\u2019Connor - Deutsche Bank ": {
+  "avg_sentiment_score": -1.0,
+  "sentiment_score": [
+   -1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Chris Mustascio - KBW ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Meredith Whitney - Meredith Whitney Advisory Group": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John McDonald - Sanford Bernstein ": {
+  "avg_sentiment_score": 0.11666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Bruce Thompson": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John McDonald - Sanford Bernstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brennan Hawken - UBS ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley ": {
+  "avg_sentiment_score": -0.044444444444444446,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.7388888888888889,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.5,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Nancy Bush - NAB Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Nancy Bush - NAB Research ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Wasserstrom - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Eric Wasserstrom - SunTrust Robinson Humphrey ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Hilder - Drexel Hamilton ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Moshe Orenbuch - Credit Suisse ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Matt Burnell - Wells Fargo Securities ": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8
+  ]
+ },
+ "Mike Mayo - CLSA ": {
+  "avg_sentiment_score": -0.009999999999999992,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.15,
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas [Latourneau] - FBR Capital Markets ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

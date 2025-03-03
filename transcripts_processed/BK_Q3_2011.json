@@ -1,0 +1,305 @@
+{
+ "date": "2011-10-19 08:00:00",
+ "Andy Clark": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Gerald L. Hassell": {
+  "avg_sentiment_score": 0.26875,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.5,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman"
+ },
+ "Thomas P. Gibbons": {
+  "avg_sentiment_score": 0.11904761904761904,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   -0.35,
+   0.45,
+   0.35,
+   0.05,
+   0.15,
+   -0.35,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Howard Chen - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Curtis Y. Arledge": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Vice Chairman, Vice Chairman of Bny Mellon, N.A., Chief Executive Officer of Investment Management and Chief Executive Officer of Bny Mellon Markets Group"
+ },
+ "Betsy Graseck - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Stilmar - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy F. Keaney": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Glenn Schorr - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Bedell - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15833333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6466666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.68
+  ]
+ },
+ "Michael Mayo - CLSA Asia-Pacific Markets, Research Division": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.06999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Karen B. Peetz": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "President and President of BNY Mellon NA"
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

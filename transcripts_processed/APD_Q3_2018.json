@@ -1,0 +1,393 @@
+{
+ "date": "2018-07-26 10:00:00",
+ "Simon R. Moore - Air Products & Chemicals, Inc.": {
+  "avg_sentiment_score": 0.2714285714285714,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.35,
+   1.0,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Seifollah Ghasemi - Air Products & Chemicals, Inc.": {
+  "avg_sentiment_score": 0.4190909090909091,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.85,
+   0.55,
+   1.0,
+   0.55,
+   0.85,
+   1.0,
+   0.65,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8818181818181818,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.67,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Michael Scott Crocco - Air Products & Chemicals, Inc.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.85,
+   -0.15,
+   1.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.4,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Robert Koort - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey J. Zekauskas - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Donald David Carson - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David I. Begleiter - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Duffy Fischer - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.69
+  ]
+ },
+ "PJ Juvekar - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.764,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Christopher S. Parkinson - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Stephen Byrne - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Roberts - UBS Securities LLC": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John P. McNulty - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vincent Stephen Andrews - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew DeYoe - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "James Sheehan - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Laurence Alexander - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

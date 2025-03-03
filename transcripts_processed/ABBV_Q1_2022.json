@@ -1,0 +1,295 @@
+{
+ "date": "2022-04-29 09:00:00",
+ "Liz Shea": {
+  "avg_sentiment_score": 0.28076923076923077,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8192307692307692,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Rick Gonzalez": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jeff Stewart": {
+  "avg_sentiment_score": 0.6318181818181818,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.15,
+   0.85,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   0.6,
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "Executive VP & Chief Commercial Officer"
+ },
+ "Tom Hudson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Rob Michael": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.85,
+   0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Mohit Bansal": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Neil Gallagher": {
+  "avg_sentiment_score": 0.7375,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.6
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75
+  ]
+ },
+ "Q \u2013 UnidentifiedAnalyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Q \u2013 Steve Scala": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Shibutani": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "A \u2013 Liz Shea": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Nachman": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Carrie Strom": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Josh Schimmer": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   0.67,
+   1.0
+  ]
+ }
+}

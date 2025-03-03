@@ -1,0 +1,329 @@
+{
+ "date": "2011-11-17 08:30:00",
+ "Sonal P. Robinson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Richard K. Smucker": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.65,
+   0.75,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   -0.35,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Vincent C. Byrd": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Vice Chairman, President and Chief Operating Officer"
+ },
+ "Mark R. Belgya": {
+  "avg_sentiment_score": 0.1823529411764706,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8117647058823529,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.8,
+   0.4,
+   1.0,
+   0.5,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "Eric R. Katzman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.02857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Edward Cerankosky - Northcoast Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Smucker Wagstaff": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.15,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Mark T. Smucker": {
+  "avg_sentiment_score": 0.41428571428571426,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.8,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Mike Otway - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Alexis Borden - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Edward Aaron - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.08499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Farha Aslam - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Steven T. Oakland": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Vice Chair & President of U.S Food & Beverage"
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Dickerson - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Holland - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

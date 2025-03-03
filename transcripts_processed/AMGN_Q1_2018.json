@@ -1,0 +1,286 @@
+{
+ "date": "2018-04-25 17:00:00",
+ "Arvind Sood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Bob Bradway": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -1.0,
+   -1.0,
+   0.05,
+   0.55,
+   0.05,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.85,
+   1.0,
+   0.65,
+   0.65,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "David Meline": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Tony Hooper": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   -0.45,
+   -0.45,
+   0.0,
+   0.55,
+   0.85,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Vice President of Global Commercial Operations"
+ },
+ "Sean Harper": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.15,
+   0.15,
+   0.85,
+   0.5,
+   0.05
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.6
+  ]
+ },
+ "Geoffrey Meacham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Maryana Breitman": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christopher Raymond": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ying Huang": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alethia Young": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Geoffrey Porges": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Yee": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Schmidt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cory Kasimov": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Carter Gould": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kennen MacKay": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Salim Syed": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

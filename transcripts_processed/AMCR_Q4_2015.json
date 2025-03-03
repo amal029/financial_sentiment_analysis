@@ -1,0 +1,281 @@
+{
+ "date": "2016-01-28 12:00:00",
+ "Erin M. Winters - Director-Investor Relations": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William F. Austen - President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.42,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.802,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.9,
+   0.85
+  ]
+ },
+ "Michael B. Clauer - Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.203125,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.05,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Anthony Pettinari - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Matthew T. Krueger - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Louis Gaffner - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Chris D. Manuel - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Chip A. Dillon - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Frederick Searby - Dunbar": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mark William Wilde - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Philip Ng - Jefferies LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.7,
+   1.0,
+   0.75
+  ]
+ },
+ "Adam Jesse Josephson - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "George Leon Staphos - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Arun Viswanathan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

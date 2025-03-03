@@ -1,0 +1,244 @@
+{
+ "date": "2015-03-05 17:00:00",
+ "Kim Duncan - Vice President, Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert S. Weiss - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.18947368421052632,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.85,
+   -0.35
+  ],
+  "avg_confidence": 0.8131578947368421,
+  "confidence": [
+   0.85,
+   0.5,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President and Non-Independent Director"
+ },
+ "Gregory W. Matz - Vice President, Chief Financial & Risk Officer": {
+  "avg_sentiment_score": 0.09583333333333334,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   -0.45,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.8208333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jeff D. Johnson - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris T. Pasquale - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Larry Biegelsen - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Anthony C. Petrone - Jefferies LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.7
+  ]
+ },
+ "Jon D. Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steve B. Willoughby - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8475,
+  "confidence": [
+   0.75,
+   1.0,
+   0.64,
+   1.0
+  ]
+ },
+ "Joanne K. Wuensch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8859999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Matthew Mishan - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   1.0
+  ]
+ },
+ "Steve M. Lichtman - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Lawrence S. Keusch - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

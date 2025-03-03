@@ -1,0 +1,264 @@
+{
+ "date": "2015-03-26 09:30:00",
+ "Gary Rodkin": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8613333333333333,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Klinefelter": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Sean Connolly": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Tom McGough": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "COO & Executive VP"
+ },
+ "Paul Maass": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "John Gehring": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   1.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7466666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.5,
+   0.85,
+   0.6,
+   0.67,
+   0.75,
+   0.75
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Driscoll": {
+  "avg_sentiment_score": 0.73,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.772,
+  "confidence": [
+   0.67,
+   0.67,
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Jonathan Feeney": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Q \u2013 Jonathan Feeney": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Katzman": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Akshay Jagdale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

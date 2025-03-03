@@ -1,0 +1,271 @@
+{
+ "date": "2023-08-03 10:00:00",
+ "Chris Clulow": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.704,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.67,
+   0.4
+  ]
+ },
+ "Jennifer Rumsey": {
+  "avg_sentiment_score": 0.25277777777777777,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.45,
+   0.55,
+   0.6,
+   -0.35,
+   0.05,
+   0.05,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.55,
+   0.35,
+   0.0,
+   0.65,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7638888888888888,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Mark Smith": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   -0.35,
+   0.85,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8617857142857143,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.68,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & VP"
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Tim Thein": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Wertheimer": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Tami Zakaria": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Fisher": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Elkott": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ }
+}

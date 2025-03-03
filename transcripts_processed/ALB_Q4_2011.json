@@ -1,0 +1,328 @@
+{
+ "date": "2012-01-24 08:00:00",
+ "Lorin Crenshaw": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Luke Kissam": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.05,
+   -0.15,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John Steitz": {
+  "avg_sentiment_score": 0.322972972972973,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.65,
+   0.05,
+   1.0,
+   -0.35,
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.35,
+   0.65,
+   -0.35,
+   -1.0,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7513513513513513,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Scott Tozier": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "David Begleiter - Deutsche Bank": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "PJ Juvekar - Citigroup": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Bob Koort - Goldman Sachs": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Laurence Alexander - Jefferies & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Mike Sison - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Jeff Zekauskas - JPMorgan": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Steve Schwartz - First Analysis": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Edward Yang - Oppenheimer": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6083333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.8,
+   0.4,
+   0.6
+  ]
+ },
+ "Dimitry Silversteyn - Longbow Research": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Todd Vencil - Sterne Agee": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aleksey Yefremov - Bank of America": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ }
+}

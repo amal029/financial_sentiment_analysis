@@ -1,0 +1,198 @@
+{
+ "date": "2017-07-21 10:00:00",
+ "Ellen Taylor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Bruce Van Saun": {
+  "avg_sentiment_score": 0.3282608695652174,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.45,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.841304347826087,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "John Woods": {
+  "avg_sentiment_score": 0.5071428571428571,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.807142857142857,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Vice Chairman & CFO"
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Zerbe": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Don McCree": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Brad Conner": {
+  "avg_sentiment_score": 0.27142857142857146,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chairman of Consumer Banking"
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.5,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Eads": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

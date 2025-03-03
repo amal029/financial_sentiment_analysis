@@ -1,0 +1,216 @@
+{
+ "date": "2018-07-25 08:00:00",
+ "Susan Vissers Lisa - Boston Scientific Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael F. Mahoney - Boston Scientific Corp.": {
+  "avg_sentiment_score": 0.5750000000000001,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.75,
+   0.0,
+   -0.35,
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Daniel J. Brennan - Boston Scientific Corp.": {
+  "avg_sentiment_score": 0.21875,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.05,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   0.85,
+   0.9,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Ryan Lewis - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Glenn John Novarro - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Frederick Wise - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Lawrence Biegelsen - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ian T. Meredith - Boston Scientific Corp.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Joanne Karen Wuensch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Stein, M.D. - Boston Scientific Corp.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert J. Marcus - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Pasquale - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Bruce M. Nudell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

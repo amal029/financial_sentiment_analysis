@@ -1,0 +1,211 @@
+{
+ "date": "2016-01-27 08:30:00",
+ "Matthew Calistri - Senior Director of Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "George A. Scangos - Chief Executive Officer": {
+  "avg_sentiment_score": 0.25625,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Alfred W. Sandrock, Jr. - Executive Vice President, Neurology Discovery & Development Center, Neurodegeneration Therapeutic Area and Chief Medical Officer": {
+  "avg_sentiment_score": 0.1863636363636364,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   -1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Paul J. Clancy - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.05,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric Schmidt - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   1.0,
+   0.4
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ },
+ "Michael J. Yee - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Christopher Raymond - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cameron Bradshaw - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matt M. Roden - UBS Securities LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Nick Abbott - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

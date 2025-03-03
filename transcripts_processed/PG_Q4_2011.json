@@ -1,0 +1,271 @@
+{
+ "date": "2011-08-05 08:30:00",
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jon Moeller": {
+  "avg_sentiment_score": 0.234375,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0,
+   0.45,
+   0.05,
+   -0.35,
+   0.15,
+   0.65,
+   -0.35,
+   0.15,
+   0.0,
+   0.15,
+   -1.0,
+   1.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.9,
+   1.0
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Teri List": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert McDonald": {
+  "avg_sentiment_score": 0.33571428571428574,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.05,
+   0.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.9,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "William Schmitz - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nik Modi - UBS Investment Bank": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Faucher - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lauren Lieberman - Barclays Capital": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Ferrara - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Altobello - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Constance Maneaty - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Gere - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Javier Escalante - Weeden & Co., LP": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Per Ostlund - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Timothy Conder - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Alice Longley - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jon Andersen - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Linda Weiser - Caris & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Mark Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Caroline Levy - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

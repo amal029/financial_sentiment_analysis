@@ -1,0 +1,301 @@
+{
+ "date": "2022-11-03 09:30:00",
+ "Company Representatives": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Renwick ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steven Cahillane": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Amit Banati ": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Vice Chairman, Senior VP, CFO & Principal Financial Officer"
+ },
+ "Cody Ross": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Cahillane": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.85,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Amit Banati": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Andrew Lazar ": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Pamela Kaufman ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "A - Steve Cahillane": {
+  "avg_sentiment_score": -0.12857142857142856,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   -1.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Chris Growe ": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Robert Moskow ": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Goldman ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "A - Amit Banati": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Lavery": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Renwick": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ }
+}

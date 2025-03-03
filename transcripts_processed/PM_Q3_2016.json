@@ -1,0 +1,240 @@
+{
+ "date": "2016-10-18 09:00:00",
+ "Nick Rolli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   0.95,
+   1.0
+  ]
+ },
+ "Jacek Olczak": {
+  "avg_sentiment_score": 0.3355263157894737,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.35,
+   0.05,
+   0.75,
+   1.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.6,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8621052631578947,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.69,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.8,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Michael Lavery": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bonnie Herzog": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "James Bushnell": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Pam Kaufman": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Judy Hong": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Adam Spielman": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Russo": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

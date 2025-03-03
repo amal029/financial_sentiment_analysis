@@ -1,0 +1,460 @@
+{
+ "date": "2016-10-25 11:00:00",
+ "Jason Reilley - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Timothy J. Naughton - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.10961538461538461,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.55,
+   0.05,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.05,
+   0.0,
+   -0.45,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8057692307692308,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Richard Allen Hightower - Evercore ISI": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Sean J. Breslin - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.0029411764705882387,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7941176470588235,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Matthew H. Birenbaum - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": 0.05714285714285715,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "Nicholas Joseph - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nick Yulico - UBS Securities LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey A. Spector - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Juan C. Sanabria - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Austin Wurschmidt - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Hardik Goel - Zelman & Associates": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Conor Wagner - Green Street Advisors, LLC": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Chapman Stevenson - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gaurav Mehta - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexander David Goldfarb - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Hill - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Omotayo Tejumade Okusanya - Jefferies LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Drew T. Babin - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Vincent Chao - Deutsche Bank": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Jason Bilerman - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin P. O'Shea - AvalonBay Communities, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Neil Malkin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6,
+   1.0
+  ]
+ }
+}

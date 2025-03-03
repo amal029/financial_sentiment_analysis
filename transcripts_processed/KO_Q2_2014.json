@@ -1,0 +1,258 @@
+{
+ "date": "2014-07-22 09:30:00",
+ "Jackson Kelly": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Muhtar Kent": {
+  "avg_sentiment_score": 0.36500000000000005,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8324999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Chairman of the Board and Chief Executive Officer"
+ },
+ "Kathy Waller": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85
+  ]
+ },
+ "Judy Hong - Goldman Sachs": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Sandy Douglas": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Irial Finan": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ],
+  "title": "Executive Vice President"
+ },
+ "John Faucher - JPMorgan": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68,
+   0.67
+  ]
+ },
+ "Ahmet Bozer": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Vice President and President of Coca-Cola International"
+ },
+ "Bryan Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Steib - Credit Suisse": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Swartzberg - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ali Dibadj - Sanford Bernstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Powers - UBS": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bill Schmidt - Deutsche Bank": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Nik Modi - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kevin Grundy - Jefferies": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "date": "2014-10-08 11:00:00",
+ "Richard Galanti": {
+  "avg_sentiment_score": 0.26489361702127656,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.55,
+   0.85,
+   0.0,
+   0.45,
+   0.6,
+   0.45,
+   0.55,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8031914893617021,
+  "confidence": [
+   0.0,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Executive VP & Director"
+ },
+ "John Heinbockel - Guggenheim Securities": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter Benedict - Robert Baird": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5625,
+  "confidence": [
+   0.0,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Mike Otway - Wolfe Research": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Meredith Adler - Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Siber - Morgan Stanley": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "David Schick - Stifel": {
+  "avg_sentiment_score": 0.5625,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Greg Melich - ISI Group": {
+  "avg_sentiment_score": 0.2409090909090909,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.799090909090909,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   0.85,
+   0.67,
+   0.67
+  ]
+ },
+ "Mathew Fassler - Goldman Sachs": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Grom - Sterne Agee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Charles Grom - Sterne, Agee": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8957142857142857,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Charlene Wong - Credit Suisse": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Bob Drbul - Nomura Securities": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

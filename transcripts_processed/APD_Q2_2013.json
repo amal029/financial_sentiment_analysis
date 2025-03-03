@@ -1,0 +1,252 @@
+{
+ "date": "2013-04-23 10:00:00",
+ "Simon R. Moore": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.75
+  ]
+ },
+ "John E. McGlade": {
+  "avg_sentiment_score": 0.36764705882352944,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.05,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.05,
+   -0.35,
+   0.0,
+   0.05,
+   0.65,
+   0.15,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7382352941176471,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer, President and Chairman of Executive Committee"
+ },
+ "M. Scott Crocco": {
+  "avg_sentiment_score": 0.026315789473684216,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   -0.55,
+   0.55,
+   0.15,
+   0.65,
+   1.0,
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7473684210526316,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Laurence Alexander - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Neal Sangani - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ],
+  "title": "Chief Administrative Officer, Chief Compliance Officer, Senior Vice President and General Counsel"
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "P. J. Juvekar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Duffy Fischer - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David L. Begleiter - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Michael J. Harrison - First Analysis Securities Corporation, Research Division": {
+  "avg_sentiment_score": -0.1375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

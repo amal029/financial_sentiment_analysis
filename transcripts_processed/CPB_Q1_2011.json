@@ -1,0 +1,361 @@
+{
+ "date": "2010-11-23 17:00:00",
+ "Jennifer Driscoll": {
+  "avg_sentiment_score": 0.052500000000000005,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9800000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Douglas R. Conant": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.15,
+   0.05,
+   0.45,
+   0.55,
+   0.55,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.65,
+   0.15,
+   0.0,
+   1.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.15,
+   0.15,
+   0.45,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7971428571428572,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director, Member of Compensation and Organization Committee, Member of Finance and Corporate Development Committee and Member of Finance and Corporate Development Committee"
+ },
+ "Craig Owens": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Financial Officer, Chief Administrative Officer and Senior Vice President"
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   -1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Vincent Andrews": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Katzman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Terry Bivens": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Diane Geissler": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Akshay Jagdale": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.65,
+   1.0
+  ]
+ },
+ "Robert Dickerson": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": -0.2833333333333333,
+  "sentiment_score": [
+   0.15,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Edward Aaron": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Serotta": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Judy Hong": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

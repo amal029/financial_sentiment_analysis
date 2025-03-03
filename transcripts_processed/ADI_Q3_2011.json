@@ -1,0 +1,342 @@
+{
+ "date": "2011-08-17 17:00:00",
+ "Mindy Kohl": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Jerald Fishman": {
+  "avg_sentiment_score": 0.14242424242424243,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   -0.15,
+   0.65,
+   0.65,
+   -0.15,
+   0.45,
+   -0.45,
+   -0.15,
+   0.0,
+   0.65,
+   0.15,
+   -0.15,
+   0.65,
+   0.0,
+   -0.45,
+   0.05,
+   0.65,
+   -0.15,
+   -0.35,
+   -0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.5,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "David Zinsner": {
+  "avg_sentiment_score": 0.019444444444444448,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -1.0,
+   -0.35,
+   -0.45,
+   -1.0,
+   0.55,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Senior Vice President of Finance"
+ },
+ "Uche Orji - UBS Investment Bank": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vincent Roche": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.55,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "CEO & Chair of the Board of Directors"
+ },
+ "Craig Ellis - Caris & Company": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Ross Seymore - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Venkatesh Nathamuni - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Terence Whalen - Citigroup Inc": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jonathan Smigie - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "James Covello - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Stacy Rasgon - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Parker Paulin - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Shawn Webster - Macquarie Research": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Romit Shah - Nomura Securities Co. Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Vijay Rakesh - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "John Pitzer - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "David Wu - Global Crown": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

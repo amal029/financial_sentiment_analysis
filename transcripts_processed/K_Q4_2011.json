@@ -1,0 +1,252 @@
+{
+ "date": "2012-02-02 09:30:00",
+ "Simon Burton": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "John A. Bryant": {
+  "avg_sentiment_score": 0.2888888888888889,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   -1.0,
+   0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.7222222222222222,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Ronald L. Dissinger": {
+  "avg_sentiment_score": 0.31071428571428567,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.67,
+   0.4,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Scott Andrew Mushkin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Edward Aaron - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Driscoll - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Kenneth B. Zaslow - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy S. Ramey - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Senior Vice President and President of Kellogg North America"
+ },
+ "Eric R. Katzman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric Serotta - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Jonathan P. Feeney - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Palmer - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

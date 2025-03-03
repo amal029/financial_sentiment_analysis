@@ -1,0 +1,303 @@
+{
+ "date": "2012-08-15 16:30:00",
+ "Melissa Selcher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "John T. Chambers": {
+  "avg_sentiment_score": 0.3596153846153846,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.8461538461538461,
+  "confidence": [
+   0.9,
+   0.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Frank A. Calderoni": {
+  "avg_sentiment_score": 0.5708333333333334,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.55,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7641666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Rod B. Hall \u2013 JPMorgan Chase & Co.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jess Lubert \u2013 Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Modoff \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert Lloyd": {
+  "avg_sentiment_score": 0.77,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.55,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "President of Development & Sales"
+ },
+ "Simona Jankowski \u2013 Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gary Moore": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Ehud Gelblum \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Tal Liani \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Sue \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gary B. Moore": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Grady Burkett \u2013 Morningstar, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Sanjiv Wadhwani \u2013 Stifel Nicolaus & Company, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Silverstein \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Simon Leopald \u2013 Raymond James": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brian J. White \u2013 Topeka Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

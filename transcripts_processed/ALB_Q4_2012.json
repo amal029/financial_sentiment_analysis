@@ -1,0 +1,289 @@
+{
+ "date": "2013-01-23 09:00:00",
+ "Lorin Crenshaw": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Luke Kissam": {
+  "avg_sentiment_score": 0.16578947368421054,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.55,
+   1.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.75,
+   0.05,
+   0.0,
+   -0.35,
+   0.45,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7394736842105264,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Tozier": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Like Kissam": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "PJ Juvekar - Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Lorin Crenshaw ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Koort - Goldman Sachs": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Kevin McCarthy \u2013 Bank of America": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "Mike Ritzenthaler \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Rob Walker \u2013 Florence ": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85
+  ]
+ },
+ "Mike Sison - Keybanc Capital": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Sison \u2013 KeyBanc Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Begleiter - Deutsche": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Bank": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Steven Schwartz - First": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Analysis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Steven Schwartz \u2013 First Analysis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steven Schwartz \u2013 First Analysis Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Lorin": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Crenshaw ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

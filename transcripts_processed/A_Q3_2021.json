@@ -1,0 +1,384 @@
+{
+ "date": "2021-08-17 16:30:00",
+ "Ruben DiRador": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Mike McMullen": {
+  "avg_sentiment_score": 0.40975609756097564,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.85,
+   0.0,
+   0.65,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8719512195121951,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.4,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.68
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Bob McMahon": {
+  "avg_sentiment_score": 0.4676470588235294,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   1.0,
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8058823529411764,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Barney": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.5,
+   0.6
+  ]
+ },
+ "Brandon Couillard": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Jacob Thaysen": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Doug Schenkel": {
+  "avg_sentiment_score": 0.38571428571428573,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7357142857142858,
+  "confidence": [
+   0.75,
+   0.67,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.68
+  ]
+ },
+ "Derik de Bruin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Leonard": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.65,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sam Raha": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Senior VP and President of Diagnostics & Genomics Group"
+ },
+ "Patrick Donnelly": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.67,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Sykes": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Padraig McDonnell": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Senior VP, Chief Commercial Officer of Agilent & President of Agilent CrossLab Group"
+ },
+ "Joshua Waldman": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Dan Arias": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,373 @@
+{
+ "date": "2018-11-01 10:00:00",
+ "Matthew Thomas Farrell - Church & Dwight Co., Inc.": {
+  "avg_sentiment_score": 0.16052631578947368,
+  "sentiment_score": [
+   0.85,
+   0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8644736842105264,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Richard A. Dierker - Church & Dwight Co., Inc.": {
+  "avg_sentiment_score": 0.09038461538461538,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   0.05,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   -0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8673076923076923,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "CFO, Executive VP & Head of Business Operations"
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.27999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Rupesh Parikh - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Bonnie L. Herzog - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Powers - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.67,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Nik Modi - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Steven Strycula - UBS Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lauren R. Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrea F. Teixeira - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Caroline Levy - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Stiefel Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

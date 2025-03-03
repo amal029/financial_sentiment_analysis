@@ -1,0 +1,323 @@
+{
+ "date": "2016-05-05 15:00:00",
+ "Matthew T. Farrell - President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.1527777777777778,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.2,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Richard A. Dierker - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.15555555555555556,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8527777777777777,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CFO, Executive VP & Head of Business Operations"
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bill Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Caroline Levy - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.62,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.576,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Jason M. Gere - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7957142857142857,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jon R. Andersen - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.65
+  ]
+ }
+}

@@ -1,0 +1,463 @@
+{
+ "date": "2011-01-25 08:30:00",
+ "Kathleen Valentine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Surya Mohapatra": {
+  "avg_sentiment_score": 0.37083333333333335,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.85,
+   0.55,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.75,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7708333333333334,
+  "confidence": [
+   0.85,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer, President and Chairman of Executive Committee"
+ },
+ "Robert Hagemann": {
+  "avg_sentiment_score": 0.1811320754716981,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   -0.35,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7547169811320755,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.8,
+   0.4,
+   0.4,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Thomas Gallucci - Lazard Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Shelley Gnall-Sazenski": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Amanda Murphy - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "William Quirk - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Gurda - Leerink Swann LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Ricky Goldwasser - Morgan Stanley": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Bonello - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Strong - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Adam Feinstein - Barclays Capital": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Darren Lehrich - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Robert Willoughby": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven Valiquette - UBS Investment Bank": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Anthony Vendetti": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Gary Taylor - Citigroup Inc": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Arthur Henderson - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dawn Brock - Kaufman Bros., L.P.": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

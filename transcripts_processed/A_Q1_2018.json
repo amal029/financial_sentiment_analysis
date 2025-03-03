@@ -1,0 +1,395 @@
+{
+ "date": "2018-02-14 16:30:00",
+ "Alicia Rodriguez - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Michael R. McMullen - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.3109090909090909,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.85,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   -1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8570909090909091,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   1.0,
+   0.65,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Didier Hirsch - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Ross Muken - Evercore Group LLC": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Tycho W. Peterson - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jacob Thaysen - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Jack Meehan - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Patrick Kaltenbach - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.42142857142857143,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.85
+  ]
+ },
+ "Steve Barr Willoughby - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Puneet Souda - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7066666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.67
+  ]
+ },
+ "Paul Richard Knight - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   0.68,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Doak - Agilent Technologies, Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Vice President and President of Agilent CrossLab Group"
+ },
+ "Derik de Bruin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Patrick Donnelly - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Brandon Couillard - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Blicker - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.53,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Emily G. Stent - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6466666666666666,
+  "confidence": [
+   0.67,
+   0.6,
+   0.67
+  ]
+ },
+ "Daniel Arias - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.68,
+   0.75,
+   0.6
+  ]
+ }
+}

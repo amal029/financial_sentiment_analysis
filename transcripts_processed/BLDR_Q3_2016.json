@@ -1,0 +1,276 @@
+{
+ "date": "2016-11-04 10:00:00",
+ "Jennifer Pasquino - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": -0.01875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Floyd F. Sherman - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   -0.15,
+   1.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8295454545454546,
+  "confidence": [
+   0.75,
+   0.85,
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "M. Chad Crow - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.036000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.868,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John Baugh - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Rob G. Hansen - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nicholas Andrew Coppola - Thompson Research Group LLC": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Will Randow - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Trey H. Grooms - Stephens, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Al Kaschalk - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Keith Hughes - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": -0.08125,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "date": "2022-01-18 08:00:00",
+ "Marius Merz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Todd Gibbons": {
+  "avg_sentiment_score": 0.18518518518518517,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.05,
+   0.45,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8944444444444444,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Emily Portney": {
+  "avg_sentiment_score": 0.14821428571428572,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.35,
+   0.0,
+   -0.45,
+   0.55,
+   -0.45,
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Executive Vice President & Global Head of Asset Servicing"
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8614285714285714,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Jim Mitchell": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": -0.031249999999999993,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Steven Chubak": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "date": "2015-05-07 10:00:00",
+ "James R. Craigie - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.39459459459459456,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   1.0,
+   0.85,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.9181081081081081,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.67,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "Matthew Thomas Farrell - Executive VP, Chief Operating & Financial Officer": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Kevin Michael Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Bill Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.65,
+   1.0
+  ]
+ },
+ "Jason M. English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.688,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.69
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jason M. Gere - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Ferrara - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

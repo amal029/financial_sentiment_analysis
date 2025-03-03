@@ -1,0 +1,359 @@
+{
+ "date": "2018-07-25 08:30:00",
+ "Helen Wilson - Chubb Ltd.": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Evan G. Greenberg - Chubb Ltd.": {
+  "avg_sentiment_score": 0.134,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Philip V. Bancroft - Chubb Ltd.": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.823076923076923,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "Advisor"
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.654,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.67,
+   1.0
+  ]
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Gregory Peters - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": -0.05714285714285715,
+  "sentiment_score": [
+   0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Yaron Kinar - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.85,
+   0.0,
+   0.1,
+   1.0
+  ],
+  "avg_confidence": 0.815,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Jay A. Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Jon Paul Newsome - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.75,
+   0.65
+  ]
+ },
+ "Ian J. Gutterman - Balyasny Asset Management LP": {
+  "avg_sentiment_score": 0.09642857142857143,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8692857142857143,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Meyer Shields - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Meredith - UBS Securities LLC": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ }
+}

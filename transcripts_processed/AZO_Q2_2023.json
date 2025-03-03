@@ -1,0 +1,219 @@
+{
+ "date": "2023-02-28 10:00:00",
+ "Brian Campbell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Rhodes": {
+  "avg_sentiment_score": 0.3826086956521739,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   0.45,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   -0.35,
+   0.0,
+   -0.45,
+   0.55,
+   1.0,
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8382608695652174,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.68,
+   1.0,
+   0.75
+  ]
+ },
+ "Jamere Jackson": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   0.55,
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.85,
+   1.0
+  ]
+ },
+ "Bret Jordan": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Zach Fadem": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Jackie Sussman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Bellinger": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Atul Maheswari": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.67
+  ]
+ }
+}

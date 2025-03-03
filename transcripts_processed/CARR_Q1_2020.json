@@ -1,0 +1,253 @@
+{
+ "date": "2020-05-08 08:30:00",
+ "Sam Pearlstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Dave Gitlin": {
+  "avg_sentiment_score": 0.37799999999999995,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.05,
+   0.25,
+   1.0,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8136,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   0.8,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Tim McLevish": {
+  "avg_sentiment_score": 0.06363636363636366,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.75,
+   0.65,
+   0.55,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Special Advisor to the CEO"
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7779999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.69
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Carter Copeland": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Gitlin": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.15,
+   0.1,
+   1.0
+  ],
+  "avg_confidence": 0.6266666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

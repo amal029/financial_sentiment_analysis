@@ -1,0 +1,368 @@
+{
+ "date": "2020-02-05 22:30:00",
+ "Jason Reilley": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Timothy Naughton": {
+  "avg_sentiment_score": 0.1535714285714286,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   -0.35,
+   -0.15,
+   0.55,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Sean Breslin": {
+  "avg_sentiment_score": 0.17954545454545456,
+  "sentiment_score": [
+   0.05,
+   0.4,
+   0.0,
+   -0.15,
+   0.45,
+   -0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   -0.15,
+   -0.15,
+   -0.45,
+   1.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7386363636363636,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Kevin O'Shea": {
+  "avg_sentiment_score": 0.39,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.55,
+   0.35,
+   0.45
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Nicholas Joseph": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Hightower": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.5666666666666667,
+  "confidence": [
+   0.6,
+   0.5,
+   0.6
+  ]
+ },
+ "Lauren Weston": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Alua Noyan Askarbek": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ]
+ },
+ "Matthew Birenbaum": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.65,
+   0.85,
+   0.15,
+   0.65,
+   0.0,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "John Guinee": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nicholas Yulico": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Alexander Kubicek": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard Skidmore": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Derek Johnston": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "John Pawlowski": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Charles Brunner": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Richard Anderson": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   -0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Hardik Goel": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alexander Goldfarb": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Haendel St. Juste": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

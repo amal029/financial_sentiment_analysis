@@ -1,0 +1,215 @@
+{
+ "date": "2019-11-06 17:00:00",
+ "James Eglseder": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronald F. Clarke": {
+  "avg_sentiment_score": 0.33461538461538465,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.6,
+   0.85,
+   0.85,
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   -0.45,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.6,
+   0.55,
+   -0.15,
+   0.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8384615384615385,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Eric R. Dey": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9800000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CFO & Secretary"
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Trevor Williams": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Napoli": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Ryan Cary": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ashish Sabadra": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "John Davis": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jennifer Dugan": {
+  "avg_sentiment_score": -0.1875,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Damian Wille": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

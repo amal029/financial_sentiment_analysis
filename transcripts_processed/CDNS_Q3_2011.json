@@ -1,0 +1,149 @@
+{
+ "date": "2011-10-26 17:00:00",
+ "Alan Lindstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Lip-Bu Tan": {
+  "avg_sentiment_score": 0.7045454545454546,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.45,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.15,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.6,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Geoff Ribar": {
+  "avg_sentiment_score": 0.2888888888888889,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5611111111111111,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.5,
+   0.4,
+   0.6
+  ],
+  "title": "Senior Advisor"
+ },
+ "Paul Thomas \u2013 Bank of America": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Rich Valera \u2013 Needham and Company": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Raj Seth \u2013 Cowen and Company": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Saket Kalia \u2013 JPMorgan": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer \u2013 Griffin Securities": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

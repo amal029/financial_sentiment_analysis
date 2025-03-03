@@ -1,0 +1,237 @@
+{
+ "date": "2016-10-26 09:00:00",
+ "Timothy K. Leveridge - The Coca-Cola Co.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Ahmet Muhtar Kent - The Coca-Cola Co.": {
+  "avg_sentiment_score": 0.21923076923076923,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.926923076923077,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman of the Board and Chief Executive Officer"
+ },
+ "James Quincey - The Coca-Cola Co.": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7708333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Kathy N. Waller - The Coca-Cola Co.": {
+  "avg_sentiment_score": -0.06499999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.885,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Nik Modi - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dara W. Mohsenian - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "William Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Holland - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale SA (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bonnie L. Herzog - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brett Cooper - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Judy E. Hong - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ }
+}

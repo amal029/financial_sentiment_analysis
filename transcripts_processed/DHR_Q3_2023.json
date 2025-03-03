@@ -1,0 +1,165 @@
+{
+ "date": "2023-10-24 08:00:00",
+ "John Bedford": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Rainer Blair": {
+  "avg_sentiment_score": 0.29523809523809524,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -0.15,
+   -0.15,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.15,
+   1.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8423809523809525,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Dan Brennan": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt McGrew": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Rachel Vatnsdal": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

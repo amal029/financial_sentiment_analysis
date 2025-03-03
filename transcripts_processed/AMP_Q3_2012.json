@@ -1,0 +1,232 @@
+{
+ "date": "2012-10-25 00:00:00",
+ "Alicia Charity": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Jim Cracchiolo": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.85,
+   0.65,
+   0.45,
+   0.65,
+   -0.45,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Walter Berman": {
+  "avg_sentiment_score": 0.16956521739130437,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8717391304347827,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Chief Risk Officer"
+ },
+ "Jay Gelb": {
+  "avg_sentiment_score": -0.11000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Berg": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.13749999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   1.0,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Alexander Blostein": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Jeffrey Schuman": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Hall": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6
+  ]
+ }
+}

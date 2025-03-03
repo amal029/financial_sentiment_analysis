@@ -1,0 +1,408 @@
+{
+ "date": "2012-04-24 00:00:00",
+ "Edmund Kroll": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael Neidorff": {
+  "avg_sentiment_score": 0.1577777777777778,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "Chairman (Leave of Absence)"
+ },
+ "William Scheffel": {
+  "avg_sentiment_score": 0.23275862068965517,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.05,
+   0.15,
+   0.0,
+   -0.15,
+   0.45,
+   -0.45,
+   1.0,
+   -0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.55,
+   0.05,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7362068965517242,
+  "confidence": [
+   0.0,
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Executive Vice President and Treasurer"
+ },
+ "Joshua Raskin": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Jesse Hunter": {
+  "avg_sentiment_score": 0.17222222222222222,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Charles Boorady": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Costa": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Carl McDonald": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Matthew Borsch": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Christian Rigg": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Scott Green": {
+  "avg_sentiment_score": 5.204170427930421e-18,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Fidel": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Sarah James": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "David Windley": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Baker": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mary Mason": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Melissa McGinnis": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Wright": {
+  "avg_sentiment_score": -0.041666666666666664,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   -0.15,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6916666666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ }
+}

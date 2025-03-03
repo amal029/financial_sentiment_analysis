@@ -1,0 +1,274 @@
+{
+ "date": "2009-12-21 09:30:00",
+ "Gary Rodkin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Special Advisor"
+ },
+ "Chris Klinefeller ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Gary Rodkin ": {
+  "avg_sentiment_score": 0.4076923076923077,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.8269230769230769,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "John Gehring ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.4,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Bryan Spillane - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andre Hawaux ": {
+  "avg_sentiment_score": 0.36538461538461536,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85
+  ],
+  "title": "President of Consumer Foods"
+ },
+ "David Palmer - UBS Securities ": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Driscoll - Citigroup ": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Terry Bivens - JPMorgan": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Katzman - Deutsche Bank Securities ": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Sharpe ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Andrew Lazar - Barclays Capital ": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Chris Growe - Stifel Nicolaus ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow \u2013 Credit Suisse ": {
+  "avg_sentiment_score": 0.2166666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Serotta \u2013 Consumer Edge Research ": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ }
+}

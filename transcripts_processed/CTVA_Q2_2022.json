@@ -1,0 +1,189 @@
+{
+ "date": "2022-08-05 09:00:00",
+ "Kim Booth": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.5499999999999999,
+  "confidence": [
+   0.5,
+   0.75,
+   0.4
+  ]
+ },
+ "Chuck Magro": {
+  "avg_sentiment_score": 0.3222222222222222,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   0.9,
+   0.5,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.6,
+   0.75
+  ]
+ },
+ "Dave Anderson": {
+  "avg_sentiment_score": 0.5285714285714286,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.15,
+   0.55,
+   0.65,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.85
+  ]
+ },
+ "Vincent Andrews": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joel Jackson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Glenn": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Vice President of Seed Business Unit"
+ },
+ "David Begleiter": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert King": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.9
+  ],
+  "title": "Executive Vice President of Crop Protection Business Unit"
+ },
+ "Kevin McCarthy": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Parkinson": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "P.J. Juvekar": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey Zekauskas": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Byrne": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Piken": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

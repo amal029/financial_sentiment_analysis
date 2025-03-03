@@ -1,0 +1,273 @@
+{
+ "date": "2011-01-27 16:30:00",
+ "Gregory Johnson": {
+  "avg_sentiment_score": 0.21964285714285717,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.45,
+   0.45,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.15,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "William Katz - Citigroup Inc": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   0.6
+  ]
+ },
+ "Kenneth Lewis": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "EVP & CFO"
+ },
+ "Michael Kim - Sandler O'Neill & Partners": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Roger Freeman - Barclays Capital": {
+  "avg_sentiment_score": 0.15833333333333335,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.45,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Carrier - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "J. Jeffrey Hopson - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Daniel Fannon - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kenneth Worthington - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cynthia Mayer - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Glenn Schorr - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marc Irizarry - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Casteleyn - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

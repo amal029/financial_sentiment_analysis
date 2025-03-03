@@ -1,0 +1,125 @@
+{
+ "date": "2018-10-31 08:30:00",
+ "Robert Houghton - C.H. Robinson Worldwide, Inc.": {
+  "avg_sentiment_score": 0.05952380952380952,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6904761904761906,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   0.4,
+   0.4
+  ]
+ },
+ "John P. Wiehoff - C.H. Robinson Worldwide, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.45,
+   0.55,
+   -0.15,
+   0.45,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.7687499999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Andrew C. Clarke - C.H. Robinson Worldwide, Inc.": {
+  "avg_sentiment_score": 0.5142857142857142,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.9,
+   0.8,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.9
+  ]
+ },
+ "Robert C. Biesterfeld, Jr. - C.H. Robinson Worldwide, Inc.": {
+  "avg_sentiment_score": 0.4875,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ }
+}

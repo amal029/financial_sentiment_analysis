@@ -1,0 +1,249 @@
+{
+ "date": "2019-02-13 16:30:00",
+ "Marilyn Mora": {
+  "avg_sentiment_score": 0.00625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Chuck Robbins": {
+  "avg_sentiment_score": 0.5657894736842105,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   1.0,
+   0.05,
+   0.65,
+   0.15,
+   -0.15,
+   0.45,
+   0.15,
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7447368421052631,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Kelly Kramer": {
+  "avg_sentiment_score": 0.32083333333333336,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.6,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9083333333333333,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Jim Suva": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vijay Bhagavath": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rod Hall": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Paul Silverstein": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ittai Kidron ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ittai Kidron": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Samik Chatterjee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tal Liani": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Tejas Venkatesh": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Pierre Ferragu": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sami Badri": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Steve Milunovich": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "James Faucette": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

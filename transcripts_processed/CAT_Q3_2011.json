@@ -1,0 +1,323 @@
+{
+ "date": "2011-10-24 23:00:00",
+ "Mike DeWalt": {
+  "avg_sentiment_score": 0.23648648648648649,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.35,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8540540540540541,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Volkmann \u2013 Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Volkmann \u2013 Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Wertheimer \u2013 Vertical Research Partners, LLC.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.768,
+  "confidence": [
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Douglas R. Oberhelman": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Andrew Kaplowitz \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward J. Rapp": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.05,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "Group President for Resource Industries"
+ },
+ "Ted Grace \u2013 Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.736,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Robert F. McCarthy \u2013 Robert W. Baird & Co": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jerry Revich \u2013 Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Henry Kirn \u2013 UBS Investment Bank": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Doug Oberhelman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Raso \u2013 ISI Group Inc.": {
+  "avg_sentiment_score": 0.4666666666666666,
+  "sentiment_score": [
+   -0.45,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7733333333333334,
+  "confidence": [
+   0.75,
+   0.9,
+   0.67
+  ]
+ },
+ "Seth Weber \u2013 RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.68,
+   0.75,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Eli Lustgarten \u2013 Longbow Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Jamie Cook \u2013 Credit Suisse Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

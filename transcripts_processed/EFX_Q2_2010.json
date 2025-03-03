@@ -1,0 +1,269 @@
+{
+ "date": "2010-07-29 08:30:00",
+ "Jeff Dodge": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Smith": {
+  "avg_sentiment_score": 0.4133333333333334,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.6,
+   0.65,
+   -1.0,
+   1.0,
+   -0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8571111111111112,
+  "confidence": [
+   0.85,
+   0.4,
+   0.65,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Lee Adrean": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Corporate Vice President"
+ },
+ "Carter Malloy \u2013 Stephens": {
+  "avg_sentiment_score": 0.22916666666666666,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Jeffrey \u2013 SunTrust": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Dave Lewis \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Warmington \u2013 Raymond James": {
+  "avg_sentiment_score": 0.39375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "George Mihalos \u2013 Bank of America": {
+  "avg_sentiment_score": 0.4083333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ }
+}

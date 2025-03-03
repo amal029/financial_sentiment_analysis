@@ -1,0 +1,349 @@
+{
+ "date": "2017-11-01 16:30:00",
+ "Matt Dolan - DexCom, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Ronald Sayer - DexCom, Inc.": {
+  "avg_sentiment_score": 0.31486486486486487,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.15,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.85,
+   -0.45,
+   0.55,
+   0.85,
+   0.75,
+   0.0,
+   0.45,
+   -0.15,
+   0.85,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8283783783783784,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman, CEO & President"
+ },
+ "Steven Robert Pacelli - DexCom, Inc.": {
+  "avg_sentiment_score": 0.14583333333333334,
+  "sentiment_score": [
+   0.55,
+   0.35,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   1.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.8
+  ]
+ },
+ "Quentin Blackford - DexCom, Inc.": {
+  "avg_sentiment_score": 0.5875,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "CFO & COO"
+ },
+ "David R. Lewis - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jeffrey D. Johnson - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Weinstein - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jayson T. Bedford - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kyle William Rose - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Doug Schenkel - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Danielle J. Antalffy - Leerink Partners LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Margaret M. Kaczor - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.5
+  ]
+ },
+ "J. P. McKim - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Raj Denhoy - Jefferies LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Joanne K. Wuensch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Taylor - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tao L. Levy - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Suraj Kalia - Northland Securities, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Cooley - Stephens, Inc.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Steven Lichtman - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

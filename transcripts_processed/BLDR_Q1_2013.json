@@ -1,0 +1,302 @@
+{
+ "date": "2013-04-26 11:00:00",
+ "Floyd F. Sherman": {
+  "avg_sentiment_score": 0.23513513513513512,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.65,
+   0.65,
+   0.0,
+   0.6,
+   0.85,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.55,
+   -0.45,
+   -0.45,
+   0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8013513513513513,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "M. Chad Crow": {
+  "avg_sentiment_score": 0.27391304347826084,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8478260869565217,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Trey Grooms - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Seth B. Yeager - Jefferies & Company, Inc. Fixed Income Research": {
+  "avg_sentiment_score": 0.06428571428571428,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Downes": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Neil Williams - Williams Financial Group, Inc., Research Division": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert J. Kelly - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.014285714285714282,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   1.0,
+   0.5,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Matthew Dodson ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ethan Steinberg - SG Capital Management LLC": {
+  "avg_sentiment_score": 0.4642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.05,
+   0.45,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7142857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Shawn Boyd": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ }
+}

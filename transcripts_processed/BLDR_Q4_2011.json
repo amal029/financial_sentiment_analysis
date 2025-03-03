@@ -1,0 +1,212 @@
+{
+ "date": "2012-02-17 00:00:00",
+ "Floyd Sherman": {
+  "avg_sentiment_score": 0.364,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.45,
+   -0.45,
+   0.45,
+   0.65,
+   0.55,
+   1.0,
+   0.85,
+   0.6,
+   0.45,
+   1.0,
+   0.15,
+   -0.35,
+   0.0,
+   -0.15,
+   -0.35,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.742,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "M. Crow": {
+  "avg_sentiment_score": 0.2791666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.6,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Philip Volpicelli": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Yeager": {
+  "avg_sentiment_score": 0.010000000000000014,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brad Bryan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Phillip Wirtz": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Hansen": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "John Kasprzak": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Sean Boyd": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

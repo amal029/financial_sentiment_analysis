@@ -1,0 +1,265 @@
+{
+ "date": "2016-02-03 10:00:00",
+ "Cynthia S. Guenther - Vice President, Finance and Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dean A. Scarborough - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.4421052631578948,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.85,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.65,
+   0.85,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.8578947368421053,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Anne L. Bramman - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.2772727272727273,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7909090909090909,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Mitchell R. Butier - President & Chief Operating Officer": {
+  "avg_sentiment_score": 0.3071428571428571,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.68,
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman"
+ },
+ "Alex Wang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Louis Gaffner - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3111111111111111,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   0.05,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Anthony Pettinari - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Marc Solecitto - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   0.67
+  ]
+ },
+ "Jeffrey J. Zekauskas - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9636363636363636,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher J. Kapsch - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.10714285714285714,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

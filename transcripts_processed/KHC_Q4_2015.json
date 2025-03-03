@@ -1,0 +1,286 @@
+{
+ "date": "2016-02-25 17:00:00",
+ "Christopher M. Jakubik - Kraft Foods Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bernardo Vieira Hees - The Kraft Heinz Co.": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8055555555555556,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Member of Corporate Governance Committee"
+ },
+ "Georges El-Zoghbi - The Kraft Heinz Co.": {
+  "avg_sentiment_score": 0.465,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8445,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68,
+   0.85,
+   1.0,
+   0.8,
+   0.67,
+   1.0,
+   0.85,
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Paulo Luiz Ara\u00fajo Bas\u00edlio - The Kraft Heinz Co.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth B. Goldman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Richard Katzman - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "David Palmer - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lavery - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.4,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Joseph Baumgartner - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia Jane Howard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Cristopher Driscoll - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

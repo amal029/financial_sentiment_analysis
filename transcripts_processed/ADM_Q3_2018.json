@@ -1,0 +1,269 @@
+{
+ "date": "2018-11-06 09:00:00",
+ "Victoria de la Huerga - Archer Daniels Midland Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Juan Ricardo Luciano - Archer-Daniels-Midland Co.": {
+  "avg_sentiment_score": 0.29642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.75,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.55,
+   -0.35,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8464285714285714,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Ray G. Young - Archer-Daniels-Midland Co.": {
+  "avg_sentiment_score": 0.3342105263157895,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8642105263157895,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Vice-Chairman"
+ },
+ "Cornell R. Burnette - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Vincent Stephen Andrews - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Heather Jones - The Vertical Trading Group LLC": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.17142857142857146,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ann P. Duignan - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Eric J. Larson - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Zaslow - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

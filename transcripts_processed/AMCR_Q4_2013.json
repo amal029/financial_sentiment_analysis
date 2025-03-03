@@ -1,0 +1,263 @@
+{
+ "date": "2014-01-30 10:00:00",
+ "Melanie E. R. Miller": {
+  "avg_sentiment_score": 0.40454545454545454,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.65,
+   0.75,
+   0.55,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.7227272727272728,
+  "confidence": [
+   0.8,
+   0.6,
+   0.8,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Erin Winters": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Henry J. Theisen": {
+  "avg_sentiment_score": 0.29791666666666666,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.35,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   0.55,
+   0.55,
+   0.15,
+   0.65,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8095833333333333,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.68,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "William F. Austen": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.55,
+   0.75,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Jerry S. Krempa": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Scott L. Gaffner - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "George L. Staphos - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Anthony Pettinari - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Adam J. Josephson - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Chip A. Dillon - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Philip Ng - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher D. Manuel - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Mark Wilde - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Albert T. Kabili - Macquarie Research": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Alex Ovshey - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.75
+  ]
+ }
+}

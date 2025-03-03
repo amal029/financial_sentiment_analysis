@@ -1,0 +1,249 @@
+{
+ "date": "2010-02-01 10:00:00",
+ "Neil Russell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "William DeLaney": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.05,
+   0.15,
+   0.15,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Kenneth Spitler": {
+  "avg_sentiment_score": 0.13076923076923078,
+  "sentiment_score": [
+   1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   -0.45,
+   0.45,
+   0.05,
+   0.45,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.45,
+   0.45,
+   -0.15,
+   0.0,
+   -0.75,
+   1.0,
+   0.45,
+   -1.0,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.9,
+   0.85
+  ],
+  "title": "Vice Chairman, President, Chief Operating Officer, Member of Executive Committee, Member of Corporate Sustainability Committee, Member of Employee Benefits Committee and Member of Finance Committee"
+ },
+ "Chris Kreidler": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President and Advisor"
+ },
+ "John Heinbockel \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Ivankoe \u2013 J.P. Morgan": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mark Wiltamuth \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ajay Jain \u2013 Hapoalim Securities": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Meredith Adler \u2013 Barclays Capital": {
+  "avg_sentiment_score": -0.009999999999999998,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Wolf \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.05625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Gregory Badishkanian \u2013 Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ }
+}

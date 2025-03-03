@@ -1,0 +1,297 @@
+{
+ "date": "2014-03-27 08:00:00",
+ "KC McClure": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Pierre Nanterme": {
+  "avg_sentiment_score": 0.4425,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.15,
+   0.0,
+   0.85,
+   0.05,
+   0.05,
+   0.85,
+   0.55,
+   1.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.8074999999999999,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.6,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Dave P. Rowland": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   -0.35,
+   0.45,
+   1.0,
+   0.15,
+   1.0,
+   0.85,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8278571428571428,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.68
+  ],
+  "title": "Executive Chairman & Advisor to CEO"
+ },
+ "Tien-Tsin Huang - JPMorgan Chase & Co.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Joseph D. Foresi - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Keith Bachman - BMO Capital Markets": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Kupferberg - Jefferies & Co.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Edward Caso - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "James Friedman - SIG": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Keane - Deutsche Bank": {
+  "avg_sentiment_score": -0.08750000000000001,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   -0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Kathryn L. Huberty - Morgan Stanley": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5675,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Darrin Peller - Barclays Capital": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar - Citigroup Inc.": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,292 @@
+{
+ "date": "2021-11-02 17:00:00",
+ "Arvind Sood": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9039999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Bob Bradway": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "David Reese": {
+  "avg_sentiment_score": 0.6142857142857142,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Murdo Gordon": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.865,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.9
+  ],
+  "title": "Executive Vice President of Global Commercial Operations"
+ },
+ "Peter Griffith": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Michael Yee": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Aspen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Raymond": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gabe Daoud": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.68,
+   0.67
+  ]
+ },
+ "Geoffrey Porges": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alethia Young": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Olson": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sudan Loganathan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gavin": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Carter Gould": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kelcy": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

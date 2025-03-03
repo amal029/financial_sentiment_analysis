@@ -1,0 +1,291 @@
+{
+ "date": "2014-07-22 09:00:00",
+ "Carl Lukach": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Nick Fanandakis": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Jim Borel": {
+  "avg_sentiment_score": 0.5777777777777778,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.45,
+   0.05,
+   0.55,
+   0.65,
+   1.0,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.7388888888888889,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.85
+  ]
+ },
+ "Ellen Kullman": {
+  "avg_sentiment_score": 0.3105263157894737,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.45,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8157894736842105,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Question": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "and": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "John Roberts ": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Andrews ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.55,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Don Carson ": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin McCarthy ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Bob Koort ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Goldman Sachs": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nick Fanandakis ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "P.J. Juvekar ": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "David Begleiter ": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Jeff Zekauskas ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "John McNulty ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Frank Mitch ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

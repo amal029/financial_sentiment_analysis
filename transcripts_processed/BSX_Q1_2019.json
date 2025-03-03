@@ -1,0 +1,75 @@
+{
+ "date": "2019-05-05 08:00:00",
+ "John Gillings": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Todd Newton": {
+  "avg_sentiment_score": 0.44375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0,
+   0.35,
+   0.05,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.70625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Stefanie Cavanaugh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Matt Hewitt": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Andrew Stafford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ }
+}

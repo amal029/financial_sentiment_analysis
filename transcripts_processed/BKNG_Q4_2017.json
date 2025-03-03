@@ -1,0 +1,241 @@
+{
+ "date": "2018-02-27 16:30:00",
+ "Glenn D. Fogel": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   -0.15,
+   0.85,
+   -0.15,
+   0.45,
+   0.45,
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.55,
+   0.85,
+   0.45,
+   0.85,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "David I. Goulden": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Daniel J. Finnegan": {
+  "avg_sentiment_score": 0.71,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.4
+  ],
+  "title": "CFO, Chief Accounting Officer & Ex-Officio Member of Group Management Board"
+ },
+ "Eric J. Sheridan": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Lloyd Walmsley": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Brian Nowak": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9
+  ]
+ },
+ "Mark A. May": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Dae K. Lee": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9
+  ]
+ },
+ "Glenn D. Fogel ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Justin Post ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Justin Post": {
+  "avg_sentiment_score": -0.55,
+  "sentiment_score": [
+   -0.35,
+   -0.75
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Paul Bieber": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9
+  ]
+ },
+ "Kevin Kopelman": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9
+  ]
+ },
+ "Heath Terry": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Deepak Mathivanan": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

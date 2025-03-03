@@ -1,0 +1,267 @@
+{
+ "date": "2011-02-24 17:00:00",
+ "David Gennarelli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Carl Bass": {
+  "avg_sentiment_score": 0.4480769230769231,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.55,
+   0.55,
+   1.0,
+   0.65,
+   0.15,
+   0.15,
+   0.85,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8076923076923077,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "Special Advisor & Director"
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Hawkins": {
+  "avg_sentiment_score": 0.40625,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0,
+   0.05,
+   0.0,
+   0.85,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.9,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Heather Bellini - ISI Group Inc.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis Simson - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Sterling Auty - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Davis - Canaccord Genuity": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steven Ashley - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Weiss - Morgan Stanley": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Kenneth Wong": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Daniel Cummins - ThinkEquity LLC": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Derek Bingham - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Coss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Koenig - Longbow Research LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Israel Hernandez - Barclays Capital": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Blair Abernethy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

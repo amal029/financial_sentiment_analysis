@@ -1,0 +1,247 @@
+{
+ "date": "2012-01-26 11:00:00",
+ "Barbara Brungess": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Steven Collis": {
+  "avg_sentiment_score": 0.40789473684210525,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.45,
+   0.05,
+   0.45,
+   0.55,
+   0.05,
+   0.05,
+   0.55,
+   1.0,
+   0.55,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.7210526315789473,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Michael Dicandilo": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   0.6,
+   0.0,
+   1.0,
+   0.05,
+   -0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6566666666666666,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.8,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Thomas Gallucci": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Kipp Davis": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Coldwell": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Albert Rice": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Charles Rhyee": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": -0.01249999999999999,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "George Hill": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Coffina": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

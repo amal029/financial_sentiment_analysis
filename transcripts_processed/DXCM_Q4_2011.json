@@ -1,0 +1,241 @@
+{
+ "date": "2012-02-23 00:00:00",
+ "Terrance Gregg": {
+  "avg_sentiment_score": 0.371875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.809375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   0.85
+  ],
+  "title": "Executive Chairman"
+ },
+ "Steven Pacelli": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9416666666666668,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Sayer": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.607,
+  "confidence": [
+   0.8,
+   0.67,
+   0.5,
+   0.6,
+   0.6,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman, CEO & President"
+ },
+ "Thomas Gunderson": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ben Andrew": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "William Plovanic": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Amy Yacko": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Sara Michelmore": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John Putnam": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Caroline V. Corner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ben Haynor": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Lau": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.68,
+   0.75
+  ]
+ },
+ "Christopher Hammond": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.65
+  ]
+ },
+ "Greg Chodaczek": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gregory Simpson": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

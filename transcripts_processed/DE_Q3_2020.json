@@ -1,0 +1,287 @@
+{
+ "date": "2020-08-21 10:00:00",
+ "Josh Jepsen": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brent Norwood": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Cory Reed": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President of Worldwide Ag & Turf Div., Production & Precision Ag for Americas and Australia"
+ },
+ "Ryan Campbell": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President of Worldwide Construction, Forestry & Power Systems"
+ },
+ "RobWertheimer": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "BrentNorwood": {
+  "avg_sentiment_score": 0.29444444444444445,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   -0.45,
+   0.05,
+   -0.15,
+   0.45,
+   0.75,
+   0.05,
+   0.65,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.5,
+   0.85,
+   0.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "RyanCampbell": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75
+  ]
+ },
+ "CoryReed": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "AndyCasey": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "StevenVolkmann": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "StevenFisher": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "JerryRevich": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "JoelTiss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "AnnDuignan": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "JoeO'Dea": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "RossGilardi": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "AdamUhlman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "SethWeber": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "CourtneyYakavonis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "DavidRaso": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "MigDobre": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "JamieCook": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "StanleyElliott": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

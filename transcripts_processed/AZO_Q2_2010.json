@@ -1,0 +1,272 @@
+{
+ "date": "2010-03-02 10:00:00",
+ "Bill Rhodes": {
+  "avg_sentiment_score": 0.33235294117647063,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.45,
+   1.0,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8238235294117646,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.69,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.67,
+   0.6
+  ]
+ },
+ "Bill Giles": {
+  "avg_sentiment_score": 0.4727272727272727,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.85,
+   0.5,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CFO and Executive VP of Finance, Information Technology & ALLDATA"
+ },
+ "Alan Rifkin \u2013 Bank of America": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Fassler \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Colin McGranahan \u2013 Bernstein": {
+  "avg_sentiment_score": 0.37142857142857144,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7742857142857142,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Ben \u2013 Morgan Keegan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ },
+ "Kate McShane \u2013 Citi Investment Research": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Tony Cristello \u2013 BB&T Capital": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "William Truelove \u2013 UBS": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Sindler \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Lasser \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Ivan Holman \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "date": "2023-10-28 08:30:00",
+ "Tina Romani": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Thibaut Mongon": {
+  "avg_sentiment_score": 0.46249999999999997,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.05,
+   1.0,
+   -0.15,
+   0.15,
+   0.65,
+   0.85,
+   0.45,
+   0.45,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Paul Ruh": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Andrea Teixeira": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason English": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.75
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "Anna Lizzul": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Filippo Falorni": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Susan Anderson": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

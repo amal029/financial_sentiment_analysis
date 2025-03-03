@@ -1,0 +1,203 @@
+{
+ "date": "2016-07-28 11:00:00",
+ "Derek McCandless": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tom Ray": {
+  "avg_sentiment_score": 0.6325000000000001,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.75,
+   1.0,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7545,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.69,
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Steven Smith": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jeff Finnin": {
+  "avg_sentiment_score": 0.3416666666666666,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.75,
+   0.5,
+   0.9
+  ]
+ },
+ "Michael Hart": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Rodgers": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Barry McCarver": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Jordan Sadler": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Manny Korchman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Bilerman": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Colby Synesael": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew Heinz": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

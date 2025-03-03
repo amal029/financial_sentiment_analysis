@@ -1,0 +1,319 @@
+{
+ "date": "2018-05-02 08:30:00",
+ "Elena Rosman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kevin Clark": {
+  "avg_sentiment_score": 0.39305555555555555,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.65,
+   0.45,
+   0.85,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.9,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Joe Massaro": {
+  "avg_sentiment_score": 0.35192307692307695,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8442307692307692,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Senior VP of Business Operations & CFO"
+ },
+ "Joseph Spak": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Johnson": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris McNally": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rod Lache": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.794,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "David Leiker": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.15625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8475,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "David Tamberrino": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.836,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "David Lim": {
+  "avg_sentiment_score": 0.025000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.55,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.8616666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Itay Michaeli": {
+  "avg_sentiment_score": 0.6900000000000001,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.634,
+  "confidence": [
+   0.67,
+   0.75,
+   0.4,
+   0.68,
+   0.67
+  ]
+ }
+}

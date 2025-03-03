@@ -1,0 +1,274 @@
+{
+ "date": "2014-09-17 08:30:00",
+ "Kris Wenker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Don Mulligan": {
+  "avg_sentiment_score": 0.24722222222222223,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John Church": {
+  "avg_sentiment_score": 0.7999999999999999,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75
+  ],
+  "title": "Chief Transformation & Enterprise Services Officer"
+ },
+ "Ken Powell": {
+  "avg_sentiment_score": 0.16874999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8937499999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Ken Goldman - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Growe - Stifel": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Katzman - General Mills": {
+  "avg_sentiment_score": -0.05000000000000001,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Bryan Spillane - Bank of America": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Zaslow - BMO capital markets": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "John Baumgartner - Wells Fargo": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "David Driscoll - Citi": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8859999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Alexia Howard - Sanford Bernstein": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

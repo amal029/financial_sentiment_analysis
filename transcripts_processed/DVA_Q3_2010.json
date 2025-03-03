@@ -1,0 +1,412 @@
+{
+ "date": "2010-11-05 17:00:00",
+ "Jim Gustafson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kent Thiry": {
+  "avg_sentiment_score": 0.03297872340425532,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.45,
+   -0.45,
+   -0.35,
+   -1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7914893617021277,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.5,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Luis Borgen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Hoernemann - Feltl and Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Lake - UBS Investment Bank": {
+  "avg_sentiment_score": 0.16363636363636364,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Darren Lehrich - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.04375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "LeAnne Zumwalt": {
+  "avg_sentiment_score": -0.04375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Andreas Dirnagl - Stephens Inc.": {
+  "avg_sentiment_score": -0.10384615384615385,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7884615384615384,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Kevin Ellich - RBC Capital Markets Corporation": {
+  "avg_sentiment_score": -0.10555555555555556,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.55,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Fischbeck - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.45,
+   0.1,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Whitney": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Taylor - Citigroup Inc": {
+  "avg_sentiment_score": -0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Mark Arnold - Piper Jaffray Companies": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

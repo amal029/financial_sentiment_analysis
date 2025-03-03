@@ -1,0 +1,248 @@
+{
+ "date": "2016-04-27 12:45:00",
+ "Dexter Congbalay - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Irene B. Rosenfeld - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.46071428571428574,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.15,
+   0.85,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   -0.35,
+   0.55,
+   0.85,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8107142857142857,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Brian T. Gladden - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.31764705882352945,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.6,
+   -0.35,
+   0.0,
+   0.55,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8011764705882354,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew C. Grainger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "David Palmer - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Joshua A. Levine - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alexia Jane Howard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Cristopher Driscoll - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.4875,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ }
+}

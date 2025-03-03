@@ -1,0 +1,388 @@
+{
+ "date": "2011-06-09 08:30:00",
+ "Mark Belgya": {
+  "avg_sentiment_score": 0.10882352941176471,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8352941176470587,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "Tim Smucker": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Mark Smucker": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Richard Smucker": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Katzman - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Byrd": {
+  "avg_sentiment_score": 0.12222222222222223,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.9,
+   0.4,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Vice Chairman, President and Chief Operating Officer"
+ },
+ "Steven Oakland": {
+  "avg_sentiment_score": 0.6083333333333333,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.15,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.8
+  ],
+  "title": "Vice Chair & President of U.S Food & Beverage"
+ },
+ "Farha Aslam - Stephens Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Cerankosky - Northcoast Research": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Wagstaff": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "Director and President of U.S. Retail Consumer Foods"
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jon Andersen - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David Driscoll - Citigroup Inc": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.5625,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.4
+  ]
+ },
+ "Mike Otway - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jane Gelfand - Barclays Capital": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Judy Hong - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Edward Aaron - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Robert Dickerson - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8233333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.67
+  ]
+ },
+ "Mitchell Pinheiro - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.031818181818181815,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8545454545454546,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

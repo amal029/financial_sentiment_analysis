@@ -1,0 +1,158 @@
+{
+ "date": "2023-07-20 09:00:00",
+ "James Bushnell": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Emmanuel Babeau": {
+  "avg_sentiment_score": 0.4852941176470588,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.55,
+   0.15,
+   0.05,
+   0.85,
+   0.85,
+   0.65,
+   0.05,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7647058823529411,
+  "confidence": [
+   0.0,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.5,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Pamela Kaufman": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Vivien Azer": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Gaurav Jain": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bonnie Herzog": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Matt Smith": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.85,
+   0.68
+  ]
+ },
+ "Owen Bennett": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jared Dinges": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

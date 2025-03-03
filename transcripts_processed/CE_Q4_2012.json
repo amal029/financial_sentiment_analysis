@@ -1,0 +1,405 @@
+{
+ "date": "2013-01-29 10:00:00",
+ "Jon Puckett": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8907142857142858,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Mark C. Rohr": {
+  "avg_sentiment_score": 0.27272727272727276,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.8365909090909093,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.64,
+   0.8,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Jon Puckett ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kevin McCarthy \u2013 Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Duffy Fischer \u2013 Barclays": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Doug Madden": {
+  "avg_sentiment_score": 0.3692307692307693,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   1.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8576923076923078,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.68,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Mike Ritzenthaler \u2013 Piper Jaffray": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "P.J. Juvekar \u2013 Citi": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "David Begleiter \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Sterin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Laurence Alexander \u2013 Jefferies & Company": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Zekauskas \u2013 JPMorgan Securities, Inc": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Nils Wallin \u2013 CLSA": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Frank Mitsch \u2013 Wells Fargo": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Hassan Ahmed \u2013 Alembic Global Advisors": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Robert Koort \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.9,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christoper W. Jensen": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vincent Andrews \u2013 Morgan Stanley": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Mcnulty \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ }
+}

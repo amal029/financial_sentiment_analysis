@@ -1,0 +1,199 @@
+{
+ "date": "2011-04-28 09:00:00",
+ "Robin Wilkey": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Daniel Amos": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Randy Binner - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Kriss Cloninger": {
+  "avg_sentiment_score": -0.07727272727272727,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Janke": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joanne Smith - Scotia Capital Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Amos": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Edward Spehar - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Darin Arita - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Toru Tonoike": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Vice Chairman of Aflac Japan"
+ },
+ "Nigel Dally - Morgan Stanley": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Nadel - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

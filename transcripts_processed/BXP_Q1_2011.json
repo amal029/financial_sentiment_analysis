@@ -1,0 +1,356 @@
+{
+ "date": "2011-05-03 10:00:00",
+ "Arista Joyner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mortimer Zuckerman": {
+  "avg_sentiment_score": 0.34375,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.05,
+   -0.45,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   -0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.796875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.65
+  ],
+  "title": "Co-Founder and Executive Chairman"
+ },
+ "Douglas Linde": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.05,
+   0.65,
+   0.55,
+   0.0,
+   0.75,
+   0.55,
+   -0.45,
+   0.15,
+   0.65,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7071428571428571,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6
+  ],
+  "title": "President & Director"
+ },
+ "Michael LaBelle": {
+  "avg_sentiment_score": 0.12307692307692308,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.15,
+   0.15,
+   0.15,
+   0.05,
+   -0.15,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7192307692307692,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP, Treasurer & CFO"
+ },
+ "James Sullivan - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Robert Pester": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Alexander David Goldfarb": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Sakwa - ISI Group Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeffrey Spector - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "James Feldman - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mitchell Germain - JMP Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Knott - Green Street Advisors": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Bilerman - Citigroup Inc": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Suzanne Kim - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jordan Sadler - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.016666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Jay Habermann - Goldman Sachs": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Robert Stevenson - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David Harris - Gleacher & Company, Inc.": {
+  "avg_sentiment_score": 0.014285714285714282,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Ross Nussbaum - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Benyik - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.4
+  ]
+ }
+}

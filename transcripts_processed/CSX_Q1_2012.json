@@ -1,0 +1,461 @@
+{
+ "date": "2012-04-18 08:30:00",
+ "David Baggs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Jon Ward": {
+  "avg_sentiment_score": 0.228125,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Consultant"
+ },
+ "Clarence W. Gooden": {
+  "avg_sentiment_score": 0.12307692307692307,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8717948717948718,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "President"
+ },
+ "Oscar Munoz": {
+  "avg_sentiment_score": 0.2777777777777778,
+  "sentiment_score": [
+   0.85,
+   0.6,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Fredrik J. Eliasson": {
+  "avg_sentiment_score": 0.19166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.35,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Sales & Marketing Officer and Executive Vice President"
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Robert H. Salmon - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Brandon R. Oglenski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Jason H. Seidl - Dahlman Rose & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.5
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "John G. Larkin - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Cherilyn Radbourne - TD Securities Equity Research": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Benjamin J. Hartford - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "H. Peter Nesvold - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew Troy - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Walter Spracklin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.35,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Jeffrey A. Kauffman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Anthony P. Gallo - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Schoonmaker - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

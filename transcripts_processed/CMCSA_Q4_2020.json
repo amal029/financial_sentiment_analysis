@@ -1,0 +1,257 @@
+{
+ "date": "2021-01-28 08:30:00",
+ "Marci Ryvicker ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Roberts ": {
+  "avg_sentiment_score": 0.4772727272727273,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8818181818181817,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Mike Cavanagh": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President"
+ },
+ "Ben Swinburne": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.785,
+  "confidence": [
+   0.9,
+   0.67
+  ]
+ },
+ "Dave Watson": {
+  "avg_sentiment_score": 0.5357142857142857,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "President & CEO of Comcast Cable"
+ },
+ "Marci Ryvicker": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.67,
+   0.6
+  ]
+ },
+ "Jessica Ehrlich ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeff Shell ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Executive Officer of NBCUniversal"
+ },
+ "Jessica Ehrlich": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Doug Mitchelson": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Roberts": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Jeff Shell": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85
+  ]
+ },
+ "Phil Cusick": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mike Cavanagh ": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85
+  ]
+ },
+ "Craig Moffett ": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dana Strong ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

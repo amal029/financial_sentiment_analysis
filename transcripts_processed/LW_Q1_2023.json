@@ -1,0 +1,207 @@
+{
+ "date": "2022-10-05 10:00:00",
+ "Dexter Congbalay": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Tom Werner": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -0.15,
+   -1.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Bernadette Madarieta ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Tom Werner ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Bernadette Madarieta": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   -0.35,
+   1.0,
+   0.85,
+   1.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.9,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Peter Galbo": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Tom Palmer": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Dickerson": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rob Dickerson ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "William Reuter": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Carla Casella": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Carla Casella ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

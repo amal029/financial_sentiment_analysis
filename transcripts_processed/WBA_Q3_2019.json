@@ -1,0 +1,208 @@
+{
+ "date": "2019-06-27 08:30:00",
+ "Gerald Gradwell": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stefano Pessina": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "James Kehoe": {
+  "avg_sentiment_score": 0.22272727272727275,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.05,
+   0.05,
+   -0.15,
+   1.0,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.729090909090909,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.67,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Executive VP & Global CFO"
+ },
+ "Alex Gourlay": {
+  "avg_sentiment_score": 0.3066666666666667,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Senior Advisor"
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Eugene Kim": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Eric Percher": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Elizabeth Anderson": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Glen Santangelo": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Cherny": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

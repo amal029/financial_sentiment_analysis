@@ -1,0 +1,299 @@
+{
+ "date": "2014-01-17 08:00:00",
+ "Andy Clark": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gerald L. Hassell": {
+  "avg_sentiment_score": 0.4394736842105263,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.55,
+   0.55,
+   0.65,
+   0.6,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8447368421052632,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman"
+ },
+ "Thomas P. Gibbons": {
+  "avg_sentiment_score": 0.10238095238095238,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.15,
+   0.55,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Betsy Graseck - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Curtis Y. Arledge": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.35,
+   0.55
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.85,
+   0.8,
+   0.85,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chairman, Vice Chairman of Bny Mellon, N.A., Chief Executive Officer of Investment Management and Chief Executive Officer of Bny Mellon Markets Group"
+ },
+ "Kenneth M. Usdin - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Glenn Schorr - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ashley N. Serrao - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Brian T. Shea": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Josh Levin - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Luke Montgomery - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Mayo - CLSA Limited, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Cynthia Mayer - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy F. Keaney": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Vice Chairman and Chief Executive Officer of Investment Services"
+ },
+ "Andrew Marquardt - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

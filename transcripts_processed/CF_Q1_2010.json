@@ -1,0 +1,177 @@
+{
+ "date": "2010-05-07 10:00:00",
+ "Terrell Huch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Stephen Wilson": {
+  "avg_sentiment_score": 0.2529411764705882,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.15,
+   0.15,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6735294117647057,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.5,
+   0.6,
+   0.85,
+   0.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Anthony Nocchiero": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.8,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Jeffrey Zekauskas - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mark Connelly - Credit Suisse": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Silver - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Donald Carson - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Edlain Rodriguez - Broadpoint AmTech, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Horst Hueniken - Thomas Weisel Partners Equity Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Chris Damas": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Picken - CRC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

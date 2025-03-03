@@ -1,0 +1,249 @@
+{
+ "date": "2020-05-06 09:30:00",
+ "Patrick Nolan": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9049999999999999,
+  "confidence": [
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Fr\u00e9d\u00e9ric Lissalde": {
+  "avg_sentiment_score": 0.07692307692307693,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   -0.35,
+   0.65,
+   -0.45,
+   0.65,
+   0.0,
+   -0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kevin Nowlan": {
+  "avg_sentiment_score": 0.12352941176470589,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.35,
+   -0.15,
+   0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7323529411764705,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John Murphy": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Erin Welcenbach": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Galves": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Johnson": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "so for": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris McNally": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Joe Spak": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "James Picariello": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Armintas Sinkevicius": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dan Levy": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

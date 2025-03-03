@@ -1,0 +1,303 @@
+{
+ "date": "2009-11-23 10:00:00",
+ "Jennifer Driscoll": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.818,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.8
+  ]
+ },
+ "Douglas R. Conant": {
+  "avg_sentiment_score": 0.43863636363636366,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.15,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.85,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8022727272727272,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.4,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director, Member of Compensation and Organization Committee, Member of Finance and Corporate Development Committee and Member of Finance and Corporate Development Committee"
+ },
+ "B. Craig Owens": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   0.25,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Chief Administrative Officer and Senior Vice President"
+ },
+ "Eric Katzman - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Lazar - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Growe - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Anthony DiSilvestro": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Bryan Spillane - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Alexia Howard - Sanford Bernstein": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Terry Bivens - J.P. Morgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Driscoll \u2013 Citi": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Serotta - Consumer Edge Research": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Judy Hong - Goldman Sachs": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jonathan Feeney - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Douglas R. Conant ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

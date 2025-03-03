@@ -1,0 +1,421 @@
+{
+ "date": "2014-11-11 10:00:00",
+ "Jessica Hansen": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.735,
+  "confidence": [
+   0.4,
+   0.9,
+   0.4,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "David Auld": {
+  "avg_sentiment_score": 0.5473684210526316,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.45,
+   0.55,
+   0.0,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7836842105263159,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.67,
+   0.4,
+   0.4,
+   1.0,
+   0.9,
+   0.67,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Michael Murray": {
+  "avg_sentiment_score": 0.215,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   -1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.9,
+   0.8,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Wheat": {
+  "avg_sentiment_score": 0.36363636363636365,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.55,
+   -0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.6181818181818182,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "David Auld ": {
+  "avg_sentiment_score": 0.5388888888888889,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8194444444444444,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Murray ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Kim - Barclays Capital": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jessica Hansen ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Kenneth Zener - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.15,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Michael Rehaut - JPMorgan": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen F. East \u2013 International Strategy & Investment Group": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Adam Rudiger \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Wetenhall \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Goldberg \u2013 UBS": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "David Goldberg - UBS": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Roxland - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Bosshard \u2013 Cleveland Research Company": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Nishu Sood \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Dahl - Credit Suisse": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jade Rahmani \u2013 Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jade Rahmani - Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Megan McGrath - MKM Partners": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Alex Barron - Housing Research Center": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   1.0
+  ]
+ }
+}

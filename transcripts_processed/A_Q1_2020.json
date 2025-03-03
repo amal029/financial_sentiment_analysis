@@ -1,0 +1,421 @@
+{
+ "date": "2020-02-18 16:30:00",
+ "Ankur Dhingra": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike McMullen": {
+  "avg_sentiment_score": 0.27735849056603773,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8783018867924528,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.68,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Bob McMahon": {
+  "avg_sentiment_score": 0.24464285714285716,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   -0.05,
+   0.05,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.9
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.5,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Blicker": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Sam Raha": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "Senior VP and President of Diagnostics & Genomics Group"
+ },
+ "Dan Leonard": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jacob Thaysen": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75
+  ]
+ },
+ "Jesse Klink": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Arias": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.65,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Derek de Bruin": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brandon Couillard": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Beuchaw": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Quirk": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

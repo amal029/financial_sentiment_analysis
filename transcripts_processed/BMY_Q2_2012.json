@@ -1,0 +1,232 @@
+{
+ "date": "2012-07-25 10:30:00",
+ "John Elicker": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lamberto Andreotti": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.9,
+   0.9,
+   0.4,
+   0.9,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman, Officer, Ex-Officio Member of Audit Committee, Ex-Officio Member of Committee on Directors &  Corporate Governance and Ex-Officio Member of Compensation & Management Development Committee"
+ },
+ "Charles A. Bancroft": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ],
+  "title": "Executive VP, CFO & Head of Global Business Operations"
+ },
+ "Jami Rubin - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Elliott Sigal": {
+  "avg_sentiment_score": 0.33749999999999997,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.5,
+   0.75
+  ]
+ },
+ "David Risinger - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Giovanni Caforio": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.85
+  ]
+ },
+ "Charles Anthony Butler - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Tim Anderson - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marc Goodman - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Beatrice Cazala": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Gregory B. Gilbert - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Catherine J. Arnold - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Scala - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Schott - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

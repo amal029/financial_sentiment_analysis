@@ -1,0 +1,245 @@
+{
+ "date": "2018-07-30 11:00:00",
+ "Amy Campbell": {
+  "avg_sentiment_score": 0.1975,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.85,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.75,
+   0.55,
+   0.15,
+   0.45,
+   0.5,
+   0.0
+  ],
+  "avg_confidence": 0.8025,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Umpleby": {
+  "avg_sentiment_score": 0.5041666666666667,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.65,
+   0.55,
+   0.05,
+   0.55,
+   0.15,
+   0.45,
+   0.45,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Joe Creed": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.4,
+   0.85,
+   1.0
+  ]
+ },
+ "Andrew Casey": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joe O\u2019Dea": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Stephen Volkmann": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Joel Tiss": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Rob Wertheimer": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Mike Shlisky": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.25000000000000006,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ }
+}

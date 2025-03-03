@@ -1,0 +1,299 @@
+{
+ "date": "2011-04-28 08:30:00",
+ "John Peschier": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Craig Donohue": {
+  "avg_sentiment_score": 0.32222222222222224,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   -0.35,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   -0.35,
+   1.0,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Executive Officer, Executive Director, Member of Executive Committee and Member of Strategic Steering Committee"
+ },
+ "James Parisi": {
+  "avg_sentiment_score": 0.45416666666666666,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7791666666666667,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Managing Director of Finance & Corporate Development"
+ },
+ "Roger Freeman - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Bryan Durkin": {
+  "avg_sentiment_score": 0.48888888888888893,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.8,
+   0.85
+  ],
+  "title": "President and Member of Competitive Markets Advisory Council"
+ },
+ "Howard Chen - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Daniel Fannon - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Allen - Evercore Partners Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth Worthington - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Repetto - Sandler O'Neill + Partners, L.P.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Terrence Duffy": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jillian Miller - BMO Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Casteleyn - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Niamh Alexander - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Carrier - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Bedell - ISI Group Inc.": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Heinz - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rob Rutschow - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

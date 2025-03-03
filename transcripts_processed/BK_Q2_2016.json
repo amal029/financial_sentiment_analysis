@@ -1,0 +1,425 @@
+{
+ "date": "2016-07-21 08:00:00",
+ "Valerie C. Haertel - Global Head-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Gerald L. Hassell - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.22258064516129034,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8745161290322581,
+  "confidence": [
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.68,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Chairman"
+ },
+ "Thomas P. Gibbons - Vice Chairman & Chief Financial Officer": {
+  "avg_sentiment_score": 0.14655172413793102,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.45,
+   0.45,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7827586206896552,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Ashley Neil Serrao - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Alexander Blostein - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Brennan McHugh Hawken - UBS Securities LLC": {
+  "avg_sentiment_score": 0.03571428571428571,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Bedell - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Thomas Shea - Vice Chairman & CEO-Investment Services": {
+  "avg_sentiment_score": 0.485,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.747,
+  "confidence": [
+   0.9,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ],
+  "title": "nan"
+ },
+ "Ken Usdin - Jefferies LLC": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Glenn Schorr - Evercore ISI": {
+  "avg_sentiment_score": 0.3416666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8783333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitchell Evan Harris - Chief Executive Officer-Investment Management": {
+  "avg_sentiment_score": 0.19375,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Executive Vice President and Chief Executive Officer of Investment Management"
+ },
+ "Mike Mayo - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Geoffrey Elliott - Autonomous Research LLP": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Elizabeth Lynn Graseck - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James Mitchell - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Adam Q. Beatty - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Gerard Cassidy - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

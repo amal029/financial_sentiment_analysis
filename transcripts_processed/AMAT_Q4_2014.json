@@ -1,0 +1,258 @@
+{
+ "date": "2014-11-13 16:30:00",
+ "Michael Sullivan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary E. Dickerson": {
+  "avg_sentiment_score": 0.5676470588235294,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   -0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.55,
+   0.15,
+   1.0,
+   0.75,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7647058823529411,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "President, CEO & Executive Director"
+ },
+ "Robert J. Halliday": {
+  "avg_sentiment_score": 0.5176470588235295,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0,
+   0.55,
+   0.15,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   0.15,
+   0.0,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.9
+  ]
+ },
+ "Christopher J. Muse - Evercore ISI, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "James V. Covello - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Krish Sankar - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John William Pitzer - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Timothy M. Arcuri - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Atif Malik - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Harlan Sur - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Weston Twigg - Pacific Crest Securities, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Patrick J. Ho - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mark J. Heller - CLSA Limited, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.05,
+   0.6
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Thomas Diffely - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Y. Edwin Mok - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ }
+}

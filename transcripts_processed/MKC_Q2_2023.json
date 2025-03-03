@@ -1,0 +1,285 @@
+{
+ "date": "2023-06-29 08:00:00",
+ "Kasey Jenkins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Lawrence Kurzius": {
+  "avg_sentiment_score": 0.48863636363636365,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.75,
+   0.65,
+   0.15,
+   0.65,
+   0.45,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8059090909090909,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.68,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.9
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Brendan Foley": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.55,
+   0.05,
+   -0.45,
+   0.0,
+   0.85,
+   0.55,
+   0.05,
+   0.65,
+   -0.15,
+   -0.15,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7825,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mike Smith": {
+  "avg_sentiment_score": 0.5433333333333333,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   -0.35,
+   1.0,
+   1.0,
+   0.75,
+   -0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Peter Galbo": {
+  "avg_sentiment_score": 0.39285714285714285,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8028571428571428,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Max Gumport": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Smith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.65
+  ]
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "date": "2014-03-20 09:30:00",
+ "Gary M. Rodkin": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9485714285714286,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Special Advisor"
+ },
+ "Christopher Wright Klinefelter": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John F. Gehring": {
+  "avg_sentiment_score": 0.2605263157894737,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8026315789473685,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Andrew Lazar \u2013 Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Tom McGough": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75
+  ],
+  "title": "COO & Executive VP"
+ },
+ "Bryan D. Spillane \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan P. Feeney \u2013 Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul T. Maass": {
+  "avg_sentiment_score": 0.4571428571428572,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.85
+  ],
+  "title": "President of Private Brands and Commercial Foods"
+ },
+ "Akshay S. Jagdale \u2013 KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Thilo Wrede \u2013 Jefferies LLC": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason M. English \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "David S. Palmer \u2013 RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Alexia Jane Howard \u2013 Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Moskow \u2013 Credit Suisse AG": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Greg Hessler \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

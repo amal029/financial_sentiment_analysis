@@ -1,0 +1,219 @@
+{
+ "date": "2022-04-07 10:30:00",
+ "Dexter Congbalay": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Tom Werner": {
+  "avg_sentiment_score": 0.23461538461538461,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.75,
+   0.15,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8576923076923078,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Bernadette Madarieta": {
+  "avg_sentiment_score": 0.1105263157894737,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8842105263157896,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.65
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Tom Werner ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Peter Galbo ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Lazar ": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Tom Palmer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Dickerson ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Growe ": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.65,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "William Reuter": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

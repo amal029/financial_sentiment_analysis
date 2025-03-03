@@ -1,0 +1,208 @@
+{
+ "date": "2017-07-29 11:00:00",
+ "Constantine Iordanou": {
+  "avg_sentiment_score": 0.025000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.05,
+   -0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.709375,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   0.95,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Marc Grandisson": {
+  "avg_sentiment_score": -0.09642857142857142,
+  "sentiment_score": [
+   -0.15,
+   0.75,
+   -0.35,
+   -0.45,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.55,
+   -0.45,
+   -0.45,
+   0.0,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.7892857142857144,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Mark Lyons": {
+  "avg_sentiment_score": 0.0323529411764706,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8276470588235294,
+  "confidence": [
+   0.6,
+   0.67,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Executive Vice President and Treasurer"
+ },
+ "Kai Pan": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7828571428571429,
+  "confidence": [
+   0.68,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "date": "2020-07-28 16:30:00",
+ "Tom Barth": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Leighton": {
+  "avg_sentiment_score": 0.5538461538461539,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   -0.15,
+   0.65,
+   0.65,
+   -0.35,
+   0.45,
+   0.65,
+   0.65,
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.8423076923076922,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.75
+  ],
+  "title": "Co-Founder, CEO, President & Director"
+ },
+ "Ed McGowan": {
+  "avg_sentiment_score": 0.453125,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.15,
+   0.05,
+   0.75,
+   0.85,
+   0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.759375,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.5,
+   0.85,
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "James Breen": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Colby Synesael": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Josh Baer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.5,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James Fish": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Will Power": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Caroline Liu": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Mahaney": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Tim Horan": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Hannah Rudoff": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Lee Krowl": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Van Rhee": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brandon Nispel": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Roger Boyd": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

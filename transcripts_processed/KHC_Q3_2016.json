@@ -1,0 +1,246 @@
+{
+ "date": "2016-11-04 17:00:00",
+ "Christopher M. Jakubik - Kraft Foods Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Bernardo Vieira Hees - The Kraft Heinz Co.": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Member of Corporate Governance Committee"
+ },
+ "George Zoghbi - The Kraft Heinz Co.": {
+  "avg_sentiment_score": 0.4555555555555556,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   1.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8138888888888889,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.68,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Paulo Luiz Ara\u00fajo Bas\u00edlio - The Kraft Heinz Co.": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Kenneth B. Goldman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Kenneth Bryan Zaslow - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew C. Grainger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Palmer - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "David Cristopher Driscoll - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Joseph Baumgartner - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexia Jane Howard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

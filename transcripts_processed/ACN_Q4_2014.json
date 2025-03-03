@@ -1,0 +1,201 @@
+{
+ "date": "2014-09-24 08:00:00",
+ "KC McClure": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Pierre Nanterme": {
+  "avg_sentiment_score": 0.655,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   0.9,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "David P. Rowland": {
+  "avg_sentiment_score": 0.28250000000000003,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   0.8,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Chairman & Advisor to CEO"
+ },
+ "Bryan Keane - Deutsche Bank Securities": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Grossman - Stifel Nicolaus & Company": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6175,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67,
+   0.65
+  ]
+ },
+ "Darrin Peller - Barclays Capital": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Tien-Tsin Huang - JPMorgan": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "James Friedman - Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa Ellis - Sanford C. Bernstein & Co.": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "KC McClure ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Togut - Evercore Partners": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

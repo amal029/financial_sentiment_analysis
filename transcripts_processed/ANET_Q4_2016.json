@@ -1,0 +1,370 @@
+{
+ "date": "2017-02-16 16:30:00",
+ "Chuck Elliott - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Jayshree Ullal - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.2692307692307692,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8211538461538462,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   0.8,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.3,
+   0.85,
+   0.8,
+   0.6,
+   0.8
+  ],
+  "title": "CEO & Chairperson"
+ },
+ "Ita M. Brennan - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.20714285714285716,
+  "sentiment_score": [
+   0.5,
+   0.55,
+   0.0,
+   -0.35,
+   0.55,
+   0.55,
+   0.45,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "CFO & Senior VP"
+ },
+ "Steven M. Milunovich - UBS Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Kurtz - Pacific Crest Securities": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Anshul Sadana - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.36250000000000004,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Simon M. Leopold - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Jeffrey Kvaal - Nomura Instinet": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Moskowitz - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Vijay Bhagavath - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   1.0,
+   0.85,
+   0.67
+  ]
+ },
+ "Paul Silverstein - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Tal Liani - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stanley Kovler - Citi Investment Research (U.S.)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jess Lubert - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Rod B. Hall - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Henderson - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "James E. Faucette - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erik L. Suppiger - JMP Securities LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Timothy Patrick Long - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael E. Genovese - MKM Partners LLC": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Aaron Rakers - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Simona K. Jankowski - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "George C. Notter - Jefferies LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,250 @@
+{
+ "date": "2019-10-24 09:00:00",
+ "Alicia Charity": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jim Cracchiolo": {
+  "avg_sentiment_score": 0.21923076923076923,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.05,
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.6923076923076923,
+  "confidence": [
+   0.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Walter Berman": {
+  "avg_sentiment_score": 0.14782608695652175,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.8478260869565217,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP, CFO & Chief Risk Officer"
+ },
+ "Andrew Kligerman": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Humphrey Lee": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": 0.3071428571428571,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Dally": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

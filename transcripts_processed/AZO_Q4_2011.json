@@ -1,0 +1,226 @@
+{
+ "date": "2011-09-20 10:00:00",
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William C. Rhodes": {
+  "avg_sentiment_score": 0.35294117647058826,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.6,
+   0.65,
+   0.65,
+   0.65,
+   0.75,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   -1.0,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.8029411764705883,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.85
+  ]
+ },
+ "William T. Giles": {
+  "avg_sentiment_score": 0.13437500000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "CFO and Executive VP of Finance, Information Technology & ALLDATA"
+ },
+ "Gary Balter - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Simeon Gutman - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan M. Rifkin - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Kate McShane - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6
+  ]
+ },
+ "Aram Rubinson - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John R. Lawrence - Morgan Keegan & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick Palfrey - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.1,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.75
+  ]
+ }
+}

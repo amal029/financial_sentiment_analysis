@@ -1,0 +1,310 @@
+{
+ "date": "2017-01-20 09:00:00",
+ "Ellen A. Taylor": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Bruce Van Saun": {
+  "avg_sentiment_score": 0.29666666666666675,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.05,
+   0.55,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.15,
+   0.15,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666668,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "John Fawcett": {
+  "avg_sentiment_score": 0.5714285714285714,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7285714285714286,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Donald H. McCree": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Brad L. Conner": {
+  "avg_sentiment_score": 0.12000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0
+  ],
+  "title": "Vice Chairman of Consumer Banking"
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Vivek Juneja": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Matthew Burnell": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kenneth Zerbe": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Barker": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Eads": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Usdin": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Geoffrey Elliott": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Valentin": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

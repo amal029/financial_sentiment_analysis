@@ -1,0 +1,233 @@
+{
+ "date": "2015-04-23 17:00:00",
+ "Jeff Norris - Senior Vice President Global Finance": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Stephen S. Crawford - Chief Financial Officer": {
+  "avg_sentiment_score": 0.18571428571428572,
+  "sentiment_score": [
+   0.75,
+   0.05,
+   -0.45,
+   0.15,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Advisor to the CEO"
+ },
+ "Richard D. Fairbank - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.37894736842105264,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.85,
+   0.15,
+   0.45,
+   0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.85,
+   0.45,
+   0.85,
+   0.15,
+   0.0,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8184210526315789,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Founder, Chairman, CEO & President"
+ },
+ "Ryan M. Nash - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Bill Carcache - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard B. Shane - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Donald Fandetti - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Moshe Ari Orenbuch - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Wasserstrom - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Bob P. Napoli - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David S. Hochstim - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

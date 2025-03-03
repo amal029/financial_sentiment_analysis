@@ -1,0 +1,309 @@
+{
+ "date": "2016-02-02 12:30:00",
+ "Matthew T. Farrell - Chief Executive Officer": {
+  "avg_sentiment_score": 0.17804878048780487,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8646341463414635,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Rick Dierker - Executive Vice President Finance and Chief Financial Officer": {
+  "avg_sentiment_score": 0.23636363636363636,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.05,
+   0.0,
+   0.05,
+   0.55,
+   0.45,
+   -0.05
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   0.5,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.030000000000000002,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.35,
+   -0.45,
+   0.0,
+   0.15,
+   -0.15,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Caroline S. Levy - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven P. Cugine - Executive Vice President Global New Products Innovation": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President of International & Global New Products Innovation"
+ },
+ "Jason M. Gere - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joe B. Lachky - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Louis H. Tursi - Executive Vice President-North America Sales": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   1.0
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul A. Siracusa - Executive VP-Global Research & Development": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Britta Bomhard - EVP Chief Marketing Officer": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ }
+}

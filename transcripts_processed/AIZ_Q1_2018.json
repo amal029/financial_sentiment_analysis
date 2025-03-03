@@ -1,0 +1,155 @@
+{
+ "date": "2018-05-06 08:00:00",
+ "Suzanne Shepherd": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan Colberg": {
+  "avg_sentiment_score": 0.39,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   -0.15,
+   -0.35,
+   0.45,
+   0.65,
+   0.65,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8074999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Richard Dziadzio": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John Nadel": {
+  "avg_sentiment_score": 0.19375,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.8,
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Hughes": {
+  "avg_sentiment_score": 0.08571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Gary Ransom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "date": "2021-08-04 23:10:07",
+ "Todd Spencer": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Foster": {
+  "avg_sentiment_score": 0.31333333333333335,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.75,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.87,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Smith": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75
+  ],
+  "title": "Senior Financial Advisor"
+ },
+ "Eric Coldwell": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Dave Windley": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Elizabeth Anderson": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Juan Avendano": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Donald Hooker": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Donnelly": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ }
+}

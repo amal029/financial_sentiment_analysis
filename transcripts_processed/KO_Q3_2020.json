@@ -1,0 +1,223 @@
+{
+ "date": "2020-10-22 08:30:00",
+ "Tim Leveridge": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "James Quincey": {
+  "avg_sentiment_score": 0.5076923076923078,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.85,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.05,
+   0.65,
+   0.55,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8076923076923077,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.05,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "President & CFO"
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Lauren Lieberman": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dara Mohsenian": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Carlos Laboy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Kevin Grundy": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Murphy ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrea Teixeira": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bill Chappell": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kaumil Gajrawala": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rob Ottenstein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bonnie Herzog": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sean King": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Laurent Grandet": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

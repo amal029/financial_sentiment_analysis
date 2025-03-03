@@ -1,0 +1,320 @@
+{
+ "date": "2010-10-22 17:00:00",
+ "Simon Moore": {
+  "avg_sentiment_score": 0.2285714285714286,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Huck": {
+  "avg_sentiment_score": 0.14250000000000002,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   -0.35,
+   0.55,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   -1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8387499999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Jeffrey Zekauskas": {
+  "avg_sentiment_score": -0.11249999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "John McNulty": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Sison": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "P.J. Juvekar": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Donald Carson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Paul Mann": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Harrison": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Laurence Alexander": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin McCarthy": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mark Gulley": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Koort": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Roberts": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Edward Yang": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

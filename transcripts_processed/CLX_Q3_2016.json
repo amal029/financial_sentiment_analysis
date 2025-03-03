@@ -1,0 +1,197 @@
+{
+ "date": "2016-05-03 19:45:00",
+ "Steven Austenfeld - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Stephen M. Robb - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.32272727272727275,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   0.45,
+   0.35,
+   0.55,
+   -0.35,
+   0.35,
+   0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7227272727272728,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Benno O. Dorer - Chief Executive Officer": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8958333333333334,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "William Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Nicholas Altobello - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "John A. Faucher - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Olivia Tong - Bank of America - Merrill Lynch": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ }
+}

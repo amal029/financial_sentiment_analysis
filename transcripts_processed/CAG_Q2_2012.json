@@ -1,0 +1,261 @@
+{
+ "date": "2011-12-20 09:30:00",
+ "Gary M. Rodkin": {
+  "avg_sentiment_score": 0.22941176470588234,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8529411764705882,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Special Advisor"
+ },
+ "Chris Klinefelter": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "John F. Gehring": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Driscoll - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Andr\u00e9 J. Hawaux": {
+  "avg_sentiment_score": 0.27142857142857146,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "President of Consumer Foods"
+ },
+ "Bryan D. Spillane - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul T. Maass": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President of Private Brands and Commercial Foods"
+ },
+ "Jonathan P. Feeney - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "Robert Dickerson - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Thilo Wrede - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Eric R. Katzman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ann H. Gurkin - Davenport & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

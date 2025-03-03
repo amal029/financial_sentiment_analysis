@@ -1,0 +1,273 @@
+{
+ "date": "2017-11-16 08:00:00",
+ "Mollie O'Brien - Best Buy Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Hubert Joly - Best Buy Co., Inc.": {
+  "avg_sentiment_score": 0.43064516129032254,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.75,
+   1.0,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.15,
+   1.0,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8493548387096773,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.67,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.67,
+   0.85,
+   0.85,
+   0.69,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Consultant"
+ },
+ "Corie Barry - Best Buy Co., Inc.": {
+  "avg_sentiment_score": 0.3925,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8085000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.65,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Scott A. Mushkin - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Peter Jacob Keith - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.75,
+   0.4,
+   0.65
+  ]
+ },
+ "Seth I. Sigman - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Alan Rifkin - BTIG LLC": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mike Baker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Horvers - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Kate McShane - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew McClintock - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.788,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Simeon Ari Gutman - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6075,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.68
+  ]
+ }
+}

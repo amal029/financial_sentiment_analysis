@@ -1,0 +1,247 @@
+{
+ "date": "2012-07-24 09:00:00",
+ "Karen A. Fletcher": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.9,
+   0.65,
+   0.6
+  ]
+ },
+ "Ellen J. Kullman": {
+  "avg_sentiment_score": 0.3380952380952381,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   -0.35,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.819047619047619,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Nicholas C. Fanandakis": {
+  "avg_sentiment_score": 0.215,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.705,
+  "confidence": [
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Sabina Chatterjee - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael J. Ritzenthaler - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark W. Connelly - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David L. Begleiter - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Laurence Alexander - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Duffy Fischer - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Robert Koort - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John E. Roberts - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

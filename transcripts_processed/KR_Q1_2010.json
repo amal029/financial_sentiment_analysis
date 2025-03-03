@@ -1,0 +1,296 @@
+{
+ "date": "2010-06-17 10:00:00",
+ "Carin Fike": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Dillon": {
+  "avg_sentiment_score": 0.33235294117647063,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.6,
+   1.0,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8438235294117648,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.8,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman, Chief Executive Officer and Member of Proxy Committee"
+ },
+ "Rodney McMullen": {
+  "avg_sentiment_score": 0.33055555555555555,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   -0.35,
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8277777777777778,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Mike Schlotman": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Andrew Wolf \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Chuck Cerankosky \u2013 Northcoast Research": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "Deborah Weinswig \u2013 Citigroup": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Charles Grom \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Ed Kelly \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Mushkin \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robby Ohmes \u2013 Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Karen Short \u2013 BMO Capital": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "date": "2021-08-03 08:00:00",
+ "Matt Kreps": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chas McKhann": {
+  "avg_sentiment_score": 0.3392857142857143,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.8,
+   0.4
+  ]
+ },
+ "Stefanie Cavanaugh": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Jeffrey Black": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Matt Hewitt": {
+  "avg_sentiment_score": 0.5700000000000001,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Maeder": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Frank Takkinen": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

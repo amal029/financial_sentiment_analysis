@@ -1,0 +1,245 @@
+{
+ "date": "2014-04-21 10:00:00",
+ "Paul Alexander": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.5,
+   0.75,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Buthman": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Executive Vice President"
+ },
+ "Tom Falk": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.05,
+   0.45,
+   0.55,
+   0.0,
+   -0.35,
+   0.15,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.55,
+   -0.45,
+   0.15,
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -1.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7985294117647058,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Ali Dibadj - Sanford Bernstein": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Bill Schmitz - Deutsche Bank": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Gail Glazerman - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Wendy Nicholson - Citigroup": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Ferrara - Wells Fargo": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.62,
+  "confidence": [
+   1.0,
+   0.75,
+   0.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Connie Maneaty - BMO Capital Markets": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Chip Dillon - Vertical Research Partners": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

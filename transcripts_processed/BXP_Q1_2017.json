@@ -1,0 +1,320 @@
+{
+ "date": "2017-04-26 10:00:00",
+ "Arista Joyner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Owen Thomas": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8129411764705883,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Douglas Linde": {
+  "avg_sentiment_score": 0.08571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.6642857142857144,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.75
+  ],
+  "title": "President & Director"
+ },
+ "Michael LaBelle": {
+  "avg_sentiment_score": 0.2318181818181818,
+  "sentiment_score": [
+   0.05,
+   0.6,
+   0.15,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8136363636363636,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Executive VP, Treasurer & CFO"
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Robert Pester": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85
+  ]
+ },
+ "Vincent Chau": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Raymond Ritchey": {
+  "avg_sentiment_score": 0.4666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Senior Executive Vice President"
+ },
+ "Michael Bellaman": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Lesnick": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jed Reagan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Powers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Erin Aslakson": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexander Goldfarb": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Bryan Koop": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of Boston Region"
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Manny Korchman": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

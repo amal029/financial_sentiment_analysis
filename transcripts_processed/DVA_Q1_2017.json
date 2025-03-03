@@ -1,0 +1,282 @@
+{
+ "date": "2017-05-02 17:00:00",
+ "Jim Gustafson - DaVita, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Kent J. Thiry - DaVita, Inc.": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -1.0,
+   -1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8266666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Javier J. Rodriguez - DaVita, Inc.": {
+  "avg_sentiment_score": 0.04285714285714286,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Executive Director"
+ },
+ "Vijay Kotte - DaVita, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Joel Ackerman - DaVita, Inc.": {
+  "avg_sentiment_score": 0.11333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.15,
+   -0.15,
+   0.0,
+   1.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & Treasurer"
+ },
+ "Catherine Anderson - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary P. Taylor - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8242857142857142,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Lisa Clive - Sanford C. Bernstein Ltd.": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Justin Lake - Wolfe Research LLC": {
+  "avg_sentiment_score": -0.021428571428571432,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   1.0,
+   0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7771428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott R. Schaper - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.45,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

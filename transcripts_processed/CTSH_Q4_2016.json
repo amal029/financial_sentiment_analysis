@@ -1,0 +1,196 @@
+{
+ "date": "2017-02-08 08:00:00",
+ "David Nelson - Cognizant Technology Solutions Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Francisco D'Souza - Cognizant Technology Solutions Corp.": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Rajeev Mehta - Cognizant Technology Solutions Corp.": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.6125,
+  "confidence": [
+   0.9,
+   0.4,
+   0.4,
+   0.75
+  ],
+  "title": "President"
+ },
+ "Karen McLoughlin - Cognizant Technology Solutions Corp.": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   -0.05
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.6,
+   0.9,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Tien-Tsin Huang - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Edward S. Caso - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Mark Togut - Evercore Group LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin Peller - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian L. Essex - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "James Schneider - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Glenn Greene - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Bryan C. Keane - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph A. Vafi - Loop Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joseph Foresi - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Moshe Katri - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

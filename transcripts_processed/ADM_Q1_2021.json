@@ -1,0 +1,261 @@
+{
+ "date": "2021-04-27 15:00:00",
+ "Victoria de la Huerga": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Juan Luciano": {
+  "avg_sentiment_score": 0.4171875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.85,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.87,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.9,
+   0.67,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Ray Young": {
+  "avg_sentiment_score": 0.11666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Vice-Chairman"
+ },
+ "Ken Zaslow": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Tom Simonitsch": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Luke Washer": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ben Bienvenu": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Piken": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Theurer": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.738,
+  "confidence": [
+   0.67,
+   0.67,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Larson": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

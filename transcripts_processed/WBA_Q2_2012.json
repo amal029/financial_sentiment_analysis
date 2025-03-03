@@ -1,0 +1,260 @@
+{
+ "date": "2012-03-27 08:30:00",
+ "Rick J. Hans": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8
+  ]
+ },
+ "Gregory D. Wasson": {
+  "avg_sentiment_score": 0.3222222222222222,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.6,
+   0.0,
+   0.6,
+   1.0,
+   0.05,
+   0.05,
+   0.65,
+   0.55,
+   0.65,
+   0.45,
+   -0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.0,
+   0.85
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Wade D. Miquelon": {
+  "avg_sentiment_score": 0.15192307692307694,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   -0.45,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8173076923076923,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Andrew P. Wolf - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ann K. Hynes - Mizuho Securities USA Inc., Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Mark R. Miller - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Thomas Gallucci - Lazard Capital Markets LLC, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kermit R. Crawford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President, Pharmacy, Health and Wellness"
+ },
+ "Matthew J. Fassler - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Scott Andrew Mushkin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "John Heinbockel - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David G. Magee - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

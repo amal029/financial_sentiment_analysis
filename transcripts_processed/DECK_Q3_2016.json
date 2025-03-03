@@ -1,0 +1,325 @@
+{
+ "date": "2016-02-04 16:30:00",
+ "Steve Fasching - Vice President Strategy & Investor Relations": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Angel R. Martinez - Chairman and CEO": {
+  "avg_sentiment_score": 0.22083333333333333,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.75,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman of the Board and Consultant"
+ },
+ "David Powers - President, Deckers Brands": {
+  "avg_sentiment_score": 0.2647058823529412,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.15,
+   0.65,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8294117647058823,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.8
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Thomas A. George - Chief Financial Officer": {
+  "avg_sentiment_score": -0.08214285714285714,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.65,
+   0.15,
+   0.05,
+   -1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Randal J. Konik - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Omar Saad - Evercore ISI": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Taposh Bari - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   0.68
+  ]
+ },
+ "Corinna Gayle Van der Ghinst - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Camilo R. Lyon - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Rafe Jason Jadrosich - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Howard Brett Tubin - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Jonathan R. Komp - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mitch Kummetz - B. Riley & Co. LLC": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Erinn E. Murphy - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.26875,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.5,
+   0.4,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

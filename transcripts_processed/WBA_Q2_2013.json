@@ -1,0 +1,293 @@
+{
+ "date": "2013-03-19 08:30:00",
+ "Rick J. Hans": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6
+  ]
+ },
+ "Greg D. Wasson": {
+  "avg_sentiment_score": 0.5181818181818182,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8096969696969697,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Wade D. Miquelon": {
+  "avg_sentiment_score": 0.59375,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   1.0,
+   0.55,
+   0.15,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.715625,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Steven J. Valiquette \u2013 United Bank of Switzerland": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John E. Heinbockel \u2013 Guggenheim Securities": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Bosshard \u2013 Cleveland Research Co.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wiltamuth \u2013 Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Meredith Adler \u2013 Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward J. Kelly \u2013 Credit Suisse Securities LLC": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew P. Wolf \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa C. Gill \u2013 JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

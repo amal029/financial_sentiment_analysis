@@ -1,0 +1,206 @@
+{
+ "date": "2021-01-29 08:30:00",
+ "Jennifer Driscoll": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Umpleby": {
+  "avg_sentiment_score": 0.4233333333333334,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.15,
+   0.85,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.75,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.8466666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Andrew Bonfield": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.9
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Rob Wertheimer": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Timothy Thein": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.68,
+   0.75
+  ]
+ },
+ "Mircea Dobre": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.67,
+   0.6
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Steve Volkmann": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

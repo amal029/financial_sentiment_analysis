@@ -1,0 +1,235 @@
+{
+ "date": "2016-11-03 09:00:00",
+ "John Griek - The Allstate Corp.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Joseph Wilson - The Allstate Corp.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.782608695652174,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven E. Shebik - The Allstate Corp.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew E. Winter - The Allstate Corp.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05,
+   0.05,
+   0.05,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.70625,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Nannizzi - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Mary Jane Bartolotta Fortin - The Allstate Corp.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sarah E. DeWitt - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Charles Gregory Peters - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.875,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8325,
+  "confidence": [
+   0.68,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Josh D. Shanker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.13,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Glasspiegel - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

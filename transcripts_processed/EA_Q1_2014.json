@@ -1,0 +1,255 @@
+{
+ "date": "2013-07-23 17:00:00",
+ "Rob Sison": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Lawrence F. Probst": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Blake J. Jorgensen": {
+  "avg_sentiment_score": 0.3766666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.6,
+   0.65,
+   0.55,
+   0.85,
+   1.0,
+   0.0,
+   0.35,
+   -0.35,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice President of Special Projects"
+ },
+ "Peter Robert Moore": {
+  "avg_sentiment_score": 0.1611111111111111,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -1.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.85,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8277777777777778,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.9,
+   1.0,
+   0.75,
+   0.9,
+   0.9,
+   1.0
+  ],
+  "title": "Chief Competition Officer and  Executive Vice President"
+ },
+ "Edward S. Williams - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Colin A. Sebastian - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Frank D. Gibeau": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.85,
+   0.75,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "A. Justin Post - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Arvind Bhatia - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Douglas Creutz - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Ju - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Patrick Fitzgerald - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael J. Olson - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "James Hardiman - Longbow Research LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Benjamin A. Schachter - Macquarie Research": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric James Sheridan - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew E. Crum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sean P. McGowan - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

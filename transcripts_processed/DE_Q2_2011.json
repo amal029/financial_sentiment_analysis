@@ -1,0 +1,324 @@
+{
+ "date": "2011-06-29 10:00:00",
+ "Tony Huegel": {
+  "avg_sentiment_score": 0.23392857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.65,
+   0.7,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.85,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Susan Karlix": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Jamie Cook - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jerry Revich - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.22142857142857145,
+  "sentiment_score": [
+   0.05,
+   -1.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Marie Ziegler": {
+  "avg_sentiment_score": 0.16333333333333336,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.6
+  ],
+  "avg_confidence": 0.7966666666666666,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "James Field": {
+  "avg_sentiment_score": 0.37857142857142856,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.6071428571428571,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   0.5,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "President of Agriculture & Turf Division - Global Harvesting & Turf Platforms, Americas & Australia"
+ },
+ "Charles Rentschler - Boenning and Scattergood, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ann Duignan - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Henry Kirn - UBS Investment Bank": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "David Raso - ISI Group Inc.": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Wertheimer - Morgan Stanley": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Weber - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Casey - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joel Tiss - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Koznarek - Cleveland Research Company": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Koki Shiraishi - Daiwa Securities Capital Markets Co. Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stephen Volkmann - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ }
+}

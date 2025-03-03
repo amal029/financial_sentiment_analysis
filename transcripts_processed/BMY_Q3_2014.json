@@ -1,0 +1,253 @@
+{
+ "date": "2014-10-24 10:30:00",
+ "John E. Elicker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lamberto Andreotti": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.8
+  ],
+  "title": "Executive Chairman, Officer, Ex-Officio Member of Audit Committee, Ex-Officio Member of Committee on Directors &  Corporate Governance and Ex-Officio Member of Compensation & Management Development Committee"
+ },
+ "Charles A. Bancroft": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Executive VP, CFO & Head of Global Business Operations"
+ },
+ "Seamus Fernandez - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Francis M. Cuss": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.45,
+   0.65,
+   0.05,
+   0.15,
+   1.0,
+   -0.45,
+   0.15,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6464285714285715,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.6
+  ]
+ },
+ "Gregory B. Gilbert - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Giovanni Caforio": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.75
+  ]
+ },
+ "Jami Rubin - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Anderson - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher T. Schott - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew S. Baum - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark J. Schoenebaum - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ronak H. Shah - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Arfaei - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Scala - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Colin Bristow - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Charles Anthony Butler - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

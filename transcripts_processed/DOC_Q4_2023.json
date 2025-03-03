@@ -1,0 +1,276 @@
+{
+ "date": "2024-02-09 10:00:00",
+ "Andrew Johns": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Scott Brinker": {
+  "avg_sentiment_score": 0.44722222222222224,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   0.55,
+   -0.15,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7749999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Peter Scott": {
+  "avg_sentiment_score": 0.26153846153846155,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.65,
+   0.05,
+   0.45,
+   0.05,
+   0.45,
+   0.55,
+   -0.15,
+   0.15,
+   0.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Nicholas Yulico": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Bohn": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Development Officer & Head of Lab"
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Griffin": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.75
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Richard Anderson": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Thomas Klaritch": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "John Thomas": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ]
+ },
+ "Wesley Golladay": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "James Kammert": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Joshua Dennerlein": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Michael Mueller": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.15,
+   0.5
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vikram Malhotra": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.756,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "John Pawlowski": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

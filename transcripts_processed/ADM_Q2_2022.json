@@ -1,0 +1,221 @@
+{
+ "date": "2022-07-26 09:00:00",
+ "Michael Cross": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Juan Luciano": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.9
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Vikram Luthar": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "CFO & Senior VP"
+ },
+ "Benjamin Bienvenu ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Juan Luciano ": {
+  "avg_sentiment_score": 0.5041666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.15,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.05,
+   0.6,
+   0.55
+  ],
+  "avg_confidence": 0.7708333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Benjamin Bienvenu": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Benjamin Theurer ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vikram Luthar ": {
+  "avg_sentiment_score": 0.58125,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   1.0,
+   0.65,
+   0.05,
+   0.75,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.85,
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85
+  ]
+ },
+ "Adam Samuelson ": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.5
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Kenneth Zaslow ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Steve Byrne ": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Tom Palmer ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Larson ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Haynes ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Piken ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

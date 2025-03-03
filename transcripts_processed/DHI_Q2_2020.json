@@ -1,0 +1,310 @@
+{
+ "date": "2020-04-28 08:30:00",
+ "Jessica Hansen": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "David Auld": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.8,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Mike Murray": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.8,
+   0.9
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Bill Wheat": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "JohnLovallo": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "BillWheat": {
+  "avg_sentiment_score": 0.1888888888888889,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.15,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "MikeMurray": {
+  "avg_sentiment_score": 0.0730769230769231,
+  "sentiment_score": [
+   -1.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7961538461538461,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "JessicaHansen": {
+  "avg_sentiment_score": 0.11923076923076924,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7769230769230769,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "CarlReichardt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "DavidAuld": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   -0.45,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "StephenKim": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "AlanRatner": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "MichaelRehaut": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "TrumanPatterson": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "MatthewBouley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "SusanMaklari": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "MikeDahl": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "KenZener": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

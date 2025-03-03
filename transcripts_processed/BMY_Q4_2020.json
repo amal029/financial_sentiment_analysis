@@ -1,0 +1,196 @@
+{
+ "date": "2021-02-04 10:00:00",
+ "Timothy Power": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Giovanni Caforio": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   -0.15,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.9
+  ]
+ },
+ "David Elkins": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   -0.35
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Geoffrey Meacham": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Boerner": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.45,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ]
+ },
+ "Samit Hirawat": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.5
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen Scala": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Anderson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Aaron Gal": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Luisa Hector": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

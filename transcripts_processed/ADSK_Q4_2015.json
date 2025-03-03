@@ -1,0 +1,341 @@
+{
+ "date": "2015-02-27 17:00:00",
+ "David Gennarelli - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Carl Bass - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.27051282051282055,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.75,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8192307692307692,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Special Advisor & Director"
+ },
+ "Keith E. Weiss - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve M. Ashley - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Richard Scott Herren - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Senior VP  & CFO"
+ },
+ "Brent John Thill - UBS Securities LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Heather Anne Bellini - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.65
+  ]
+ },
+ "Jay Vleeschhouwer - Griffin Securities, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Philip Alan Winslow - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Matt Hedberg - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Hugh Davis - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sterling Auty - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Saket Kalia - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brendan John Barnicle - Pacific Crest Securities LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Gregg S. Moskowitz - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kasthuri Gopalan Rangan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve R. Koenig - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ }
+}

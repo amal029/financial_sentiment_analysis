@@ -1,0 +1,177 @@
+{
+ "date": "2022-08-17 10:00:00",
+ "Michael Lucarelli": {
+  "avg_sentiment_score": 0.01428571428571429,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Vincent Roche": {
+  "avg_sentiment_score": 0.6900000000000001,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "CEO & Chair of the Board of Directors"
+ },
+ "Prashanth Mahendra-Rajah": {
+  "avg_sentiment_score": 0.4954545454545455,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.55,
+   0.65,
+   -0.15,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP of Finance & CFO"
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Muse": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ambrish Srivastava": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stacy Rasgon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Blayne Curtis": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Lucarelli - Head of IR": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tore Svanberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Toshiya Hari": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

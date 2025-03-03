@@ -1,0 +1,293 @@
+{
+ "date": "2018-02-05 10:00:00",
+ "Neil A. Russell - Sysco Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Thomas L. Ben\u00e9 - Sysco Corp.": {
+  "avg_sentiment_score": 0.2575,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.15,
+   -0.45,
+   -0.15,
+   0.0,
+   0.45,
+   0.15,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.756,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ],
+  "title": "President & COO"
+ },
+ "Joel T. Grade - Sysco Corp.": {
+  "avg_sentiment_score": 0.158,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.778,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.5,
+   1.0
+  ],
+  "title": "Executive Vice President of Business Development"
+ },
+ "Kelly Ann Bania - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Vincent J. Sinisi - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "John Heinbockel - Guggenheim Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Wolf - Loop Capital Markets LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Marisa Sullivan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Shane Higgins - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John William Ivankoe - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Mandeville - Jefferies LLC": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Edward J. Kelly - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ajay Jain - Pivotal Research Group LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Summers - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

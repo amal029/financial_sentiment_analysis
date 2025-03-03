@@ -1,0 +1,112 @@
+{
+ "date": "2020-02-28 17:00:00",
+ "Rodney Sacks": {
+  "avg_sentiment_score": 0.3055555555555556,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7611111111111111,
+  "confidence": [
+   0.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "Dara Mohsenian": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Hilton Schlosberg": {
+  "avg_sentiment_score": -0.06428571428571428,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05,
+   -0.45,
+   0.55,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Co-CEO & Vice Chairman"
+ },
+ "Andrea Teixeira": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Grundy": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Astrachan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

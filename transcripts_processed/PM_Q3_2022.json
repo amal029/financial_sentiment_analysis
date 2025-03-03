@@ -1,0 +1,131 @@
+{
+ "date": "2022-10-20 09:00:00",
+ "James Bushnell": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Emmanuel Babeau": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.58375,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.75,
+   0.5,
+   0.5,
+   0.75,
+   0.67
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Jacek Olczak": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.05,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Pamela Kaufman": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Gaurav Jain": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Bonnie Herzog": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Priya Ohri-Gupta": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.75
+  ]
+ }
+}

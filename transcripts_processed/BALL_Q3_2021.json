@@ -1,0 +1,348 @@
+{
+ "date": "2021-11-04 11:00:00",
+ "John Hayes": {
+  "avg_sentiment_score": 0.2675,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0,
+   -0.15,
+   0.55,
+   1.0,
+   0.65,
+   0.55,
+   0.15,
+   0.75,
+   -0.15,
+   0.15,
+   0.0,
+   -0.35,
+   -0.15,
+   -0.35,
+   0.0,
+   0.85,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8324999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Dan Fisher": {
+  "avg_sentiment_score": 0.18076923076923077,
+  "sentiment_score": [
+   0.65,
+   -0.45,
+   -1.0,
+   -0.45,
+   0.85,
+   0.45,
+   0.75,
+   0.55,
+   -0.15,
+   -0.15,
+   0.0,
+   -0.15,
+   0.85,
+   -0.45,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.85,
+   -0.15,
+   0.05,
+   0.85,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7557692307692307,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott Morrison": {
+  "avg_sentiment_score": 0.13125,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.5,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Senior Advisor"
+ },
+ "George Staphos": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Ghansham Panjabi": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Arun Viswanathan": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kyle White": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Salvator Tiano": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Leithead": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Kieran De Brun": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Angel Castillo": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.05,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Anthony Pettinari": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Phil Ng": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.5,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Roxland": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Josephson": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Mark Wilde": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ }
+}

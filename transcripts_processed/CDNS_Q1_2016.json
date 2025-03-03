@@ -1,0 +1,251 @@
+{
+ "date": "2016-04-25 17:00:00",
+ "Alan Lindstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Lip-Bu Tan": {
+  "avg_sentiment_score": 0.6277777777777778,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.55,
+   1.0,
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7883333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.67,
+   0.9,
+   0.85,
+   0.9,
+   0.4,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Geoff Ribar": {
+  "avg_sentiment_score": 0.22916666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8770833333333333,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.4,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   0.65,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Senior Advisor"
+ },
+ "Krish Sankar": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Mobley": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Valera": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Monika Garg": {
+  "avg_sentiment_score": -0.020000000000000018,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.75,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.75,
+   0.8,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Diffely": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Suji De Silva": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,333 @@
+{
+ "date": "2011-01-21 08:30:00",
+ "Kevin Stitt": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Moynihan": {
+  "avg_sentiment_score": 0.09038461538461538,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   -0.35,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7453846153846153,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Charles Noski": {
+  "avg_sentiment_score": 0.013513513513513514,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.75,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8337837837837838,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Vice Chairman and Executive Vice President"
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": -0.05000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Miller - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "John McDonald - Bernstein Research": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   0.6
+  ]
+ },
+ "Matthew O'Connor - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.1875,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Edward Najarian - ISI Group Inc.": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.4
+  ]
+ },
+ "Christoph Kotowski - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Glenn Schorr - UBS": {
+  "avg_sentiment_score": -0.019999999999999997,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Mayo - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.02222222222222223,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7444444444444445,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.75
+  ]
+ },
+ "Meredith Whitney - Meredith Whitney Advisory Group LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Hilder - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

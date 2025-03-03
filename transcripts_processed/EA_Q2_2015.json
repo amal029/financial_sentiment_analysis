@@ -1,0 +1,234 @@
+{
+ "date": "2014-10-28 17:00:00",
+ "Chris Evenden": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Wilson": {
+  "avg_sentiment_score": 0.5349999999999999,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.75,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Blake Jorgensen": {
+  "avg_sentiment_score": 0.2733333333333333,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.55,
+   0.15,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice President of Special Projects"
+ },
+ "Edward Williams \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mike Olson \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Peter Moore": {
+  "avg_sentiment_score": 0.6599999999999999,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Competition Officer and  Executive Vice President"
+ },
+ "Ryan Gee \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Drew Crum \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Frank Gibeau": {
+  "avg_sentiment_score": 0.7625,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.45,
+   0.75
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.85
+  ]
+ },
+ "Mike Hickey \u2013 The Benchmark Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Tim O'Shea \u2013 Jefferies": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "James Hardiman \u2013 Longbow Research": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Goodman \u2013 CRT Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Doug Creutz \u2013 Cowen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Adam Krejcik \u2013 Eilers Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

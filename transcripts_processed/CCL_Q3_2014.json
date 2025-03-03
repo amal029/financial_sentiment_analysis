@@ -1,0 +1,367 @@
+{
+ "date": "2014-09-23 10:00:00",
+ "Arnold Donald": {
+  "avg_sentiment_score": 0.36923076923076925,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   1.0,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.797948717948718,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "CEO, Chief Climate Officer, President & Director"
+ },
+ "David Bernstein": {
+  "avg_sentiment_score": 0.19782608695652174,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8239130434782609,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.8,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "CFO & Chief Accounting Officer"
+ },
+ "Felicia Hendrix - Barclays": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Joel Simkins - Credit Suisse": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven Kent - Goldman Sachs": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Wieczynski - Stifel": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.56,
+  "confidence": [
+   0.4,
+   0.6,
+   0.68
+  ]
+ },
+ "Harry Curtis - Nomura": {
+  "avg_sentiment_score": 0.2318181818181818,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8318181818181819,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Beth Roberts": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jaime Katz - Morningstar": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Arnold Donald ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Assia Georgieva - Infinity Research": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.61,
+  "confidence": [
+   0.4,
+   0.75,
+   0.68
+  ]
+ },
+ "Tim Conder - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8540000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Robin Farley - UBS": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nick Thomas - Merrill Lynch": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Stuart Gordon - Berenberg": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Rollo - Morgan Stanley": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ian Rennardson - Jefferies": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "date": "2018-08-08 17:00:00",
+ "Rodney Cyril Sacks - Monster Beverage Corp.": {
+  "avg_sentiment_score": 0.16176470588235295,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.15,
+   0.15,
+   0.15,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.7970588235294118,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Amit Sharma - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Hilton Hiller Schlosberg - Monster Beverage Corp.": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Co-CEO & Vice Chairman"
+ },
+ "Mark S. Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Nik Modi - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrea F. Teixeira - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

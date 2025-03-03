@@ -1,0 +1,290 @@
+{
+ "date": "2013-11-19 08:30:00",
+ "Jennifer K. Driscoll": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Denise M. Morrison": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "B. Craig Owens": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.0,
+   -0.15,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.55,
+   -1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.8361111111111111,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Chief Administrative Officer and Senior Vice President"
+ },
+ "Christopher R. Growe - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Anthony P. DiSilvestro": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8888888888888888,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Thilo Wrede - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Driscoll - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Moskow - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John J. Baumgartner - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryan D. Spillane - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Diane Geissler - CLSA Limited, Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Akshay S. Jagdale - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory Hessler - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ }
+}

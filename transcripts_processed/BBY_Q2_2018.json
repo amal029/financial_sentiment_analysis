@@ -1,0 +1,237 @@
+{
+ "date": "2017-08-29 08:00:00",
+ "Mollie O\u2019Brien": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Hubert Joly": {
+  "avg_sentiment_score": 0.6730769230769231,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.85,
+   0.45,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7538461538461539,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Corie Barry": {
+  "avg_sentiment_score": 0.1323529411764706,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   -0.15,
+   0.55,
+   -0.35,
+   0.15,
+   0.55,
+   0.0,
+   0.6,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7823529411764706,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.5,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Anthony Chukumba": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Curtis Nagle": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Dan Binder": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kate McShane": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.08333333333333336,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Q - David Schick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matt McClintock": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Dan Wewer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.65
+  ]
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "date": "2020-12-02 17:00:00",
+ "Maria Riley": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "George Kurtz": {
+  "avg_sentiment_score": 0.6260869565217392,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   0.85,
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8586956521739131,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.6,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "Co-Founder, President, CEO & Director"
+ },
+ "Burt Podbere": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8911111111111111,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Saket Kalia": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Tal Liani": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Essex": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   0.67
+  ]
+ },
+ "Alex Henderson": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Rob Owens": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Fatima Boolani": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Shaul Eyal": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Nowinski": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Hedberg": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0
+  ]
+ }
+}

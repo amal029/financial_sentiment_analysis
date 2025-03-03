@@ -1,0 +1,183 @@
+{
+ "date": "2018-11-29 18:00:00",
+ "Rob Williams": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Sweet": {
+  "avg_sentiment_score": 0.196875,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   -0.45,
+   1.0,
+   -0.75,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Tyler Johnson": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.55,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Jeff Clarke": {
+  "avg_sentiment_score": 0.4388888888888889,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "COO & Vice Chairman"
+ },
+ "David Eller": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jeff Harlib": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Eagan": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "Ana Goshko": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

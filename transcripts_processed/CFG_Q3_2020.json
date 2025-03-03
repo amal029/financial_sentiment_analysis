@@ -1,0 +1,207 @@
+{
+ "date": "2020-11-01 08:00:00",
+ "Kevin Cummings": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.5
+  ],
+  "avg_confidence": 0.6869999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   0.6
+  ]
+ },
+ "Sean Burke": {
+  "avg_sentiment_score": 0.29375,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.75,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Mark Fitzgibbon": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Domenick Cama": {
+  "avg_sentiment_score": 0.240625,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.35,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7281249999999999,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ]
+ },
+ "Jared Shaw": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Steven Duong": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8000000000000002,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "A \u2013 Domenick Cama": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Matthew Breese": {
+  "avg_sentiment_score": 0.6625000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Laurie Hunsicker": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Collyn Gilbert": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

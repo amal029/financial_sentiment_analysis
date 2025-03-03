@@ -1,0 +1,226 @@
+{
+ "date": "2019-09-25 17:00:00",
+ "Mike Hansen": {
+  "avg_sentiment_score": 0.19666666666666668,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.55,
+   1.0,
+   0.55,
+   0.15,
+   0.45,
+   -0.35,
+   -0.15,
+   0.05,
+   -0.35,
+   0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7566666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Paul Adler": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Bisbee": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Seth Weber": {
+  "avg_sentiment_score": 0.012500000000000018,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Andrew Wittmann": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Scott Schneeberger": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Andrew Steinerman": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

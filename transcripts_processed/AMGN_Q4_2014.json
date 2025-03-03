@@ -1,0 +1,123 @@
+{
+ "date": "2015-03-12 18:00:00",
+ "Susan Kanaya": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Dr. Thomas Schall": {
+  "avg_sentiment_score": 0.6115384615384616,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7776923076923077,
+  "confidence": [
+   0.85,
+   0.4,
+   0.68,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.68,
+   0.75,
+   0.8
+  ]
+ },
+ "Brian Klein": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Pirow Bekker": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Anupam Rama": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7633333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.69
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Yatin Suneja": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

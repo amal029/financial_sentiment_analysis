@@ -1,0 +1,410 @@
+{
+ "date": "2009-11-02 13:30:00",
+ "Steve Austenfeld": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Larry Peiros": {
+  "avg_sentiment_score": 0.021739130434782615,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   -0.45,
+   -0.35,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.7934782608695652,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Dan Heinrich": {
+  "avg_sentiment_score": 0.1975,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial officer and Executive Vice President"
+ },
+ "Donald Knauss": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.45,
+   0.55,
+   0.05,
+   -0.45,
+   0.45,
+   0.55,
+   1.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7095238095238096,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Chairman and Chairman of Executive Committee"
+ },
+ "Nik Modi - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Wendy Nicholson - Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Schmitz - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Chris Ferrera - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ali Dibadj - Sanford Bernstein": {
+  "avg_sentiment_score": -0.042857142857142864,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Alice Longley - Buckingham Research": {
+  "avg_sentiment_score": -0.14375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.94375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Doug Lane - Jefferies": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Altobello - Oppenheimer": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Sawyer - Goldman Sachs": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Victoria Collin - Atlantic Equities": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Connie Maneaty - BMO Capital Markets": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Faucher - JP Morgan": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Lauren Lieberman - Barclays Capital": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Jason Gere - RBC Capital Markets": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ }
+}

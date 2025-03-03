@@ -1,0 +1,181 @@
+{
+ "date": "2019-10-29 09:30:00",
+ "John Renwick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Steve Cahillane": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   0.45,
+   0.05,
+   0.65,
+   0.0,
+   0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7566666666666666,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Amit Banati": {
+  "avg_sentiment_score": 0.24285714285714288,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.35,
+   0.45,
+   0.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chairman, Senior VP, CFO & Principal Financial Officer"
+ },
+ "Jason English": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ken Zaslow": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Steve Strycula": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Lavery": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Laurent Grande": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

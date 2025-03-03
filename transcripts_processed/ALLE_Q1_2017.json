@@ -1,0 +1,194 @@
+{
+ "date": "2017-04-29 08:00:00",
+ "Michael Wagnes": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "David Petratis": {
+  "avg_sentiment_score": 0.5055555555555555,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.75,
+   0.05
+  ],
+  "avg_confidence": 0.8083333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Patrick Shannon": {
+  "avg_sentiment_score": 0.3277777777777778,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7055555555555555,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Rich Kwas": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David MacGregor": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Joseph Ritchie": {
+  "avg_sentiment_score": 0.1166666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Tim Wojs": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Kessler": {
+  "avg_sentiment_score": 0.09166666666666666,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Rizk Maidi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Barry": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

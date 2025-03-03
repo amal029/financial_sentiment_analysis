@@ -1,0 +1,256 @@
+{
+ "date": "2015-04-30 08:30:00",
+ "Tom Martineau": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Dave Petratis": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8821875,
+  "confidence": [
+   0.85,
+   0.8,
+   1.0,
+   0.68,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Patrick Shannon": {
+  "avg_sentiment_score": 0.3038461538461539,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8092307692307692,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Robert Berry": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8525,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Timothy Wojs": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Jeff Kessler": {
+  "avg_sentiment_score": -0.05000000000000001,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Grace Lee": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8775,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Peter Lennox-King": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Charles Clarke": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brett Linzey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ }
+}

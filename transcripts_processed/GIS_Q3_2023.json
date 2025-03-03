@@ -1,0 +1,170 @@
+{
+ "date": "2023-03-23 09:00:00",
+ "Jeff Siemon": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jeff Harmening": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.35,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.75
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Kofi Bruce": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "CFO and Interim Chief Strategy & Growth Officer"
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jon Nudi": {
+  "avg_sentiment_score": 0.42500000000000004,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Group President of Pet & International and North America Foodservice (NAF)"
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Baumgartner": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Carey": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ }
+}

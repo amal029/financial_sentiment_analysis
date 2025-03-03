@@ -1,0 +1,264 @@
+{
+ "date": "2019-02-01 11:00:00",
+ "Kimberly Callahan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Richard Campo": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.45,
+   0.85,
+   0.45,
+   1.0,
+   -0.15,
+   -0.35,
+   0.0,
+   -0.35,
+   0.05,
+   0.45,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman of the Board of Trust Managers & CEO"
+ },
+ "Keith Oden": {
+  "avg_sentiment_score": 0.32916666666666666,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.4,
+   0.55,
+   0.65,
+   0.05,
+   0.75,
+   -0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "President & Executive Vice Chairman of the Board of Trust Managers"
+ },
+ "Alexander Jessett": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   0.5
+  ],
+  "title": "Executive VP, CFO & Assistant Secretary"
+ },
+ "Trent Trujillo": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Nicholas Joseph": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.65,
+   0.6,
+   0.8
+  ]
+ },
+ "Shirley Wu": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Andrew Babin": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Alexander Goldfarb": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Robert Stevenson": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Wesley Golladay": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Hardik Goel": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Haendel St. Juste": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Bernstein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

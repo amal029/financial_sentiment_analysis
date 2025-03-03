@@ -1,0 +1,265 @@
+{
+ "date": "2022-04-28 08:00:00",
+ "David Young": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.5,
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Amos": {
+  "avg_sentiment_score": 0.31923076923076926,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   -1.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7115384615384616,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.5,
+   0.4,
+   0.85,
+   0.85
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Frederick Crawford": {
+  "avg_sentiment_score": 0.10555555555555556,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   -0.45,
+   0.45,
+   0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8055555555555556,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Nigel Dally": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Teresa White": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Koichiro Yoshizumi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Kirsch": {
+  "avg_sentiment_score": 0.4833333333333334,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6
+  ]
+ },
+ "Virgil Miller": {
+  "avg_sentiment_score": 0.4833333333333334,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Brad Dyslin": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Max Brod\u00e9n": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Scott": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

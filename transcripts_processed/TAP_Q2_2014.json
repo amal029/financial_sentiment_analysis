@@ -1,0 +1,109 @@
+{
+ "date": "2014-08-06 11:00:00",
+ "Peter S. Swinburn": {
+  "avg_sentiment_score": 0.34444444444444444,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8888888888888888,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Gavin D. Hattersley": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Judy E. Hong - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.2125,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Stewart F. Glendinning": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer of Molson Coors Canada and President of Molson Coors Canada"
+ },
+ "Ian Shackleton - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark R. Hunter": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Bryan D. Spillane - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "date": "2013-07-23 09:00:00",
+ "Michael Neese": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Martin J. Barrington": {
+  "avg_sentiment_score": 0.20526315789473684,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   1.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   -0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8594736842105263,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.67,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.67,
+   1.0
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Howard A. Willard": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.35,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Vivien Azer - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Adelman - Morgan Stanley": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Judy Hong - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.5,
+   1.0
+  ]
+ },
+ "Thilo Wrede - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Bonnie Herzog - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Christopher Growe - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Todd Duvick - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Burritt - Bloomberg News": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy Milway - BlackRock, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Russo - Gardner Russo & Gardner": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

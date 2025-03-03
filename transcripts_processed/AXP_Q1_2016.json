@@ -1,0 +1,220 @@
+{
+ "date": "2016-04-21 17:00:00",
+ "Toby Willard - Head of Investor Relations": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jeffrey C. Campbell - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.2578947368421053,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.65,
+   -0.15,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.85,
+   0.55,
+   -0.15,
+   0.15,
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7710526315789474,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman & CFO"
+ },
+ "Christopher Brendler - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Craig Jared Maurer - Autonomous Research US LP": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.69
+  ]
+ },
+ "Sanjay Sakhrani - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Bob P. Napoli - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Richard B. Shane - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "David Ho - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Moshe Ari Orenbuch - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James Friedman - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matt P. Howlett - UBS Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6266666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Donald Fandetti - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Carcache - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark C. DeVries - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

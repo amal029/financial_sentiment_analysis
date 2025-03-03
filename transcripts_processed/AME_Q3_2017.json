@@ -1,0 +1,325 @@
+{
+ "date": "2017-11-02 08:30:00",
+ "Kevin C. Coleman - AMETEK, Inc.": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4
+  ]
+ },
+ "David A. Zapico - AMETEK, Inc.": {
+  "avg_sentiment_score": 0.45543478260869563,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   1.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8793478260869566,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "William J. Burke - AMETEK, Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6125,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Andrew Burris Obin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "R. Scott Graham - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Logan Linzey - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matt J. Summerville - Alembic Global Advisors LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Sawyer C. Rice - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Paul McCarthy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5583333333333333,
+  "confidence": [
+   0.4,
+   0.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Allison Poliniak-Cusic - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Reive - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Giordano - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob W. Mason - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

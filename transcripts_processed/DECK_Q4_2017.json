@@ -1,0 +1,322 @@
+{
+ "date": "2017-05-25 16:30:00",
+ "Steve Fasching": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dave Powers": {
+  "avg_sentiment_score": 0.41547619047619044,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   1.0,
+   0.55,
+   -0.45,
+   0.65,
+   0.0,
+   1.0,
+   -0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8016666666666667,
+  "confidence": [
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.67,
+   0.8,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Tom George": {
+  "avg_sentiment_score": 0.3275,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8025,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Komp": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Camilo Lyon": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.784,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Krasik": {
+  "avg_sentiment_score": 0.10714285714285714,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Randy Konik": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Duffy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rafe Jadrosich": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Drbul": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Corinna Van Der Ghinst": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ }
+}

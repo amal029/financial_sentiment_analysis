@@ -1,0 +1,225 @@
+{
+ "date": "2022-01-19 08:30:00",
+ "Andre Schulten": {
+  "avg_sentiment_score": 0.47692307692307695,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   -0.35,
+   0.75,
+   0.85,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.823076923076923,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Dara Mohsenian": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lauren Lieberman": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jon Moeller": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.65,
+   -0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7538461538461539,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason English": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Ottenstein": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Grundy": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Carey": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Wendy Nicholson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Peter Grom": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Astrachan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Chappell": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Pitcher": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Camilo Garcia Walla": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ }
+}

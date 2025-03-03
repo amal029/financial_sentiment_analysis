@@ -1,0 +1,221 @@
+{
+ "date": "2015-11-02 09:30:00",
+ "Dennis D'Andrea - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Fabrizio Freda - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.5076923076923078,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.55,
+   0.85,
+   0.55,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8615384615384615,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Tracey Thomas Travis - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.40454545454545454,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.7545454545454546,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John A. Faucher - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nik H. Modi - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Caroline S. Levy - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Ferrara - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Jason M. English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Olivia Tong - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stephanie Schiller Wissink - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dara W. Mohsenian - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark S. Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William G. Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lauren Rae Lieberman - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Wendy C. Nicholson - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

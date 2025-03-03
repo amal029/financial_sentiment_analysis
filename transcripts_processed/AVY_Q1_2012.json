@@ -1,0 +1,203 @@
+{
+ "date": "2012-04-25 13:00:00",
+ "Eric Leeds": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Dean A. Scarborough": {
+  "avg_sentiment_score": 0.2565217391304348,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.05,
+   0.05,
+   0.55,
+   0.05,
+   0.45,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -1.0,
+   0.65,
+   0.15,
+   0.6,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7891304347826086,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Mitchell R. Butier": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "George L. Staphos - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Gaffner - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05714285714285715,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Todd Wenning - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gaji Balakaneshan - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ }
+}

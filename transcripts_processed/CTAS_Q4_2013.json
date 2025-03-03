@@ -1,0 +1,267 @@
+{
+ "date": "2013-07-15 17:00:00",
+ "William C. Gale": {
+  "avg_sentiment_score": 0.20714285714285716,
+  "sentiment_score": [
+   0.85,
+   -0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.75,
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8014285714285715,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Senior Vice President"
+ },
+ "J. Michael Hansen": {
+  "avg_sentiment_score": 0.03461538461538462,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8153846153846154,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Joe Box - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew C. Steinerman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   0.75
+  ]
+ },
+ "Nathan Brochmann - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Andrew J. Wittmann - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "John M. Healy - Northcoast Research": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shlomo H. Rosenbaum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.9
+  ]
+ },
+ "Dan Dolev - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Gregory W. Halter - LJR Great Lakes Review": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Sara Gubins - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

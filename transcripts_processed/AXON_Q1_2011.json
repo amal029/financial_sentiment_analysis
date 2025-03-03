@@ -1,0 +1,142 @@
+{
+ "date": "2011-04-21 11:00:00",
+ "Rick Smith": {
+  "avg_sentiment_score": 0.365,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.9
+  ],
+  "title": "Co-Founder"
+ },
+ "Dan Behrendt": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Wold \u2013 Merriman Curhan Ford & Co.": {
+  "avg_sentiment_score": 0.13125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter Mahon \u2013 Dougherty": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Dyer \u2013 Craig Hallum": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

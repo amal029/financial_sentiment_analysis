@@ -1,0 +1,250 @@
+{
+ "date": "2024-01-31 08:00:00",
+ "Lauren Tengler": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Mahoney": {
+  "avg_sentiment_score": 0.27058823529411763,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8941176470588235,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.65
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Daniel Brennan": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.75,
+   0.05,
+   0.0,
+   0.75,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.7866666666666666,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.67,
+   0.75
+  ]
+ },
+ "Robert Marcus": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kenneth Stein": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75
+  ]
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Danielle Antalffy": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Jon Monson": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Travis Steed": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Janarthanan Sathananthan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.5
+  ]
+ },
+ "Josh Jennings": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Richard Newitter": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Patrick Wood": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Polark": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "date": "2016-11-17 17:00:00",
+ "John Cummings": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Marc Benioff": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9096153846153846,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Keith Block": {
+  "avg_sentiment_score": 0.5125000000000001,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Advisor to the Chief Executive Officer"
+ },
+ "Mark Hawkins": {
+  "avg_sentiment_score": 0.5700000000000001,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.9
+  ],
+  "title": "Chief Financial Officer Emeritus"
+ },
+ "Brent Thill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kash Rangan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Walter Pritchard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Heather Bellini": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Amy Weaver": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Roderick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Karl Keirstead": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Abhey Lamba": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kirk Materne": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

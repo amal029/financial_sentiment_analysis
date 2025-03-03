@@ -1,0 +1,253 @@
+{
+ "date": "2014-03-19 08:30:00",
+ "Kris Wenker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Don Mulligan": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Ann Simonds": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Ken Powell ": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.35,
+   0.15,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8035714285714286,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Andrew Lazar - Barclays ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David Palmer - RBC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Powell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Palmer - RBC ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Don Mulligan ": {
+  "avg_sentiment_score": 0.23888888888888887,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.45,
+   0.0,
+   0.35,
+   0.15,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7277777777777777,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Grainger - Morgan Stanley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Grainger - Morgan Stanley ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6
+  ]
+ },
+ "Thilo Wrede - Jefferies ": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Robert Moskow - Credit Suisse ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Driscoll - Citigroup ": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Zaslow - BMO Capital Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ken Zaslow - BMO Capital Markets ": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs ": {
+  "avg_sentiment_score": -0.4166666666666667,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Bryan Spillane - Bank of America ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

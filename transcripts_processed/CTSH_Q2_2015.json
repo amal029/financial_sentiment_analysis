@@ -1,0 +1,214 @@
+{
+ "date": "2015-08-05 08:00:00",
+ "David Nelson - Vice President-Investor Relations & Treasurer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Francisco D'Souza - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.4454545454545455,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Gordon James Coburn - President": {
+  "avg_sentiment_score": 0.5222222222222223,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.65,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "President"
+ },
+ "Karen McLoughlin - Chief Financial Officer": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Darrin D. Peller - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Ashwin Shirvaikar - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Dean Foresi - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward S. Caso - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian L. Essex - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Bryan C. Keane - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Lisa D. Ellis - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Sara Rebecca Gubins - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Tien-tsin Huang - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ }
+}

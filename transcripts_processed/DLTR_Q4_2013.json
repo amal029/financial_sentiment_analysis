@@ -1,0 +1,172 @@
+{
+ "date": "2014-02-26 09:00:00",
+ "Timothy Reid": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Bob Sasser": {
+  "avg_sentiment_score": 0.42173913043478256,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8465217391304347,
+  "confidence": [
+   0.4,
+   0.9,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.65,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Kevin Wampler": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.8,
+   0.9,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel Wewer \u2013 Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6140000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Matthew Boss \u2013 JP Morgan Chase & Co.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Grom \u2013 Sterne Agee": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Trussell \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Meredith Adler \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Matt Nemer \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ }
+}

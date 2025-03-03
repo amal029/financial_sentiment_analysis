@@ -1,0 +1,259 @@
+{
+ "date": "2012-04-23 00:00:00",
+ "Shirley Stacy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Prescott": {
+  "avg_sentiment_score": 0.4277777777777778,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.85,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   0.65,
+   0.6,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Kenneth Arola": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   -0.35,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7769230769230769,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Vice President of Finance"
+ },
+ "S. Brandon Couillard": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Glen Santangelo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Matthew Dolan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Steve Beuchaw": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Spencer Nam": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Jonathan Block": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65,
+   0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Jeffrey Warshauer": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jose Haresco": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Jeffrey Matthews": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,316 @@
+{
+ "date": "2014-01-21 10:00:00",
+ "Jill Greer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard H. Anderson": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8041666666666667,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Edward H. Bastian": {
+  "avg_sentiment_score": 0.46111111111111114,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7777777777777778,
+  "confidence": [
+   0.9,
+   0.4,
+   0.8,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   0.85,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Paul A. Jacobson": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.85,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Michael Linenberg - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   0.8
+  ]
+ },
+ "Jamie N. Baker - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Glen W. Hauenstein": {
+  "avg_sentiment_score": 0.44375000000000003,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.8
+  ],
+  "title": "President"
+ },
+ "Savanthi Syth - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.8
+  ]
+ },
+ "John D. Godyn - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Glenn D. Engel - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Helane R. Becker - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Duane Pfennigwerth - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Thomas Kim - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David E. Fintzen - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Hunter K. Keay - Wolfe Research, LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John E. Walker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Joshua Freed": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mary Schlangenstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kelly Yamanouchi": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Karen Jacobs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "date": "2014-03-21 08:45:00",
+ "Matthew Stroud": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "C. Bradford Richmond": {
+  "avg_sentiment_score": 0.08181818181818183,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.6272727272727273,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Eugene Lee": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Clarence Otis, Jr.": {
+  "avg_sentiment_score": 0.03076923076923077,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "David Palmer - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Siegner - UBS": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Buckley \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "C. Bradford Richmond ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sara Senatore - Sanford C Bernstein & Co LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Greg Hassler - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Glass - Morgan Stanley": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Matthew DiFrisco - Buckingham Research": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

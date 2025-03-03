@@ -1,0 +1,205 @@
+{
+ "date": "2014-05-08 07:30:00",
+ "Darren Huston": {
+  "avg_sentiment_score": 0.4642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   -0.15,
+   -0.35,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.55,
+   0.45,
+   0.45,
+   0.55,
+   0.85,
+   0.65,
+   0.55,
+   0.45,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7976190476190477,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President, Member of Group Management Board, Director and Chief Executive Officer of Booking.Com"
+ },
+ "Daniel Finnegan": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.8,
+   0.75,
+   0.4,
+   0.4,
+   0.4
+  ],
+  "title": "CFO, Chief Accounting Officer & Ex-Officio Member of Group Management Board"
+ },
+ "Heath Terry \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Post \u2013 BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Douglas Anmuth \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ross Sandler \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mark Mahaney \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Millman \u2013 Millman Research": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dean Prissman \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Sena \u2013 Evercore Partners": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom White \u2013 Macquarie": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mike Olson \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Fitzgerald \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Kopelman \u2013 Cowen and Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

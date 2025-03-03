@@ -1,0 +1,214 @@
+{
+ "date": "2013-08-12 10:00:00",
+ "Neil A. Russell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William J. DeLaney": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.8074999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert C. Kreidler": {
+  "avg_sentiment_score": 0.10909090909090909,
+  "sentiment_score": [
+   -0.45,
+   -0.75,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President and Advisor"
+ },
+ "Edward J. Kelly - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "John Heinbockel - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.1375,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Meredith Adler - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Andrew P. Wolf - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.012500000000000018,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "John W. Ivankoe - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ajay Jain - Cantor Fitzgerald & Co., Research Division": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Karen F. Short - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Wiltamuth": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Wiltamuth - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

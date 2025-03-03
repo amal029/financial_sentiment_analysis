@@ -1,0 +1,232 @@
+{
+ "date": "2016-05-04 08:30:00",
+ "Thomas E. Richards - CDW Corp.": {
+  "avg_sentiment_score": 0.2590909090909091,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8469696969696968,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Sari L. Macrie - CDW Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ann Elizabeth Ziegler - CDW Corp.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "Matthew Cabral - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Sheerin - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Brian G. Alexander - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Osten H. Bernardez - Cross Research LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Sherri A. Scribner - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Moskowitz - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Tien-Tsin Huang - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kathryn Lynn Huberty - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ }
+}

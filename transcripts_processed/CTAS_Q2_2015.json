@@ -1,0 +1,210 @@
+{
+ "date": "2014-12-18 17:00:00",
+ "Bill Gale": {
+  "avg_sentiment_score": 0.21739130434782608,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.6,
+   1.0,
+   -0.15,
+   0.45,
+   -0.35,
+   0.75,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8073913043478261,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Mike Hansen": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Greg Bisbee - Barclays": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Andy Whitman - Robert W. Baird": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sara Gubins - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan Dolev - Jefferies": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Box - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Schneeberger - Oppenheimer": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Steinerman - JPMorgan": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

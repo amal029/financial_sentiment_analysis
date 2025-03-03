@@ -1,0 +1,128 @@
+{
+ "date": "2018-02-28 17:00:00",
+ "Rodney Cyril Sacks - Monster Beverage Corp.": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7464285714285713,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Hilton Hiller Schlosberg - Monster Beverage Corp.": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Co-CEO & Vice Chairman"
+ },
+ "Mark Stiefel Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Andrea F. Teixeira - JPMorgan Chase & Co.": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Laurent Grandet - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Caroline Levy - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

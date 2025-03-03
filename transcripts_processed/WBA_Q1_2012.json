@@ -1,0 +1,217 @@
+{
+ "date": "2011-12-21 08:30:00",
+ "Rick J. Hans": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4
+  ]
+ },
+ "Gregory D. Wasson": {
+  "avg_sentiment_score": 0.15869565217391304,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   -0.45,
+   -0.45,
+   0.85,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.741304347826087,
+  "confidence": [
+   0.5,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Wade D. Miquelon": {
+  "avg_sentiment_score": 0.353125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.75,
+   1.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Mark R. Miller - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Edward J. Kelly - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.1357142857142857,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "John Heinbockel - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Wang - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Wang": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

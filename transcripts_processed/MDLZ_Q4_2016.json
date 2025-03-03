@@ -1,0 +1,264 @@
+{
+ "date": "2017-02-07 17:00:00",
+ "Shep Dunlap - Mondel\u0113z International, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Irene B. Rosenfeld - Mondel\u0113z International, Inc.": {
+  "avg_sentiment_score": 0.08636363636363636,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.859090909090909,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Brian T. Gladden - Mondel\u0113z International, Inc.": {
+  "avg_sentiment_score": 0.11212121212121212,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8263636363636363,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Kenneth B. Goldman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   0.67,
+   1.0
+  ]
+ },
+ "Bryan Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Lazar - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "David Cristopher Driscoll - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   0.67,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8571428571428571,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Alexia Jane Howard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.5,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Strycula - UBS Securities LLC": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

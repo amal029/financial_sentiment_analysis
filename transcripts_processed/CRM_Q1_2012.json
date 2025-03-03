@@ -1,0 +1,171 @@
+{
+ "date": "2011-05-20 17:00:00",
+ "David Havlek": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Marc Benioff": {
+  "avg_sentiment_score": 0.5846153846153845,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7884615384615384,
+  "confidence": [
+   0.9,
+   0.4,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Graham Smith": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Vice President"
+ },
+ "Laura Lederman - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Mark Murphy - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kash Rangan - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ross MacMillan - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stan Zlotsky - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Breza - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Unknown Analyst - ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brad Zelnick - Macquarie Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brendan Barnicle - Pacific Crest Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

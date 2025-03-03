@@ -1,0 +1,206 @@
+{
+ "date": "2021-04-22 08:00:00",
+ "Mike Hencke": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michel Vounatsos": {
+  "avg_sentiment_score": 0.7571428571428571,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Al Sandrock": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.65,
+   0.1,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Mike McDonnell": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.35,
+   0.05,
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Yee": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Marc Goodman": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Yatin Suneja": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Colin Bristow": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Evan Seigerman": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jay Olson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sumant Kulkarni": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.645,
+  "confidence": [
+   0.6,
+   0.69
+  ]
+ }
+}

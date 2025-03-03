@@ -1,0 +1,169 @@
+{
+ "date": "2016-07-29 08:30:00",
+ "Sara Grilliot": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Carlos Rodriguez": {
+  "avg_sentiment_score": 0.4230769230769231,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   -0.15,
+   0.55,
+   0.65,
+   0.05,
+   0.0,
+   0.85,
+   0.45,
+   0.15,
+   0.55,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7769230769230769,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chair"
+ },
+ "Jan Siegmund": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.65,
+   0.55,
+   0.85,
+   0.05,
+   0.65,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.0,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.6,
+   0.85,
+   0.9,
+   0.75,
+   0.85
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "James Schneider": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christin Chen": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Gubins": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ashish Sabadra": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Grossman": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Rick Eccleston": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Marcon": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Gary Bisbee": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ }
+}

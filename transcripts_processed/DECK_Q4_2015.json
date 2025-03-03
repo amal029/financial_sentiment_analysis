@@ -1,0 +1,335 @@
+{
+ "date": "2015-05-28 16:30:00",
+ "Brendon Frey": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Angel Martinez": {
+  "avg_sentiment_score": 0.485,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.15,
+   0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.4
+  ],
+  "title": "Chairman of the Board and Consultant"
+ },
+ "Dave Powers": {
+  "avg_sentiment_score": 0.3961538461538462,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.85,
+   0.75,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7735897435897436,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.67
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Tom George": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Taposh Bari": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Bob Drbul": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Camilo Lyon": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitch Kummetz": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Sole": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Sam Poser": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Scott Krasik": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Tracy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Erinn Murphy": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Randy Konik": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Danielle McCoy": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

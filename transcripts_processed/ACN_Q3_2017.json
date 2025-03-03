@@ -1,0 +1,195 @@
+{
+ "date": "2017-06-22 08:00:00",
+ "Angie Park": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.3,
+  "confidence": [
+   0.6,
+   0.0
+  ]
+ },
+ "Pierre Nanterme": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.85,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.55,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8464285714285714,
+  "confidence": [
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "David P. Rowland": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0,
+   0.85,
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.05,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.9,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.65,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman & Advisor to CEO"
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward Caso": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Bergin": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Keane": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Schneider": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "David Koning": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

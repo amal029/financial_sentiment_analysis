@@ -1,0 +1,213 @@
+{
+ "date": "2018-05-02 08:30:00",
+ "Brad Burke": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bob Sulentic": {
+  "avg_sentiment_score": 0.44,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.65,
+   0.85,
+   0.05,
+   -0.15,
+   0.65,
+   1.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "CEO & Chairman of Board"
+ },
+ "Jim Groch": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.15,
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.15,
+   1.0,
+   0.0,
+   0.35,
+   0.45
+  ],
+  "avg_confidence": 0.8269230769230769,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Global Director of Corporate Development"
+ },
+ "Anthony Paolone": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jason Green": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Stephen Sheldon": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Ryan Tomasello": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitch Germain": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Ridley-Lane": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "date": "2016-04-21 11:45:00",
+ "Matthew Calistri - Senior Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "George A. Scangos - Chief Executive Officer": {
+  "avg_sentiment_score": 0.4722222222222222,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.65,
+   0.85,
+   0.45,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Alfred W. Sandrock, Jr. - Executive Vice President, Neurology Discovery & Development Center, Neurodegeneration Therapeutic Area and Chief Medical Officer": {
+  "avg_sentiment_score": 0.43571428571428567,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Paul J. Clancy - Executive Vice President, Chief Financial Officer, Biogen, Inc.": {
+  "avg_sentiment_score": 6.938893903907228e-18,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.35,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alethia Young - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Geoffrey C. Porges - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Schmidt - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Yee - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robyn Karnauskas - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jim Birchenough - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Terence Flynn - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "M. Ian Somaiya - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Raymond - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

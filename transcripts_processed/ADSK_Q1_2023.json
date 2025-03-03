@@ -1,0 +1,212 @@
+{
+ "date": "2022-05-26 17:20:00",
+ "Simon Mays-Smith": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Anagnost": {
+  "avg_sentiment_score": 0.5795454545454546,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.85,
+   1.0,
+   0.05,
+   1.0,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.45,
+   0.65,
+   0.15,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7904545454545455,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.67,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.85,
+   0.5,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.9
+  ]
+ },
+ "Debbie Clifford": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Phil Winslow": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Saket Kalia": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   0.68,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Borg": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Hedberg": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Joe Vruwink": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Steve Koenig": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bhavin Shah": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ }
+}

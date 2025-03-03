@@ -1,0 +1,195 @@
+{
+ "date": "2022-08-17 08:00:00",
+ "John Hulbert": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Cornell": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15,
+   0.65,
+   0.85,
+   0.45,
+   1.0,
+   1.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.665,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.9,
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   0.75
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "A. Hennington": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & Chief Growth Officer"
+ },
+ "John Mulligan": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Michael Fiddelke": {
+  "avg_sentiment_score": 0.21363636363636365,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15,
+   0.05,
+   0.0,
+   0.55,
+   0.05,
+   -0.15,
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6954545454545454,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.8
+  ],
+  "title": "Executive VP, COO & CFO"
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Edward Yruma": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephanie Schiller Wissink": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Kelly Bania": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Ohmes": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Oliver Chen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

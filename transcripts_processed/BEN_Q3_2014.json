@@ -1,0 +1,25 @@
+{
+ "date": "2014-08-03 10:56:06",
+ "Greg Johnson - Chief Executive Officer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Ken Lewis - Chief Financial Officer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "EVP & CFO"
+ }
+}

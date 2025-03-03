@@ -1,0 +1,382 @@
+{
+ "date": "2010-04-27 08:30:00",
+ "Elena Charles": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Gary Butler": {
+  "avg_sentiment_score": 0.29615384615384616,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.85,
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8115384615384615,
+  "confidence": [
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Christopher Reidy": {
+  "avg_sentiment_score": 0.11086956521739132,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   -0.35,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8217391304347825,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Julio C. Quinteros, Jr. - Goldman Sachs": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rod Bourgeois - Sanford C. Bernstein & Co., LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Jason Kuperferberg \u2013 UBS": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason Kuperferberg \u2013 USB": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "James Macdonald \u2013 First Analysis Securities": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "David Grossman - Thomas Weisel Partners": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Butler ": {
+  "avg_sentiment_score": 0.2775862068965517,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.85,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   1.0,
+   -0.35,
+   0.05,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7948275862068965,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Baker - Raymond James": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "isch - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Analyst for Adam Frisch - Morgan Stanley": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Analyst for Kelly Flynn - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Bisbee - Barclays Capital": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.85
+  ]
+ },
+ "James Kissane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Mark Marcon - Robert W. Baird & Co.": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Jennifer Dugan \u2013 Lazard Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Timothy McHugh - William Blair & Co.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tien-tsin Huang - JP Morgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

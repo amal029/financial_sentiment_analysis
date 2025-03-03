@@ -1,0 +1,277 @@
+{
+ "date": "2018-02-02 10:00:00",
+ "Erin Winters": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6
+  ]
+ },
+ "Bill Austen": {
+  "avg_sentiment_score": 0.35625,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   0.45,
+   0.65,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Mike Clauer": {
+  "avg_sentiment_score": 0.05750000000000001,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   -0.15,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.35,
+   -1.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.735,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Ghansham Panjabi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Connor Robbins": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "John Dunigan": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.5375,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Bryan Burgmeier": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Arun Viswanathan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Kyle White": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Edlain Rodriguez": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Leblanc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Freuchtel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Gabrial Hajde": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Salvator Tiano": {
+  "avg_sentiment_score": -0.009999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.1,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.5
+  ]
+ },
+ "Anojja Shah": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Molly Baum": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

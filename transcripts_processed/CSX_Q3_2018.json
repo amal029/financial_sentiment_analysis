@@ -1,0 +1,360 @@
+{
+ "date": "2018-10-17 16:30:00",
+ "Kevin Boone": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Foote": {
+  "avg_sentiment_score": 0.4604166666666667,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   1.0,
+   0.15,
+   0.45,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.05,
+   1.0,
+   -0.15,
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7729166666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Frank Lonegro": {
+  "avg_sentiment_score": 0.3473684210526316,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.8,
+   0.35,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   -0.5,
+   0.55,
+   0.0,
+   0.55,
+   0.05,
+   0.65,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.7921052631578948,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wallace": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Executive Vice President"
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Ken Dexter": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Thomas Wadewitz": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Brandon Oglenski": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Justin Long": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Russell": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Walter Spracklin": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Majors": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Cherilyn Radbourne": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ben Hartford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

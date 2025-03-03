@@ -1,0 +1,315 @@
+{
+ "date": "2022-04-28 08:30:00",
+ "Melissa Poole": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.05,
+   0.5,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Michele Buck": {
+  "avg_sentiment_score": 0.3086956521739131,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8813043478260869,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Steve Voskuil": {
+  "avg_sentiment_score": 0.3075,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Robert Moskow": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason English": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia Howard": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   0.85,
+   0.6,
+   0.67
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lavery": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Cody Ross": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Jonathan Feeney": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Baumgartner": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ }
+}

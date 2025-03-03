@@ -1,0 +1,302 @@
+{
+ "date": "2014-11-05 08:00:00",
+ "David Nelson": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Francisco D'Souza": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   -0.45,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8384615384615385,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Gordon Coburn": {
+  "avg_sentiment_score": 0.33529411764705885,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.85,
+   0.15,
+   0.85,
+   -1.0,
+   0.6,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7852941176470588,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.4,
+   0.8,
+   0.75,
+   0.6,
+   0.9,
+   0.6,
+   0.9,
+   0.4,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "President"
+ },
+ "Karen McLoughlin": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Bryan Keane \u2013 Deutsche Bank AG": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Edward Caso \u2013 Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Mayank Tandon \u2013 Needham & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Lisa Ellis \u2013 Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Foresi \u2013 Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Bachman \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "David Togut \u2013 Evercore Partners": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sara Gubins \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "Jason Kupferberg \u2013 Jefferies LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Essex \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Greene \u2013 Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Steven Milunovich \u2013 UBS Investment Bank": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Moshe Katri \u2013 Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

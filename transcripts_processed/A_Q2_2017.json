@@ -1,0 +1,338 @@
+{
+ "date": "2017-05-22 16:30:00",
+ "Alicia Rodriguez": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Michael McMullen": {
+  "avg_sentiment_score": 0.47058823529411764,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   -0.15,
+   1.0,
+   0.15,
+   0.45,
+   0.65,
+   -0.15,
+   0.0,
+   0.55,
+   0.85,
+   0.15,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.85,
+   0.4,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Didier Hirsch": {
+  "avg_sentiment_score": 0.29090909090909095,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8545454545454546,
+  "confidence": [
+   0.8,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joel Kaufman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Patrick Kaltenbach": {
+  "avg_sentiment_score": 0.4666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Senior Vice President and President of Life Sciences & Applied Markets Group (LSAG) Business Unit"
+ },
+ "Mike Sarcone": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jacob Thaysen": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.85,
+   0.4,
+   0.9,
+   0.85,
+   0.9
+  ]
+ },
+ "Stephen Beuchaw": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Samuel Couillard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Douglas Schenkel": {
+  "avg_sentiment_score": -0.725,
+  "sentiment_score": [
+   -0.45,
+   -1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Luke Sergott": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Derik De Bruin": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Mark Doak": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Senior Vice President and President of Agilent CrossLab Group"
+ },
+ "Daniel Arias": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Sara Silverman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William March": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Catherine Schulte": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

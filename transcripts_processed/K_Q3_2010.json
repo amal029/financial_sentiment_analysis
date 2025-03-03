@@ -1,0 +1,222 @@
+{
+ "date": "2010-11-02 09:30:00",
+ "Kathryn Koessel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "A. D. MacKay": {
+  "avg_sentiment_score": 0.28928571428571426,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   0.15,
+   -0.35,
+   0.55,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.7535714285714287,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Ronald Dissinger": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -1.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "John Bryant": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.5571428571428572,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Judy Hong - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Diane Geissler - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Robert Moskow - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryan Spillane - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Edward Aaron - RBC Capital Markets Corporation": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Dickerson": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Timothy Ramey - D.A. Davidson & Co.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Senior Vice President and President of Kellogg North America"
+ },
+ "Kenneth Zaslow - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Andrew Lazar - Barclays Capital": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alexia Howard - Bernstein Research": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Driscoll - Citigroup Inc": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

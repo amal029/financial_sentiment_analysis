@@ -1,0 +1,240 @@
+{
+ "date": "2020-02-03 10:00:00",
+ "Neil Russell": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ed Shirley": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "nan"
+ },
+ "Kevin Hourican": {
+  "avg_sentiment_score": 0.40625,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.6
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Joel Grade": {
+  "avg_sentiment_score": 0.2086956521739131,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   -0.45,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.05,
+   0.45,
+   0.45,
+   0.55,
+   0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7913043478260869,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President of Business Development"
+ },
+ "Edward Kelly": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Mandeville": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "John Heinbockel": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Judah Frommer": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Bernstein": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Josh Nolan": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Kelly Bania": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Bob Summers": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Ivankoe": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Rebecca Scheuneman": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marisa Sullivan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

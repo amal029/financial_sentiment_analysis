@@ -1,0 +1,239 @@
+{
+ "date": "2012-10-26 08:30:00",
+ "Marlene Dooner": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.88375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.4,
+   1.0
+  ]
+ },
+ "Brian Roberts": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Michael Angelakis": {
+  "avg_sentiment_score": 0.51875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.35,
+   0.55,
+   0.65,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Senior Advisor"
+ },
+ "Jessica Reif Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Neil Smit": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Vice Chairman"
+ },
+ "Steve Burke": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.55,
+   -1.0,
+   0.65
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Senior Executive Vice President"
+ },
+ "Jason Armstrong - Goldman Sachs": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Doug Mitchelson - Deutsche Bank": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Doug Mitchelson - Deutsche Bank ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Craig Moffett - Sanford Bernstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Bazinet - Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Marci Ryvicker - Wells Fargo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ben Swinburne - Morgan Stanley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Ratcliffe - Barclays": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stefan Anninger - Credit Suisse": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Hodulik - UBS": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

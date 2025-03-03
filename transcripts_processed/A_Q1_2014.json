@@ -1,0 +1,360 @@
+{
+ "date": "2014-02-13 16:30:00",
+ "Alicia Rodriguez": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Bill Sullivan": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ],
+  "title": "Senior Advisor"
+ },
+ "Ron Nersesian": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Executive Vice President, Chief Executive Officer of Electronic Measurement Group, Chief Executive Officer of Keysight Technologies Inc, President of Electronic Measurement Group and President of Keysight Technologies Inc"
+ },
+ "Didier Hirsch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tycho Peterson - JPMorgan ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Didier Hirsch ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Ron Nersesian ": {
+  "avg_sentiment_score": 0.5083333333333334,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.8,
+   0.85,
+   0.85
+  ]
+ },
+ "Brandon Couillard - Jefferies": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Sullivan ": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.65,
+   0.85,
+   -0.15,
+   0.0,
+   0.35,
+   0.05,
+   -0.15,
+   0.45,
+   0.85,
+   -0.15,
+   0.55,
+   0.55,
+   -0.15,
+   0.65,
+   0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7547619047619047,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.6,
+   0.5,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Brandon Couillard - Jefferies ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Paul Knight - Janney Capital": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Knight - Janney Capital ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Isaac Ro - Goldman Sachs ": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Fred Strohmeier": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85
+  ]
+ },
+ "Ross Muken - ISI Group ": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Tim Evans - Wells Fargo Securities": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Evans - Wells Fargo Securities ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Derik de Bruin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike McMullen": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Derik de Bruin - Bank of America Merrill Lynch ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jon Groberg - Macquarie Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jon Groberg - Macquarie Capital ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrick Newton - Stifel Nicolaus ": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Doug Schenkel - Cowen & Company": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Doug Schenkel - Cowen & Company ": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Dan Arias - UBS": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryan Kipp - Janney Capital Markets ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

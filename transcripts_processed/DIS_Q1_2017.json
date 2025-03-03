@@ -1,0 +1,245 @@
+{
+ "date": "2017-02-07 16:30:00",
+ "Lowell Singer - The Walt Disney Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.4
+  ]
+ },
+ "Robert A. Iger - The Walt Disney Co.": {
+  "avg_sentiment_score": 0.22666666666666668,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   -0.45,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7766666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Christine M. McCarthy - The Walt Disney Co.": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Senior EVP & CFO"
+ },
+ "Alexia S. Quadrani - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.8333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Michael B. Nathanson - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jessica Jean Reif Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Benjamin Daniel Swinburne - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Anthony DiClemente - Nomura Instinet": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Todd Juenger - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Janedis - Jefferies LLC": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Boisvert Bazinet - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "David W. Miller - Loop Capital Markets LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan Kraft - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

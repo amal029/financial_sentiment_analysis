@@ -1,0 +1,258 @@
+{
+ "date": "2015-04-22 09:00:00",
+ "Ellen Taylor": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bruce Van Saun": {
+  "avg_sentiment_score": 0.4181818181818183,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   0.15,
+   0.45,
+   0.55,
+   0.6,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.15,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.55,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7257575757575756,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Eric Aboaf": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Ken Zerbe": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brad Conner": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.9055555555555556,
+  "confidence": [
+   0.85,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Vice Chairman of Consumer Banking"
+ },
+ "Matt Burnell": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Beck Nanja": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Cyphers": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Geoffrey Elliott": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": -0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8571428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Eaves": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,285 @@
+{
+ "date": "2014-04-24 17:00:00",
+ "Kathy Ta": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce Kiddoo": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   0.85,
+   0.0,
+   0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.75,
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Tun\u00e7 Doluca": {
+  "avg_sentiment_score": 0.23,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   -0.15,
+   0.0,
+   0.65,
+   -0.45,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8583333333333333,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Christopher Danely - JP Morgan": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Romit Shah - Nomura Securities": {
+  "avg_sentiment_score": 0.7999999999999999,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.75,
+   0.9,
+   0.4
+  ]
+ },
+ "Blayne Curtis - Barclays Capital": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "James Covello - Goldman Sachs": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Smigie - Raymond James": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68,
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Aashish Rao - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Caso - Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ambrish Srivastava - BMO Capital Markets": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "Evan Wang - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Earl Hege - RBC Capital Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

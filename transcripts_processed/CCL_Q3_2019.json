@@ -1,0 +1,239 @@
+{
+ "date": "2019-09-26 10:00:00",
+ "Arnold Donald": {
+  "avg_sentiment_score": 0.2660714285714286,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   -0.15,
+   0.15,
+   0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7625000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "CEO, Chief Climate Officer, President & Director"
+ },
+ "David Bernstein": {
+  "avg_sentiment_score": 0.14444444444444443,
+  "sentiment_score": [
+   0.55,
+   0.6,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & Chief Accounting Officer"
+ },
+ "Jared Shojaian": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Beth Roberts": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Steven Wieczynski": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Harry Curtis": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Felicia Hendrix": {
+  "avg_sentiment_score": -0.18749999999999997,
+  "sentiment_score": [
+   -1.0,
+   -0.45,
+   -0.45,
+   0.55,
+   -0.15,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6812499999999999,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brandt Montour": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Timothy Conder": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Stephen Grambling": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

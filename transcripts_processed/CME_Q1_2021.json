@@ -1,0 +1,375 @@
+{
+ "date": "2021-04-28 08:30:00",
+ "John Peschier": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Terry Duffy": {
+  "avg_sentiment_score": 0.25517241379310346,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.15,
+   0.0,
+   -0.45,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8731034482758621,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "John Pietrowicz": {
+  "avg_sentiment_score": 0.3525,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67,
+   0.6,
+   0.68,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.65
+  ]
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Sean Tully": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Julie Winkler": {
+  "avg_sentiment_score": 0.5750000000000001,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Mike Carrier": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Derek Sammann": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.6
+  ]
+ },
+ "A \u2013 Terry Duffy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Harris": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Ari Ghosh": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68,
+   1.0
+  ]
+ },
+ "Sunil Cutinho": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Chief Information Officer"
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Allen": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ben Herbert": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Owen Lau": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Simon Clinch": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

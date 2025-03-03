@@ -1,0 +1,138 @@
+{
+ "date": "2013-12-05 17:00:00",
+ "Kim Duncan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Robert S. Weiss": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   -1.0,
+   0.75,
+   0.05,
+   0.6,
+   0.6,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.8
+  ],
+  "title": "Chief Executive Officer, President and Non-Independent Director"
+ },
+ "Gregory W. Matz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.0,
+   0.9
+  ]
+ },
+ "Jeffrey D. Johnson - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jonathan D. Block - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Steve Willoughby - Cleveland Research Company": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kimberly Weeks Gailun - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kaila Krum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Lawrence Biegelsen - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Joanne K. Wuensch - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Amit Bhalla - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

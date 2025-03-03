@@ -1,0 +1,215 @@
+{
+ "date": "2021-11-03 00:00:00",
+ "James Eglseder": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Ronald F. Clarke": {
+  "avg_sentiment_score": 0.5229166666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.05,
+   0.45,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   0.65,
+   0.55,
+   0.05,
+   0.85,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.4,
+   0.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Charles Freund": {
+  "avg_sentiment_score": 0.15833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "CFO & Company Secretary"
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Jeffrey": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Peter Christiansen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ]
+ },
+ "Mihir Bhatia": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kenneth Suchoski": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Georgios Mihalos": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Napoli": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,359 @@
+{
+ "date": "2016-02-09 16:30:00",
+ "Tom Barth - Head-Investor Relations": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Frank Thomson Leighton - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.491304347826087,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.85,
+   1.0,
+   0.55,
+   0.6,
+   0.45,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8391304347826087,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.9
+  ],
+  "title": "Co-Founder, CEO, President & Director"
+ },
+ "James Benson - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.25434782608695655,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.45,
+   0.15,
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   -0.15,
+   -0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7717391304347826,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.8,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Michael Bowen - Pacific Crest Securities": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy K. Horan - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Mike J. Olson - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Steven M. Milunovich - UBS Securities LLC": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Sterling Auty - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jonathan Schildkraut - Evercore ISI": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vijay K. Bhagavath - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Colby Synesael - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "James D. Breen - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Kilgallen - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Turits - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Gray W. Powell - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Rishi Jaluria - JMP Securities LLC": {
+  "avg_sentiment_score": 0.48,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Eric Weiss - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Will V. Power - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ }
+}

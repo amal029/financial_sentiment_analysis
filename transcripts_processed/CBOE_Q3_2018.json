@@ -1,0 +1,269 @@
+{
+ "date": "2018-11-02 08:30:00",
+ "Debbie Koopman": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Ed Tilly": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   -0.45,
+   0.55,
+   0.45,
+   0.65,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7878571428571428,
+  "confidence": [
+   0.85,
+   0.68,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Brian Schell": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive VP, CFO & Treasurer"
+ },
+ "Richard Repetto": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Fannon": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Concannon": {
+  "avg_sentiment_score": 0.25625000000000003,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.16428571428571428,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Deters": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Michael Carrier": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Ben Herbert": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Harris": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vincent Hung": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "date": "2012-03-22 09:30:00",
+ "Gary M. Rodkin": {
+  "avg_sentiment_score": 0.08888888888888889,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05,
+   -0.45,
+   0.15,
+   0.15,
+   -0.45,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7277777777777777,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Special Advisor"
+ },
+ "Chris Klinefelter": {
+  "avg_sentiment_score": 0.044444444444444446,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   0.35,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "John F. Gehring": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Interim Chief Financial Officer of Lamb Weston Business and Vice President of Lamb Weston"
+ },
+ "Andrew Lazar - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andr\u00e9 J. Hawaux": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   0.4,
+   0.75
+  ],
+  "title": "President of Consumer Foods"
+ },
+ "David Driscoll - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan P. Feeney - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Palmer - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul T. Maass": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   0.75
+  ],
+  "title": "President of Private Brands and Commercial Foods"
+ },
+ "Robert Dickerson - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Thilo Wrede - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ann H. Gurkin - Davenport & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth Goldman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Eric R. Katzman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.35000000000000003,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Alexia Howard - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

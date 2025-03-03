@@ -1,0 +1,298 @@
+{
+ "date": "2012-08-03 12:00:00",
+ "Kim Callahan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ric Campo": {
+  "avg_sentiment_score": 0.2575,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.05,
+   0.65,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7525000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.8,
+   0.75,
+   0.0,
+   1.0
+  ],
+  "title": "Chairman of the Board of Trust Managers & CEO"
+ },
+ "Keith Oden": {
+  "avg_sentiment_score": 0.21923076923076923,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7846153846153846,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ],
+  "title": "President & Executive Vice Chairman of the Board of Trust Managers"
+ },
+ "Dennis Steen": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.0,
+   0.35,
+   0.0,
+   0.45,
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Vice President of Finance"
+ },
+ "Eric Wolfe \u2013 Citi": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6125,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Jana Galan \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Karin Ford \u2013 KeyBanc Markets": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Alexander Goldfarb \u2013 Sandler O\u2019Neill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard Campo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alexander Goldfarb \u2013Sandler O\u2019Neill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Rob Stevenson \u2013 Macquarie": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Rich Anderson \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Dave Bragg \u2013 Zelman & Associates": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Paula Poskon \u2013 Robert W Baird": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Salinsky \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Karin Ford - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

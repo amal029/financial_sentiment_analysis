@@ -1,0 +1,260 @@
+{
+ "date": "2018-04-26 08:00:00",
+ "Mike Wagnes - Allegion Plc": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "David D. Petratis - Allegion Plc": {
+  "avg_sentiment_score": 0.2403846153846154,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8884615384615385,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Patrick S. Shannon - Allegion Plc": {
+  "avg_sentiment_score": 0.2692307692307693,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   0.55,
+   0.55,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8038461538461538,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Julian Mitchell - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Saliq Jamil Khan - Imperial Capital LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Timothy Ronald Wojs - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.61,
+  "confidence": [
+   0.75,
+   0.4,
+   0.68
+  ]
+ },
+ "Rich M. Kwas - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David S. MacGregor - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert D. Barry - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Ted Kessler - Imperial Capital LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

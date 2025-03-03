@@ -1,0 +1,412 @@
+{
+ "date": "2015-11-05 09:00:00",
+ "Matthew K. Juneau - Albemarle Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice President of Corporate Strategy & Investor Relations"
+ },
+ "Scott A. Tozier - Albemarle Corp.": {
+  "avg_sentiment_score": 0.19444444444444445,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8694444444444445,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Luke C. Kissam - Albemarle Corp.": {
+  "avg_sentiment_score": 0.156,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.55,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.877,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Andrejkovics - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Andrew Koort - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "P.J. Juvekar - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6839999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "David I. Begleiter - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.6583333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   1.0,
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Silvio Ghyoot - Albemarle Corp.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Joseph Harrison - Seaport Global Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aleksey Yefremov - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tyler Charles Frank - Robert W. Baird & Co., Inc. (Private Wealth Management)": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.65,
+   0.6,
+   1.0
+  ]
+ },
+ "Laurence Alexander - Jefferies LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6950000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "James M. Sheehan - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Ritzenthaler - Piper Jaffray & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Dmitry Silversteyn - Longbow Research LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.7
+  ]
+ },
+ "Joris Merckx - CHEMETALL GmbH": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Christopher J. Kapsch - BB&T Capital Markets": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

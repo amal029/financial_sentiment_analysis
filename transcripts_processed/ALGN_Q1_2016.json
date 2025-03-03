@@ -1,0 +1,273 @@
+{
+ "date": "2016-04-28 16:30:00",
+ "Shirley Stacy - VP, Corporate Communications and Investor Relations": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9454545454545454,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph M. Hogan - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.11041666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8279166666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ],
+  "title": "President, CEO & Director"
+ },
+ "David L. White - Chief Financial Officer": {
+  "avg_sentiment_score": 0.26785714285714285,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.8335714285714285,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.75
+  ],
+  "title": "Non-Executive"
+ },
+ "Robert Patrick Jones - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve C. Beuchaw - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "John C. Kreger - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brandon Couillard - Jefferies LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew O\u2019Brien - Piper Jaffray & Co. (Broker)": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher William Lewis - ROTH Capital Partners LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jon Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff D. Johnson - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

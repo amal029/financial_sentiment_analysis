@@ -1,0 +1,255 @@
+{
+ "date": "2013-03-19 17:00:00",
+ "William C. Gale": {
+  "avg_sentiment_score": 0.1546875,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   0.05,
+   0.15,
+   0.55,
+   0.55,
+   0.15,
+   -0.45,
+   -0.15,
+   0.65,
+   -0.15,
+   0.05,
+   -0.15,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7703125,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Senior Vice President"
+ },
+ "J. Michael Hansen": {
+  "avg_sentiment_score": 0.2777777777777778,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8055555555555556,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Sara Gubins - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Nathan Brochmann - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Joe Box - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Andrew J. Wittmann - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James Samford - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Andrew C. Steinerman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Hultberg - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Shlomo H. Rosenbaum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -3.0839528461809902e-18,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary E. Bisbee - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.11000000000000001,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Rogers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

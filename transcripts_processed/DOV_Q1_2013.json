@@ -1,0 +1,341 @@
+{
+ "date": "2013-04-17 14:00:00",
+ "Paul E. Goldberg": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert A. Livingston": {
+  "avg_sentiment_score": 0.2302325581395349,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   1.0,
+   0.45,
+   0.45,
+   0.15,
+   0.65,
+   0.45,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.35,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.836046511627907,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Brad M. Cerepak": {
+  "avg_sentiment_score": 0.41333333333333333,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   -0.45,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7200000000000001,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.5
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Julian Mitchell - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Jamie Sullivan - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Shannon O'Callaghan - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Joseph Ritchie - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.9
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Stephen Tusa - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.4,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Charles D. Brady - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "John G. Inch - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Obin - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mircea Dobre - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

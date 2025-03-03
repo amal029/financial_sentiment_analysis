@@ -1,0 +1,312 @@
+{
+ "date": "2019-07-26 09:00:00",
+ "David Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Amos": {
+  "avg_sentiment_score": 0.18333333333333332,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8533333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.8,
+   0.75
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Fred Crawford": {
+  "avg_sentiment_score": 0.3222222222222222,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.55,
+   -0.15,
+   0.45,
+   0.65,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Teresa White": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Rich Williams": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Humphrey Lee": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Andrew Kligerman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Masatoshi Koide": {
+  "avg_sentiment_score": 0.05714285714285715,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "President, Representative Director & COO of Aflac Japan"
+ },
+ "Alex Scott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "A \u2013 Fred Crawford": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Kirsch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": -0.025,
+  "sentiment_score": [
+   0.0,
+   -0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Max Broden": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

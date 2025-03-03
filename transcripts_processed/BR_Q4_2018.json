@@ -1,0 +1,162 @@
+{
+ "date": "2018-08-07 08:30:00",
+ "W. Edings Thibault - Broadridge Financial Solutions, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard J. Daly - Broadridge Financial Solutions, Inc.": {
+  "avg_sentiment_score": 0.4833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.35,
+   0.45,
+   -0.45,
+   1.0,
+   0.75,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Timothy C. Gokey - Broadridge Financial Solutions, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.55,
+   -0.35,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "James M. Young - Broadridge Financial Solutions, Inc.": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.4,
+   -0.15,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.6916666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "David Mark Togut - Evercore ISI": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin Peller - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Peter J. Heckmann - D. A. Davidson & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Puneet Jain - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Roy Donat - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick J. O'Shaughnessy - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

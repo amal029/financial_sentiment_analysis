@@ -1,0 +1,382 @@
+{
+ "date": "2011-11-02 13:30:00",
+ "Steve Austenfeld": {
+  "avg_sentiment_score": 0.01363636363636364,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Donald R. Knauss": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.8,
+   0.4
+  ],
+  "title": "Executive Chairman and Chairman of Executive Committee"
+ },
+ "Lawrence S. Peiros": {
+  "avg_sentiment_score": 0.01111111111111112,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   -1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   -0.35,
+   0.55,
+   -0.45,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Stephen M. Robb": {
+  "avg_sentiment_score": 0.13703703703703704,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   -0.35,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "William Schmitz - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher Ferrara - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Joseph Altobello - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Alice Beebe Longley - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joe Lachky - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": -0.26,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "John P. San Marco - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John A. Faucher - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lauren R. Lieberman - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nik Modi - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Edward J. Kelly - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Priya Ohri-Gupta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

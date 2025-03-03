@@ -1,0 +1,420 @@
+{
+ "date": "2016-07-27 08:30:00",
+ "Helen Wilson - Senior Vice President, Investor Relations, Chubb Ltd.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Evan G. Greenberg - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.03111111111111111,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   -0.35,
+   1.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8655555555555556,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Philip V. Bancroft - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.044444444444444446,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Nannizzi - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul J. Krump - Executive Vice President, Chubb Group & President, North America Commercial and Personal Insurance, Chubb Ltd.": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Vice Chairman of Global Underwriting & Claims"
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Sarah E. DeWitt - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John W. Keogh - Executive Vice Chairman & Chief Operating Officer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President & COO"
+ },
+ "John Joseph Lupica - Vice Chairman, Chubb Limited / Chubb Group; President, North America Major Accounts and Specialty Insurance": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Vice Chairman of Chubb Group & President of North America Insurance Operations"
+ },
+ "Juan C. Andrade - Executive Vice President, Chubb Group & President, Overseas General Insurance, Chubb Ltd.": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Jon Paul Newsome - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8325,
+  "confidence": [
+   1.0,
+   1.0,
+   0.65,
+   0.68
+  ]
+ },
+ "Charles Joseph Sebaski - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ian J. Gutterman - Balyasny Asset Management LP": {
+  "avg_sentiment_score": -0.03888888888888889,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9055555555555556,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Larry Greenberg - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Josh D. Shanker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Robert Meredith - UBS Securities LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Meyer Shields - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.726,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.68
+  ]
+ }
+}

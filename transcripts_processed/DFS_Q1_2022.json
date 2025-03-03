@@ -1,0 +1,303 @@
+{
+ "date": "2022-04-28 08:00:00",
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Roger Hochschild": {
+  "avg_sentiment_score": 0.33437500000000003,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   -0.35,
+   0.15,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.15,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.859375,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Adviser"
+ },
+ "John Greene ": {
+  "avg_sentiment_score": 0.24523809523809526,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.65,
+   1.0,
+   0.35,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.15,
+   0.55,
+   0.15,
+   0.45,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Bill Carcache ": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.67,
+   0.85,
+   0.75,
+   0.69
+  ]
+ },
+ "Sanjay Sakhrani ": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Moshe Orenbuch ": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy Graseck ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Pancari ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Nash ": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.69
+  ]
+ },
+ "Mark DeVries ": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Barker ": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Don Fandetti ": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rick Shane ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Napoli ": {
+  "avg_sentiment_score": 0.9500000000000001,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ]
+ },
+ "Mihir Bhatia ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Hecht ": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Meng Jiao ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

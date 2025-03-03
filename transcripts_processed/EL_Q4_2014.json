@@ -1,0 +1,240 @@
+{
+ "date": "2014-08-15 09:30:00",
+ "Dennis D'Andrea": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Fabrizio Freda": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.803125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.5,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "John Demsey": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ],
+  "title": "Executive Group President"
+ },
+ "Tracey Thomas": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Lauren Lieberman - Barclays": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tracey Thomas Travis": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Lauren Lieberman - Barclays ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Schmitz - Deutsche Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alice Beebe Longley - Buckingham Research": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Ferrara - Wells Fargo": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Olivia Tong - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Powers - UBS": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Connie Maneaty - BMO Capital Markets": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Caroline Levy - CLSA": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Neely Tamminga - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

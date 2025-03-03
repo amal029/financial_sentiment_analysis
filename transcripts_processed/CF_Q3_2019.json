@@ -1,0 +1,228 @@
+{
+ "date": "2019-10-31 10:00:00",
+ "Martin Jarosick": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Anthony Will": {
+  "avg_sentiment_score": 0.29166666666666663,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.65,
+   0.15,
+   -0.15,
+   0.15,
+   0.65,
+   0.45,
+   -0.35,
+   0.65,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.8041666666666666,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Bert Frost": {
+  "avg_sentiment_score": 0.26428571428571423,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.0,
+   0.35,
+   0.15,
+   0.6,
+   0.15
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President of Sales, Market Development & Supply Chain"
+ },
+ "Christopher Bohn": {
+  "avg_sentiment_score": 0.36250000000000004,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.15,
+   0.6
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Executive VP, CFO, COO & Director"
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Parkinson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "P.J. Juvekar": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Vincent Andrews": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Benjamin Isaacson": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Patrick Fischer": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joan Tong": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Roberts": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Joel Jackson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Byrne": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jonas Oxgaard": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Piken": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Donald Carson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brandon Dempster": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

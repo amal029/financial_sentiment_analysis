@@ -1,0 +1,238 @@
+{
+ "date": "2011-06-22 17:00:00",
+ "Mike Saviage": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.8,
+   0.5,
+   1.0
+  ]
+ },
+ "Shantanu Narayen": {
+  "avg_sentiment_score": 0.61875,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.778125,
+  "confidence": [
+   0.6,
+   0.4,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.6,
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Mark Garrett": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7607142857142858,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Steven Ashley - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Walter Pritchard - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Olson - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Philip Rueppel": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Ross MacMillan - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brad Zelnick - Macquarie Research": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Holt - Morgan Stanley": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kash Rangan - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Chief Technology Officer and Senior Vice President of Experience,Technology & Organization"
+ },
+ "Jay Vleeschhouwer - Griffin Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chad Bartley - Pacific Crest Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Daniel Cummins - ThinkEquity LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

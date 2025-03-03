@@ -1,0 +1,280 @@
+{
+ "date": "2017-02-09 08:30:00",
+ "Jeff Dodge": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.4675,
+  "confidence": [
+   0.4,
+   0.67,
+   0.4,
+   0.4
+  ]
+ },
+ "Rick Smith": {
+  "avg_sentiment_score": 0.5183333333333333,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.35,
+   0.0,
+   0.15,
+   1.0,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8133333333333332,
+  "confidence": [
+   0.4,
+   0.85,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "John Gamble": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "Gary Bisbee": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Brett Huff": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67,
+   0.67
+  ]
+ },
+ "Andre Benjamin": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tim McHugh": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Jeffrey": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "George Mihalos": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Andrew Steinerman": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

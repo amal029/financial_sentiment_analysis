@@ -1,0 +1,173 @@
+{
+ "date": "2014-11-04 07:30:00",
+ "Darren Huston": {
+  "avg_sentiment_score": 0.5964285714285714,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   0.85,
+   0.85,
+   0.55,
+   1.0,
+   -0.15,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8107142857142857,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Chief Executive Officer, President, Member of Group Management Board, Director and Chief Executive Officer of Booking.Com"
+ },
+ "Dan Finnegan": {
+  "avg_sentiment_score": -0.01875,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.70625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "CFO, Chief Accounting Officer & Ex-Officio Member of Group Management Board"
+ },
+ "Heath Terry \u2013 Goldman Sachs": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Justin Post \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Doug Anmuth \u2013 JPMorgan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ross Sandler \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Mahaney \u2013 RBC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Naved Khan \u2013 Cantor Fitzgerald": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Kopelman \u2013 Cowen & Company": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ken Sena \u2013 Evercore Partners": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Fitzgerald \u2013 Jefferies": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ronald Josey \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

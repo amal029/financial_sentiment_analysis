@@ -1,0 +1,351 @@
+{
+ "date": "2013-04-25 11:00:00",
+ "John A. Hayes": {
+  "avg_sentiment_score": 0.026190476190476198,
+  "sentiment_score": [
+   -1.0,
+   -0.15,
+   -0.45,
+   -0.45,
+   0.45,
+   -1.0,
+   -0.15,
+   -0.45,
+   0.0,
+   -0.15,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.35,
+   -0.15,
+   -0.35,
+   0.55,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7595238095238095,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott C. Morrison": {
+  "avg_sentiment_score": 0.19166666666666668,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   1.0,
+   0.15,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   -0.45,
+   -0.35,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7479166666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Senior Advisor"
+ },
+ "George L. Staphos - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Phil M. Gresh - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.15,
+   0.05,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6749999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Gaffner - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Philip Ng - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Chip A. Dillon - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam J. Josephson - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Mark Wilde - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Albert T. Kabili - Macquarie Research": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Christopher D. Manuel - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Alex Ovshey Ovshey - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Anthony Pettinari - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

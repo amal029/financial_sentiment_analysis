@@ -1,0 +1,348 @@
+{
+ "date": "2017-11-13 09:00:00",
+ "Jon Kathol - Tyson Foods, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Chairman and Member of Executive Committee"
+ },
+ "Thomas P. Hayes - Tyson Foods, Inc.": {
+  "avg_sentiment_score": 0.3845238095238096,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8440476190476192,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Stewart F. Glendinning - Molson Coors Brewing Company": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dennis Leatherby - Tyson Foods, Inc.": {
+  "avg_sentiment_score": 0.30333333333333334,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.866,
+  "confidence": [
+   0.9,
+   1.0,
+   0.67,
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Adam Samuelson - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Kenneth B. Goldman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Heather Jones - Vertical Group": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.806,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.735,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Jeremy Scott - Mizuho Securities": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Akshay Jagdale - Jefferies LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Michael Leith Piken - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Benjamin M. Theurer - Barclays Capital Casa de Bolsa SA de CV": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   0.67
+  ]
+ },
+ "David Carlson - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Farha Aslam - Stephens, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7116666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "John Colantuoni - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Kenneth Zaslow - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

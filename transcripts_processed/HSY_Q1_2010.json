@@ -1,0 +1,233 @@
+{
+ "date": "2010-04-22 08:30:00",
+ "Mark Pogharian": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Dave West": {
+  "avg_sentiment_score": 0.322,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   -1.0,
+   0.0,
+   0.85,
+   0.65,
+   0.05,
+   0.55,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.55,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.782,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President, Director and President of North American Commercial Group"
+ },
+ "Bert Alfonso": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "President of International"
+ },
+ "David Palmer \u2013 UBS": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Jonathan Feeney \u2013 Janney Montgomery Scott": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Andrews \u2013 Morgan Stanley": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Eric Katzman \u2013 Deutsche Bank": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Terry Bivens \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David Driscoll \u2013 Citigroup": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Alexia Howard \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Zaslow \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6
+  ]
+ },
+ "Christine McCracken - Cleveland Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Moskow \u2013 Credit Suisse": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.65,
+   -1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Bryan Spillane \u2013 Bank of America": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

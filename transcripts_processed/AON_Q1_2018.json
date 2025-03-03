@@ -1,0 +1,137 @@
+{
+ "date": "2018-05-04 08:30:00",
+ "Gregory C. Case - Aon Plc": {
+  "avg_sentiment_score": 0.4555555555555555,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.75,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.4,
+   0.4
+  ],
+  "title": "CEO & Executive Director"
+ },
+ "Christa Davies - Aon Plc": {
+  "avg_sentiment_score": 0.56,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.05,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "David Styblo - Jefferies LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Sarah E. DeWitt - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Arash Soleimani - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Yaron Kinar - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "date": "2011-04-21 17:00:00",
+ "John Finnegan": {
+  "avg_sentiment_score": 0.10238095238095238,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -1.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7952380952380952,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Krump": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.8
+  ]
+ },
+ "Dino Robusto": {
+  "avg_sentiment_score": 0.321875,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Spiro": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7535714285714287,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Walsh - Citigroup Inc": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Heimermann - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vinay Misquith - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Gregory Locraft - Morgan Stanley": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Nannizzi - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Glasspiegel - Langen McAlenney": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Glasspiegel - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Jay Cohen - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ian Gutterman - Adage Capital": {
+  "avg_sentiment_score": 0.39375,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Small - Bear Stearns": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Joshua Shanker - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

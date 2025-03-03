@@ -1,0 +1,170 @@
+{
+ "date": "2024-01-31 17:00:00",
+ "Chuck Ives": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Dave Bozeman": {
+  "avg_sentiment_score": 0.4214285714285714,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Arun Rajan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Mike Zechmeister": {
+  "avg_sentiment_score": 0.016666666666666687,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.55,
+   0.15,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.6749999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jack Atkins": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jon Chapelle": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Stephanie Moore": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Kauffman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce Chan": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

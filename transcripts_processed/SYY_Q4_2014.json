@@ -1,0 +1,262 @@
+{
+ "date": "2014-08-11 10:00:00",
+ "Shannon Mutschler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill DeLaney": {
+  "avg_sentiment_score": 0.32083333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.45,
+   1.0,
+   0.15,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   -0.15,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8058333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Kreidler": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.05,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Executive Vice President and Advisor"
+ },
+ "Vincent Sinisi \u2013 Morgan Stanley ": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Edward Kelly \u2013 Credit Suisse ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "John Heinbockel \u2013 Guggenheim Securities ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Karen Short \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7742857142857142,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Meredith Adler \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wiltamuth \u2013 Jefferies ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ajay Jain \u2013 Cantor Fitzgerald ": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Wolf \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Erin Lash \u2013 Morningstar ": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Amod Gautam \u2013 J.P. Morgan ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6933333333333334,
+  "confidence": [
+   0.8,
+   0.6,
+   0.68
+  ]
+ }
+}

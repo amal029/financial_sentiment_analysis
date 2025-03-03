@@ -1,0 +1,225 @@
+{
+ "date": "2013-01-09 10:30:00",
+ "Patty Yahn-Urlaub": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Robert S. Sands": {
+  "avg_sentiment_score": 0.47000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.9,
+   0.9
+  ]
+ },
+ "Bob Ryder": {
+  "avg_sentiment_score": 0.3727272727272728,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.45,
+   -0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Kaumil Gajrawala - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Judy Hong - Goldman Sachs": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Sands": {
+  "avg_sentiment_score": 0.28214285714285714,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7142857142857143,
+  "confidence": [
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4
+  ]
+ },
+ "Lauren Torres - HSBC": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9
+  ]
+ },
+ "Bryan Spillane - Bank of America": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.9,
+   0.6
+  ]
+ },
+ "Reza Vahabzadeh - Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Mark Swartzberg - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Vivien Azer - Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Carla Casella - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Cooper - Consumer Edge Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Sands": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

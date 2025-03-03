@@ -1,0 +1,480 @@
+{
+ "date": "2010-11-18 11:00:00",
+ "Mark Belgya": {
+  "avg_sentiment_score": 0.02391304347826087,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.908695652173913,
+  "confidence": [
+   0.5,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "Tim Smucker": {
+  "avg_sentiment_score": 0.3433333333333334,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.68,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.67,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Richard Smucker": {
+  "avg_sentiment_score": 0.1846153846153846,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9230769230769231,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Farha Aslam \u2013 Stephens Equity": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Smucker": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9
+  ]
+ },
+ "Ed Aaron \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Vince Byrd": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Vice Chairman, President and Chief Operating Officer"
+ },
+ "Paul Wagstaff": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Director and President of U.S. Retail Consumer Foods"
+ },
+ "Alexia Howard \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Oakland": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "Vice Chair & President of U.S Food & Beverage"
+ },
+ "Chuck Cerankosky \u2013 Northcoast Research": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Ken Goldman \u2013 J.P. Morgan": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9039999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jason English \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Tim Smucker ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jane Gelfand \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.776,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Jon Anderson \u2013 William Blair": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ian Zaffino \u2013 Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Serotta \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Mushkin \u2013 Jefferies & Company": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7816666666666667,
+  "confidence": [
+   0.85,
+   0.67,
+   0.5,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Mitch Pinheiro \u2013 Janney Capital Markets": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Karen Lamark \u2013 Federated Investors": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

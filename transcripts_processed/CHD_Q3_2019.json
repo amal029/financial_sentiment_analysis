@@ -1,0 +1,241 @@
+{
+ "date": "2019-10-31 10:00:00",
+ "Matt Farrell": {
+  "avg_sentiment_score": 0.4294117647058823,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   -0.35,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   -0.45,
+   0.05,
+   0.85,
+   0.55,
+   0.85,
+   0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.776470588235294,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.6
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Rick Dierker": {
+  "avg_sentiment_score": 0.27692307692307694,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   -0.45,
+   0.75,
+   0.35,
+   1.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.45,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.7384615384615384,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "CFO, Executive VP & Head of Business Operations"
+ },
+ "Olivia Tong": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Grundy": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Cody Ross": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rupesh Parikh": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Nik Modi": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Powers": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kaumil Gajrawala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lauren Lieberman": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Adam Kozek": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Feeney": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Rich Dierker": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Strycula": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "date": "2020-07-27 22:45:00",
+ "Paula Schwartz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Joel Marcus": {
+  "avg_sentiment_score": 0.2761904761904762,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.55,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857144,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Jenna Foger": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Stephen A. Richardson": {
+  "avg_sentiment_score": 0.42500000000000004,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Co-Chief Executive Officer"
+ },
+ "Peter M. Moglia": {
+  "avg_sentiment_score": -0.034999999999999996,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "CEO & Chief Investment Officer"
+ },
+ "Dean Shigenaga": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Emmanuel Korchman": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Sheila McGrath": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "James Feldman": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Anthony Paolone": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "William Catherwood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Anderson": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Dave Rodgers": {
+  "avg_sentiment_score": -0.041666666666666664,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Carroll": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Omotayo Okusanya": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

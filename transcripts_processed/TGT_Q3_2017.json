@@ -1,0 +1,191 @@
+{
+ "date": "2017-11-15 08:00:00",
+ "John Hulbert": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Cornell": {
+  "avg_sentiment_score": 0.4666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.9,
+   0.5,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "John Mulligan": {
+  "avg_sentiment_score": 0.5666666666666668,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.45,
+   0.55,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Mark Tritton": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Catherine Smith": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85
+  ]
+ },
+ "David Schick": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Edward Kelly": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Drbul": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Ohmes": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kate McShane": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

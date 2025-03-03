@@ -1,0 +1,37 @@
+{
+ "date": "2010-04-27 08:00:00",
+ "Larry Neumann": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Capello": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ],
+  "title": "Senior Advisor"
+ },
+ "Ray Elliott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ],
+  "title": "Director and Member of Finance Committee"
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "date": "2017-11-03 08:00:00",
+ "Elizabeth A. Werner - American International Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Brian Duperreault - American International Group, Inc.": {
+  "avg_sentiment_score": 0.19444444444444445,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   0.45,
+   -0.45,
+   0.45,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8185185185185185,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Siddhartha Sankaran - American International Group, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Peter Zaffino - American International Group, Inc.": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.45,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Kevin T. Hogan - American International Group, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President & CEO of Corebridge Financial, Inc."
+ },
+ "Josh D. Shanker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Gallagher - Evercore Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Erik Bass - Autonomous Research": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Larry Greenberg - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "date": "2023-04-27 17:00:00",
+ "Jeff Norris": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Young": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.15,
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Richard Fairbank": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.45,
+   0.15,
+   0.15,
+   0.35,
+   0.65,
+   -0.15,
+   0.75,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7636363636363637,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Founder, Chairman, CEO & President"
+ },
+ "Kevin Barker": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Moshe Orenbuch": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard Shane": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Arren Cyganovich": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ryan Nash": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Hecht": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dominick Gabriele": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

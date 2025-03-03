@@ -1,0 +1,360 @@
+{
+ "date": "2017-04-20 10:00:00",
+ "Jessica Hansen": {
+  "avg_sentiment_score": 0.24500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.35,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.4,
+   0.9,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Auld": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   -1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   0.85,
+   0.4,
+   0.4,
+   0.4,
+   0.4,
+   0.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Mike Murray": {
+  "avg_sentiment_score": 0.47333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.8,
+   0.8,
+   1.0,
+   0.85,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Bill Wheat": {
+  "avg_sentiment_score": 0.4714285714285715,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.85,
+   0.8,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.4,
+   0.75,
+   0.4,
+   0.4,
+   0.85,
+   0.9,
+   1.0,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Alan Ratner": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Carl Reichardt": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen East": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Nishu Sood": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Ken Zener": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bob Wetenhall": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "John Lovallo": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jack Micenko": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Dahl": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Rehaut": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Will Randall": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "Buck Horne": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ }
+}

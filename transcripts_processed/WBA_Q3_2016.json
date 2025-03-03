@@ -1,0 +1,288 @@
+{
+ "date": "2016-07-06 08:30:00",
+ "Gerald Gradwell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Stefano Pessina": {
+  "avg_sentiment_score": 0.24230769230769234,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   -0.35,
+   0.65,
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.7961538461538461,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.5,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "George Fairweather": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & Global CFO"
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Gourlay": {
+  "avg_sentiment_score": 0.5692307692307692,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.55,
+   -0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Senior Advisor"
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "George Hill": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mark Rosenblum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Kutcher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Heinbockel": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Otway": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Alvin Concepcion": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Larsen": {
+  "avg_sentiment_score": 0.02,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Caldwell": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Charles Rhyee": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ }
+}

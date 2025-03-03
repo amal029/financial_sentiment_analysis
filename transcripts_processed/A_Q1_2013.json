@@ -1,0 +1,383 @@
+{
+ "date": "2013-02-14 16:30:00",
+ "Alicia Rodriguez": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "William P. Sullivan": {
+  "avg_sentiment_score": -0.00294117647058823,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   -1.0,
+   -0.45,
+   0.0,
+   -0.05,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.75,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7985294117647058,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.8,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Senior Advisor"
+ },
+ "Didier Hirsch": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.6,
+   -0.75,
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Jonathan P. Groberg - Macquarie Research": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Jon Davis Wood - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Guy Sene": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   0.35,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Amit Bhalla - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael R. McMullen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Vijay Kumar - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Arias - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Daniel Brennan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Isaac Ro - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Ronald S. Nersesian": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President, Chief Executive Officer of Electronic Measurement Group, Chief Executive Officer of Keysight Technologies Inc, President of Electronic Measurement Group and President of Keysight Technologies Inc"
+ },
+ "Tycho W. Peterson - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Derik De Bruin - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Lars Holmkvist": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Senior Vice President and President of Diagnostics & Genomics Group"
+ },
+ "Doug Schenkel - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Timothy C. Evans - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Douglass - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard C. Eastman - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

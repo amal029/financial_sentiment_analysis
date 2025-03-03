@@ -1,0 +1,270 @@
+{
+ "date": "2023-05-19 10:00:00",
+ "Brent Norwood": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.15,
+   0.55,
+   0.55,
+   0.15,
+   0.55,
+   0.15,
+   0.45,
+   0.55,
+   0.35,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Rachel Bach": {
+  "avg_sentiment_score": 0.09615384615384616,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   -0.45,
+   0.15,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6730769230769231,
+  "confidence": [
+   0.0,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kanlaya Barr": {
+  "avg_sentiment_score": 0.39,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.65,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Dave Gilmore": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   -0.15,
+   0.55,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Josh Jepsen": {
+  "avg_sentiment_score": 0.5321428571428571,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   -0.35,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.8,
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.85
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Tim Thein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "DaveGilmore": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steven Fisher": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Elkott": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "John Joyner": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Wertheimer": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Tami Zakaria": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kristen Owen": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stanley Elliott": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

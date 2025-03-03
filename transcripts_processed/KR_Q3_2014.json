@@ -1,0 +1,277 @@
+{
+ "date": "2013-12-05 10:00:00",
+ "J. Schlotman": {
+  "avg_sentiment_score": 0.16562500000000002,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.821875,
+  "confidence": [
+   0.5,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "David Dillon": {
+  "avg_sentiment_score": 0.2727272727272727,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.05,
+   1.0,
+   0.65,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8431818181818183,
+  "confidence": [
+   0.85,
+   0.9,
+   0.6,
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman, Chief Executive Officer and Member of Proxy Committee"
+ },
+ "W. McMullen": {
+  "avg_sentiment_score": 0.35526315789473684,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8736842105263158,
+  "confidence": [
+   0.8,
+   0.6,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Edward Kelly": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Forbes": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Charles Cerankosky": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Scott Mushkin": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark Wiltamuth": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Wolf": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Michael Ellis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Karen Short": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

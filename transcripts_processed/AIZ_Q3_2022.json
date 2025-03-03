@@ -1,0 +1,215 @@
+{
+ "date": "2022-11-02 08:00:00",
+ "Suzanne Shepherd": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Demmings": {
+  "avg_sentiment_score": 0.20535714285714285,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15,
+   0.15,
+   -0.45,
+   -1.0,
+   0.0,
+   0.55,
+   0.55,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7778571428571429,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.68,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Richard Dziadzio": {
+  "avg_sentiment_score": 0.3071428571428572,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   -0.15,
+   0.65,
+   0.55,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Michael Phillips": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Tommy McJoynt": {
+  "avg_sentiment_score": 0.11249999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Hughes": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Ransom": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Jeff Schmitt": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Grace Carter": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

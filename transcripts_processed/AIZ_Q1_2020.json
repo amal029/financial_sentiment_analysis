@@ -1,0 +1,143 @@
+{
+ "date": "2020-05-09 08:00:00",
+ "Suzanne Shepherd": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan Colberg": {
+  "avg_sentiment_score": 0.3342105263157895,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.5,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7763157894736842,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Richard Dziadzio": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Mark Hughes": {
+  "avg_sentiment_score": 0.08571428571428572,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Phillips": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Gary Ransom": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ }
+}

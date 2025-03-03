@@ -1,0 +1,227 @@
+{
+ "date": "2017-05-09 08:30:00",
+ "Gregory C. Case - Aon Plc": {
+  "avg_sentiment_score": 0.40555555555555556,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.85,
+   0.45,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Executive Director"
+ },
+ "Christa Davies - Aon Plc": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8117647058823529,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "David Anthony Styblo - Jefferies LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sarah E. DeWitt - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.766,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Jon Paul Newsome - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Jay A. Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Meredith - UBS Securities LLC": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

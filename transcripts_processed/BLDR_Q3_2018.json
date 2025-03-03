@@ -1,0 +1,380 @@
+{
+ "date": "2018-11-02 10:00:00",
+ "Binit Sanghvi - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "M. Chad Crow - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.38372093023255816,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   -0.35,
+   0.65,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8367441860465116,
+  "confidence": [
+   0.9,
+   0.9,
+   0.68,
+   1.0,
+   0.75,
+   0.67,
+   0.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.0,
+   0.68,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Peter Jackson - Builders FirstSource, Inc.": {
+  "avg_sentiment_score": 0.22692307692307695,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8661538461538462,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   0.6
+  ]
+ },
+ "Michael Dahl - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Matthew Bouley - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Trey Morrish - Evercore ISI": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Keith Hughes - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.0,
+   0.4,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "President of West Division"
+ },
+ "Timothy Daley - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9642857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt McCall - Seaport Global Securities LLC": {
+  "avg_sentiment_score": -0.021428571428571425,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -1.0,
+   0.55,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Rygiel - B. Riley FBR, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "John Allen Baugh - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.68,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Jay McCanless - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Trey H. Grooms - Stephens, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kathryn Ingram Thompson - Thompson Research Group LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kurt Yinger - D.A. Davidson Companies": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

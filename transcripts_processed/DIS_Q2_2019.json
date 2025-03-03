@@ -1,0 +1,183 @@
+{
+ "date": "2019-05-08 16:30:00",
+ "Lowell Singer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Robert Iger": {
+  "avg_sentiment_score": 0.37692307692307697,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.05,
+   0.35,
+   1.0,
+   0.55,
+   0.0,
+   0.85,
+   0.05,
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7538461538461539,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Christine McCarthy": {
+  "avg_sentiment_score": 0.15625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Senior EVP & CFO"
+ },
+ "Benjamin Swinburne": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jessica Reif Ehrlich": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alexia Quadrani": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Nathanson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Marci Ryvicker": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kannan Venkateshwar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Douglas Mitchelson": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Nollen": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alan Gould": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

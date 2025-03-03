@@ -1,0 +1,141 @@
+{
+ "date": "2014-10-29 11:00:00",
+ "Dennis McDaniel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steve Johnston": {
+  "avg_sentiment_score": 0.2708333333333333,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Mike Sewell": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Josh Shanker - Deutsche Bank": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "J.F. Scherer": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Heleniak - RBC": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Zaremski - Balyasny": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ }
+}

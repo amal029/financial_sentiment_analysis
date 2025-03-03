@@ -1,0 +1,249 @@
+{
+ "date": "2010-04-23 08:00:00",
+ "Greg Riddle": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jim Rogers": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Curt Espeland ": {
+  "avg_sentiment_score": 0.35625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.5,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Greg Riddle ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Kevin McCarthy \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "Jim Rogers ": {
+  "avg_sentiment_score": 0.42592592592592593,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.65,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.8203703703703703,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Jason Miner \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "P.J. Juvekar \u2013 Citigroup": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Jeff Zekauskas \u2013 JP Morgan": {
+  "avg_sentiment_score": -0.12777777777777777,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Sergey Vasnetsov \u2013 Barclays ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Frank Mitsch \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": -0.3375,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Feinman \u2013 Iridian Asset Management": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   1.0,
+   0.5,
+   0.6,
+   0.75
+  ]
+ },
+ "Amy Zhang \u2013 Goldman Sachs": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.3,
+  "confidence": [
+   0.0,
+   0.6
+  ]
+ }
+}

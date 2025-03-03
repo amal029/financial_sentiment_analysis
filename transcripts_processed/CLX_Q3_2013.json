@@ -1,0 +1,321 @@
+{
+ "date": "2013-05-01 13:30:00",
+ "Steve Austenfeld": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Stephen M. Robb": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   1.0,
+   0.85,
+   0.65,
+   -0.15,
+   -0.35,
+   -0.35,
+   0.45,
+   -0.15,
+   0.0,
+   0.55,
+   0.45,
+   -0.45,
+   -0.15,
+   -0.45,
+   0.05,
+   0.55,
+   0.55,
+   0.45,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.4,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Donald R. Knauss": {
+  "avg_sentiment_score": 0.24677419354838712,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.65,
+   1.0,
+   0.55,
+   0.45,
+   0.85,
+   0.15,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   -0.15,
+   1.0,
+   0.55,
+   -0.35,
+   -0.15,
+   0.65,
+   0.0,
+   -0.45,
+   0.15,
+   0.05,
+   0.55,
+   0.0,
+   -1.0,
+   0.6,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7354838709677419,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman and Chairman of Executive Committee"
+ },
+ "Christopher Ferrara - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Wendy Nicholson - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "John A. Faucher - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "William Schmitz - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Joseph Altobello - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Lauren R. Lieberman - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory Hessler - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Constance Marie Maneaty - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Erin Swanson Lash - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Javier Escalante - Consumer Edge Research, LLC": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jason English - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Jason M. Gere - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

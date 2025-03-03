@@ -1,0 +1,268 @@
+{
+ "date": "2012-08-02 08:00:00",
+ "Sally Curley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "George S. Barrett": {
+  "avg_sentiment_score": 0.12941176470588237,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   -0.15,
+   0.05,
+   0.55,
+   0.15,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.85,
+   0.0,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7735294117647059,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jeffrey W. Henderson": {
+  "avg_sentiment_score": 0.09047619047619049,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.15,
+   -0.15,
+   -1.0,
+   0.45,
+   0.6,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   0.15,
+   0.15,
+   0.45,
+   -0.35,
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Glen J. Santangelo - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Kreger - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85
+  ]
+ },
+ "Ricky Goldwasser - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Lisa C. Gill - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Charles Rhyee - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "George Hill - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Gallucci - Lazard Capital Markets LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Robert M. Willoughby - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Chief Executive Officer of Medical Segment"
+ },
+ "Ross Muken - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Robert P. Jones - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steven Valiquette - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Larsen - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lawrence C. Marsh - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ }
+}

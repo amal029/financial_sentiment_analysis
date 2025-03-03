@@ -1,0 +1,127 @@
+{
+ "date": "2014-05-01 10:30:00",
+ "James E. Cashman": {
+  "avg_sentiment_score": 0.31875000000000003,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.15,
+   0.65,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Maria T. Shields": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Steven M. Ashley - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Anil K. Doradla - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Steven R. Koenig - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Matthew L. Williams - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David E. Hynes - Canaccord Genuity, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

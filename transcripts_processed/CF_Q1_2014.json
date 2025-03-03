@@ -1,0 +1,199 @@
+{
+ "date": "2014-05-08 10:00:00",
+ "Dan Swenson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "W. Anthony Will": {
+  "avg_sentiment_score": 0.4399999999999999,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   0.75,
+   -0.15,
+   0.15,
+   0.55,
+   0.65,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.6,
+   0.85
+  ],
+  "avg_confidence": 0.7899999999999999,
+  "confidence": [
+   0.8,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Bert A. Frost": {
+  "avg_sentiment_score": 0.29545454545454547,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.45,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.85,
+   0.65,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Vice President of Sales, Market Development & Supply Chain"
+ },
+ "Dennis P. Kelleher": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher S. Parkinson - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vincent Andrews - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim J. Tiberio - Miller Tabak + Co., LLC, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mark R. Gulley - BGC Partners, Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew J. Korn - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Joel Jackson - BMO Capital Markets Canada": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

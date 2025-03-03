@@ -1,0 +1,153 @@
+{
+ "date": "2015-11-24 09:00:00",
+ "Randy Guiler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Bob Sasser": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.15,
+   -0.15,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7909090909090909,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Kevin Wampler": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.5
+  ]
+ },
+ "Gary Philbin": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Stephen Grambling": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Daniel Binder": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Paul Trussell": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ }
+}

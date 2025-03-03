@@ -1,0 +1,315 @@
+{
+ "date": "2019-01-18 17:00:00",
+ "Edmund Reese": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Steve Squeri": {
+  "avg_sentiment_score": 0.3911764705882353,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.45,
+   0.65,
+   0.85,
+   0.45,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8441176470588235,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jeff Campbell": {
+  "avg_sentiment_score": 0.2772727272727273,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.05,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7977272727272727,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman & CFO"
+ },
+ "Don Fandetti": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": -0.13999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Bruce": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Donat": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mark DeVries": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Moshe Orenbuch": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Craig Maurer": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Hecht": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Hogan": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Chris Brendler": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.85,
+   0.68
+  ]
+ },
+ "Dominick Gabriele": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

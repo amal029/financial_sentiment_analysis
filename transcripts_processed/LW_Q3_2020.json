@@ -1,0 +1,225 @@
+{
+ "date": "2020-04-01 10:00:00",
+ "Dexter Congbalay": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tom Werner": {
+  "avg_sentiment_score": 0.14523809523809525,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8761904761904761,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Rob McNutt": {
+  "avg_sentiment_score": 0.045,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Andrew Lazar": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Bryan Spillane": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Growe": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Tom Palmer": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Rob Dickerson": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Carla Casella": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Rebecca Scheuneman": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

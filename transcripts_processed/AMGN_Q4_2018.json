@@ -1,0 +1,185 @@
+{
+ "date": "2019-03-12 18:00:00",
+ "William Slattery": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Thomas Schall": {
+  "avg_sentiment_score": 0.7086956521739131,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   0.65,
+   1.0,
+   0.55,
+   0.85,
+   1.0,
+   0.55,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7917391304347826,
+  "confidence": [
+   0.0,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.68,
+   0.85,
+   0.75,
+   0.85,
+   0.68,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.6
+  ]
+ },
+ "Susan Kanaya": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   0.85,
+   1.0
+  ]
+ },
+ "Lina Kaminski": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.1,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Steven Seedhouse": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Dae Gon Ha": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Edward Tenthoff": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7975,
+  "confidence": [
+   0.67,
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Edward White": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Tessa Romero": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Harshita Polishetty": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.85,
+   0.67
+  ]
+ }
+}

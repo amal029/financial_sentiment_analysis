@@ -1,0 +1,301 @@
+{
+ "date": "2014-07-30 09:00:00",
+ "Robin Wilkey - Senior Vice President, Aflac Investor and Rating Agency Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Dan Amos - Chairman and Chief Executive Officer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Randy Binner - FBR Capital Markets": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan Amos": {
+  "avg_sentiment_score": 0.19722222222222224,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   0.65,
+   -1.0,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.8483333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.67,
+   1.0,
+   0.9,
+   0.75
+  ]
+ },
+ "John Nadel - Sterne Agee": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Amos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tohru Tonoike": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman of Aflac Japan"
+ },
+ "Ken Janke": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Kriss Cloninger": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   0.15,
+   -0.15,
+   0.35,
+   0.45,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.6944444444444444,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Yaron Kinar - Deutsche Bank": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Schwartz - Raymond James & Associates": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jimmy Bullar - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Giovanni - Goldman Sachs": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robin Wilkey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Joanne Smith \u2013 Scotia Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joanne Smith - Scotia Capital": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

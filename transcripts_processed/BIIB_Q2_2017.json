@@ -1,0 +1,299 @@
+{
+ "date": "2017-07-25 08:00:00",
+ "Matthew Calistri - Biogen, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michel Vounatsos - Biogen, Inc.": {
+  "avg_sentiment_score": 0.38653846153846155,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.75,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.45,
+   1.0,
+   0.55,
+   0.15,
+   -0.15,
+   -0.15,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.818076923076923,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Michael D. Ehlers, M.D., Ph.D. - Biogen, Inc.": {
+  "avg_sentiment_score": 0.5277777777777778,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.45,
+   0.0,
+   0.85,
+   0.55,
+   0.55,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   1.0
+  ],
+  "title": "Executive Vice President and Head of Research & Development"
+ },
+ "Geoff Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Schmidt - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Umer Raffat - Evercore ISI": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Geoffrey C. Porges - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Aharon Gal - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul McKenzie - Biogen, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Alfred W. Sandrock, Jr., M.D., Ph.D. - Biogen, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.85
+  ]
+ },
+ "Robyn Karnauskas - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alethia Young - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Terence Flynn - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael J. Yee - Jefferies LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jim Birchenough - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Salim Syed - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andrew Peters - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jean-Paul Kress - Biogen, Inc.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Brian P. Skorney - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

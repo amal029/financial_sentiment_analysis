@@ -1,0 +1,162 @@
+{
+ "date": "2021-11-17 08:00:00",
+ "John Hulbert": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Cornell": {
+  "avg_sentiment_score": 0.68125,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.75,
+   0.85,
+   -0.15,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "A. Hennington": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.85
+  ]
+ },
+ "John Mulligan": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Michael Fiddelke": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Executive VP, COO & CFO"
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Karen Short": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kelly Bania": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Katharine McShane": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Ohmes": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

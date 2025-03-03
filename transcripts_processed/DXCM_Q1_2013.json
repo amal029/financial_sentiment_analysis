@@ -1,0 +1,309 @@
+{
+ "date": "2013-05-01 16:30:00",
+ "Terry Gregg": {
+  "avg_sentiment_score": 0.20270270270270271,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.75,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.05,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.6,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.831081081081081,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.5,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Steve Pacelli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kevin Sayer": {
+  "avg_sentiment_score": 0.35625,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.854375,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.9
+  ],
+  "title": "Executive Chairman, CEO & President"
+ },
+ "Tom Gunderson \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Andrew \u2013 William Blair": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Bill Plovanic \u2013 Canaccord": {
+  "avg_sentiment_score": 0.1264705882352941,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8864705882352941,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jayson Bedford \u2013 Raymond James": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mimi Pham \u2013 ABR Healthco": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Suraj Kalia \u2013 Northland Securities": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Danielle Antalffy \u2013 Leerink Swann": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Marcus \u2013 Leerink Swann": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Greg Simpson \u2013 Wunderlich Securities": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

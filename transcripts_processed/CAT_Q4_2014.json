@@ -1,0 +1,238 @@
+{
+ "date": "2015-01-27 11:00:00",
+ "Mike DeWalt": {
+  "avg_sentiment_score": -0.03260869565217391,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.05,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   0.0,
+   1.0,
+   -0.45,
+   0.15,
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7426086956521738,
+  "confidence": [
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.68,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Doug Oberhelman": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Robert Wertheimer": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Joel Tiss": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kwame Webb": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Brad Halverson": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.6,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vishal Shah": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

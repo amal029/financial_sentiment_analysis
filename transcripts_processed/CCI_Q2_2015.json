@@ -1,0 +1,314 @@
+{
+ "date": "2015-07-23 10:30:00",
+ "Son Nguyen": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Jay Brown": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   -0.15,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7931818181818181,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Benjamin Moreland": {
+  "avg_sentiment_score": 0.43529411764705883,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.05,
+   1.0,
+   0.35,
+   0.85,
+   0.05,
+   0.85,
+   0.65,
+   0.15,
+   0.85,
+   0.05,
+   0.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7617647058823529,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.9,
+   0.6,
+   0.9,
+   0.85,
+   0.6,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice Chairman"
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Philip Cusick": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ric Prentiss": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Smithen": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Colby Synesael": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Schildkraut": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Amir Rozwadowski": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Bowen": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Batya Levi": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.4,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Spencer Kurn": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "date": "2021-04-22 10:30:00",
+ "Benjamin Lowe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Jay Brown": {
+  "avg_sentiment_score": 0.434,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.05,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8240000000000001,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Daniel Schlanger": {
+  "avg_sentiment_score": 0.4277777777777778,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.45,
+   0.85,
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Niknam": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Colby Synesael": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Philip Cusick": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Prentiss": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8,
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Nicholas Del Deoss": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nicholas Del Deo": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.88,
+  "confidence": [
+   1.0,
+   1.0,
+   0.64
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brandon Nispel": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

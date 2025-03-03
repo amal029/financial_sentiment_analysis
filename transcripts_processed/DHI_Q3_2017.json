@@ -1,0 +1,415 @@
+{
+ "date": "2017-07-26 08:30:00",
+ "Jessica Hansen - D.R. Horton, Inc.": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7461111111111111,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.68
+  ],
+  "title": "Chairman of the Board"
+ },
+ "David V. Auld - D.R. Horton, Inc.": {
+  "avg_sentiment_score": 0.5446428571428571,
+  "sentiment_score": [
+   0.85,
+   0.6,
+   0.85,
+   0.65,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8492857142857143,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.68,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.65,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Michael J. Murray - D.R. Horton, Inc.": {
+  "avg_sentiment_score": 0.4785714285714286,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.75,
+   -0.15,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7485714285714286,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.8,
+   0.4,
+   0.68,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Bill W. Wheat - D.R. Horton, Inc.": {
+  "avg_sentiment_score": 0.4523809523809524,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.05,
+   0.45,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7852380952380952,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.67,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Stephen East - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alan Ratner - Zelman & Associates": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7133333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Robert Wetenhall - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.4857142857142857,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7185714285714286,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.68,
+   0.6
+  ]
+ },
+ "Carl E. Reichardt - BTIG LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Michael Jason Rehaut - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "John Lovallo II - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth R. Zener - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Kim - Evercore ISI": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Susan Maklari - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay McCanless - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "John Gregory Micenko - Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Barr\u00f3n - Housing Research Center LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Dahl - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ }
+}

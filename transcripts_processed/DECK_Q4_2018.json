@@ -1,0 +1,171 @@
+{
+ "date": "2018-05-25 16:30:00",
+ "Steve Fasching": {
+  "avg_sentiment_score": 0.15555555555555556,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "David Powers": {
+  "avg_sentiment_score": 0.4578947368421053,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   0.45,
+   0.45,
+   0.55,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7947368421052632,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.67,
+   0.85,
+   1.0,
+   0.68,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Thomas George": {
+  "avg_sentiment_score": 0.7833333333333333,
+  "sentiment_score": [
+   0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.61,
+  "confidence": [
+   0.75,
+   0.4,
+   0.68
+  ]
+ },
+ "Jonathan Komp": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Camilo Lyon": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Jim Duffy": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Christopher Svezia": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Mitch Kummetz": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

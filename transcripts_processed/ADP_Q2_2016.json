@@ -1,0 +1,249 @@
+{
+ "date": "2016-02-03 08:30:00",
+ "Sara Grilliot": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Carlos Rodriguez": {
+  "avg_sentiment_score": 0.3388888888888889,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.85,
+   -0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.0,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chair"
+ },
+ "Jan Siegmund": {
+  "avg_sentiment_score": 0.2545454545454546,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.9
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "David Grossman": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jay Hanna": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Sara Gubins": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Rick Eskelsen": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "SKPrasad Borra": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Ashish Sabadra": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Daniel Hussain": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Tien-tsin Huang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Marcon": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "Jim Macdonald": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

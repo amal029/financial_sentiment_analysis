@@ -1,0 +1,434 @@
+{
+ "date": "2011-04-29 10:00:00",
+ "Donald Tomnitz": {
+  "avg_sentiment_score": 0.2788888888888889,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   -0.15,
+   0.0,
+   0.85,
+   0.55,
+   0.55,
+   0.55,
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7733333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.8,
+   0.8,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Consultant"
+ },
+ "Stacey Dwyer": {
+  "avg_sentiment_score": 0.07307692307692308,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7730769230769231,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President and Treasurer"
+ },
+ "Mike Murray": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Wheat": {
+  "avg_sentiment_score": 0.1275,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   -1.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.8,
+   0.85,
+   0.4,
+   0.4,
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Nishu Sood - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Rehaut - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.1416666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   -0.35,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jonathan Ellis - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Oppenheim - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Josh Levin - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Stephen East - Ticonderoga Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Joshua Pollard - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Goldberg - UBS Investment Bank": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Wetenhall - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Jade Rahmani - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James McCanless - Guggenheim Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Alex Barron - Agency Trading Group": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.65,
+   0.1
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Kenneth Zener - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Smith - Oppenheimer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Widner - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6174999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67,
+   0.6
+  ]
+ },
+ "Joel Locker - FBN Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Adam Rudiger - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

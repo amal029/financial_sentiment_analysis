@@ -1,0 +1,274 @@
+{
+ "date": "2010-12-22 08:30:00",
+ "Rick Hans": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Greg Wasson": {
+  "avg_sentiment_score": 0.3795454545454545,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.6,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8122727272727274,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Wade Miquelon": {
+  "avg_sentiment_score": 0.3318181818181818,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   1.0,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Andrew Wolf": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Mushkin": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Willoughby": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Miller": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallucci": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Kermit Crawford": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President, Pharmacy, Health and Wellness"
+ },
+ "John Heinbockel": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Magee": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.65
+  ]
+ }
+}

@@ -1,0 +1,219 @@
+{
+ "date": "2016-01-28 16:30:00",
+ "Shirley Stacy": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8685714285714285,
+  "confidence": [
+   0.4,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Hogan": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   -0.05,
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.786,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.67,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "David White": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.05,
+   0.65,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.8,
+   0.9,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Non-Executive"
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Block": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Steve Beuchaw": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Richard Newitter": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Chris Lewis": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Brandon Couillard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Matthews": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

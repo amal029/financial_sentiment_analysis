@@ -1,0 +1,197 @@
+{
+ "date": "2014-07-29 17:00:00",
+ "Steve Iaco": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Bob Sulentic": {
+  "avg_sentiment_score": 0.48055555555555557,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.45,
+   0.85,
+   0.55,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8194444444444444,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.4,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "CEO & Chairman of Board"
+ },
+ "Jim Groch": {
+  "avg_sentiment_score": 0.030000000000000006,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Global Director of Corporate Development"
+ },
+ "Anthony Paolone \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brad Burke \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Brandon Dobell \u2013 William Blair": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "David Ridley-Lane \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Gil Borok": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Mitch Germain \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Todd Lukasik \u2013 Morningstar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

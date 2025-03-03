@@ -1,0 +1,341 @@
+{
+ "date": "2010-07-22 16:30:00",
+ "Presentation": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Angel Martinez": {
+  "avg_sentiment_score": 0.3693548387096774,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.65,
+   -0.45,
+   -0.15,
+   0.65,
+   0.0,
+   0.05,
+   0.45,
+   -0.45,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.7641935483870969,
+  "confidence": [
+   0.6,
+   0.67,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.67,
+   0.4,
+   0.4,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman of the Board and Consultant"
+ },
+ "Tom George": {
+  "avg_sentiment_score": 0.19423076923076923,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8769230769230769,
+  "confidence": [
+   0.6,
+   0.65,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Todd Slater \u2013 Lazard Capital Markets": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Zohar Ziv": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Mitch Kummetz \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.27222222222222225,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.88,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Sam Poser \u2013 Sterne, Agee & Leach, Inc": {
+  "avg_sentiment_score": 0.07222222222222223,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Svezia \u2013 Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Jim Duffy \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Chi Lee \u2013 Morgan Stanley": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Krasik \u2013 BB&T Capital Markets": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Maggie Gilliam \u2013 Gilliam & Co.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Howard Tubin \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sean Naughton \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

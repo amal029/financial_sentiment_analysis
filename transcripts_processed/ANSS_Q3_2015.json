@@ -1,0 +1,283 @@
+{
+ "date": "2015-11-05 10:30:00",
+ "James E. Cashman III - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.27903225806451615,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   -0.35,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.35,
+   0.05,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.7880645161290323,
+  "confidence": [
+   1.0,
+   0.67,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.4,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.67,
+   0.75
+  ]
+ },
+ "Maria T. Shields - Chief Financial Officer & Vice President, Finance and Administration": {
+  "avg_sentiment_score": 0.13833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7883333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer - Griffin Securities, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven M. Ashley - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Sterling Auty - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.766,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.68
+  ]
+ },
+ "Steve R. Koenig - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Ross MacMillan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Monika Garg - Pacific Crest Securities": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Arvind Ramnani - Gordon Haskett Research Advisors": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.6,
+   0.8,
+   0.67
+  ]
+ },
+ "David M. Stratton - Great Lakes Review": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

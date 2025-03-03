@@ -1,0 +1,252 @@
+{
+ "date": "2020-07-31 09:00:00",
+ "Liz Shea": {
+  "avg_sentiment_score": 0.056666666666666664,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9733333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Gonzalez": {
+  "avg_sentiment_score": 0.35333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.45,
+   0.15,
+   0.15,
+   0.65,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Michael Severino": {
+  "avg_sentiment_score": 0.71875,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.0,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.85
+  ]
+ },
+ "Rob Michael": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Randall Stanicky": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Navin Jacob": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.9
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Geoffrey Porges": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Raymond": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Liz Shea ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

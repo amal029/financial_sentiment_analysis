@@ -1,0 +1,526 @@
+{
+ "date": "2023-02-09 08:30:00",
+ "Trevor Burns": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mark Begor": {
+  "avg_sentiment_score": 0.3717391304347826,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   -0.45,
+   -0.15,
+   0.65,
+   0.05,
+   0.85,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7652173913043478,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "John Gamble": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.45,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "A \u2013 John Gamble": {
+  "avg_sentiment_score": 0.4884615384615385,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   1.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.45,
+   0.55,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7923076923076924,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Q \u2013 Manav Patnaik": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Andrew Steinerman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "A \u2013 Mark Begor": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   -0.45,
+   0.45,
+   0.65,
+   0.55,
+   0.15,
+   0.55,
+   -0.15,
+   -0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Andrew Steinerman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kyle Peterson": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Q \u2013 Kyle Peterson": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Kevin McVeigh": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Kelsey Zhu": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kelsey Zhu": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andrew Jeffrey": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Q \u2013 Andrew Jeffrey": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Andrew Nicholas": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Nicholas": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.68,
+  "confidence": [
+   0.68
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Q \u2013 Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Toni Kaplan": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Seth Weber": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Q \u2013 Seth Weber": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Q \u2013 David Togut": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Q \u2013 John Mazzoni": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Mazzoni": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Q \u2013 George Tong": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Surinder Thind": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Surinder Thind": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Heather Balsky": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Q \u2013 Heather Balsky": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Faiza Alwy": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Andy Grobler": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9416666666666668,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

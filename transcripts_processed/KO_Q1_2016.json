@@ -1,0 +1,274 @@
+{
+ "date": "2016-04-20 12:45:00",
+ "Timothy K. Leveridge - Vice President & Investor Relations Officer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ahmet Muhtar Kent - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.6,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.85
+  ],
+  "title": "Chairman of the Board and Chief Executive Officer"
+ },
+ "James Quincey - President & Chief Operating Officer": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8607142857142858,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Kathy N. Waller - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": -0.015,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9349999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "John A. Faucher - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ },
+ "Stephen R. Powers - UBS Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Mark Swartzberg - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bryan D. Spillane - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Judy E. Hong - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dara W. Mohsenian - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ali Dibadj - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brett Cooper - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William G. Schmitz - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin Grundy - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William B. Chappell - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Amit Sharma - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Vivien Azer - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Robert E. Ottenstein - Evercore ISI": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

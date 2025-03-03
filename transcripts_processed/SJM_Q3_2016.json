@@ -1,0 +1,451 @@
+{
+ "date": "2016-02-23 08:30:00",
+ "Aaron Broholm - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard K. Smucker - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.27222222222222225,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8537037037037037,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.8,
+   1.0,
+   0.0,
+   0.75,
+   0.4
+  ],
+  "title": "CEO, President & Chairman"
+ },
+ "Mark R. Belgya - Senior Vice President & Chief Financial Officer": {
+  "avg_sentiment_score": 0.12105263157894738,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "Eric R. Katzman - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark T. Smucker - President, Consumer and Natural Foods & Director": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Oakland - President, Coffee and Foodservice": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.15,
+   -0.45,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.6083333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Vice Chair & President of U.S Food & Beverage"
+ },
+ "Kenneth B. Goldman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.016666666666666663,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Barry C. Dunaway - Chief Administrative Officer": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "President of Pet Food & Pet Snacks"
+ },
+ "David J. West - President, Big Heart Pet Food and Snacks": {
+  "avg_sentiment_score": 0.3388888888888889,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.65,
+   -0.15,
+   0.45,
+   -0.45,
+   0.45,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Growe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "David Cristopher Driscoll - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.685,
+  "confidence": [
+   0.67,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.69
+  ]
+ },
+ "Jason English - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.4083333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexia J. Howard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Farha Aslam - Stephens, Inc.": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Vincent C. Byrd - Vice Chairman": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Moskow - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark E. Williams - Athlos Research": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew C. Grainger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Lubi Kutua - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Bryan Keith Carlson - Tudor Investment Corp.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Rob Dickerson - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "John Joseph Baumgartner - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

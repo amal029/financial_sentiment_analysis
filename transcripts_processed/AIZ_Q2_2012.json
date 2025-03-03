@@ -1,0 +1,320 @@
+{
+ "date": "2012-07-26 08:00:00",
+ "Melissa Kivett": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Rob Pollock": {
+  "avg_sentiment_score": 0.1056818181818182,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8568181818181819,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.8,
+   0.4,
+   0.8
+  ],
+  "title": "Chief Executive Officer and Executive Director"
+ },
+ "Mike Peninger": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6583333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Chris Giovanni \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven Schwartz - Raymond James and Associates": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0
+  ],
+  "title": "Executive VP, Chief Legal Officer & Secretary"
+ },
+ "Mark Finkelstein - Evercore Partners": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Nadel - Sterne Agee": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Nadel - Sterne Agee ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sean Dargan \u2013 Macquarie Capital ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Chris Pagano": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.5,
+   1.0,
+   0.6
+  ]
+ },
+ "Edward Spehar \u2013 BofA/Merrill Lynch": {
+  "avg_sentiment_score": -0.014285714285714285,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Schuman \u2013 Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Mark Hughes \u2013 Suntrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Pollock ": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ }
+}

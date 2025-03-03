@@ -1,0 +1,445 @@
+{
+ "date": "2018-11-02 16:30:00",
+ "Charles Yager - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jayshree Ullal - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.5739130434782609,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   1.0,
+   -0.15,
+   0.0,
+   0.85,
+   1.0,
+   0.05,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.5,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8797826086956522,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.85,
+   0.65,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Chairperson"
+ },
+ "Andy Bechtolsheim - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.35555555555555557,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   -0.45,
+   0.55,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Ita M. Brennan - Arista Networks, Inc.": {
+  "avg_sentiment_score": 0.17727272727272728,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8086363636363636,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.67,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "CFO & Senior VP"
+ },
+ "Balaji Krishnamurthy - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Suppiger - JMP Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Srini Pajjuri - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Ittai Kidron - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Sami Badri - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Thomas Kvaal - Nomura Instinet": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James E. Faucette - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mitch Steves - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason N. Ader - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Kurtz - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Aaron Rakers - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Samik X. Chatterjee - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Fahad Najam - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Simon M. Leopold - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7350000000000001,
+  "confidence": [
+   0.8,
+   0.67
+  ]
+ },
+ "James E. Fish - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Henderson - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Hendi Susanto - Gabelli & Company, Inc.": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Woo Jin Ho - Bloomberg LP (Research)": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ }
+}
