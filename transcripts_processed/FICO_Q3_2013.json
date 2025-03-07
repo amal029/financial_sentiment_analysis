@@ -1,0 +1,75 @@
+{
+ "date": "2013-07-30 17:00:00",
+ "Steven P. Weber": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "William J. Lansing": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.704,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.67
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael J. Pung": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Manav Patnaik - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Lauren Slabaugh - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

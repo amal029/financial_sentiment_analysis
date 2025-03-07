@@ -1,0 +1,93 @@
+{
+ "date": "2011-01-21 17:30:00",
+ "Jeff Richardson": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Kevin Kabat": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice Chairman, Member of Finance Committee and Member of Trust Committee"
+ },
+ "Daniel Poston": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Mary Tuuk": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Robert Patten - Morgan Keegan & Company, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew O'Connor - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Brian Foran - Goldman Sachs": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ }
+}

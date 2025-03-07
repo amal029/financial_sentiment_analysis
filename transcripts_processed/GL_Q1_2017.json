@@ -1,0 +1,143 @@
+{
+ "date": "2017-04-20 12:00:00",
+ "Michael Majors": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Gary Coleman": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.05,
+   -0.15,
+   -0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Co-Chairman"
+ },
+ "Larry Hutchison": {
+  "avg_sentiment_score": 0.35625,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.64375,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.85
+  ]
+ },
+ "Frank Svoboda": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.05,
+   0.45,
+   0.35,
+   -1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Eric Bass": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Robert Glasspiegel": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

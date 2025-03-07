@@ -1,0 +1,388 @@
+{
+ "date": "2024-02-07 14:00:00",
+ "Angela Kleiman": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.15,
+   0.45,
+   0.15,
+   -0.15,
+   1.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7208333333333333,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Barb Pak": {
+  "avg_sentiment_score": 0.05789473684210527,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.05,
+   0.45,
+   -0.35,
+   0.0,
+   -0.15,
+   -0.15,
+   0.65,
+   -0.15,
+   0.15,
+   0.1,
+   -0.15,
+   0.15,
+   -0.15,
+   -0.15,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7131578947368421,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Austin Wurschmidt ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Sakwa": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel Tricarico": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jessica Anderson": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Rylan Burns": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Wolfe": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexander Goldfarb": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Kramer": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Angela Kleiman ": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Joshua Dennerlein ": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joshua Dennerlein": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Wes Golladay": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John Pawlowski": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Barbara Pak": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Anderson": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Linda Tsai ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Barb Pak ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Linda Tsai": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.65
+  ]
+ },
+ "Buck Horne": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.65
+  ]
+ }
+}

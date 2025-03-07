@@ -1,0 +1,369 @@
+{
+ "date": "2016-07-26 10:00:00",
+ "Kathleen L. Quirk - Chief Financial Officer, Treasurer & Executive VP": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "President & Director"
+ },
+ "Richard C. Adkerson - Vice Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.1705357142857143,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   -0.35,
+   -0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.55,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   -0.35,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7917857142857143,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Orest Wowkodaw - Scotiabank": {
+  "avg_sentiment_score": 0.12142857142857143,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Harry M. \u201cRed\u201d Conger IV - President & Chief Operating Officer \u2013 Americas and Africa Mining": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Terry - Deutsche Bank AG (Australia)": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Evan L. Kurtz - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Quail - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Anthony B. Rizzuto - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.018749999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8025,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.67
+  ]
+ },
+ "John C. Tumazos - John Tumazos Very Independent Research LLC": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "Christopher Domenic Mancini - Gabelli & Company": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "David Francis Gagliano - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeremy Sussman - Clarkson Capital Markets LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Lucas N. Pipes - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

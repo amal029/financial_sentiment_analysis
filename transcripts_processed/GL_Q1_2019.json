@@ -1,0 +1,145 @@
+{
+ "date": "2019-04-18 11:00:00",
+ "Michael Majors": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Gary Coleman": {
+  "avg_sentiment_score": 0.145,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Co-Chairman"
+ },
+ "Larry Hutchison": {
+  "avg_sentiment_score": 0.28125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   -0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Frank Svoboda": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Scott": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

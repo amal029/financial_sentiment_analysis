@@ -1,0 +1,330 @@
+{
+ "date": "2012-01-27 09:30:00",
+ "Elena Doom": {
+  "avg_sentiment_score": 0.065,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "David M. Cote": {
+  "avg_sentiment_score": 0.31029411764705883,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.55,
+   0.0,
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8455882352941176,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Chairman and Chief Executive Officer"
+ },
+ "David James Anderson": {
+  "avg_sentiment_score": 0.2161290322580645,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8103225806451613,
+  "confidence": [
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.5
+  ]
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.08571428571428572,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John G. Inch - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Scott R. Davis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "C. Stephen Tusa - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.027777777777777776,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8777777777777778,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Howard A. Rubel - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "date": "2011-05-17 09:00:00",
+ "Diane Dayhoff": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Francis Blake": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8085714285714286,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ],
+  "title": "Executive Chairman"
+ },
+ "Craig Menear": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Tom\u00e9": {
+  "avg_sentiment_score": 0.1763157894736842,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   -1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7421052631578947,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Deborah Weinswig - Citigroup Inc": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Marvin Ellison": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice President of U S Stores"
+ },
+ "Colin McGranahan - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Fassler - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "Brian Nagel - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Strasser - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Lasser - Lehman Brothers": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Budd Bugatch - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel Binder - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "David S. MacGregor": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter Benedict - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

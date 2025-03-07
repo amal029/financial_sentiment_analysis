@@ -1,0 +1,224 @@
+{
+ "date": "2011-01-21 10:00:00",
+ "Jay Gould": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Stephen Steinour": {
+  "avg_sentiment_score": 0.22916666666666666,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0,
+   -0.45,
+   0.75,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.55,
+   -0.15,
+   0.45,
+   0.0,
+   -0.45,
+   -0.35,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7979166666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Donald Kimble": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   -0.35,
+   -1.0,
+   -0.15,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel Neumeyer": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   0.15,
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "David Rochester - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Ken Zerbe": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Foran - Goldman Sachs": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Paul Miller - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.11249999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   -1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.69
+  ]
+ },
+ "Anthony Davis - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Erika Penala - Merrill Lynch": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Kenneth Usdin - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.8,
+   0.6
+  ]
+ }
+}

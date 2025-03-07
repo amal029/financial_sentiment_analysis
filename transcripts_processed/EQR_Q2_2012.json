@@ -1,0 +1,298 @@
+{
+ "date": "2012-07-26 11:00:00",
+ "Marty McKenna": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David J. Neithercut": {
+  "avg_sentiment_score": 0.3805555555555556,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   0.05,
+   0.15,
+   -0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   -0.35,
+   0.55,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7805555555555556,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Executive Officer, President and Trustee"
+ },
+ "Frederick C. Tuomi": {
+  "avg_sentiment_score": 0.27307692307692305,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   -0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8361538461538461,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.67,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice President and President of Property Management"
+ },
+ "Mark J. Parrell": {
+  "avg_sentiment_score": 0.2416666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Wolfe - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Toti - Cantor Fitzgerald & Co., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David S. Santee": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   -0.15,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Robert Stevenson - Macquarie Research": {
+  "avg_sentiment_score": -0.2833333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "David Bragg - Zelman & Associates, Research Division": {
+  "avg_sentiment_score": -0.09285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Jana Galan - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard C. Anderson - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Schaffer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Andrew McCulloch - Green Street Advisors, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Philip J. Martin - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael J. Salinsky - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Laughlin - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ }
+}

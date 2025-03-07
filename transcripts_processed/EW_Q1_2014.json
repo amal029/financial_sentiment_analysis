@@ -1,0 +1,325 @@
+{
+ "date": "2014-04-24 17:00:00",
+ "David Erickson": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.8,
+   0.6
+  ]
+ },
+ "Michael A. Mussallem": {
+  "avg_sentiment_score": 0.20875,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   -0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   -0.45,
+   -1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.85,
+   -0.45,
+   0.65,
+   0.55,
+   0.45,
+   -0.15,
+   0.85,
+   0.0,
+   0.05,
+   0.05,
+   1.0,
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   -0.35,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.5,
+   0.85,
+   0.4,
+   0.85,
+   0.85,
+   0.8,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott B. Ullem": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "Lawrence Biegelsen - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Frederick A. Wise - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Bruce M. Nudell - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "David H. Roman - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Raj Denhoy - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason R. Mills - Canaccord Genuity, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Danielle Antalffy - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Brooks E. West - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David R. Lewis - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.11249999999999999,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Glenn J. Novarro - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kristen M. Stewart - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.006249999999999997,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher T. Pasquale - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Robert A. Hopkins - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

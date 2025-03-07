@@ -1,0 +1,320 @@
+{
+ "date": "2014-04-25 11:00:00",
+ "George Sharp": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Alan Mulally": {
+  "avg_sentiment_score": 0.4642857142857143,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President, Executive Director and Member of Finance Committee"
+ },
+ "Robert Shanks": {
+  "avg_sentiment_score": 0.076,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.85,
+   0.05,
+   0.05,
+   0.0,
+   -0.15,
+   0.85,
+   -0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.65,
+   -0.35,
+   -0.45,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.748,
+  "confidence": [
+   0.0,
+   0.85,
+   0.9,
+   0.6,
+   0.6,
+   0.8,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Adam Jonas - Morgan Stanley": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mark Fields": {
+  "avg_sentiment_score": 0.3321428571428572,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8442857142857143,
+  "confidence": [
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Brian Johnson - Barclays": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Colin Langan - UBS": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Ryan Brinkman - JPMorgan": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Rod Lache - Deutsche Bank": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Pat Archambault - Goldman Sachs": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Itay Michaeli - Citi": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Dee-Ann Durbin - Associated Press": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Whiston - Morningstar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Flock - Fox Business Networks": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Karl Henkel - Detroit News": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Ramsey - Wall Street Journal": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alisa Priddle - Detroit Free Press": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Murphy - Bank of America": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

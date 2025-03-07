@@ -1,0 +1,242 @@
+{
+ "date": "2019-07-24 17:30:00",
+ "Lynn Antipas Tyson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Hackett": {
+  "avg_sentiment_score": 0.4447368421052631,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8247368421052631,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Advisor"
+ },
+ "Tim Stone": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8708333333333332,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "nan"
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Hinrichs": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.772,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Executive VP & President of Global Operations"
+ },
+ "Aileen Smith": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "David Tamberrino": {
+  "avg_sentiment_score": -0.16999999999999998,
+  "sentiment_score": [
+   0.15,
+   -1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rod Lache": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Jonas": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David McClelland": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Colin Langan": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ryan Brinkman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

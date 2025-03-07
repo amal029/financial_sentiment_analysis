@@ -1,0 +1,296 @@
+{
+ "date": "2017-04-28 16:30:00",
+ "Alan Pickerill - Expedia, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Dara Khosrowshahi - Expedia, Inc.": {
+  "avg_sentiment_score": 0.4861111111111111,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.75,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President, Director and President of Expedia Worldwide"
+ },
+ "Mark D. Okerstrom - Expedia, Inc.": {
+  "avg_sentiment_score": 0.4447368421052631,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.45,
+   0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7289473684210526,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.4,
+   0.85,
+   0.8,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   0.65
+  ]
+ },
+ "Naved Khan - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Peter C. Stabler - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jed Kelly - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Deepak Mathivanan - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian P. Fitzgerald - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Akshay Bhatia - Merrill Lynch, Pierce, Fenner & Smith, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Bieber - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Heath Terry - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronald V. Josey - JMP Securities LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Kopelman - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Shaughnessy - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael Olson - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Mark A. May - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Justin T. Patterson - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Millman - Millman Research Associates": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Perry Gold - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric J. Sheridan - UBS Securities LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Seth Gilbert - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

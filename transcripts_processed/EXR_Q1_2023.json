@@ -1,0 +1,207 @@
+{
+ "date": "2023-05-03 14:35:00",
+ "Jeff Norman": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Margolis": {
+  "avg_sentiment_score": 0.2710526315789474,
+  "sentiment_score": [
+   0.85,
+   -1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.45,
+   -0.35,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8063157894736842,
+  "confidence": [
+   0.9,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.6
+  ]
+ },
+ "Scott Stubbs": {
+  "avg_sentiment_score": 0.3777777777777778,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   -0.35,
+   0.55,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Todd Thomas": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.0,
+   0.85
+  ]
+ },
+ "Samir Khanal": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Keegan Carl": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Ki Bin Kim": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Ronald Kamdem": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Mueller": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

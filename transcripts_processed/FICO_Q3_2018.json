@@ -1,0 +1,202 @@
+{
+ "date": "2018-07-26 17:00:00",
+ "Steven P. Weber - Fair Isaac Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "William J. Lansing - Fair Isaac Corp.": {
+  "avg_sentiment_score": 0.47941176470588237,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65,
+   0.15,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.05,
+   0.85,
+   0.65,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7911764705882353,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.6,
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael J. Pung - Fair Isaac Corp.": {
+  "avg_sentiment_score": 0.24166666666666664,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   -0.15,
+   0.0,
+   0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8722222222222222,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Manav Patnaik - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Blake Anderson - Stephens, Inc.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "William A. Warmington - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.12142857142857143,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9107142857142857,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Technology Officer and Executive Vice President"
+ },
+ "Adam Klauber - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.17222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9277777777777777,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

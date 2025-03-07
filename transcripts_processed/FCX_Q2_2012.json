@@ -1,0 +1,387 @@
+{
+ "date": "2012-07-19 10:00:00",
+ "Kathleen L. Quirk": {
+  "avg_sentiment_score": 0.18181818181818182,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ],
+  "title": "President & Director"
+ },
+ "Richard C. Adkerson": {
+  "avg_sentiment_score": 0.19487179487179487,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8915384615384616,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "David Gagliano \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Sal Tharani \u2013 Goldman Sachs": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Yu \u2013 Citigroup Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Brian Yu \u2013 Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Oscar Cabrera \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   0.6
+  ]
+ },
+ "Richard Garchitorena \u2013 Credit Suisse Securities": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Tony B. Rizzuto \u2013 Dahlman Rose & Co. LLC": {
+  "avg_sentiment_score": 0.7125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Red Conger": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Charles Tumazos \u2013 John Tumazos Very Independent Research, LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "David H. Thornton": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Brian MacArthur \u2013 UBS Securities": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jorge Beristain \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Paul Massoud \u2013 Stifel Nicolaus & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Paul A. Massoud \u2013 Stifel Nicolaus & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Charles A. Bradford \u2013 Bradford Research, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "R. Wayne Atwell \u2013 Global Hunter Securities LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James R. Moffett": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

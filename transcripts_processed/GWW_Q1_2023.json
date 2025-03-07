@@ -1,0 +1,197 @@
+{
+ "date": "2023-04-27 11:40:00",
+ "Kyle Bland": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "D.G. Macpherson": {
+  "avg_sentiment_score": 0.3157894736842105,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.85,
+   0.55,
+   0.55,
+   0.05,
+   0.0,
+   -0.45,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7710526315789474,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Dee Merriwether": {
+  "avg_sentiment_score": 0.18571428571428572,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.65,
+   0.0,
+   0.05,
+   0.25,
+   -0.35
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "CFO & Senior VP"
+ },
+ "Chris Snyder": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.375,
+  "confidence": [
+   0.0,
+   0.75
+  ]
+ },
+ "Tommy Moll": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Ryan Merkel": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0
+  ]
+ },
+ "Jacob Levinson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "David Manthey": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Volkmann": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Pat Baumann": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Katie Fleischer": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

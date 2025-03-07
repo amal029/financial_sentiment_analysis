@@ -1,0 +1,285 @@
+{
+ "date": "2017-11-08 09:00:00",
+ "Amy K. Smith - Humana, Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce D. Broussard - Humana, Inc.": {
+  "avg_sentiment_score": 0.4227272727272728,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Brian A. Kane - Humana, Inc.": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.15,
+   0.0,
+   0.45,
+   0.55,
+   0.45,
+   0.15,
+   -1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7591666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ],
+  "title": "Advisor"
+ },
+ "Peter Heinz Costa - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Kevin Mark Fischbeck - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Justin Lake - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Borsch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Raskin - Nephron Research": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Ana A. Gupte - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "A. J. Rice - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Chris Rigg - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gary P. Taylor - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Styblo - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Zachary W. Sopcak - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Sarah E. James - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christine Arnold - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

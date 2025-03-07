@@ -1,0 +1,279 @@
+{
+ "date": "2013-10-30 08:30:00",
+ "Ann Nicholson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jim Flaws": {
+  "avg_sentiment_score": 0.18529411764705883,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   -0.45,
+   -0.15,
+   0.15,
+   0.05,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7529411764705882,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "Vice Chairman, Chief Financial Officer, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Rod Hall - JPMorgan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Wendell Weeks": {
+  "avg_sentiment_score": 0.1272727272727273,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.05,
+   -0.15,
+   -0.55,
+   0.0,
+   0.45,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8204545454545454,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Mark Sue - RBC Capital Markets": {
+  "avg_sentiment_score": 0.7833333333333333,
+  "sentiment_score": [
+   0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Vamsi Mohan - Bank of America": {
+  "avg_sentiment_score": -0.1875,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Amitabh Passi - UBS": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Wolf - Barclays": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Stephen Parks - Cross Research": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Suva - Citi": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Patrick Newton - Stifel": {
+  "avg_sentiment_score": 0.06875,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian White - Cantor Fitzgerald": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jagadish Iyer - Piper Jaffray": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

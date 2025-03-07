@@ -1,0 +1,161 @@
+{
+ "date": "2017-02-23 17:00:00",
+ "Andy Simanek": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6
+  ]
+ },
+ "Meg Whitman": {
+  "avg_sentiment_score": 0.12692307692307694,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.55,
+   0.65,
+   0.45,
+   -0.45,
+   0.55,
+   -0.15,
+   -0.35,
+   0.75,
+   0.0,
+   0.65,
+   -1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "CEO & Executive Director"
+ },
+ "Tim Stonesifer": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.7444444444444445,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Sherri Scribner": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Toni Sacconaghi": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kulbinder Garcha": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steve Milunovich": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Katy Huberty": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Maynard Um": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ }
+}

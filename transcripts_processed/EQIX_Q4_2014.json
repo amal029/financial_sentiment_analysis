@@ -1,0 +1,196 @@
+{
+ "date": "2015-02-19 17:30:00",
+ "Katrina Rymill - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen M. Smith - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.05,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Keith D. Taylor - Chief Financial Officer": {
+  "avg_sentiment_score": 0.335,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   -0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.75,
+   0.0,
+   0.6,
+   0.65
+  ],
+  "avg_confidence": 0.8550000000000001,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "David W. Barden - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Schildkraut - Evercore Partners, Inc. (Broker)": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Charles J. Meyers - Chief Operating Officer": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Colby A. Synesael - Cowen and Company": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Atkin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Mike L. McCormack - Jefferies LLC": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ }
+}

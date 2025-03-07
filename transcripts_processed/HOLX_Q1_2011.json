@@ -1,0 +1,258 @@
+{
+ "date": "2011-01-31 17:00:00",
+ "Deborah Gordon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert Cascella": {
+  "avg_sentiment_score": 0.5131578947368421,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   -0.45,
+   0.45,
+   0.45,
+   0.85,
+   0.15,
+   0.0,
+   0.55,
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7921052631578948,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.9,
+   0.9,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Glenn Muir": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.45,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Thomas Kouchoukos - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Harding": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9
+  ],
+  "title": "Senior Vice President of Corporate Strategy"
+ },
+ "Bill Bonello - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jayson Bedford - Raymond James & Associates": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Jennings - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Tycho Peterson - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "James Francescone": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Williamson": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Amit Bhalla - Citigroup Inc": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Charles Butler - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Quirk - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Block - SunTrust Robinson Humphrey Capital Markets": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vivian Cervantes - Maxim Group LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Jonathan Groberg - Macquarie Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,241 @@
+{
+ "date": "2017-08-02 09:00:00",
+ "Michael W. Harris - Generac Holdings, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Aaron P. Jagdfeld - Generac Holdings, Inc.": {
+  "avg_sentiment_score": 0.35681818181818187,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   0.45,
+   0.15,
+   1.0,
+   0.6,
+   0.15,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7954545454545454,
+  "confidence": [
+   0.6,
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "York A. Ragen - Generac Holdings, Inc.": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.4,
+   0.55
+  ],
+  "avg_confidence": 0.9138888888888889,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "CFO & Chief Accounting Officer"
+ },
+ "Jeffrey Hammond - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8385714285714286,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian P. Drab - William Blair & Company LLC": {
+  "avg_sentiment_score": 0.305,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Josh Pokrzywinski - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Patrick Wu - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Quealy - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Feniger - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

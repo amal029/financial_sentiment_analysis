@@ -1,0 +1,247 @@
+{
+ "date": "2016-05-05 17:00:00",
+ "Stephanie Gregor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeffery Yabuki": {
+  "avg_sentiment_score": 0.36935483870967745,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.45,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8232258064516129,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.8,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Robert Hau": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "David Togut": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Ernst": {
+  "avg_sentiment_score": 0.14615384615384616,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8923076923076922,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "David Koning": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Glenn Greene": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "James Schneider": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

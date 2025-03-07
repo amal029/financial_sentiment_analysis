@@ -1,0 +1,263 @@
+{
+ "date": "2014-02-04 10:00:00",
+ "Victor L. Campbell": {
+  "avg_sentiment_score": 0.065625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "R. Milton Johnson": {
+  "avg_sentiment_score": 6.308085367188389e-18,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.8,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "William B. Rutherford": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.9
+  ]
+ },
+ "Samuel N. Hazen": {
+  "avg_sentiment_score": 0.34,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Sheryl R. Skolnick - CRT Capital Group LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Frank G. Morgan - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gary P. Taylor - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Whit Mayo - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Darren P. Lehrich - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Justin Lake - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ralph Giacobbe - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joshua R. Raskin - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Thomas Gallucci - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joanna Gajuk - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Albert J. Rice - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Vallarino": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,273 @@
+{
+ "date": "2013-07-25 17:00:00",
+ "Jane Elliott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Paul R. Garcia": {
+  "avg_sentiment_score": 0.4307692307692308,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.55,
+   -0.15,
+   0.85,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7153846153846154,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "David E. Mangum": {
+  "avg_sentiment_score": 0.20454545454545456,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.55,
+   -0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7477272727272727,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Tien-Tsin T. Huang - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.275,
+  "sentiment_score": [
+   0.45,
+   -1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jeffrey S. Sloan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Daniel R. Perlin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Roman Leal - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David J. Koning - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jason Kupferberg - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory Smith - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Greene - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Keane - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Craig J. Maurer - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Huff - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steven Kwok - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Georgios Mihalos - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

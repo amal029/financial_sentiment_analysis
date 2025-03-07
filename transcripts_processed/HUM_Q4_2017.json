@@ -1,0 +1,261 @@
+{
+ "date": "2018-02-07 09:00:00",
+ "Amy K. Smith - Humana, Inc.": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce D. Broussard - Humana, Inc.": {
+  "avg_sentiment_score": 0.43928571428571433,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7878571428571428,
+  "confidence": [
+   0.9,
+   0.75,
+   0.68,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Brian A. Kane - Humana, Inc.": {
+  "avg_sentiment_score": 0.21842105263157896,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.6,
+   0.0,
+   0.05,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8605263157894738,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Ana A. Gupte - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Baxter - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "A.J. Rice - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Rigg - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Mark Fischbeck - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Howard Windley - Jefferies LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Sarah E. James - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Raskin - Nephron Research LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   1.0,
+   0.65,
+   1.0,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Tanal - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Borsch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gary P. Taylor - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

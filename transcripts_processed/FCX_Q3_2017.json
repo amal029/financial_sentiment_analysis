@@ -1,0 +1,501 @@
+{
+ "date": "2017-10-25 10:00:00",
+ "Kathleen L. Quirk - Freeport-McMoRan, Inc.": {
+  "avg_sentiment_score": 0.21153846153846154,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7461538461538461,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.6
+  ],
+  "title": "President & Director"
+ },
+ "Richard C. Adkerson - Freeport-McMoRan, Inc.": {
+  "avg_sentiment_score": 0.10897435897435898,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.5,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.35,
+   1.0,
+   0.05,
+   0.85,
+   -0.15,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   1.0,
+   -0.15,
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   0.05,
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8303846153846154,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.68,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Michael F. Gambardella - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "David Francis Gagliano - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.8,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Orest Wowkodaw - Scotia Capital, Inc.": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Christopher Domenic Mancini - Gabelli & Company": {
+  "avg_sentiment_score": 0.061111111111111116,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher LaFemina - Jefferies LLC": {
+  "avg_sentiment_score": 0.18076923076923077,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8376923076923077,
+  "confidence": [
+   0.67,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andreas Bokkenheuser - UBS Securities LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Lucas N. Pipes - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.4
+  ]
+ },
+ "Mark Johnson - Freeport-McMoRan, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Alexander Hacking - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "John C. Tumazos - John Tumazos Very Independent Research LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Terry - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Oscar Cabrera - CIBC World Markets, Inc.": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Brian MacArthur - Raymond James Ltd.": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael S. Dudas - Vertical Research Partners, LLC.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Novid Rassouli - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Piyush Sood - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ }
+}

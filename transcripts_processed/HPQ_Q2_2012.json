@@ -1,0 +1,201 @@
+{
+ "date": "2011-11-02 17:00:00",
+ "Greg Klaben": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "S. Kenneth Kannappan": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   -1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.05,
+   0.15,
+   0.05,
+   -0.15,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.65625,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Barbara V. Scherer": {
+  "avg_sentiment_score": 0.2323529411764706,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   -0.45,
+   0.65,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8176470588235294,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John F. Bright - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.034999999999999996,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory Burns - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Mike Latimore - Northland Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joanna Makris - Mizuho Securities USA Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sanjit Singh - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": -0.18333333333333335,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Tavis C. McCourt - Morgan Keegan & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

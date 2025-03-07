@@ -1,0 +1,330 @@
+{
+ "date": "2012-06-19 08:30:00",
+ "Mickey Foster": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.5,
+   1.0,
+   0.4
+  ]
+ },
+ "Frederick W. Smith": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "T. Michael Glenn": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8055555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Vice President of Market Development & Corporate Communications, Co-Chief Executive Officer of Fedex Services and President of Fedex Services"
+ },
+ "Alan B. Graf": {
+  "avg_sentiment_score": 0.48636363636363633,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7090909090909091,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.85
+  ]
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Justin B. Yagerman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David F. Rebholz": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "David G. Ross - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David J. Bronczek": {
+  "avg_sentiment_score": 0.46249999999999997,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   -0.35,
+   0.85,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7791666666666667,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.9,
+   0.9
+  ],
+  "title": "President & COO"
+ },
+ "Kevin W. Sterling - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Helane R. Becker - Dahlman Rose & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Benjamin J. Hartford - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brandon R. Oglenski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey A. Kauffman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William J. Logue": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6
+  ]
+ },
+ "Donald Broughton - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "H. Peter Nesvold - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

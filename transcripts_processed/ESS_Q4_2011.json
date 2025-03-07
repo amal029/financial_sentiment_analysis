@@ -1,0 +1,483 @@
+{
+ "date": "2012-02-02 14:30:00",
+ "Michael Schall \u2013 President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Erik Alexander \u2013 Senior Vice President and Divisional Manager": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Mike Dance \u2013 Chief Financial Officer and Executive Vice President": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Swaroop Yalla \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Schall": {
+  "avg_sentiment_score": 0.16142857142857145,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   -0.15,
+   0.15,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8405714285714286,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Erik Alexander": {
+  "avg_sentiment_score": 0.359375,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.770625,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   0.68,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jana Galan \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Eudy": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Co-Chief Investment Officer & Executive VP of Development"
+ },
+ "Eric Wolfe \u2013 Citigroup": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Goldfarb \u2013 Sandler O'Neill": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "John Lopez": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Dance": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Burkart": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Gautam Garg \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   0.68
+  ]
+ },
+ "Ross Nussbaum \u2013 UBS": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8450000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Harris \u2013 Imperial Capital": {
+  "avg_sentiment_score": 0.07692307692307693,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8669230769230769,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Rich Anderson \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Paula Poskon \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Alexander ": {
+  "avg_sentiment_score": -1.0,
+  "sentiment_score": [
+   -1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael Salinsky \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Salinsky \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Bragg \u2013 Zelman & Associates": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Tayo Okusanya \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

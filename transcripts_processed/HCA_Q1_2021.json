@@ -1,0 +1,269 @@
+{
+ "date": "2021-04-22 10:00:00",
+ "Mark Kimbrough": {
+  "avg_sentiment_score": 0.053703703703703705,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9414814814814816,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Sam Hazen": {
+  "avg_sentiment_score": 0.44642857142857145,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.55,
+   0.35,
+   0.65,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Bill Rutherford": {
+  "avg_sentiment_score": 0.4222222222222223,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.85,
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Pito Chickering": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin Fischbeck": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Frank Morgan": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "A.J. Rice": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Lance Wilkes": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Fidel": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Tanquilut": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Josh Raskin": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Ransom": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67,
+   1.0
+  ]
+ },
+ "Jamie Perse": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

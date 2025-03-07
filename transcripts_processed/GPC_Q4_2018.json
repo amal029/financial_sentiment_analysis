@@ -1,0 +1,137 @@
+{
+ "date": "2019-02-19 11:00:00",
+ "Sid Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Paul Donahue": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.65,
+   0.35,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7849999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Yancey": {
+  "avg_sentiment_score": 0.4666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -0.35,
+   0.15,
+   0.55,
+   0.85,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7388888888888889,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Bret Jordan": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Elizabeth Suzuki": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Chris Bottiglieri": {
+  "avg_sentiment_score": -0.31666666666666665,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "date": "2015-08-06 09:00:00",
+ "Brian P. Angeli - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Pierre R. Brondeau - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.18392857142857144,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   -0.45,
+   -0.45,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.65,
+   1.0
+  ]
+ },
+ "Paul W. Graves - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": -0.012499999999999997,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Freedman - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.68
+  ]
+ },
+ "Mark A. Douglas - President-FMC Agricultural Solutions": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Frank J. Mitsch - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.654,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Dmitry Silversteyn - Longbow Research LLC": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Laurence Alexander - Jefferies LLC": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter E. Butler - Glen Hill Investments": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Brian P. Maguire - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rosemarie J. Morbelli - Gabelli & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

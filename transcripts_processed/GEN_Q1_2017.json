@@ -1,0 +1,166 @@
+{
+ "date": "2016-08-04 17:00:00",
+ "Jonathan Doros - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Greg S. Clark - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.6033333333333334,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.65,
+   0.0,
+   0.55,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.4,
+   0.75,
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Thomas J. Seifert - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brent Thill - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Andrew James Nowinski - Piper Jaffray & Co. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew George Hedberg - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Gregg Moskowitz - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Keith Eric Weiss - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John DiFucci - Jefferies LLC": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Shaul Eyal - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

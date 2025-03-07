@@ -1,0 +1,282 @@
+{
+ "date": "2012-02-06 10:00:00",
+ "Vic Campbell": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   0.5
+  ]
+ },
+ "Richard Bracken": {
+  "avg_sentiment_score": 0.16458333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8854166666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman of the Board and Chief Executive Officer"
+ },
+ "Milton Johnson": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Sam Hazen": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Adam Feinstein \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gary Lieberman \u2013 Wells Fargo": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Justin Lake \u2013 UBS": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "A.J. Rice \u2013 Susquehanna Financial": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Darren Lehrich \u2013 Deutsche Bank": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Juan Vallarino": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christine Arnold \u2013 Cowen And Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0
+  ]
+ },
+ "Frank Morgan \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Sheryl Skolnick \u2013 CRT Capital": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jon Perlin": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gary Taylor \u2013 Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallucci \u2013 Lazard": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

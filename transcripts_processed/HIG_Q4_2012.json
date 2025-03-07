@@ -1,0 +1,278 @@
+{
+ "date": "2013-02-05 09:00:00",
+ "Sabra Purtill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Liam E. McGee": {
+  "avg_sentiment_score": 0.6461538461538462,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7192307692307692,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher John Swift": {
+  "avg_sentiment_score": 0.1462962962962963,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.15,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7370370370370369,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Douglas G. Elliot": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85
+  ],
+  "title": "President"
+ },
+ "Andr\u00e9 A. Napoli": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Thomas G. Gallagher - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Beth A. Bombara": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "John M. Nadel - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "A. Mark Finkelstein - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Meredith - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Adam Cohen - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.10999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Erik James Bass - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Glasspiegel - Langen McAlenney": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

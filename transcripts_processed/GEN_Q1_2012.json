@@ -1,0 +1,253 @@
+{
+ "date": "2011-07-27 17:00:00",
+ "Helyn Corcos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Enrique Salem": {
+  "avg_sentiment_score": 0.6142857142857143,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   1.0,
+   0.55,
+   0.85,
+   0.45,
+   0.05,
+   0.85,
+   0.45,
+   0.55,
+   0.55,
+   0.65,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7761904761904762,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Director"
+ },
+ "James Beer": {
+  "avg_sentiment_score": 0.34545454545454546,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8727272727272727,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Walter Pritchard - Citigroup Inc": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brad Zelnick - Macquarie Research": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Unknown Analyst - ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Adam Holt - Morgan Stanley": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Dennis Simson - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Neil Herman": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Gregg Moskowitz - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Breza - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Philip Rueppel": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "James Wesman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Ives - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Craig Nankervis - First Analysis Securities Corporation": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

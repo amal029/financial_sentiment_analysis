@@ -1,0 +1,197 @@
+{
+ "date": "2020-04-29 10:30:00",
+ "Teri Seck": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Clifton Pemble": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   -0.15,
+   0.45,
+   0.45,
+   0.15,
+   0.15,
+   -0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   -0.35,
+   0.45,
+   0.65,
+   0.65,
+   0.05,
+   0.35,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Douglas Boessen": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Benjamin Bollin": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Nikolay Todorov": {
+  "avg_sentiment_score": 0.007142857142857151,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.35,
+   -0.35,
+   0.35,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Charles Anderson": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "William Power": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Paul Chung": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ivan Feinseth": {
+  "avg_sentiment_score": 0.6083333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Erik Woodring": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

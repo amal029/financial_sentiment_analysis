@@ -1,0 +1,362 @@
+{
+ "date": "2011-12-15 08:30:00",
+ "Mickey Foster": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Frederick W. Smith": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   1.0,
+   0.5,
+   0.4,
+   0.85
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "T. Michael Glenn": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.85,
+   0.6,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Executive Vice President of Market Development & Corporate Communications, Co-Chief Executive Officer of Fedex Services and President of Fedex Services"
+ },
+ "Alan B. Graf": {
+  "avg_sentiment_score": 0.4818181818181818,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7272727272727273,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.85
+  ]
+ },
+ "David J. Bronczek": {
+  "avg_sentiment_score": 0.48666666666666664,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.55,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7200000000000001,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President & COO"
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Justin B. Yagerman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David F. Rebholz": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "David G. Ross - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Arthur W. Hatfield - Morgan Keegan & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nathan Brochmann - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin W. Sterling - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert F. Pickels - Manning & Napier Advisors, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Donald Broughton - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Peter Nesvold": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Garrett L. Chase - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Schoonmaker - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeffrey A. Kauffman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Benjamin J. Hartford - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William J. Logue": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Peter S. Jacobs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David P. Campbell - Thompson, Davis & Company": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

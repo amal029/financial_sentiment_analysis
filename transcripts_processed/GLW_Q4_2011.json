@@ -1,0 +1,224 @@
+{
+ "date": "2012-01-25 08:30:00",
+ "Kenneth Sofio": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "James B. Flaws": {
+  "avg_sentiment_score": 0.03125000000000001,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   -0.45,
+   0.05,
+   0.45,
+   -0.15,
+   0.05,
+   0.0,
+   0.45,
+   0.45,
+   -0.45,
+   -0.55,
+   0.0,
+   -1.0,
+   0.15,
+   0.05,
+   -0.35,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.71875,
+  "confidence": [
+   0.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Vice Chairman, Chief Financial Officer, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Wamsi Mohan - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Mark Sue - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Rod B. Hall - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Nikos Theodosopoulos - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven B. Fox - Cross Research LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jim Suva - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George C. Notter - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.31666666666666665,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Ajit Pai - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

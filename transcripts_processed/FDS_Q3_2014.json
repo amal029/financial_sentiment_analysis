@@ -1,0 +1,263 @@
+{
+ "date": "2014-06-17 11:00:00",
+ "Rachel Stern": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Peter Walsh": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.718,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ],
+  "title": "Executive Vice President"
+ },
+ "Peter Appert - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Frankenfield": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Vice Chairman of Sales"
+ },
+ "Phil Hadley": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Manav Patnaik - Barclays": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Kramm - UBS": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum - Stifel": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Flavio Campos - Credit Suisse": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Toni Kaplan - Morgan Stanley": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joe Foresi - Janney Montgomery Scott": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Peter Heckmann - Avondale Partners": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick O'Shaughnessy - Raymond James": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Tim McHugh - William Blair & Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

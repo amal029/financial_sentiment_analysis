@@ -1,0 +1,272 @@
+{
+ "date": "2017-04-26 09:00:00",
+ "Alison Harbrecht - General Dynamics Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Phebe N. Novakovic - General Dynamics Corp.": {
+  "avg_sentiment_score": 0.37678571428571433,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.75,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.8660714285714286,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85
+  ],
+  "title": "Chairperson & CEO"
+ },
+ "Jason W. Aiken - General Dynamics Corp.": {
+  "avg_sentiment_score": 0.16428571428571428,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert M. Spingarn - Credit Suisse": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David E. Strauss - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Carter Copeland - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "Ronald J. Epstein - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Douglas Stuart Harned - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.5875,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7325,
+  "confidence": [
+   0.68,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Howard A. Rubel - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Samuel J. Pearlstein - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Cai von Rumohr - Cowen and Company, LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jason Gursky - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Myles A. Walton - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Stallard - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.65,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

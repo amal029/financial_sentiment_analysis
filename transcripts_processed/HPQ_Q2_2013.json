@@ -1,0 +1,129 @@
+{
+ "date": "2012-10-30 17:00:00",
+ "Greg Klaben": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "S. Kenneth Kannappan": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.6,
+   0.15,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Pamela J. Strayer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.4
+  ]
+ },
+ "Tavis C. McCourt - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Rohit N. Chopra - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John F. Bright - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "David M. King - Roth Capital Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

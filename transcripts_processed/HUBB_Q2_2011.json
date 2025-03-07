@@ -1,0 +1,143 @@
+{
+ "date": "2011-07-21 10:00:00",
+ "Jim Farrell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Tim Powers": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.45,
+   0.55,
+   0.15,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Dave Nord": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman"
+ },
+ "Christopher Glynn - Oppenheimer": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rich Kwas - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Thielman - D.A. Davidson": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Beach - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

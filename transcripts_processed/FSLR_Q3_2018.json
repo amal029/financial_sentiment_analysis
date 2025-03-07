@@ -1,0 +1,137 @@
+{
+ "date": "2018-10-25 16:30:00",
+ "Stephen Haymore - First Solar, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark R. Widmar - First Solar, Inc.": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.9,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Alexander R. Bradley - First Solar, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.15,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.62,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Philip Shen - ROTH Capital Partners LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sophie Karp - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Coster - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Lee - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Benjamin Joseph Kallo - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Julien Dumoulin-Smith - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Weinstein - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

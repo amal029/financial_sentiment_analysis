@@ -1,0 +1,232 @@
+{
+ "date": "2010-05-04 11:00:00",
+ "Brennen Arndt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Pierre Brondeau": {
+  "avg_sentiment_score": 0.23653846153846156,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.85,
+   0.05,
+   0.55,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7384615384615384,
+  "confidence": [
+   0.4,
+   0.8,
+   0.8,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   0.4,
+   0.4,
+   0.8,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Ted Butz": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "Vice President and Group Manager of Specialty Chemicals"
+ },
+ "Kim Foster": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "Pierre Brondeau ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Frank Mitsch - BB&T Capital Markets": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Arun Viswanathan - UBS": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Rosemary Morbelli -- Ingalls & Snyder Llc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7783333333333333,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Douglas Chudy - Keybanc": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Milton Steele": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ],
+  "title": "President of the Agricultural Products Group"
+ },
+ "Dmitry Silversteyn - Longbow Research": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.6
+  ]
+ }
+}

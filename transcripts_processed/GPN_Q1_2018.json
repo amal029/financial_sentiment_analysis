@@ -1,0 +1,334 @@
+{
+ "date": "2018-05-03 08:00:00",
+ "Heather Ross - Global Payments, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Steven Sloan - Global Payments, Inc.": {
+  "avg_sentiment_score": 0.35344827586206895,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8655172413793104,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Cameron M. Bready - Global Payments, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8836666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.85,
+   0.67,
+   0.9,
+   0.67,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Jeffrey - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "David E. Mangum - Global Payments, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.75,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "David J. Koning - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.9125,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.65,
+   0.85,
+   0.8,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Paul Condra - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Glenn Greene - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan C. Keane - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Paul Napoli - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Perlin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Brett Huff - Stephens, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Tien-Tsin Huang - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "date": "2013-05-06 17:00:00",
+ "Deborah R. Gordon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert A. Cascella": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   0.55,
+   0.0,
+   0.75,
+   0.85,
+   0.15,
+   0.55,
+   0.45,
+   0.45,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Glenn P. Muir": {
+  "avg_sentiment_score": 0.07777777777777778,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "David R. Lewis - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard Newitter - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tycho W. Peterson - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "David P. Harding": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Senior Vice President of Corporate Strategy"
+ },
+ "Peter K. Soltani": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Amit Bhalla - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Isaac Ro - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Vijay Kumar - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Doug Schenkel - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "William B. Bonello - Craig-Hallum Capital Group LLC, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Anthony Petrone - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

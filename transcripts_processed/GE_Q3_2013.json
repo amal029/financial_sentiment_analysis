@@ -1,0 +1,327 @@
+{
+ "date": "2013-10-18 08:30:00",
+ "Trevor Schauenberg": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Jeff Immelt": {
+  "avg_sentiment_score": 0.40853658536585363,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.75,
+   0.15,
+   0.65,
+   -0.35,
+   1.0,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8073170731707318,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Chairman and Chief Executive Officer"
+ },
+ "Jeff Bornstein": {
+  "avg_sentiment_score": 0.41190476190476194,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.8595238095238096,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   0.6
+  ],
+  "title": "Vice Chair & CFO"
+ },
+ "John Inch - Deutsche Bank": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Scott Davis - Barclays": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Julian Mitchell - Credit Suisse": {
+  "avg_sentiment_score": 0.16250000000000003,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Winoker - Sanford Bernstein": {
+  "avg_sentiment_score": -0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Deane Dray - Citi Research": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Stephen Tusa - JPMorgan": {
+  "avg_sentiment_score": 0.25625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.05,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.87875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.68,
+   0.85
+  ]
+ },
+ "Shannon O'Callaghan Nomura": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher Glynn - Oppenheimer": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,605 @@
+{
+ "date": "2010-10-29 13:00:00",
+ "Christy McElroy - UBS": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Mark Metendan - Citi": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.9,
+   0.6,
+   1.0
+  ]
+ },
+ "Clint Halverson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Spencer Kirk": {
+  "avg_sentiment_score": 0.021739130434782608,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   -1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8543478260869565,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Karl Haas": {
+  "avg_sentiment_score": 0.34249999999999997,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Operating Officer and Executive Vice President of Operations"
+ },
+ "Kent Christensen": {
+  "avg_sentiment_score": 0.19791666666666666,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.05,
+   0.05,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.8,
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Hey, good afternoon everyone. With occupancy gains having been the biggest driver of your revenue growth in the last two quarters or so, and with occupancy closer to more normalized levels at this time, what drives revenue growth from here? Do you still need to drive moving higher as all that pushing around and how do you do that in this economic environment?": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "This is Karl, Christy. The other driver all along has been our existing customer rate increases which we have continued through thick and thin. That certainly has helped to contribute. We will, I mean, what we are hoping for and why we are little bit cautious right now is that we will be able to see the existing or the street rates move in the right direction and it\u2019s challenging.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "We\u2019re trying to hold occupancy and as a result we\u2019re being very aggressive on street rates. We\u2019re not seeing a lot of growth from the prior year. So, but we also have seen a decrease in discounting because as we\u2019ve gotten higher occupancy, the way our system works is, certain unit types will lose, kind of fall off the full month discount, some will go to no discount, some will go to half month discount. We\u2019re hoping with the higher occupancy we\u2019ll be able to make some gains as a result of lower discounting and also that we\u2019ll see some firming up of street rates.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "When does all that starts to flow through to the net rent per occupied square foot number because you are still sort of running flat year-over-year?": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "When we see more of the stabilization of the street rates and enable to push more. I mean the good news is there is no new competition coming on and we are seeing rentals are holding pretty close to prior years. Now what we are hoping is that we can see rentals start to grow over prior years.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Okay, and then I\u2019m along with Ross Nussbaum, I think he has a couple of questions.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Ross Nussbaum - UBS": {
+  "avg_sentiment_score": 0.17272727272727273,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   0.55,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8272727272727273,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Yeah, hi guys. Can you just quantify where are your street rates today versus expiring?": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Well, I\u2019m not sure I have like where it is to expire. Well, we have more where they are compared to the average existing customer and relatively comparable, where they are to last year is also relatively comparable.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Okay, so you are saying this is basically flat.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Yes.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Okay, and then on renewal, what\u2019s the percentage increase and how often you\u2019re pushing those through?": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "We\u2019re pushing them through at about the same level as we have in the past about once every nine months and they are in the range of about 6%.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Okay, and then on the acquisitions that you\u2019ve done, can you just walk through pricing, how are you approaching it, what are the going in yields in terms of the ones where you\u2019ve got reasonably full occupancy and what are you underwriting to on the ones where there\u2019s some lease up?": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Well, this Kent, for the stabilized, for properties that are stabilized we\u2019re pricing them between 7.5 and 8.5 cap and properties that are leasing up we\u2019re hoping to achieve that same kind of cap rate within 12 months when we have acquired the properties.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "So, you\u2019re not seeking a higher yield on those to compensate for the leasing risk.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "No, they would be on the higher end of that 7.5 to 8.5 range": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Our next question comes from Mike Bilerman with Citi. Please proceed with your question.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Hi, this is Mark Metendan, here is Michael. Just a question on the trends you are seeing in the size of the units that are being leased, looking at the move in, move out trends, you wouldn\u2019t predict that the occupancy gains would be to the level that you\u2019re able to achieve this quarter. I\u2019m wondering if you are seeing something in the size of the units that\u2019s driving some of that.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "This is Karl, nothing really dramatic. If there is anything it\u2019s a little bit in the direction of smaller units that we\u2019re seeing little bit higher trend, but nothing really that you would say is significantly impacting the overall.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Todd Thompson - KeyBank Capital Markets": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "David Toti - FBR": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Smedes Rose - KBW": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Knott - Green Street Advisors": {
+  "avg_sentiment_score": 0.15833333333333335,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Salinsky - RBC Capital Markets": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Todd Stender - Wells Fargo": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.9,
+   0.5,
+   0.9
+  ]
+ },
+ "T": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "J": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Paul Adornato - BMO Capital Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Bilerman - Citi": {
+  "avg_sentiment_score": -0.18125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ }
+}

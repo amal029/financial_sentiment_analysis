@@ -1,0 +1,221 @@
+{
+ "date": "2014-02-05 17:00:00",
+ "Stephanie Gregor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Jeffery Yabuki": {
+  "avg_sentiment_score": 0.3975,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.05,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7424999999999999,
+  "confidence": [
+   0.9,
+   0.8,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   0.4,
+   0.75,
+   0.0,
+   0.6,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Hirsch": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.1,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.8,
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Special Consultant"
+ },
+ "David Koning": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Mark Ernst": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Brett Huff": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Glenn Greene": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Rayna Kumar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

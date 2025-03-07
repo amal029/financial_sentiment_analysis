@@ -1,0 +1,251 @@
+{
+ "date": "2012-07-19 10:00:00",
+ "Todd Beekman": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Donald R. Kimble": {
+  "avg_sentiment_score": 0.21071428571428572,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel J. Neumeyer": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Stephen D. Steinour": {
+  "avg_sentiment_score": 0.13636363636363635,
+  "sentiment_score": [
+   1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Leanne Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Paul J. Miller - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven A. Alexopoulos - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Nicholas G. Stanutz": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Senior Executive Vice President of Asset Based Lending, Commercial Real Estate and Auto Finance Group"
+ },
+ "R. Scott Siefers - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher M. Mutascio - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Maclovio Pina - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "David J. Long - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jon G. Arfstrom - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Terence J. McEvoy - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

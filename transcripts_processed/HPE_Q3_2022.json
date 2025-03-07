@@ -1,0 +1,192 @@
+{
+ "date": "2022-08-30 16:30:00",
+ "Andrew Simanek": {
+  "avg_sentiment_score": 0.33888888888888885,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8488888888888888,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.69,
+   0.67,
+   0.68,
+   1.0
+  ]
+ },
+ "Antonio Neri": {
+  "avg_sentiment_score": 0.7444444444444445,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0,
+   0.65,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4,
+   0.85,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Tarek Robbiati": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.65,
+   0.85,
+   0.75,
+   0.45,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.9
+  ]
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Tarek Robbiati ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Meta Marshall ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Toni Sacconaghi": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Tim Long": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Wamsi Mohan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rod Hall": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "End of Q&A": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

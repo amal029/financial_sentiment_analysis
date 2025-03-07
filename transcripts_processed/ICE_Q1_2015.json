@@ -1,0 +1,181 @@
+{
+ "date": "2015-05-05 08:30:00",
+ "Kelly L. Loeffler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Scott A. Hill": {
+  "avg_sentiment_score": 0.538888888888889,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.8,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Jeffrey C. Sprecher": {
+  "avg_sentiment_score": 0.5607142857142857,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   0.65,
+   0.6,
+   0.65,
+   1.0,
+   0.05,
+   0.0,
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   0.8,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Kenneth B. Worthington - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sameer Murukutla - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kenneth Hill - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.6,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard H. Repetto - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher J. Allen - Evercore ISI, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel Thomas Fannon - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Harris - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "date": "2017-04-28 14:00:00",
+ "Michael Schall": {
+  "avg_sentiment_score": 0.064,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   -0.45,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   -0.15,
+   0.15,
+   -0.15,
+   0.05,
+   -0.35,
+   0.05,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7559999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.8,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "John Burkart": {
+  "avg_sentiment_score": 0.09583333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.05,
+   -1.0,
+   0.05,
+   0.15,
+   0.0,
+   -0.15,
+   0.65,
+   0.05,
+   0.75
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   0.85
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Angela Kleiman": {
+  "avg_sentiment_score": 0.10454545454545454,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   -0.45,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7454545454545454,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.8,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Nick Joseph": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gaurav Mehta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Neil Malkin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "John Eudy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Co-Chief Investment Officer & Executive VP of Development"
+ },
+ "Drew Babin": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Jeffrey Pehl": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Alexander Goldfarb": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Tayo Okusanya": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Conor Wagner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

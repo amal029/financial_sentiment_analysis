@@ -1,0 +1,209 @@
+{
+ "date": "2011-02-23 17:00:00",
+ "Steve Fieler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Leo Apotheker": {
+  "avg_sentiment_score": 0.4636363636363637,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.45,
+   0.45,
+   0.85,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8045454545454546,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Cathie Lesjak": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.05,
+   0.0,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.85,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.6,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Ben Reitzes": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Moskowitz": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard Gardner": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Katy Huberty": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tony Sacconaghi": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Bachman": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Brian Alexander": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Maynard Um": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kaushik Roy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "date": "2010-04-19 08:30:00",
+ "Karen Warren": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Goldner": {
+  "avg_sentiment_score": 0.4107142857142857,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.45,
+   0.65,
+   0.6,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8107142857142857,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Deb Thomas": {
+  "avg_sentiment_score": 0.2041666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Sean McGowan \u2013 Needham & Co.": {
+  "avg_sentiment_score": -0.016666666666666666,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "David Hargreaves": {
+  "avg_sentiment_score": 0.24444444444444446,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Strategy Officer and Executive Vice President"
+ },
+ "Greg Badishkanian \u2013 Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Tony Gikas \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gerrick Johnson \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "David Goldner": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Drew Crum \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.02,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Tim Conder \u2013 Wells Fargo": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Hayley Wolff - Rochdale Securities": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.8
+  ]
+ },
+ "John Taylor \u2013 Arcadia ": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Robert Carroll \u2013 UBS": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Jeff Blaeser \u2013 Morgan Joseph": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

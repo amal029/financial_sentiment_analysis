@@ -1,0 +1,140 @@
+{
+ "date": "2022-11-01 10:00:00",
+ "Graham Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stanley Bergman": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.15,
+   0.45,
+   0.65,
+   0.45,
+   0.65,
+   0.05,
+   0.65,
+   0.65,
+   0.85,
+   0.35
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.9,
+   0.75
+  ]
+ },
+ "Ron South": {
+  "avg_sentiment_score": 0.04000000000000001,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.65,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Jeff Johnson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Elizabeth Anderson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brandon Vazquez": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "A.J. Rice": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jon Block": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Erin Wright": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jason Bednar": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

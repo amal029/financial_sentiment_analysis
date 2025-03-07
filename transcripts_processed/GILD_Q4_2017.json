@@ -1,0 +1,254 @@
+{
+ "date": "2018-02-06 16:30:00",
+ "Sung Lee - Gilead Sciences, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Robin L. Washington - Gilead Sciences, Inc.": {
+  "avg_sentiment_score": 0.47000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   1.0
+  ]
+ },
+ "Norbert W. Bischofberger - Gilead Sciences, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6857142857142857,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "John F. Milligan - Gilead Sciences, Inc.": {
+  "avg_sentiment_score": 0.2923076923076923,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.7615384615384616,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Geoff Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Michael J. Yee - Jefferies LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Abrahams - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robyn Karnauskas - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Cheng - Gilead Sciences, Inc.": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Geoffrey C. Porges - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Phil Nadeau - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Umer Raffat - Evercore ISI": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Terence Flynn - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alethia Young - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "M. Ian Somaiya - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jim Birchenough - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Hartaj Singh - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

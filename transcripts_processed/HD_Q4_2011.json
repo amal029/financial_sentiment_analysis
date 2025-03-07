@@ -1,0 +1,310 @@
+{
+ "date": "2012-02-21 09:00:00",
+ "Diane S. Dayhoff": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Francis S. Blake": {
+  "avg_sentiment_score": 0.045454545454545456,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   -0.45,
+   0.0,
+   -1.0,
+   -0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.85,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8022727272727272,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.0,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Craig A. Menear": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.6055555555555556,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Colin McGranahan - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Wayne L. Hood - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Dennis McGill - Zelman & Associates, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Laura A. Champine - Collins Stewart LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Alan M. Rifkin - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian W. Nagel - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Gregory S. Melich - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.35,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Marvin R. Ellison": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Vice President of U S Stores"
+ },
+ "TJ McConville": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark Holifield": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Michael Baker - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Gober - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

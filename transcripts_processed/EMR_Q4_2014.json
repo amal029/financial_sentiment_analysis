@@ -1,0 +1,309 @@
+{
+ "date": "2014-11-04 14:00:00",
+ "Patrick Fitzgerald": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "David N. Farr": {
+  "avg_sentiment_score": 0.14891304347826087,
+  "sentiment_score": [
+   0.65,
+   -0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.65,
+   -0.45,
+   0.45,
+   0.45,
+   -0.45,
+   -0.45,
+   0.45,
+   -0.35,
+   -0.45,
+   0.0,
+   1.0,
+   0.45,
+   -0.45,
+   1.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8032608695652175,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Joshua Charles Pokrzywinski - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Michael Kwas - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Mark Douglass - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Frank J. Dellaquila": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ],
+  "title": "Senior Advisor to the CEO"
+ },
+ "Julian Mitchell - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6
+  ]
+ },
+ "Andrew Obin - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Grace Lee - CLSA Limited, Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Charles Stephen Tusa - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.01428571428571429,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "John Anthony Baliotti - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Lennox-King": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jiayan Zhou - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.8,
+   0.4,
+   0.8
+  ]
+ },
+ "Jonathan Wright - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

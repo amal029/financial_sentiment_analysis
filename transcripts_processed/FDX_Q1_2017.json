@@ -1,0 +1,264 @@
+{
+ "date": "2016-09-20 17:00:00",
+ "A. Mickey Foster": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Frederick W. Smith": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9107142857142857,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "T. Michael Glenn": {
+  "avg_sentiment_score": 0.30625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.65,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Alan B. Graf, Jr.": {
+  "avg_sentiment_score": 0.49230769230769234,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.85,
+   0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.5,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "David J. Bronczek": {
+  "avg_sentiment_score": 0.7125,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Henry J. Maier": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "Michael L. Ducker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Salmon": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jack Atkins": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Brandon Oglenski": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Scott Schneeberger": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Helane Becker": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

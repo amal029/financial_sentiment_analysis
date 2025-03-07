@@ -1,0 +1,217 @@
+{
+ "date": "2011-05-11 17:00:00",
+ "Helyn Corcos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Enrique Salem": {
+  "avg_sentiment_score": 0.7285714285714285,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.55,
+   1.0,
+   0.85,
+   0.75,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.8,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Director"
+ },
+ "James Beer": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   -1.0,
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Brad Zelnick - Macquarie Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Walter Pritchard - Citigroup Inc": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John DiFucci - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Heather Bellini - ISI Group Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Breza - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Adam Holt - Morgan Stanley": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Philip Winslow - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kash Rangan - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Philip Rueppel": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

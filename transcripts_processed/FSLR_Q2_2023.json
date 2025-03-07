@@ -1,0 +1,113 @@
+{
+ "date": "2023-07-27 16:30:00",
+ "Richard Romero": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Widmar": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.15,
+   0.65,
+   0.45,
+   0.45,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Alex Bradley": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Philip Shen": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Lee": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joseph Osha": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Vrabel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vikram Bagri": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

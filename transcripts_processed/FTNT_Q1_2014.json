@@ -1,0 +1,438 @@
+{
+ "date": "2014-04-26 16:30:00",
+ "Michelle Spolver - Vice President, Corporate Communications and Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Drew Del Matto - Chief Financial Officer": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0
+  ]
+ },
+ "Ken Xie - Co-Founder, Chairman and Chief Executive Officer": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ],
+  "title": "Founder, President, CTO & Director"
+ },
+ "Brent J. Thill - UBS": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Drew Del Matto": {
+  "avg_sentiment_score": 0.39687500000000003,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.55,
+   0.55,
+   -0.15,
+   0.05,
+   1.0,
+   -0.35,
+   0.15,
+   1.0,
+   1.0,
+   0.55,
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.7578125,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Ken Xie": {
+  "avg_sentiment_score": 0.46785714285714286,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.45,
+   0.55,
+   0.55,
+   0.75,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.45,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8346428571428571,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Melissa Gorham - Morgan Stanley": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Michelle Spolver": {
+  "avg_sentiment_score": 0.08125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Sterling Auty - JPMorgan": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jonathan Ho - William Blair": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Gray Powell - Wells Fargo": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Ives - FBR": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Aaron Schwartz - Jefferies": {
+  "avg_sentiment_score": 0.1611111111111111,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9355555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Kaplan - Barclays": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jayson Nolan - Robert Baird": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8944444444444445,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   1.0
+  ]
+ },
+ "Shaul Eyal - Oppenheimer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Fish - Citi": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6933333333333334,
+  "confidence": [
+   0.8,
+   0.6,
+   0.68
+  ]
+ },
+ "James Wesman - Raymond James": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Breza - Sterne": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Sanjit Singh - Wedbush": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Suppiger - JMP": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

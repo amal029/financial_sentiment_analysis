@@ -1,0 +1,422 @@
+{
+ "date": "2017-11-14 09:00:00",
+ "Diane Dayhoff - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Craig A. Menear - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.3359375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.0,
+   0.5,
+   0.05,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.806875,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.67,
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Edward P. Decker - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Carol B. Tom\u00e9 - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8273333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Louis Lasser - UBS Securities LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Chuck Grom - Gordon Haskett Research Advisors": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Daniel Thomas Binder - Jefferies LLC": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Simeon Ari Gutman - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Hofmann - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Christopher Horvers - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.34285714285714286,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth I. Sigman - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "William G. Lennie - The Home Depot, Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brian Nagel - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Alan Rifkin - BTIG LLC": {
+  "avg_sentiment_score": 0.7625,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6175,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Mark Holifield - The Home Depot, Inc.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Executive VP of Supply Chain & Product Development"
+ },
+ "Matthew McClintock - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Kate McShane - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Dennis Patrick McGill - Zelman Partners LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott A. Mushkin - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ }
+}

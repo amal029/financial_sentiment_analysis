@@ -1,0 +1,261 @@
+{
+ "date": "2022-07-28 17:00:00",
+ "Mark Wilterding": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "Mike Mussallem": {
+  "avg_sentiment_score": 0.215,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   -0.45,
+   -0.35,
+   0.0,
+   0.45,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.5,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott Ullem": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0,
+   -0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "Robbie Marcus": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Larry Wood": {
+  "avg_sentiment_score": 0.37142857142857144,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.55,
+   0.45,
+   1.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Corporate VP and Group President of TAVR & Surgical Structural Heart"
+ },
+ "Bernard Zovighian": {
+  "avg_sentiment_score": 0.28125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Cecilia Furlong": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Travis Steed": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Suraj Kalia": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ed Ridley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Plovanic": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Adam Maeder": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Josh Jennings": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "date": "2015-04-23 17:00:00",
+ "Steve Weber": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Will Lansing": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mike Pung": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "GregBardi": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "MikePung": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Bill Warmington": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Huff": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Galinko": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.68
+  ]
+ }
+}

@@ -1,0 +1,324 @@
+{
+ "date": "2010-01-20 16:30:00",
+ "John Eldridge": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Andy Reinland": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   0.55,
+   1.0,
+   -0.45,
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   0.45,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6125,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.4
+  ]
+ },
+ "John McAdam": {
+  "avg_sentiment_score": 0.45217391304347826,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   -0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.45,
+   0.75,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7834782608695652,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.8,
+   0.4,
+   0.67,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Brian White - Ticonderoga": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Mark Anderson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Senior Vice President of Worldwide Sales"
+ },
+ "Ittai Kidron - Oppenheimer & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Ader - William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Samuel Wilson - JMP Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Troy Jensen - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Brian Marshall - Broadpoint AmTech": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8
+  ]
+ },
+ "Mark Sue - RBC Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Suppiger - Signal Hill": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Karl Triebes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Dan Matte": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jeff Kvaal - Barclays Capital": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Ryan Hutchinson - Lazard Capital Markets": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Min Park - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Modoff - Deutsche Bank": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jeff Luber - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   1.0
+  ]
+ }
+}

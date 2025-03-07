@@ -1,0 +1,248 @@
+{
+ "date": "2017-01-25 09:00:00",
+ "Mark Muth": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Mac McCullough": {
+  "avg_sentiment_score": 0.3021739130434783,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.75,
+   0.0,
+   1.0,
+   0.55,
+   0.35,
+   0.65,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   -0.15,
+   -0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7608695652173914,
+  "confidence": [
+   0.8,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Steinour": {
+  "avg_sentiment_score": 0.56875,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Jon Arfstrom": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Dan Neumeyer": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.85,
+   0.35
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Kyle Peterson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Long": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Terry McEvoy": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Kevin Barker": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Klock": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

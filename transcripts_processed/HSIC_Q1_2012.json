@@ -1,0 +1,197 @@
+{
+ "date": "2012-05-08 10:00:00",
+ "Susan Vassallo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stanley M. Bergman": {
+  "avg_sentiment_score": 0.5107142857142858,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   0.05,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Steven Paladino": {
+  "avg_sentiment_score": 0.26153846153846155,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.05,
+   0.05,
+   0.65,
+   -0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7115384615384616,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Glen J. Santangelo - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Robert P. Jones - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "S. Brandon Couillard - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Steven Valiquette - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert M. Willoughby - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey D. Johnson - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael R. Minchak - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Elliot Feldman - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Jonathan Block - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

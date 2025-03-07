@@ -1,0 +1,334 @@
+{
+ "date": "2016-04-29 16:30:00",
+ "Patrick O'Brien - Senior Director-Investor Relations": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "John F. Milligan - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.32142857142857145,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Robin L. Washington - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Paul R. Carter - Executive Vice President, Commercial Operations": {
+  "avg_sentiment_score": 0.2138888888888889,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Geoffrey C. Porges - Leerink Partners LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Yee - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Norbert W. Bischofberger - Executive Vice President, Research and Development and Chief Scientific Officer": {
+  "avg_sentiment_score": 0.4928571428571429,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Brian P. Skorney - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Phil Nadeau - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robyn Karnauskas - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alethia Young - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "M. Ian Somaiya - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Terence Flynn - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "James Birchenough - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Alan Carr - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Anthony Butler - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

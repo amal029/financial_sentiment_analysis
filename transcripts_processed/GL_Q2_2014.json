@@ -1,0 +1,316 @@
+{
+ "date": "2014-07-28 11:00:00",
+ "Mike Majors": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Coleman": {
+  "avg_sentiment_score": 0.28928571428571426,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.6,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.8,
+   0.4,
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Co-Chairman"
+ },
+ "Larry Hutchison": {
+  "avg_sentiment_score": 0.31875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Frank Svoboda": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7363636363636363,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.4
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Erik Bass ": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Randy Binner ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   -0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Sarah DeWitt - Barclays": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Yaron Kinar - Deutsche Bank": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Gary Coleman ": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Giovanni ": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "Steven Schwartz ": {
+  "avg_sentiment_score": -0.20833333333333334,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Joanne Smith - Scotia Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "CEO of American Income Life Insurance Company and CEO of Liberty National Life Insurance Company"
+ },
+ "Eric Berg - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bob Glasspiegel - Jenny Capital": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Jimmy Bhullar ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Colin Devine ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "John Myers - SunTrust": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Nadel - Sterne, Agee": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

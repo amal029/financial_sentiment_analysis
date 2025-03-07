@@ -1,0 +1,143 @@
+{
+ "date": "2020-05-27 17:00:00",
+ "Beth Howe": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Enrique Lores": {
+  "avg_sentiment_score": 0.5222222222222223,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0,
+   0.85,
+   0.45,
+   0.05,
+   0.55,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.7388888888888889,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Steven Fieler": {
+  "avg_sentiment_score": 0.32272727272727275,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7227272727272728,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "nan"
+ },
+ "Kathryn Huberty": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Toni Sacconaghi": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Paul Coster": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kanghui Ong": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,499 @@
+{
+ "date": "2018-05-15 09:00:00",
+ "Isabel Janci": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Craig Menear": {
+  "avg_sentiment_score": 0.20972222222222223,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8722222222222222,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Ted Decker": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Carol Tome": {
+  "avg_sentiment_score": 0.3230769230769231,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   -0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.85,
+   0.0,
+   0.55,
+   0.6,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8088461538461539,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.68,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President of Corporate Services"
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark Holifield": {
+  "avg_sentiment_score": 0.33125000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP of Supply Chain & Product Development"
+ },
+ "Zach Fadem": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Steve Forbes": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.68,
+   0.67
+  ]
+ },
+ "Keith Hughes": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "William Lennie": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Kevin Hofmann": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9083333333333333,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Elizabeth Suzuki": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Binder": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Chuck Grom": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt McClintock": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Baugh": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Fassler": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Alvaro Lacayo": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

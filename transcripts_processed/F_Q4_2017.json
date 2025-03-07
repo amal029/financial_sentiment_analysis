@@ -1,0 +1,298 @@
+{
+ "date": "2018-01-24 17:30:00",
+ "Lynn Antipas Tyson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "James Hackett": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   -0.45,
+   0.15,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.05,
+   0.45,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7964285714285715,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Robert Shanks": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.65,
+   0.05,
+   0.6,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Ryan Brinkman ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Jim Farley": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Adam Jonas": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   0.0,
+   -0.75,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Rod Lache": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "David Tamberrino": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Joe Hinrichs": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.9
+  ],
+  "title": "Executive VP & President of Global Operations"
+ },
+ "Brian Johnson ": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Spak ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Itay Michaeli": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Whiston": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Derek Glynn": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "date": "2012-11-05 17:00:00",
+ "Mary K. Waggoner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Frank R. Martire": {
+  "avg_sentiment_score": 0.7318181818181819,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.55,
+   0.85,
+   0.45,
+   1.0,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6909090909090909,
+  "confidence": [
+   0.6,
+   0.8,
+   0.85,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Gary A. Norcross": {
+  "avg_sentiment_score": 0.4928571428571428,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.4,
+   0.6,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.85
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Michael D. Hayford": {
+  "avg_sentiment_score": 0.382,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   -0.45,
+   0.65,
+   0.15,
+   0.5,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6940000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.4,
+   0.4,
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "David J. Koning - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.8,
+   0.8,
+   0.85
+  ]
+ },
+ "Ashwin Shirvaikar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Huff - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Glenn Greene - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Bryan Keane - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Roman Leal - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Timothy W. Willi - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Tien-Tsin T. Huang - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "David Togut - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory Smith - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "John Kraft - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Peter J. Heckmann - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Kartik Mehta - Northcoast Research": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ }
+}

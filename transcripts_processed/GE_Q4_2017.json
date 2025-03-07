@@ -1,0 +1,231 @@
+{
+ "date": "2018-01-24 08:30:00",
+ "Matt Cribbins": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "John Flannery": {
+  "avg_sentiment_score": 0.2541666666666667,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jamie Miller": {
+  "avg_sentiment_score": 0.15789473684210525,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   1.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7526315789473684,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Information Officer and Senior Vice President"
+ },
+ "Russell Stokes": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Andrew Kaplowitz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steven Winoker": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Obin": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67,
+   0.4
+  ]
+ },
+ "Robert McCarthy": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

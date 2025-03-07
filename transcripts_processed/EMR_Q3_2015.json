@@ -1,0 +1,553 @@
+{
+ "date": "2015-08-04 14:00:00",
+ "Craig Rossman - Emerson Electric Co.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "David N. Farr - Emerson Electric Co.": {
+  "avg_sentiment_score": 0.06315789473684211,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.0,
+   -0.45,
+   0.05,
+   -0.45,
+   0.05,
+   0.0,
+   0.15,
+   0.55,
+   -0.15,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.55,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.75,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.8527368421052632,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Joseph A. Ritchie - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Paul McCarthy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Wood - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan David Wright - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.057692307692307696,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8923076923076922,
+  "confidence": [
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Julian C. H. Mitchell - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.10714285714285714,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   0.6,
+   0.67
+  ]
+ },
+ "Christopher D. Glynn - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Rich M. Kwas - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Frank J. Dellaquila - Emerson Electric Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Senior Advisor to the CEO"
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shannon O'Callaghan - UBS Securities LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "C. Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gautam J. Khanna - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "John G. Inch - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.019999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.852,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeremie Capron - CLSA Americas LLC": {
+  "avg_sentiment_score": -0.05625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

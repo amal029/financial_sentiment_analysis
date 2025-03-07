@@ -1,0 +1,468 @@
+{
+ "date": "2012-10-17 16:30:00",
+ "Michelle Spolver": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.3368421052631579,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.75,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.45,
+   0.65,
+   0.05,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7955263157894737,
+  "confidence": [
+   0.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.68,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "Principal Accounting Officer and Vice President"
+ },
+ "Ken Xie": {
+  "avg_sentiment_score": 0.34600000000000003,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.05,
+   -0.15,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.762,
+  "confidence": [
+   0.6,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Founder, President, CTO & Director"
+ },
+ "Sterling Auty - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Goldman ": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Erik Suppiger - JMP Securities": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Keith Weiss - Morgan Stanley": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Walter Pritchard - Citi": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Jonathan Ho - William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Thill - UBS ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Turitz - Raymond James & Associates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jonathan Ruykhaver - Stephens Incorporated": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Ruykhaver": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stephens Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jayson Nolan - Robert W. Baird": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nancy Bush ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Principal Accounting Officer, Vice President and Worldwide Corporate Controller"
+ },
+ "Robert Breza - RBC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Shaul Eyal - Oppenheimer": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Shaul Eyal - Oppenheimer & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Rick Sherlund - Nomura ": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aaron Schwartz - Jefferies": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Xie ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ron Zember - Bank of America": {
+  "avg_sentiment_score": 0.7125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.895,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.68
+  ]
+ },
+ "Rohit Chopra - Wedbush": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Scott Zeller - Needham and Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Freed - Wunderlich": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "date": "2013-04-24 17:00:00",
+ "Steven P. Weber": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "William J. Lansing": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael J. Pung": {
+  "avg_sentiment_score": 0.29375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Carter Malloy - Stephens Inc., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Manav Patnaik - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew Galinko - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nandan Amladi - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

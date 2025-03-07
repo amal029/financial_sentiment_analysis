@@ -1,0 +1,320 @@
+{
+ "date": "2011-04-21 17:30:00",
+ "Susan Hubbard": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "John Milligan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Young": {
+  "avg_sentiment_score": 0.17222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.35,
+   0.65,
+   0.0,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "John Martin": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Roden - UBS Investment Bank": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Geoffrey Meacham - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Russo - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robin Washington": {
+  "avg_sentiment_score": 0.17142857142857146,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Ravi Mehrotra - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.49000000000000005,
+  "confidence": [
+   0.4,
+   0.4,
+   0.67
+  ]
+ },
+ "Mark Schoenebaum - ISI Group Inc.": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Geoffrey Porges - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Yaron Werber - Citigroup Inc": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Michael Yee - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Rachel McMinn - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Norbert Bischofberger": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9
+  ]
+ },
+ "Sapna Srivastava - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Joshua Schimmer - Leerink Swann LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Thomas Wei - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joel Sendek - Lazard Capital Markets LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Ian Somaiya - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

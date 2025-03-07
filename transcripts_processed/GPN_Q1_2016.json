@@ -1,0 +1,280 @@
+{
+ "date": "2015-10-07 08:00:00",
+ "Jane Elliott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Jeffrey Sloan": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.65,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.815625,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.8,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Cameron Bready": {
+  "avg_sentiment_score": 0.44375000000000003,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.55,
+   0.0,
+   0.75,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.8,
+   0.65,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "George Mihalos": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "A \u2013 David Mangum": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Q \u2013 Ashish Sabadra": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "David Mangum": {
+  "avg_sentiment_score": 0.64375,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   0.85,
+   0.15,
+   0.45,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Q \u2013 Ashwin Shirvaikar": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Landau": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Sloan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steven Kwok": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Cary": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Jeffrey Chen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Maurer": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ }
+}

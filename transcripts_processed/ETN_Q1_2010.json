@@ -1,0 +1,227 @@
+{
+ "date": "2010-04-22 10:00:00",
+ "Mark Doheny": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kirk S. Hachigian ": {
+  "avg_sentiment_score": 0.40263157894736845,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.65,
+   -0.45,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Terry A. Klebe ": {
+  "avg_sentiment_score": 0.21749999999999997,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   -1.0,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.05,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Davis \u2013 Morgan Stanley": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Cornell \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Richard Kwas \u2013 Wells Fargo Securities, LLC.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Glynn \u2013 Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeff Sprague \u2013 Vertical Research Partners": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Eli Lustgarten- Longbow Securities": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Anthony Kure \u2013 Keybanc Capital Markets": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Shawn Severson \u2013 ThinkEquity": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

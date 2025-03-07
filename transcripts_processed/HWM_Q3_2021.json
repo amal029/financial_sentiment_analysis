@@ -1,0 +1,308 @@
+{
+ "date": "2021-11-04 10:00:00",
+ "Paul Luther": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Plant": {
+  "avg_sentiment_score": 0.28404255319148936,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.15,
+   0.0,
+   0.85,
+   0.15,
+   0.65,
+   -0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8440425531914894,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.68,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Ken Giacobbe": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.39375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.865,
+  "confidence": [
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Robert Stallard": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Myles Walton": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8133333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.69
+  ]
+ },
+ "David Strauss": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Akers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Paretosh Misra": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Noah Poponak": {
+  "avg_sentiment_score": 0.1142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Phil Gibbs": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Josh Sullivan": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

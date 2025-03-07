@@ -1,0 +1,346 @@
+{
+ "date": "2014-07-29 08:30:00",
+ "Nancy Murphy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Frank R. Martire": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8276190476190476,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Gary A. Norcross": {
+  "avg_sentiment_score": 0.5785714285714285,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   1.0,
+   0.05,
+   -0.35,
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   0.85
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "James W. Woodall": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.55,
+   1.0,
+   0.85,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Greene \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Glenn Greene - Oppenheimer": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Huff - Stephens Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brett Huff \u2013 Stephens Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Darrin Peller - Barclays": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Darrin Peller \u2013 Barclays": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Bryan Keane \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar \u2013 Citi Investment Research": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Togut - Evercore Partners Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel R. Perlin \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tien-Tsin T. Huang \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David J. Koning \u2013 Robert W. Baird & Co.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Dave Koning \u2013 Baird": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Peter Heckmann \u2013 Avondale Partners": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Georgios Mihalos \u2013 Cr\u00e9dit Suisse": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ramsey El-Assal - Jefferies": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Willi - Wells Fargo": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

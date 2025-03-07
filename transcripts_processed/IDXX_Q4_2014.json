@@ -1,0 +1,131 @@
+{
+ "date": "2015-01-30 08:30:00",
+ "Brian McKeon ": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.43,
+  "confidence": [
+   0.0,
+   0.4,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "CFO, Executive VP & Treasurer"
+ },
+ "Jon Ayers": {
+  "avg_sentiment_score": 0.6269230769230769,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.6,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8423076923076922,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   0.9
+  ],
+  "title": "Senior Advisor & Director"
+ },
+ "Ryan Daniels": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Erin Wilson": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jon Block": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Kevin Ellich": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Mark Massaro": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Ben Haynor": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ }
+}

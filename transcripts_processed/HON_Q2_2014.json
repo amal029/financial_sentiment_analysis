@@ -1,0 +1,332 @@
+{
+ "date": "2014-07-18 09:30:00",
+ "Elena Doom": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "David M. Cote": {
+  "avg_sentiment_score": 0.27564102564102566,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.915128205128205,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman and Chief Executive Officer"
+ },
+ "Tom Szlosek": {
+  "avg_sentiment_score": 0.3225,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Scott Davis - Barclays": {
+  "avg_sentiment_score": 0.016666666666666663,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Winoker - Sanford Bernstein": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.35,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8028571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Steve Tusa - JPMorgan": {
+  "avg_sentiment_score": -0.11666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8999999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Sprague - Vertical Research Partners": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.68,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Howard Rubel - Jefferies": {
+  "avg_sentiment_score": 0.14375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Inch - Deutsche Bank": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Andrew Obin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

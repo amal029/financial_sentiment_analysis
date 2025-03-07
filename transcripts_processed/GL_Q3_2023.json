@@ -1,0 +1,232 @@
+{
+ "date": "2023-10-26 11:00:00",
+ "Stephen Mota": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Frank Svoboda": {
+  "avg_sentiment_score": 0.13076923076923078,
+  "sentiment_score": [
+   0.85,
+   0.6,
+   -0.15,
+   0.0,
+   -0.35,
+   0.05,
+   -0.45,
+   0.15,
+   0.15,
+   -0.15,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7846153846153846,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Matt Darden": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.15,
+   0.45,
+   0.65,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Tom Kalmbach": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.55,
+   -0.15,
+   0.55,
+   1.0,
+   -0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7464285714285713,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Wes Carmichael": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7716666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Wilma Burdis": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Maxwell Fritscher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.014285714285714289,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ }
+}

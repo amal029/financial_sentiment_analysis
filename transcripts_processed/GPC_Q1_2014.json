@@ -1,0 +1,328 @@
+{
+ "date": "2014-04-22 11:00:00",
+ "Sidney Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.4153846153846154,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8365384615384616,
+  "confidence": [
+   0.6,
+   0.4,
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Paul Donahue": {
+  "avg_sentiment_score": 0.24705882352941178,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8352941176470587,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Yancey": {
+  "avg_sentiment_score": 0.19375,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8
+  ],
+  "title": "Advisor"
+ },
+ "Scott Ciccarelli - RBC": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.68
+  ]
+ },
+ "Greg Melich - ISI Group": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Fassler - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Chris Horvers - JPMorgan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "John Ruvolo - Bank of America": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Sponheimer - Gabelli & Company": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Seth Basham - Wedbush Securities": {
+  "avg_sentiment_score": 0.10625000000000001,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Keith Hughes - SunTrust": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bret Jordan - BB&T Capital Markets": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Mike Montani \u2013 ISI Group": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

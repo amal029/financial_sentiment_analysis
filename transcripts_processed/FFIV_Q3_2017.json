@@ -1,0 +1,255 @@
+{
+ "date": "2017-07-26 16:30:00",
+ "Jason Willey - F5 Networks, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Andrew Reinland - F5 Networks, Inc.": {
+  "avg_sentiment_score": 0.12142857142857144,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Fran\u00e7ois Locoh-Donou - F5 Networks, Inc.": {
+  "avg_sentiment_score": 0.3909090909090909,
+  "sentiment_score": [
+   0.35,
+   0.55,
+   0.45,
+   0.0,
+   1.0,
+   0.05,
+   -0.35,
+   1.0,
+   -0.35,
+   0.6,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7945454545454546,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.68,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jess Lubert - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brian J. White - Drexel Hamilton LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Silverstein - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.11250000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Rod Hall - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Troy D. Jensen - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Meta A. Marshall - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Jeffrey Thomas Kvaal - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Alex Henderson - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Kearny - F5 Networks, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "date": "2012-04-20 10:00:00",
+ "Elena Doom": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.8,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David M. Cote": {
+  "avg_sentiment_score": 0.3973684210526316,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8342105263157894,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.9,
+   0.4,
+   0.4,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman and Chief Executive Officer"
+ },
+ "David James Anderson": {
+  "avg_sentiment_score": 0.3017241379310345,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8241379310344827,
+  "confidence": [
+   0.9,
+   0.8,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Scott R. Davis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Shannon O'Callaghan - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Peter J. Arment - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Howard A. Rubel - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Elana Hordon Wood - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "date": "2018-01-24 09:00:00",
+ "Howard A. Rubel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "A - Phebe N. Novakovic": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Chairperson & CEO"
+ },
+ "A - Jason W. Aiken": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   -0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Stallard": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Phebe N. Novakovic": {
+  "avg_sentiment_score": 0.2657894736842105,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.863157894736842,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Robert Spingarn": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Samuel Pearlstein": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason W. Aiken": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Douglas Harned": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Peter Skibitski": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ronald Epstein": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Raviv": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Carter Copeland": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Hunter Keay": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

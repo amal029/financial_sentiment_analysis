@@ -1,0 +1,197 @@
+{
+ "date": "2015-07-30 08:30:00",
+ "Brian P. McKeon - Chief Financial Officer, Treasurer & Executive VP": {
+  "avg_sentiment_score": 0.2789473684210526,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8315789473684211,
+  "confidence": [
+   0.85,
+   0.8,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "CFO, Executive VP & Treasurer"
+ },
+ "Jonathan W. Ayers - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.5026315789473684,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.05,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.781578947368421,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.8,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   0.9,
+   0.9
+  ],
+  "title": "Senior Advisor & Director"
+ },
+ "Ryan S. Daniels - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Erin E. Wilson - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Jon D. Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.027777777777777776,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8411111111111111,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "Nicholas M. Jansen - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Massaro - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin K. Ellich - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ }
+}

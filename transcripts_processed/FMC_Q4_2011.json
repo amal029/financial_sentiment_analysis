@@ -1,0 +1,264 @@
+{
+ "date": "2012-02-09 11:00:00",
+ "Brennen Arndt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Pierre R. Brondeau": {
+  "avg_sentiment_score": 0.378125,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   -0.35,
+   0.45,
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.803125,
+  "confidence": [
+   0.6,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.9
+  ]
+ },
+ "Mark A. Douglas": {
+  "avg_sentiment_score": 0.23888888888888887,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.6,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.4,
+   0.8
+  ]
+ },
+ "W. Kim Foster": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.5900000000000001,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Robert Walker - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Milton Steele": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ],
+  "title": "President of the Agricultural Products Group"
+ },
+ "Sabina Chatterjee - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "D. Michael Wilson": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "President of Specialty Chemicals Group"
+ },
+ "Peter Butler": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Eugene Fedotoff - Longbow Research LLC": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "William Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Michael J. Harrison - First Analysis Securities Corporation, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Reitzes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4
+  ]
+ }
+}

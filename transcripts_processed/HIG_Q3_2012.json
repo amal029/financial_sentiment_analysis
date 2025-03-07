@@ -1,0 +1,190 @@
+{
+ "date": "2012-11-02 09:00:00",
+ "Sabra Purtill": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Liam E. McGee": {
+  "avg_sentiment_score": 0.30625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher John Swift": {
+  "avg_sentiment_score": -0.08888888888888889,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.75
+  ]
+ },
+ "A. Mark Finkelstein - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Beth A. Bombara": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John M. Nadel - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": -0.037500000000000006,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Thomas G. Gallagher - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.1375,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Meredith - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Douglas G. Elliot": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "President"
+ },
+ "Christopher Giovanni - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel K. Altscher - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

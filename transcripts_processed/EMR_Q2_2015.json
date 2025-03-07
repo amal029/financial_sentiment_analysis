@@ -1,0 +1,377 @@
+{
+ "date": "2015-05-05 14:00:00",
+ "Craig Rossman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Farr": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.35,
+   0.45,
+   1.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.15,
+   0.55,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   -0.35,
+   -0.45,
+   0.0,
+   -0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -1.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.45,
+   1.0,
+   0.0,
+   -0.15,
+   0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8639682539682539,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.69,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Shannon O'Callaghan": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Winoker": {
+  "avg_sentiment_score": 0.2111111111111111,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8077777777777777,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mike Wood": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Glynn": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Frank Dellaquila": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ],
+  "title": "Senior Advisor to the CEO"
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   -1.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7616666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   0.4
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.12142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8885714285714286,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Deepa Raghavan": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Inch": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

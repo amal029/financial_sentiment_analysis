@@ -1,0 +1,368 @@
+{
+ "date": "2010-10-20 10:00:00",
+ "Bill Hartman": {
+  "avg_sentiment_score": 0.090625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.946875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Sandy Cutler": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   -0.35,
+   -0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   -0.35,
+   0.55,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   -0.45,
+   -0.15,
+   0.6,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7890243902439025,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "Jamie Cook - Credit Suisse": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Raso - ISI Group": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Rick Fearon": {
+  "avg_sentiment_score": 0.2636363636363636,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.6,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8454545454545456,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.85,
+   0.8,
+   1.0
+  ]
+ },
+ "Eli Lustgarten - Longbow Research": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Glenn - Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Meredith Taylor - Barclays Capital": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "Nigel Coe - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.4,
+   0.9,
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Andy Casey - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Tim Denoyer - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Obin - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Tim Thein - Citi": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jason Feldman - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Mccarthy - Robert W. Baird & Co.": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

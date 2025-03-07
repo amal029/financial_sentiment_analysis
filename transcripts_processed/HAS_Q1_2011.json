@@ -1,0 +1,315 @@
+{
+ "date": "2011-04-15 08:30:00",
+ "Debbie Hancock": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Brian Goldner": {
+  "avg_sentiment_score": 0.3859375,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.85,
+   0.45,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.65,
+   0.75,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.8,
+   0.85,
+   0.4,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Deborah Thomas": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Sean McGowan - Needham & Company, LLC": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Hargreaves": {
+  "avg_sentiment_score": 0.19166666666666668,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.45,
+   0.55,
+   0.05,
+   0.15,
+   0.15,
+   -0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Strategy Officer and Executive Vice President"
+ },
+ "Michael Kelter - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Tang": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8,
+   0.4
+  ]
+ },
+ "Robert Carroll - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Margaret Whitfield - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Gerrick Johnson - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.030000000000000006,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8949999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric Handler - MKM Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gregory Badishkanian - Citigroup Inc": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Per Ostlund - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Crum - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.12000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Timothy Conder - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

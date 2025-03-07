@@ -1,0 +1,202 @@
+{
+ "date": "2018-02-07 08:30:00",
+ "Warren Gardiner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Scott Hill": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.9,
+   0.85,
+   0.0,
+   0.75,
+   0.9,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Jeff Sprecher": {
+  "avg_sentiment_score": 0.4772727272727273,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.85,
+   0.45,
+   0.65,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   -0.75,
+   1.0
+  ],
+  "avg_confidence": 0.8227272727272728,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sameer Murukutla": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ben Jackson": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "President"
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ben Herbert": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Allen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Vincent Hung": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Harris": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

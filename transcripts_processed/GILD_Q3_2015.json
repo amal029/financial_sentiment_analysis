@@ -1,0 +1,291 @@
+{
+ "date": "2015-10-27 16:30:00",
+ "Patrick O'Brien - Senior Director-Investor Relations": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "John C. Martin - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Paul R. Carter - Executive Vice President-Commercial Operations": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.65,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.15,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Robin L. Washington - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Norbert W. Bischofberger, PhD - Executive Vice President, Research and Development & Chief Scientific Officer": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   -0.35,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "John F. Milligan, PhD - President & Chief Operating Officer": {
+  "avg_sentiment_score": 0.26153846153846155,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8153846153846154,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt M. Roden - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Yee - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Chase & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Phil M. Nadeau - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Wendy Lam - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian P. Skorney - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Alan Carr - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

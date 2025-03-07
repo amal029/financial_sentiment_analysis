@@ -1,0 +1,402 @@
+{
+ "date": "2018-10-30 11:00:00",
+ "Donald H. Bullock - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.0075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9675,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Arnold - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.19722222222222224,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.35,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8458333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.68,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Nigel Coe - Wolfe Research LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard H. Fearon - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.041666666666666664,
+  "sentiment_score": [
+   0.15,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.45,
+   0.15,
+   0.0,
+   0.35,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8722222222222222,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey D. Hammond - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nicole DeBlase - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Winoker - UBS Securities LLC": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Mircea Dobre - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Charles Pokrzywinski - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Edward Volkmann - Jefferies LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Burris Obin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.65,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Andrew M. Casey - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ann P. Duignan - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "John Walsh - Credit Suisse": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

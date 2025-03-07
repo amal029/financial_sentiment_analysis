@@ -1,0 +1,153 @@
+{
+ "date": "2011-02-22 11:00:00",
+ "Carol Yancey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.3178571428571429,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.8,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Jerry Nix": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.35,
+   0.65,
+   0.05,
+   0.55,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Vice Chairman"
+ },
+ "Elizabeth Lane - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Fassler - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Montani - ISI Group Inc.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

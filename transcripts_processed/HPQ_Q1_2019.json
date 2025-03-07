@@ -1,0 +1,157 @@
+{
+ "date": "2019-02-27 17:00:00",
+ "Beth Howe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dion Weisler": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   -0.55,
+   0.05,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Steven Fieler": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.45,
+   -0.35,
+   0.35,
+   0.45,
+   -0.15,
+   0.45,
+   0.55,
+   0.55,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7269230769230769,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "nan"
+ },
+ "Shannon Cross": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Wamsi Mohan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kathryn Huberty": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Toni Sacconaghi": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steven Milunovich": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Roderick Hall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ananda Baruah": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

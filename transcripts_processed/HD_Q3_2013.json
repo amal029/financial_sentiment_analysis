@@ -1,0 +1,375 @@
+{
+ "date": "2013-11-19 09:00:00",
+ "Diane Dayhoff": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.62,
+  "confidence": [
+   0.6,
+   0.4,
+   0.8,
+   0.9,
+   0.4
+  ]
+ },
+ "Frank Blake": {
+  "avg_sentiment_score": 0.29333333333333333,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   -0.15,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8366666666666667,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Craig Menear": {
+  "avg_sentiment_score": 0.5863636363636364,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7863636363636364,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Tome": {
+  "avg_sentiment_score": 0.305,
+  "sentiment_score": [
+   0.65,
+   0.6,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President of Corporate Services"
+ },
+ "Gary Balter - Credit Suisse": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Horvers \u2013 JPMorgan": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Nagel \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8233333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.67
+  ]
+ },
+ "Dan Binder - Jefferies": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Matthew Fassler - Goldman Sachs": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Aram Rubinson - Wolfe Research": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Budd Bugatch - Raymond James": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Dennis McGill - Zelman & Associates": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marvin Ellison": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President of U S Stores"
+ },
+ "Keith Hughes - SunTrust": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kate McShane \u2013 Citigroup": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Mark Holifield": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Lasser - UBS": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Greg Melich - ISI Group": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Carol Tome ": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   -1.0
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   1.0,
+   0.4,
+   0.85,
+   0.4
+  ]
+ },
+ "Eric Bosshard - Cleveland Research": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ }
+}

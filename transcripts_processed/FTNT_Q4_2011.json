@@ -1,0 +1,297 @@
+{
+ "date": "2012-02-01 16:30:00",
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.22968750000000002,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7734375,
+  "confidence": [
+   0.6,
+   0.8,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.5,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Principal Accounting Officer and Vice President"
+ },
+ "Ken Xie": {
+  "avg_sentiment_score": 0.37916666666666665,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.45,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Founder, President, CTO & Director"
+ },
+ "Sterling Auty \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Walter Pritchard - Citi Investment Research & Analysis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Keith Weiss \u2013 Morgan Stanley ": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jonathan Ruykhaver - Morgan Keegan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Turits \u2013 Raymond James": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jonathan Ho \u2013 William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Jayson Noland \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.8
+  ]
+ },
+ "Erik Suppiger \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Rohit Chopra \u2013 Wedbush": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brent Thill - UBS": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Aaron Schwartz \u2013 Jefferies": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Scott Zeller \u2013 Needham & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dan Cummins \u2013 ThinkEquity": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Freed - Wunderlich Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Alan Weinfeld \u2013 David Securities": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

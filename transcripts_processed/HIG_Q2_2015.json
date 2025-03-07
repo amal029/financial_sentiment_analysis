@@ -1,0 +1,280 @@
+{
+ "date": "2015-07-28 13:27:13",
+ "Sabra Purtill": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Christopher Swift": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   1.0,
+   0.15,
+   0.05,
+   0.55,
+   -0.35,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.790625,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Douglas Elliot": {
+  "avg_sentiment_score": 0.4636363636363637,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.05,
+   0.35,
+   1.0,
+   -0.45,
+   0.55,
+   0.75,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.7654545454545455,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "President"
+ },
+ "Beth Bombara": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   1.0,
+   0.05,
+   0.15,
+   0.55,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.5,
+   0.4,
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Nannizzi": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": 0.38571428571428573,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Randy Binner": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Scott Frost": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bob Glasspiegel": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

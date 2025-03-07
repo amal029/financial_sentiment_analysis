@@ -1,0 +1,420 @@
+{
+ "date": "2017-05-02 11:00:00",
+ "Donald H. Bullock - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9800000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Arnold - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.2914893617021277,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.75,
+   0.45,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   -0.35,
+   -0.15,
+   0.55,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8346808510638297,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.68,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott R. Davis - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Richard H. Fearon - Eaton Corp. Plc": {
+  "avg_sentiment_score": -0.0026315789473684184,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.8078947368421052,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Evelyn Chow - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.75,
+   0.69
+  ]
+ },
+ "Ann P. Duignan - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.15,
+   -1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Edward Volkmann - Jefferies LLC": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Andrew Krill - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Robert McCarthy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Burris Obin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew M. Casey - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Hammond - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John G. Inch - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.67
+  ]
+ }
+}

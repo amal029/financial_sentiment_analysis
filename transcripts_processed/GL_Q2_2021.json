@@ -1,0 +1,186 @@
+{
+ "date": "2021-07-22 11:00:00",
+ "Mike Majors": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ],
+  "title": "Executive VP of Policy Acquisition & Chief Strategy Officer"
+ },
+ "Gary Coleman": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   -0.35,
+   -0.45,
+   0.55,
+   -0.15,
+   -0.45,
+   0.0,
+   0.45,
+   0.05,
+   0.05,
+   0.6
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.8,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Co-Chairman"
+ },
+ "Larry Hutchison": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Frank Svoboda": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.6,
+   0.9
+  ],
+  "title": "Co-Chairman & Co-CEO"
+ },
+ "Andrew Kligerman": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   0.67
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.35,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   1.0
+  ]
+ }
+}

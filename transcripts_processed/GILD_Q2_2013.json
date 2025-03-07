@@ -1,0 +1,284 @@
+{
+ "date": "2013-07-25 16:30:00",
+ "Patrick O'Brien": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Robin Washington": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Norbert Bischofberger": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.75,
+   0.45,
+   -0.35,
+   0.45,
+   0.5,
+   0.0,
+   0.85,
+   0.85,
+   -0.15,
+   0.15,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.4,
+   0.5,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Geoffrey Meacham \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Young": {
+  "avg_sentiment_score": 0.37916666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.85,
+   -0.35,
+   0.65,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Mark Schoenebaum - ISI Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Geoffrey Porges - Sanford Bernstein": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Roden \u2013 UBS Securities": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rachel McMinn - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Yaron Werber \u2013 Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrahams - Wells Fargo Securities": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.68,
+  "confidence": [
+   0.68
+  ]
+ },
+ "Michael Yee - RBC Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robyn Karnauskas - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ian Somaiya \u2013 Piper Jaferry": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Phil Nadeau - Cowen & Company": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Skorney \u2013 Robert W. Baird": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Howard Liang \u2013 Leerink": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Terence Flynn \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Milligan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Joel Sendek - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Kolbert - Maxim Group": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

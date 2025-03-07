@@ -1,0 +1,164 @@
+{
+ "date": "2022-07-27 17:00:00",
+ "Lynn Tyson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Farley": {
+  "avg_sentiment_score": 0.48750000000000004,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.55,
+   0.55,
+   0.55,
+   -0.15,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "John Lawler": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.15,
+   0.15,
+   0.45,
+   0.45,
+   -0.45,
+   0.45,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.705,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "VP & CFO"
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Adam Jonas": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Rod Lache": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Colin Langan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Joseph Spak": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Marion Harris": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "James Picariello": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

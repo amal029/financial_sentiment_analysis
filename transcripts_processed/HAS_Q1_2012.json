@@ -1,0 +1,343 @@
+{
+ "date": "2012-04-23 08:30:00",
+ "Debbie Hancock": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Brian D. Goldner": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   1.0,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.55,
+   0.85,
+   0.45,
+   -0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   -0.45,
+   0.15,
+   -1.0,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.75,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7464285714285714,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.5,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Deborah Thomas": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Felicia R. Hendrix - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Robert W. Carroll - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "James Hardiman - Longbow Research LLC": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David D. R. Hargreaves": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Strategy Officer and Executive Vice President"
+ },
+ "Margaret B. Whitfield - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Gregory R. Badishkanian - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Eric O. Handler - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sean P. McGowan - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.10625,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Gerrick L. Johnson - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Michael Kelter - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.16249999999999998,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Timothy A. Conder - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Taylor": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

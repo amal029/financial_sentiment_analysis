@@ -1,0 +1,516 @@
+{
+ "date": "2016-04-26 23:45:00",
+ "Michelle Spolver - Fortinet, Inc.": {
+  "avg_sentiment_score": 0.04722222222222223,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Xie - Fortinet, Inc.": {
+  "avg_sentiment_score": 0.4916666666666667,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   1.0,
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7854166666666668,
+  "confidence": [
+   0.9,
+   0.8,
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.9,
+   0.4,
+   1.0
+  ],
+  "title": "Founder, President, CTO & Director"
+ },
+ "Andrew H. Del Matto - Fortinet, Inc.": {
+  "avg_sentiment_score": 0.17755102040816328,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   1.0,
+   0.15,
+   -1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.13125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.80875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Melissa A. Gorham - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.18125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.94375,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Thill - UBS Securities LLC": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Gray W. Powell - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Saket Kalia - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6174999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Shaul Eyal - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Breza - Wunderlich Securities, Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Scott Zeller - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Jeremy Benatar - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Imtiaz Koujalgi - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew James Nowinski - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.764,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.67
+  ]
+ },
+ "Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Gregg Moskowitz - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Catharine A. Trebnick - Dougherty & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Hendi Susanto - Gabelli & Company": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Erik L. Suppiger - JMP Securities LLC": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rohit Chopra - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Ken Talanian - Evercore Group LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

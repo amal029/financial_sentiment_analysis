@@ -1,0 +1,244 @@
+{
+ "date": "2014-02-18 11:00:00",
+ "Sidney Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.2138888888888889,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Paul Donahue": {
+  "avg_sentiment_score": 0.48125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.8,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Yancey": {
+  "avg_sentiment_score": 0.19583333333333333,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Matthew Fassler - Goldman Sachs": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Hughes - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Horvers - JPMorgan": {
+  "avg_sentiment_score": 0.06000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Gregory Melich - ISI Group": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "Bret Jordan - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Aram Rubinson - Wolfe Research": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Seth Basham - Wedbush Securities": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Anjali Voria - Wunderlich Securities": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "date": "2012-05-08 00:00:00",
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Arkadiy Dobkin": {
+  "avg_sentiment_score": 0.178125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.840625,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Co-Founder, Chairman, CEO & President"
+ },
+ "Ilya Cantor": {
+  "avg_sentiment_score": 0.16923076923076924,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.4,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Moshe Katri": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "David Grossman": {
+  "avg_sentiment_score": 0.019230769230769235,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7961538461538461,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ }
+}

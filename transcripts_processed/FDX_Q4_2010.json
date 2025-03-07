@@ -1,0 +1,366 @@
+{
+ "date": "2010-06-16 08:30:00",
+ "Mickey Foster": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Fred Smith": {
+  "avg_sentiment_score": 0.3777777777777778,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   -0.15,
+   -0.15,
+   0.65,
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7611111111111111,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Alan Graf": {
+  "avg_sentiment_score": 0.615,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.05,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   0.8,
+   0.4
+  ]
+ },
+ "Chris Richards": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Donald Broughton \u2013 Avondale Partners": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Bronczek": {
+  "avg_sentiment_score": 0.5227272727272727,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.75,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.4,
+   0.9,
+   0.6,
+   0.8
+  ],
+  "title": "President & COO"
+ },
+ "Bill Logue": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "Helane Becker \u2013 Jesup & Lamont": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Wadewitz - JP Morgan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Mike Glenn": {
+  "avg_sentiment_score": 0.6071428571428571,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Vice President of Market Development & Corporate Communications, Co-Chief Executive Officer of Fedex Services and President of Fedex Services"
+ },
+ "Gary Chase \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Dave Rebholz": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9
+  ]
+ },
+ "John Barnes - RBC Capital Markets": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Justin Yagerman - Deutsche Bank": {
+  "avg_sentiment_score": -0.12499999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.1
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew Brooklier - Piper Jaffray": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Ross - Stifel Nicolaus": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jon Langenfeld - Robert W. Baird": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Kevin Sterling - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Bill Greene - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Ceraso - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Scott Malat - Goldman Sachs": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Edward Wolfe - Wolfe Trahan": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeff Kauffman - Sterne Agee": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Campbell - Thompson, Davis & Co.": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

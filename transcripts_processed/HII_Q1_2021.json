@@ -1,0 +1,268 @@
+{
+ "date": "2021-05-06 09:00:00",
+ "Dwayne Blake": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Petters": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   0.65,
+   0.85,
+   0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.796875,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Vice Chairman of the Board"
+ },
+ "Chris Kastner": {
+  "avg_sentiment_score": 0.4916666666666667,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.5,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Tom Stiehle": {
+  "avg_sentiment_score": 0.19545454545454544,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.05,
+   -0.45,
+   1.0,
+   0.65,
+   0.65,
+   0.15,
+   -0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7454545454545454,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Carter Copeland": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Myles Walton": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Douglas Harned": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ron Epstein": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Safran": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Noah Poponak": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Strauss": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Spingarn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph DeNardi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ }
+}

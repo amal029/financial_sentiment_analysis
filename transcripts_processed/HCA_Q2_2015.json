@@ -1,0 +1,258 @@
+{
+ "date": "2015-08-05 10:00:00",
+ "Victor L. Campbell - Senior Vice President": {
+  "avg_sentiment_score": 0.09259259259259259,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9414814814814816,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "R. Milton Johnson - Chairman and Chief Executive Officer": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "William B. Rutherford - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.05,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Samuel N. Hazen - President-Operations": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.55,
+   0.55,
+   0.05,
+   0.65,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "A. J. Rice - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sheryl R. Skolnick - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Gil Tanquilut - Jefferies LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Frank G. Morgan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Richard Borsch - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joshua R. Raskin - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Whit Mayo - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joanna Gajuk - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andrew Schenker - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ana A. Gupte - Leerink Partners LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dana Nentin - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

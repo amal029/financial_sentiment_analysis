@@ -1,0 +1,294 @@
+{
+ "date": "2015-11-05 08:00:00",
+ "Lilya Chernova": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Arkadiy Dobkin": {
+  "avg_sentiment_score": 0.2571428571428571,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7114285714285714,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   0.5,
+   0.9,
+   0.6,
+   0.4
+  ],
+  "title": "Co-Founder, Chairman, CEO & President"
+ },
+ "Anthony Conte": {
+  "avg_sentiment_score": 0.023333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.16818181818181818,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9045454545454544,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Kupferberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Elizabeth Chwalk": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter Christiansen": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Arvind Ramnani": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Veytsman": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Maggie Nolan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

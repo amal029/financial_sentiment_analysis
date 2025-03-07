@@ -1,0 +1,185 @@
+{
+ "date": "2016-02-01 17:00:00",
+ "Greg Klaben": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Dave King": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Ken Kannappan": {
+  "avg_sentiment_score": 0.184375,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.75,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.834375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "Pam Strayer": {
+  "avg_sentiment_score": 0.010714285714285716,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   -0.45,
+   0.35,
+   0.05,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8442857142857143,
+  "confidence": [
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Paul Coster": {
+  "avg_sentiment_score": 0.07857142857142858,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Greg Burns": {
+  "avg_sentiment_score": 0.042857142857142864,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Tavis McCourt": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.67,
+   1.0
+  ]
+ },
+ "Jim Fitzgerald": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ }
+}

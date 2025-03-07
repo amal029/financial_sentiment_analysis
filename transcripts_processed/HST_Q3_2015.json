@@ -1,0 +1,252 @@
+{
+ "date": "2015-10-29 09:00:00",
+ "Gee Lingberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "A - Edward Walter": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gregory Larson": {
+  "avg_sentiment_score": 0.44999999999999996,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   0.55,
+   0.6
+  ],
+  "avg_confidence": 0.8133333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Anthony Powell": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Edward Walter": {
+  "avg_sentiment_score": 0.21875,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0,
+   -0.15,
+   0.15,
+   -0.35,
+   0.0,
+   0.45,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   0.5,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Smedes Rose": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Harry Curtis": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Ryan Meliker": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7075,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Rich Hightower": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven Kent": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Greff": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Woronka": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Donnelly": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7366666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.67,
+   1.0
+  ]
+ }
+}

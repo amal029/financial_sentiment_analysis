@@ -1,0 +1,355 @@
+{
+ "date": "2012-04-20 08:30:00",
+ "Trevor A. Schauenberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jeffrey R. Immelt": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   0.05,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   -0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.792,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.8,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman and Chief Executive Officer"
+ },
+ "Keith S. Sherin": {
+  "avg_sentiment_score": 0.31447368421052635,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.15,
+   -1.0,
+   -0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.743421052631579,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Scott R. Davis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Stephen Tusa - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.8,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.13125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Julian Mitchell - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Nigel Coe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Terry Darling - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.012499999999999997,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.5,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Shannon O'Callaghan - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Feldman - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Brian K. Langenberg - Langenberg & Company, LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

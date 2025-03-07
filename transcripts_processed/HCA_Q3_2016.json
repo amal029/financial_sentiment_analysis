@@ -1,0 +1,350 @@
+{
+ "date": "2016-10-27 10:00:00",
+ "Victor L. Campbell - HCA Holdings, Inc.": {
+  "avg_sentiment_score": 0.16375,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9115,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.64,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "R. Milton Johnson - HCA Holdings, Inc.": {
+  "avg_sentiment_score": 0.3416666666666666,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "William B. Rutherford - HCA Holdings, Inc.": {
+  "avg_sentiment_score": 0.42500000000000004,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Samuel N. Hazen - HCA Holdings, Inc.": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Sheryl R. Skolnick - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Mark Fischbeck - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joshua Raskin - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Newshel - Evercore Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   1.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.49000000000000005,
+  "confidence": [
+   0.67,
+   0.4,
+   0.4
+  ]
+ },
+ "Ralph Giacobbe - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Fidel - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "A. J. Rice - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Justin Lake - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Frank Morgan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Brian G. Tanquilut - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Borsch - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Whit Mayo - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ana A. Gupte - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Gary P. Taylor - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lance Arthur Wilkes - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ }
+}

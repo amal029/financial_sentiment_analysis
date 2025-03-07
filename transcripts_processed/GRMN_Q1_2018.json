@@ -1,0 +1,281 @@
+{
+ "date": "2018-05-02 10:30:00",
+ "Teri Seck - Garmin Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Clifton A. Pemble - Garmin Ltd.": {
+  "avg_sentiment_score": 0.21323529411764705,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   -0.35,
+   0.05,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8529411764705882,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Douglas G. Boessen - Garmin Ltd.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Nikolay Todorov - Longbow Research LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Doug Clark - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Richard Valera - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Yuuji Anderson - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brad Erickson - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Ben J. Bollin - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8116666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Charlie Lowell Anderson - Dougherty & Co. LLC": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Kristine Tan Liwag - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Paul J. Chung - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "William V. Power, CFA - Robert W. Baird & Co., Inc": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ivan Feinseth - Tigress Financial Partners LLC": {
+  "avg_sentiment_score": 0.8833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ }
+}

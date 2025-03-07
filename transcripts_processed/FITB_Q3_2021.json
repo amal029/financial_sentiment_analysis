@@ -1,0 +1,247 @@
+{
+ "date": "2021-10-19 09:00:00",
+ "Chris Doll": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Greg Carmichael": {
+  "avg_sentiment_score": 0.48888888888888893,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "James Leonard": {
+  "avg_sentiment_score": 0.29615384615384616,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   -0.15,
+   0.55,
+   0.45,
+   0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.45,
+   -0.45,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7730769230769231,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0
+  ]
+ },
+ "Timothy Spence": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "CEO, President & Chairman of the Board"
+ },
+ "Peter Winter": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Richard Stein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Usdin ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Matt O\u2019Connor": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Konrad": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "A - Greg Carmichael": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

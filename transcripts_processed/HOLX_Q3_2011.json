@@ -1,0 +1,277 @@
+{
+ "date": "2011-08-01 17:00:00",
+ "Deborah Gordon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert Cascella": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.45,
+   0.6,
+   -0.15,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.35,
+   0.05,
+   -0.15,
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.7625000000000001,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Glenn Muir": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "David Turkaly - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Isaac Ro - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Harding": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Senior Vice President of Corporate Strategy"
+ },
+ "William Quirk - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Peter Soltani": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Senior Vice President and General Manager of Breast Health"
+ },
+ "William Carlile": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Kouchoukos - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Williamson": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Bill Bonello - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Newitter - Leerink Swann LLC": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Jayson Bedford - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tycho Peterson - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.008333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Bhalla - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Anthony Petrone - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

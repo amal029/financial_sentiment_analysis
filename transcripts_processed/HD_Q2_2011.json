@@ -1,0 +1,350 @@
+{
+ "date": "2011-08-16 09:00:00",
+ "Diane Dayhoff": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Francis Blake": {
+  "avg_sentiment_score": 0.2631578947368421,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8315789473684211,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Craig Menear": {
+  "avg_sentiment_score": 0.4277777777777778,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Tom\u00e9": {
+  "avg_sentiment_score": 0.46071428571428574,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.35,
+   1.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Holifield": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Simeon Gutman - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gary Balter - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan Rifkin": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Fassler - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Michael Lasser - UBS Investment Bank": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Deborah Weinswig - Citigroup Inc": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Marvin Ellison": {
+  "avg_sentiment_score": 0.6599999999999999,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice President of U S Stores"
+ },
+ "Greg Melich - ISI Group Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.92,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68,
+   1.0
+  ]
+ },
+ "Budd Bugatch - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Laura Champine - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill - Zelman & Associates": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Feldman - Telsey Advisory Group": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Baker - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Schick - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

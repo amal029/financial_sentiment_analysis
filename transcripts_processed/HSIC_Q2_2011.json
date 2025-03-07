@@ -1,0 +1,185 @@
+{
+ "date": "2011-08-02 10:00:00",
+ "Susan Vassallo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stanley Bergman": {
+  "avg_sentiment_score": 0.4928571428571429,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.05,
+   0.45,
+   0.15,
+   0.15,
+   0.55,
+   0.05,
+   1.0,
+   0.45,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7107142857142856,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "S. Paladino": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.45,
+   0.65,
+   -0.15,
+   0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.735,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Larry Marsh - Lehman Brothers": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Garrett Chase - Barclays Capital": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Glen Santangelo - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Jones - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Kreger - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Albert Rice - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Valiquette - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Jeffrey Johnson - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Robert Willoughby": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ }
+}

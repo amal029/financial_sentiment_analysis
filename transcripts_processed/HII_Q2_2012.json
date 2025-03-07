@@ -1,0 +1,245 @@
+{
+ "date": "2012-08-08 09:00:00",
+ "Andy Green": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Petters": {
+  "avg_sentiment_score": 0.1590909090909091,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.55,
+   -0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.35,
+   0.65,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   -0.45,
+   -0.45,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8204545454545454,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Executive Vice Chairman of the Board"
+ },
+ "Barb Niland": {
+  "avg_sentiment_score": 0.015384615384615384,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8423076923076922,
+  "confidence": [
+   0.6,
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Corporate Vice President of Business Management"
+ },
+ "Sam Pearlstein \u2013 Wells Fargo": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Spingarn \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Doug Harned \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "George Shapiro \u2013 Shapiro Research": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Pete Skibitski \u2013 Drexel Hamilton": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "John \u2013 Citi": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Myles Walton \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6571428571428571,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.0,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Brian Ruttenbur \u2013 CRT Capital": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mayur Manmohansingh \u2013 Barclays": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,388 @@
+{
+ "date": "2017-04-18 09:30:00",
+ "Dane Holmes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Martin Chavez": {
+  "avg_sentiment_score": 0.1330188679245283,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.45,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8569811320754718,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Harvey Schwartz": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "President and Co-Chief Operating Officer"
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christian Bolu": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Carrier": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Matt O\u2019Connor": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.84625,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Guy Moszkowski": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Jim Mitchell": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Chubak": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Wasserstrom ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Devin Ryan": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Al Alevizakos": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.5,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Kleinhanzl": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Martin Chavez ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

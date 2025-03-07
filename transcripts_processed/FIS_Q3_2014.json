@@ -1,0 +1,196 @@
+{
+ "date": "2014-10-30 08:30:00",
+ "Peter Gunnlaugsson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Frank R. Martire": {
+  "avg_sentiment_score": 0.8214285714285714,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Gary A. Norcross": {
+  "avg_sentiment_score": 0.5882352941176471,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.75,
+   0.45,
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.65,
+   0.55,
+   0.85,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7705882352941176,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "James W. Woodall": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.35,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "David J. Koning - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "David Togut - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Brett Huff - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ashish Sabadra - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.5750000000000001,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5916666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.6
+  ]
+ },
+ "Ramsey El-Assal - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

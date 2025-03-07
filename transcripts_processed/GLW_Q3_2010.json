@@ -1,0 +1,232 @@
+{
+ "date": "2010-11-01 08:30:00",
+ "Kenneth Sofio": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.56,
+  "confidence": [
+   0.6,
+   0.68,
+   0.4
+  ]
+ },
+ "James Flaws": {
+  "avg_sentiment_score": 0.1267857142857143,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.45,
+   0.65,
+   0.55,
+   -0.45,
+   0.0,
+   0.15,
+   -0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.75,
+   0.05,
+   -0.45,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   -0.45,
+   0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Vice Chairman, Chief Financial Officer, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Mark Sue - RBC Capital Markets Corporation": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "Rod Hall - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Brian White - Ticonderoga Securities LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Christopher Muse - Barclays Capital": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Nikos Theodosopoulos - UBS Investment Bank": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jim Suva - Citigroup Inc": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Fox - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Carter Shoop - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Yair Reiner - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vijay Rakesh - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George Notter - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

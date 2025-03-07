@@ -1,0 +1,370 @@
+{
+ "date": "2012-07-26 16:30:00",
+ "Michelle Spolver": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Ken Goldman": {
+  "avg_sentiment_score": 0.2984375,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7703125,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.68,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Principal Accounting Officer and Vice President"
+ },
+ "Ken Xie": {
+  "avg_sentiment_score": 0.41730769230769227,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   0.45,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8788461538461539,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Founder, President, CTO & Director"
+ },
+ "Jonathan Ho \u2013 William Blair": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Erik Suppiger \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Lauren Choi - JPMorgan": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Weiss \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Goldman": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.6
+  ]
+ },
+ "Brent Thill \u2013 UBS": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jayson Nolan - Robert Baird": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Jonathan Ruykhaver \u2013 Morgan Keegan": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Sherlund \u2013 Nomura": {
+  "avg_sentiment_score": -0.08571428571428572,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Freed \u2013 Wunderlich Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tal Liani \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Rohit Chopra \u2013 Wedbush Securities": {
+  "avg_sentiment_score": 0.11249999999999999,
+  "sentiment_score": [
+   -0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Principal Accounting Officer, Vice President and Worldwide Corporate Controller"
+ },
+ "Dan Cummins \u2013 Think Equity": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ }
+}

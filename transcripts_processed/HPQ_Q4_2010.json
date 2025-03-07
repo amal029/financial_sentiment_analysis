@@ -1,0 +1,209 @@
+{
+ "date": "2010-05-09 17:00:00",
+ "Greg Klaben": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Ken Kannappan": {
+  "avg_sentiment_score": 0.2785714285714286,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8119047619047619,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Barbara Scherer": {
+  "avg_sentiment_score": 0.240625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   -0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.821875,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Reik Read \u2013 Robert W. Baird & Company, Inc.": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "John Bright \u2013 Avondale Partners": {
+  "avg_sentiment_score": 0.315,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.883,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Mary \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   0.68,
+   1.0
+  ]
+ },
+ "Tavis McCourt \u2013 Morgan Keegan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Sanjit Singh \u2013 Wedbush Morgan Securities, Inc.": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Sanjit Singh, Wedbush Morgan Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

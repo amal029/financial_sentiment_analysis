@@ -1,0 +1,280 @@
+{
+ "date": "2015-11-04 16:30:00",
+ "Michael J. Watts - Hologic, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Stephen P. MacMillan - Hologic, Inc.": {
+  "avg_sentiment_score": 0.37407407407407406,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8248148148148148,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Robert W. McMahon - Hologic, Inc.": {
+  "avg_sentiment_score": 0.33666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8266666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.85,
+   0.6,
+   0.8,
+   0.75,
+   0.4,
+   0.8,
+   1.0
+  ]
+ },
+ "Vijay Kumar - Evercore Group LLC": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Joel Harrison Kaufman - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Groberg - UBS Securities LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.85
+  ]
+ },
+ "Doug Schenkel - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.67,
+   0.85
+  ]
+ },
+ "David R. Lewis - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Tycho W. Peterson - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Jack Meehan - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Laura Sand - Piper Jaffray & Company": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Brian D. Weinstein - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jayson T. Bedford - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Massaro - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8
+  ]
+ },
+ "Jon Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

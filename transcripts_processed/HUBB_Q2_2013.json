@@ -1,0 +1,163 @@
+{
+ "date": "2013-07-18 10:00:00",
+ "James Farrell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "David G. Nord": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   -0.45,
+   -0.45,
+   0.15,
+   0.15,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "William R. Sperry": {
+  "avg_sentiment_score": 0.3384615384615385,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7384615384615384,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Christopher Glynn - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Michael Kwas - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Ryan Edelman - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brent Thielman - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Mike Wood - Macquarie Research": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Noelle C. Dilts - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

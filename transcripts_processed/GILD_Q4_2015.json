@@ -1,0 +1,269 @@
+{
+ "date": "2016-02-02 16:30:00",
+ "Patrick O'Brien - Vice President, Investor Relations": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "John C. Martin - Chairman and Chief Executive Officer": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "John F. Milligan - President and Chief Operating Officer": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul R. Carter - Executive Vice President, Commercial Operations": {
+  "avg_sentiment_score": 0.4791666666666667,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Robin L. Washington - Executive Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Carter Gould - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Volodymyr Nikolenko - Evercore ISI": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.69
+  ]
+ },
+ "Norbert W. Bischofberger - Executive Vice President, Research and Development and Chief Scientific Officer": {
+  "avg_sentiment_score": 0.38571428571428573,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.67,
+   0.75
+  ]
+ },
+ "Matt M. Roden - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Yee - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew K. Harrison - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Cory W. Kasimov - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.85,
+   0.67
+  ]
+ },
+ "Phil Nadeau - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ying Huang - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alethia Young - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.85,
+   0.68
+  ]
+ },
+ "Brian P. Skorney - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Terence C. Flynn - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ }
+}

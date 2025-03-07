@@ -1,0 +1,207 @@
+{
+ "date": "2010-08-02 10:00:00",
+ "Susan Vassallo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stanley Bergman": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.35,
+   0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.75
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Steven Paladino": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   1.0,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Jones - UBS": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Steven Valiquette - UBS Investment Bank": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Albert Rice - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "John Kreger - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Willoughby": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Derek Leckow - Barrington Research Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Lawrence Marsh - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.8,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Close - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Johnson - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ }
+}

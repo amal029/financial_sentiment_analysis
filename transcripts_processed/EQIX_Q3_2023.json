@@ -1,0 +1,163 @@
+{
+ "date": "2023-10-25 17:30:00",
+ "Chip Newcom": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Meyers": {
+  "avg_sentiment_score": 0.5107142857142858,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.05,
+   0.45,
+   0.05,
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Keith Taylor": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Matt Niknam": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.75
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Frank Louthan": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jon Atkin": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Luebchow": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Nick Del Deo": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

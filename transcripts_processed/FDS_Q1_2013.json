@@ -1,0 +1,209 @@
+{
+ "date": "2012-12-18 11:00:00",
+ "Rachel R. Stern": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Peter G. Walsh": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.7357142857142858,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Vice President"
+ },
+ "Suzanne E. Stein - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael D. Frankenfield": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Vice Chairman of Sales"
+ },
+ "Philip A. Hadley": {
+  "avg_sentiment_score": 0.18666666666666668,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.87,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter J. Heckmann - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Stephen Sheldon": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Peter P. Appert - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Maurizio Nicolelli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Shlomo H. Rosenbaum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Bethany Caster": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

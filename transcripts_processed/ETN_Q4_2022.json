@@ -1,0 +1,263 @@
+{
+ "date": "2023-02-08 11:00:00",
+ "Yan Jin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Arnold": {
+  "avg_sentiment_score": 0.402,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   -0.45,
+   0.55,
+   -0.15,
+   0.05,
+   -0.15,
+   0.65,
+   -0.15,
+   0.0,
+   0.65,
+   0.85,
+   -0.35,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.758,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.0,
+   0.85,
+   0.85,
+   0.8,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Tom Okray": {
+  "avg_sentiment_score": 0.42608695652173917,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.85,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.45,
+   -1.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7956521739130435,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Pokrzywinski": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Andrew Obin": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Stephen Volkmann": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jeffrey Sprague": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Christopher Snyder": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Brett Linzey": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

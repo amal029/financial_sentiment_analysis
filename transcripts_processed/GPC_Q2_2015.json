@@ -1,0 +1,294 @@
+{
+ "date": "2015-07-20 11:00:00",
+ "Sid Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.20972222222222223,
+  "sentiment_score": [
+   -1.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   0.7,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8608333333333333,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.69,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Paul Donahue": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Yancey": {
+  "avg_sentiment_score": 0.09375,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.865625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Advisor"
+ },
+ "Greg Melich": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.016666666666666663,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Mark Becks": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Elizabeth Suzuki": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Brian Sponheimer": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   0.6
+  ]
+ }
+}

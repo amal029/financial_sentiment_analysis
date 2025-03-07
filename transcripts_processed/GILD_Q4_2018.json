@@ -1,0 +1,248 @@
+{
+ "date": "2019-02-04 16:30:00",
+ "Sung Lee": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Robin Washington": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.15,
+   0.15,
+   0.45,
+   0.75,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Laura Hamill": {
+  "avg_sentiment_score": 0.5625,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.55,
+   0.85,
+   0.45,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "nan"
+ },
+ "John McHutchison": {
+  "avg_sentiment_score": 0.46111111111111114,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.85,
+   0.15,
+   0.45,
+   0.0,
+   1.0,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Michael Yee": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gregg Alton": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.75
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85
+  ]
+ },
+ "Brian Abrahams": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Geoffrey Porges": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Alethia Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cory Kasimov": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Phil Nadeau": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Salim Syed": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ying Huang": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Carter Gould": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

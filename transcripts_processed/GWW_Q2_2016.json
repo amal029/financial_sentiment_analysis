@@ -1,0 +1,23 @@
+{
+ "date": "2016-07-19 07:30:00",
+ "Laura D. Brown - Senior Vice President-Communications & Investor Relations": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "William D. Chapman - Senior Director-Investor Relations": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

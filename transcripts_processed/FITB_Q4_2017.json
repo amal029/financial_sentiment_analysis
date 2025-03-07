@@ -1,0 +1,190 @@
+{
+ "date": "2018-01-23 09:00:00",
+ "Sameer Gokhale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Greg Carmichael": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9178571428571428,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Tayfun Tuzun": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Jamie Leonard": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.95,
+   0.6,
+   0.75
+  ]
+ },
+ "Frank Forrest": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP & Special Advisor to the Chief Executive Officer"
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.4,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher Marinac": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "date": "2021-04-28 17:00:00",
+ "Lynn Antipas Tyson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Jim Farley": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.85,
+   0.45,
+   0.15,
+   0.85,
+   0.45,
+   0.45,
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.75
+  ]
+ },
+ "John Lawler": {
+  "avg_sentiment_score": 0.66875,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.85,
+   0.65,
+   0.45,
+   0.65,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85
+  ],
+  "title": "VP & CFO"
+ },
+ "Rod Lache": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Murphy": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Marion Harris": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Colin Langan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Spak": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Brinkman": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Emmanuel Rosner": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

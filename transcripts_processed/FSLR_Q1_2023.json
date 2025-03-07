@@ -1,0 +1,123 @@
+{
+ "date": "2023-04-27 16:30:00",
+ "Richard Romero": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Mark Widmar": {
+  "avg_sentiment_score": 0.6357142857142858,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.45,
+   0.45,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Alex Bradley": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.3,
+   0.05
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Philip Shen": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kashy Harrison": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Maheep Mandloi": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Lee": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Julien Dumoulin-Smith": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Benjamin Kallo": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Colin Rusch": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

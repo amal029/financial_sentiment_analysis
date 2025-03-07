@@ -1,0 +1,262 @@
+{
+ "date": "2013-10-21 08:30:00",
+ "Debbie Hancock": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Brian D. Goldner": {
+  "avg_sentiment_score": 0.49230769230769234,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   -1.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.55,
+   0.45,
+   0.65,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.7673076923076922,
+  "confidence": [
+   0.85,
+   0.8,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Deborah M. Thomas": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Stephanie S. Wissink - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jaime M. Katz - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Timothy A. Conder - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael A. Swartz - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sean P. McGowan - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.65,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Andrew E. Crum - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory R. Badishkanian - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ivan Holman - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Gregory Hessler - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Felicia R. Hendrix - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Gerrick L. Johnson - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.21666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ }
+}

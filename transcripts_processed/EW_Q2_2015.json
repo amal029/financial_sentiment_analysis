@@ -1,0 +1,319 @@
+{
+ "date": "2015-07-28 17:00:00",
+ "David Erickson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4
+  ]
+ },
+ "Mike Mussallem": {
+  "avg_sentiment_score": 0.3954545454545455,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.45,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   -0.15,
+   0.65,
+   0.05,
+   0.55,
+   -0.15,
+   0.65,
+   1.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7484848484848484,
+  "confidence": [
+   0.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.68,
+   0.85,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.67,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Scott Ullem": {
+  "avg_sentiment_score": 0.23500000000000001,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.05,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   0.75
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Roman": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Brooks West": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Weinstein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Lewis": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Mills": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Raj Denhoy": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Danielle Antalffy": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Glenn Navarro": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Suraj Kalia": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Bob Hopkins": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Matt Taylor": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kristen Stewart": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

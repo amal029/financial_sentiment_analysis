@@ -1,0 +1,233 @@
+{
+ "date": "2019-02-14 09:00:00",
+ "York Ragen": {
+  "avg_sentiment_score": 0.047058823529411764,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8558823529411765,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CFO & Chief Accounting Officer"
+ },
+ "Aaron Jagdfeld": {
+  "avg_sentiment_score": 0.43928571428571433,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8821428571428571,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.776,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Charlie Brady": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Jeff Hammond": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Halloran": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Chip Moore": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Drab": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

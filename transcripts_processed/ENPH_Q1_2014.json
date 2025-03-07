@@ -1,0 +1,203 @@
+{
+ "date": "2014-05-06 16:30:00",
+ "Bob Dentzman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Nahi": {
+  "avg_sentiment_score": 0.7173076923076922,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.75,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.85,
+   0.55,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   1.0,
+   0.65,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8669230769230769,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.8,
+   0.9,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   0.9,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Kris Sennesael": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Vice President"
+ },
+ "Philip Shen \u2013 ROTH Capital Partners": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Krish Sankar \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jerimiah Booream-Phelps \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.62,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.764,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Timothy Radcliff \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.85,
+   0.4
+  ]
+ },
+ "Pavel Molchanov \u2013 Raymond James": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Paul Strigler \u2013 Esplanade Capital": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Colin Rusch \u2013 Northland Securities": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "date": "2014-01-22 10:00:00",
+ "Kathleen Quirk": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ],
+  "title": "President & Director"
+ },
+ "Richard Adkerson": {
+  "avg_sentiment_score": 0.1735294117647059,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   -0.15,
+   -0.15,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.85,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.05,
+   0.45,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.75,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8117647058823529,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jim Flores": {
+  "avg_sentiment_score": 0.17916666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8791666666666668,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of The Board of FCX Oil & Gas Inc and Chief Executive Officer of FCX Oil & Gas Inc."
+ },
+ "Jorge Beristain - Deutsche Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "David Gagliano - Barclays": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Sal Tharani - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Gambardella - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Bob Moffett": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Oscar Cabrera - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Curt Woodworth - Nomura": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.6,
+   0.8,
+   0.67,
+   1.0
+  ]
+ },
+ "Joe Allman - JPMorgan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Duarte - Omega": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joan Lappin - Gramercy Capital": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.35,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Tumazos - John Tumazos Very Independent Research": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Paretosh Misra - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Yu - Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Daniel Rohr - Morningstar": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "date": "2010-05-06 17:00:00",
+ "Helyn Corcos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Enrique Salem": {
+  "avg_sentiment_score": 0.7368421052631579,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.85,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.05,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6763157894736842,
+  "confidence": [
+   0.8,
+   0.75,
+   0.9,
+   0.85,
+   0.4,
+   0.4,
+   0.85,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Director"
+ },
+ "James Beer": {
+  "avg_sentiment_score": 0.20500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "John DiFucci - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75
+  ]
+ },
+ "Philip Winslow - Cr\u00e9dit Suisse First Boston, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Walter Pritchard - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kash Rangan - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Sarah Friar - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Todd Raker - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Perry Huang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Adam Holt - Morgan Stanley": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Neil Herman - Soleil Securities Group, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brad Zelnick - Macquarie Research": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Rob D. Owens": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

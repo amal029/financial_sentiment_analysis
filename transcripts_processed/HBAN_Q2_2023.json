@@ -1,0 +1,193 @@
+{
+ "date": "2023-07-21 09:00:00",
+ "Tim Sedabres": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Steve Steinour": {
+  "avg_sentiment_score": 0.5222222222222223,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Zach Wasserman": {
+  "avg_sentiment_score": 0.28,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   -0.15,
+   0.65,
+   -0.15,
+   0.55,
+   0.55,
+   0.75,
+   0.0,
+   0.15,
+   0.05,
+   0.45,
+   0.35,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "CFO & Senior EVP"
+ },
+ "Manan Gosalia": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Steven Alexopoulos": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ebrahim Poonawala": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jon Arfstrom": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Rich Pohle": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

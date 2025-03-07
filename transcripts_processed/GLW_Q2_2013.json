@@ -1,0 +1,300 @@
+{
+ "date": "2013-07-30 08:30:00",
+ "Ann Nicholson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "James Flaws ": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   -0.15,
+   0.15,
+   -0.45,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.85,
+   1.0,
+   0.0,
+   -0.45,
+   -1.0,
+   0.45
+  ],
+  "avg_confidence": 0.7442857142857143,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Vice Chairman, Chief Financial Officer, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Mark Sue - RBC Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Sue - RBC Capital Markets ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Wamsi Mohan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Wamsi Mohan - Bank of America Merrill Lynch ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rod Hall - JPMorgan ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrick Newton - Stifel Nicolaus ": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.85,
+   0.9,
+   1.0
+  ]
+ },
+ "Steven Fox - Cross Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steven Fox - Cross Research ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian White - Topeka ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Jim Suva - Citigroup ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Amitabh Passi - UBS ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Wolf - Barclays": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Wolf - Barclays ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley ": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Jagadish Iyer - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jagadish Iyer - Piper Jaffray ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

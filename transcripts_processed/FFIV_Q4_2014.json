@@ -1,0 +1,290 @@
+{
+ "date": "2014-10-29 16:30:00",
+ "John Eldridge": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Andy Reinland": {
+  "avg_sentiment_score": 0.28,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John McAdam": {
+  "avg_sentiment_score": 0.2318181818181818,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9363636363636364,
+  "confidence": [
+   0.95,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Ittai Kidron - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Manuel F. Rivelo": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6749999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.0,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Pierre Ferragu - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Karl D. Triebes": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Catharine Anne Trebnick - Dougherty & Company LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brent A. Bracelin - Pacific Crest Securities, Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Vlad Rom - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erik Suppiger - JMP Securities LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Edward Julian Eames": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Operations Officer and Executive Vice President"
+ },
+ "William H. Choi - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tal Liani - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Georgios Kyriakopoulos - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jess L. Lubert - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas David Feringa": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

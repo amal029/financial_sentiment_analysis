@@ -1,0 +1,298 @@
+{
+ "date": "2017-02-02 10:00:00",
+ "Donald H. Bullock - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Craig Arnold - Eaton Corp. Plc": {
+  "avg_sentiment_score": 0.10961538461538461,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   -1.0,
+   0.05,
+   0.05,
+   0.15,
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   -0.15,
+   0.05,
+   0.55,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7788461538461539,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.11000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard H. Fearon - Eaton Corp. Plc": {
+  "avg_sentiment_score": -0.005555555555555551,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.4,
+   0.5,
+   0.75,
+   0.75
+  ]
+ },
+ "Shannon O'Callaghan - UBS Securities LLC": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Raso - Evercore ISI Group": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Eli Lustgarten - Longbow Research LLC": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ann P. Duignan - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew M. Casey - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

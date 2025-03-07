@@ -1,0 +1,146 @@
+{
+ "date": "2014-11-06 17:00:00",
+ "Steven P. Weber": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "William J. Lansing": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.6916666666666668,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.5,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael J. Pung": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "William A. Warmington - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Technology Officer and Executive Vice President"
+ },
+ "Matthew Galinko - Sidoti & Company, Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Brett Huff - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.02,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Gregory Bardi - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.6
+  ]
+ }
+}

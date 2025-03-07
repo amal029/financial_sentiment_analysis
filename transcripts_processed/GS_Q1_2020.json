@@ -1,0 +1,213 @@
+{
+ "date": "2020-04-15 09:30:00",
+ "Heather Kennedy Miner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "David Solomon": {
+  "avg_sentiment_score": 0.2541666666666667,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8041666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Stephen Scherr": {
+  "avg_sentiment_score": 0.19473684210526318,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.65,
+   0.45,
+   0.05,
+   0.65,
+   0.15,
+   0.45,
+   -0.35,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7157894736842105,
+  "confidence": [
+   0.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.5,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Christian Bolu": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Michael Carrier": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Chubak": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kian Abouhossein": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Devin Ryan": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeremy Sigee": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

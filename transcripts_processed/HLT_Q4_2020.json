@@ -1,0 +1,253 @@
+{
+ "date": "2021-02-17 10:00:00",
+ "Jill Slattery": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Nassetta": {
+  "avg_sentiment_score": 0.2810344827586207,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8724137931034484,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kevin Jacobs": {
+  "avg_sentiment_score": 0.12142857142857143,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CFO & President of Global Development"
+ },
+ "Joe Greff": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Carlo Santarelli": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "David Katz": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Stephen Grambling": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Bill Crow": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Patrick Scholes": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Clarke": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Smedes Rose": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,320 @@
+{
+ "date": "2014-09-17 23:30:00",
+ "Mickey Foster": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Fred Smith": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Mike Glenn": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Vice President of Market Development & Corporate Communications, Co-Chief Executive Officer of Fedex Services and President of Fedex Services"
+ },
+ "Alan Graf": {
+  "avg_sentiment_score": 0.34545454545454546,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Rob Salmon \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Bronczek": {
+  "avg_sentiment_score": 0.71,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.9,
+   0.85,
+   0.9,
+   0.85
+  ],
+  "title": "President & COO"
+ },
+ "Ben Hartford \u2013 Robert W. Baird & Company, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Wetherbee \u2013 Citigroup": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Hoexter \u2013 BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Kelly Dougherty \u2013 Macquarie Capital": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Henry Maier": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Scott Schneeberger \u2013 Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Bill Greene \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Allison Landry \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Group \u2013 Wolfe Research": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Thomas Kim \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Brandon Oglenski \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeff Kauffman \u2013 Buckingham Research Group": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "David Vernon \u2013 Sanford C. Bernstein & Company, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bruce Chen \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Campbell \u2013 Thompson Davis & Company": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Schoonmaker \u2013 Morningstar": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Richards": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Rob Salmon \u2013 Deutsche Bank ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}
