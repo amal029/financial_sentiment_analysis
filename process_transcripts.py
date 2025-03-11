@@ -6,6 +6,14 @@ import re
 import transcripts_download as TD
 import pandas as pd
 
+# Example to remove tag from text with Regular Expressions
+# import re
+# Ollama response
+# response = response["message"]["content"]
+# Remove Think Tag from Text with Regular Expressions
+# cleaned_content = re.sub(r"<think>.*?</think>\n?", "", response,
+# flags=re.DOTALL)
+
 
 def get_sentiment(person, text):
     model = "seandearnaley/gemma-2-sentiment_analysis_with_reasoning:2b-f16"
