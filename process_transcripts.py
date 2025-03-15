@@ -55,7 +55,7 @@ def get_sentiment(person, text, model=None):
         mresponse.append(response['message']['content'])
     try:
         response = ''.join(mresponse)
-        print(response)
+        # print(response)
         # assert (False)
         res = json.loads(response)['sentiment']
         rc = json.loads(response)['confidence']
@@ -117,7 +117,7 @@ if __name__ == '__main__':
 
     sp500 = [x.strip() for x in list(pd.read_csv('sp500.csv')['Symbol'])]
     others = ['Executives', 'Operator', 'Analysts']
-    models = [# 'llama3.2',
+    models = [# 'llama3.2', 
               'deepseek-r1']
     for model in models:
         done_df = [x.strip()
