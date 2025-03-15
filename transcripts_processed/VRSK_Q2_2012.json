@@ -1,0 +1,294 @@
+{
+ "date": "2012-08-01 08:30:00",
+ "Eva Huston": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Frank Coyne": {
+  "avg_sentiment_score": 0.3275,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "Scott Stephenson": {
+  "avg_sentiment_score": 0.13571428571428573,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mark Anquillare": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "Kelly Flynn - Credit Suisse": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Kelly Flynn - Credit Suisse - Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Rayna Kumar - Evercore Partners": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Eric Boyer - Wells Fargo": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Warmington - Raymond James": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew Steinerman - JPMorgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Suzanne Stein - Morgan Stanley": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Manav Patnaik - Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James Friedman - SIG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jennifer Huang - UBS": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Cork - KBW": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Mchugh - William Blair": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "date": "2014-11-06 11:00:00",
+ "Mark Finkelstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Robert Strangfeld": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Mark B. Grier": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   1.0,
+   0.0,
+   0.9,
+   0.75
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert Michael Falzon": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.05,
+   1.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Nigel P. Dally - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Stephen P. Pelletier": {
+  "avg_sentiment_score": 0.1264705882352941,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8911764705882353,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & COO of U.S. Businesses"
+ },
+ "Thomas G. Gallagher - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Erik James Bass - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John M. Nadel - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Jamminder S. Bhullar - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Eric N. Berg - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven D. Schwartz - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ }
+}

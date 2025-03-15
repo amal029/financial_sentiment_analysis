@@ -1,0 +1,319 @@
+{
+ "date": "2013-01-16 10:30:00",
+ "Donald J. MacLeod": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Ren\u00e9 F. Jones": {
+  "avg_sentiment_score": 0.07596153846153847,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.15,
+   0.15,
+   -0.35,
+   0.15,
+   0.55,
+   0.05,
+   0.15,
+   0.45,
+   -0.45,
+   0.15,
+   0.05,
+   0.15,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.15,
+   0.55,
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   -0.15,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin J. St. Pierre": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Foran": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Bob Ramsey": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.5,
+   1.0
+  ]
+ },
+ "Erika  Penala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Ken A. Zerbe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin": {
+  "avg_sentiment_score": -0.019999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Todd L. Hagerman": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Brian Klock": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Gerard S. Cassidy": {
+  "avg_sentiment_score": -0.013636363636363636,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8863636363636364,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Collyn Bement Gilbert": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Stephen Mead": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

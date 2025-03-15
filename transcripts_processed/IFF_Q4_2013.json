@@ -1,0 +1,200 @@
+{
+ "date": "2014-02-13 10:00:00",
+ "Shelley Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Douglas D. Tough": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.15,
+   0.55,
+   0.55,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7357142857142858,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Nicolas Mirzayantz": {
+  "avg_sentiment_score": 0.8375,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.6,
+   0.9,
+   0.9,
+   0.85
+  ],
+  "title": "President of Nourish"
+ },
+ "Hernan Vaisman": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Group President of Flavors"
+ },
+ "Kevin C. Berryman": {
+  "avg_sentiment_score": 0.1846153846153846,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.8307692307692308,
+  "confidence": [
+   0.8,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Mark S. Astrachan - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Lauren R. Lieberman - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Rohini Nair - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Jonathan P. Feeney - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Edward H. Yang - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ }
+}

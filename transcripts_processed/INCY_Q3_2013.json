@@ -1,0 +1,271 @@
+{
+ "date": "2013-10-31 08:30:00",
+ "Pamela M. Murphy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Paul A. Friedman": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jim Daly": {
+  "avg_sentiment_score": 0.48125,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.85,
+   0.55,
+   0.0,
+   0.85,
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.95,
+   0.9,
+   0.75,
+   0.9
+  ]
+ },
+ "Richard S. Levy": {
+  "avg_sentiment_score": 0.4052631578947368,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.55,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   1.0,
+   0.45,
+   0.85,
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7278947368421053,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.68,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   0.6,
+   0.8,
+   0.75
+  ]
+ },
+ "David C. Hastings": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.6,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6
+  ]
+ },
+ "Thomas Wei \u2013 Jefferies & Co.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Salveen Richter \u2013 Canaccord Genuity": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rachel McMinn \u2013 Bank of America": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Matthew Roden \u2013 UBS": {
+  "avg_sentiment_score": 0.6599999999999999,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.68,
+   0.67
+  ]
+ },
+ "Brian Abrahams \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Navdeep Singh \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ying Huang \u2013 Barclays": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Lowe \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Schmidt \u2013 Cowen & Company": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.1,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Friedman \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Skip Klein - Gauss Capital Advisors": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.555,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "date": "2012-02-28 09:00:00",
+ "Steve Filton": {
+  "avg_sentiment_score": 0.255,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.45,
+   0.45,
+   0.45,
+   0.15,
+   0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   -0.15,
+   -0.55,
+   0.65,
+   1.0,
+   0.45,
+   0.45,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7523333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Executive VP, CFO & Secretary"
+ },
+ "A.J. Rice - Susquehanna Financial Group": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alan Miller": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.65,
+   0.65,
+   -0.15,
+   0.55,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Adam Feinstein - Barclays Capital": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallucci - Lazard Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ralph Giacobbe - Credit Suisse First Boston": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Justin Lake - UBS Securities": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Gary Lieberman - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Kevin Fishbeck - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Darren Lehrich - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8
+  ]
+ },
+ "Christine Arnold - Cowen & Co.": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4
+  ]
+ },
+ "Whit Mayo - Robert W. Baird": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Kimberly Purvis - Cross Current Research": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ }
+}

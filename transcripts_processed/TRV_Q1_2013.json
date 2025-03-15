@@ -1,0 +1,304 @@
+{
+ "date": "2013-04-23 09:30:00",
+ "Gabriella Nawi": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay S. Fishman": {
+  "avg_sentiment_score": 0.18043478260869567,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   -0.45,
+   0.05,
+   -0.35,
+   0.0,
+   -0.45,
+   0.15,
+   0.65,
+   1.0,
+   -0.15,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7630434782608696,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.5,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Chairman, Chairman of Executive Committee and Member of Operating Committee"
+ },
+ "Jay S. Benet": {
+  "avg_sentiment_score": 0.19285714285714284,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Vice Chairman and Chief Financial Officer"
+ },
+ "Brian W. MacLean": {
+  "avg_sentiment_score": 0.10588235294117647,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.65,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8058823529411764,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Michael Nannizzi - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "Josh Stirling - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Charles J. Sebaski - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Amit Kumar - Macquarie Research": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Zaremski - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Gregory Locraft - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Larry Greenberg - Langen McAlenney": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Doreen Spadorcia": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alan D. Schnitzer": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Vincent M. DeAugustino - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Meredith - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

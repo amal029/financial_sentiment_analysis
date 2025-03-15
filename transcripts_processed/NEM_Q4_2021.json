@@ -1,0 +1,175 @@
+{
+ "date": "2022-02-24 10:00:00",
+ "Tom Palmer": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.35,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Rob Atkinson ": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.9
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Nancy Buese ": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Fahad Tariq ": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tom Palmer ": {
+  "avg_sentiment_score": 0.39687500000000003,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.35,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Tanya Jakusconek ": {
+  "avg_sentiment_score": 0.042857142857142864,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jackie Przybylowski ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Cleve Rueckert ": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Cleve Rueckert": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Josephson ": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ }
+}

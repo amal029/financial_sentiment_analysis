@@ -1,0 +1,450 @@
+{
+ "date": "2011-10-25 11:00:00",
+ "Shelly J. Doran": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David E. Simon": {
+  "avg_sentiment_score": 0.2901960784313726,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.65,
+   1.0,
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.65,
+   0.75,
+   0.0,
+   0.05,
+   0.15,
+   0.85,
+   0.65,
+   -0.45,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8101960784313725,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.67,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Ross T. Nussbaum - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Steve Sakwa - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Stephen E. Sterrett": {
+  "avg_sentiment_score": 0.11071428571428572,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8535714285714285,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Senior Executive Vice President"
+ },
+ "Jonathan Habermann - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Richard S. Sokolov": {
+  "avg_sentiment_score": 0.6799999999999999,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.4,
+   0.9,
+   0.4,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Quentin Velleley - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Bilerman - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6125,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Ki Bin Kim - Macquarie Research": {
+  "avg_sentiment_score": -0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -1.0,
+   0.15
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6
+  ]
+ },
+ "Paul Morgan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Jeffrey Spector - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Craig R. Schmidt - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "James W. Sullivan - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Jeffrey J. Donnelly - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Alexander David Goldfarb - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Carol L. Kemple - Hilliard Lyons, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael W. Mueller - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Richard C. Moore - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Cedrik Lachance ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Benjamin Yang - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Omotayo T. Okusanya - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

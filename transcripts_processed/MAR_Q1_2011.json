@@ -1,0 +1,186 @@
+{
+ "date": "2011-04-21 10:00:00",
+ "Carl Berquist": {
+  "avg_sentiment_score": 0.2653846153846154,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7346153846153847,
+  "confidence": [
+   0.4,
+   0.8,
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Special Adviser"
+ },
+ "Arne Sorenson": {
+  "avg_sentiment_score": 0.16923076923076924,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   -1.0,
+   0.45,
+   0.45,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6423076923076922,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.5,
+   0.75,
+   0.6
+  ]
+ },
+ "Joseph Greff - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Laura Paugh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Steven Kent - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.4,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Janet Brashear - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Felicia Hendrix - Barclays Capital": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Shaun Kelley - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Robin Farley - UBS Investment Bank": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Donnelly - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

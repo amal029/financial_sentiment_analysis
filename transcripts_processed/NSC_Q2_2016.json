@@ -1,0 +1,435 @@
+{
+ "date": "2016-07-27 08:45:00",
+ "Katie U. Cook - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "James A. Squires - Chairman, President, and Chief Executive Officer": {
+  "avg_sentiment_score": 0.37222222222222223,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   0.55,
+   0.45,
+   0.15,
+   0.55,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.4,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Alan H. Shaw - Chief Marketing Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   -0.35,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7809523809523808,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael Joseph Wheeler - Executive Vice President and Chief Operating Officer": {
+  "avg_sentiment_score": 0.33125,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Marta R. Stewart - Chief Financial Officer & Executive Vice President Finance": {
+  "avg_sentiment_score": 0.1366666666666667,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President of Finance"
+ },
+ "Kenneth Scott Hoexter - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Wadewitz - UBS Securities LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ravi Shanker - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Allison M. Landry - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Wetherbee - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Bascome Majors - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Robert H. Salmon - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason H. Seidl - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "Scott H. Group - Wolfe Research LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Long - Stephens, Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brandon Oglenski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Brian P. Ossenbeck - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Schneeberger - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": -0.03333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Larkin - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "J. David Scott Vernon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Jeffrey A. Kauffman - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Walter Spracklin - RBC Dominion Securities, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ }
+}

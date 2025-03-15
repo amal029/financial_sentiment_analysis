@@ -1,0 +1,205 @@
+{
+ "date": "2012-11-06 10:00:00",
+ "Mark DeRussy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.8
+  ]
+ },
+ "Brendan T. Cavanagh": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey A. Stoops": {
+  "avg_sentiment_score": 0.34347826086956523,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.05,
+   0.65,
+   1.0,
+   0.15,
+   0.55,
+   -0.15,
+   -0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Sandeep Gupta - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Richard H. Prentiss - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Jonathan A. Schildkraut - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Jonathan Atkin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4
+  ]
+ },
+ "Simon Flannery - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brett Feldman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Richard Yong Choe - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "David W. Barden - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Kevin Smithen - Macquarie Research": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Colby Synesael - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

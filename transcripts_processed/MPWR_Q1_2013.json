@@ -1,0 +1,243 @@
+{
+ "date": "2013-04-29 17:00:00",
+ "Meera Rao": {
+  "avg_sentiment_score": 0.41304347826086957,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   1.0,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8086956521739131,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.4,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Patrick Wang - Evercore Partners": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.75,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael R. Hsing": {
+  "avg_sentiment_score": 0.38636363636363635,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.75,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.9,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Founder, Chairman, President & CEO"
+ },
+ "Tore Svanberg - Stifel Financial": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.9,
+   0.85,
+   0.6,
+   0.6
+  ]
+ },
+ "Vernon Essi - Needham and Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Smigie - Raymond James": {
+  "avg_sentiment_score": 0.2928571428571428,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Ross Seymore - Deutsche Bank": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Lena Zhang - Baylock RV": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gus Richard - Piper Jaffray": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "date": "2013-07-24 16:45:00",
+ "Warren Kneeshaw": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.5,
+   0.6
+  ]
+ },
+ "Dr. Paul Jacobs": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Steven Mollenkopf": {
+  "avg_sentiment_score": 0.5428571428571429,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   -0.15,
+   0.6,
+   0.55,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75
+  ],
+  "title": "Special Advisor"
+ },
+ "George Davis": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Simona Jankowski - Goldman Sachs": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Mollenkopf": {
+  "avg_sentiment_score": 0.53,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Matt Hoffman - Cowen & Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steve Mollenkopf ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tavis McCourt - Raymond James": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Derek Aberle": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "President"
+ },
+ "Tim Long - BMO Capital": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mike Walkley - Canaccord Genuity": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Modoff - Deutsche Bank": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.5
+  ]
+ },
+ "Stacy Rasgon - Sanford Bernstein": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kulbinder Garcha - Credit Suisse": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark McKechnie - Evercore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Romit Shah - Nomura": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rod Hall - JPMorgan Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "James Faucette - Pacific Crest": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

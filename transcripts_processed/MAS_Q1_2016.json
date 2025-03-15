@@ -1,0 +1,319 @@
+{
+ "date": "2016-04-26 08:00:00",
+ "Irene Tasi - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Keith J. Allman - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.3931034482758621,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.6,
+   -0.15,
+   0.65,
+   0.15,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8551724137931035,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.65,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.5,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "John G. Sznewajs - Chief Financial Officer, Treasurer & VP": {
+  "avg_sentiment_score": 0.16458333333333333,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   -0.35,
+   -1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "VP & CFO"
+ },
+ "Samuel H. Eisner - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Jason Rehaut - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen S. Kim - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Dennis Patrick McGill - Zelman Partners LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Robert Wetenhall - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Susan M. Maklari - UBS Securities LLC": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   0.67,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "George Leon Staphos - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Michael G. Dahl - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.75,
+   0.8,
+   0.67
+  ]
+ },
+ "Josh K. Chan - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Wood - Macquarie Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Hughes - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Philip Ng - Jefferies LLC": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

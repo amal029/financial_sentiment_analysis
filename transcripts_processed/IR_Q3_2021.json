@@ -1,0 +1,269 @@
+{
+ "date": "2021-11-04 08:00:00",
+ "Chris Miorin ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Vicente Reynal ": {
+  "avg_sentiment_score": 0.5479999999999999,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.75,
+   0.65,
+   0.65,
+   0.75,
+   1.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8708,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   0.6
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Vik Kini ": {
+  "avg_sentiment_score": 0.4235294117647059,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.85,
+   0.15,
+   0.0,
+   1.0,
+   0.85,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.8658823529411765,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.67,
+   0.9,
+   0.85,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Mike Halloran ": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Joe Ritchie ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.65,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe ": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Sprague ": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Julian Mitchell ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andy Kaplowitz": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rob Wertheimer ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nicole Deblase": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Markus Mittermaier ": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

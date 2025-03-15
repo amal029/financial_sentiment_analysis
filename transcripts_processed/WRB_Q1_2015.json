@@ -1,0 +1,261 @@
+{
+ "date": "2015-04-27 17:00:00",
+ "William Berkley": {
+  "avg_sentiment_score": 0.046774193548387105,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8458064516129032,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Rob Berkley": {
+  "avg_sentiment_score": 0.23500000000000001,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Gene Ballard": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8649999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.69,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joshua Shanker": {
+  "avg_sentiment_score": 0.1142857142857143,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Kai Pan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent DeAugustino": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Cohen": {
+  "avg_sentiment_score": 0.19375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.96875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Nannizzi": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ian Gutterman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.6,
+   0.0,
+   0.75,
+   1.0
+  ]
+ }
+}

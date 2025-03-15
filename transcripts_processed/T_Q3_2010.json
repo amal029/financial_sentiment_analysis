@@ -1,0 +1,151 @@
+{
+ "date": "2010-10-21 10:00:00",
+ "Brooks McCorcle": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Rick Lindner": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.15,
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.9,
+   0.85,
+   0.9
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Senior Executive Vice President"
+ },
+ "Ralph de la Vega": {
+  "avg_sentiment_score": 0.17727272727272728,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8363636363636363,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Vice Chairman, Chief Executive Officer of AT&T Business Solutions and Chief Executive Officer of AT&T International LLC"
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Armstrong": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.5,
+   0.6
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jonathan Chaplin": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Timothy Horan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

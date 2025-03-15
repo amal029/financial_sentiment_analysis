@@ -1,0 +1,298 @@
+{
+ "date": "2017-04-27 08:30:00",
+ "Daniel S. Glaser - Marsh & McLennan Cos., Inc.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8556410256410256,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mark Christopher McGivney - Marsh & McLennan Cos., Inc.": {
+  "avg_sentiment_score": 0.9,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.8,
+   0.9
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Elyse B. Greenspan - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Peter Zaffino - Marsh & McLennan Cos., Inc.": {
+  "avg_sentiment_score": 0.8333333333333334,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.9,
+   0.9,
+   0.4,
+   0.4,
+   0.85,
+   0.85
+  ]
+ },
+ "Larry Greenberg - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Julio A. Portalatin - Mercer Investment Management, Inc.": {
+  "avg_sentiment_score": 0.47000000000000003,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.55,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "CEO of Mercer Consulting Group Inc and  President of Mercer of Mercer Consulting Group Inc"
+ },
+ "Ryan J. Tunis - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Kai Pan - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Scott McDonald - Oliver Wyman Group": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "David Anthony Styblo - Jefferies LLC": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Sarah E. DeWitt - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Meredith - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Joshua D. Shanker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Jon Paul Newsome - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Nicholas Mezick - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "date": "2017-07-20 14:00:00",
+ "John Ferriola": {
+  "avg_sentiment_score": 0.40238095238095245,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   -0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.35,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Jim Frias": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.0,
+   0.45,
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & Special Advisor to the CEO"
+ },
+ "Novid Rassouli": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Joe Stratman": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Chief Digital Officer"
+ },
+ "Jorge Beristain": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Korn": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Rosenfeld": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Dave Gagliano": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Francis": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Philip Gibbs": {
+  "avg_sentiment_score": 0.5916666666666667,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

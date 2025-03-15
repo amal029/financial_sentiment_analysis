@@ -1,0 +1,231 @@
+{
+ "date": "2013-02-05 17:00:00",
+ "Pam Testani - Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Mike McFerran - Chief Operating Officer and Chief Financial Officer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Bill Sonneborn - Chief Executive Officer": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Pam Testani": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lee Cooperman - Omega Advisors": {
+  "avg_sentiment_score": 0.28846153846153844,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Bill Sonneborn": {
+  "avg_sentiment_score": 0.28095238095238095,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Mike McFerran": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.8,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Furtado - Jefferies": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Gabe Poggi - FBR": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jason Stewart - Compass Point": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Laws - Deutsche Bank": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jasper Burch - Macquarie": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "date": "2013-10-30 17:00:00",
+ "JoAnn DeGrande": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Howard Schultz": {
+  "avg_sentiment_score": 0.50625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.15,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   0.4
+  ],
+  "title": "Founder & Chairman Emeritus"
+ },
+ "John Culver": {
+  "avg_sentiment_score": 0.5416666666666666,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Non-Executive Advisor"
+ },
+ "Troy Alstead": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.8136363636363636,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.8,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Operations Officer"
+ },
+ "Sara Senatore - Sanford C. Bernstein & Co.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Cliff Burrows": {
+  "avg_sentiment_score": 0.5875,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.9
+  ],
+  "title": "Group President of Siren Retail"
+ },
+ "Jeffrey Bernstein - Barclays Capital": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Sharon Zackfia - William Blair": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Michael Kelter - Goldman Sachs": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Glass - Morgan Stanley": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Joe Buckley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jason West - Deutsche Bank": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Ivankoe - JPMorgan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Adam Brotman": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Brian Bittner - Oppenheimer Company": {
+  "avg_sentiment_score": -0.3625,
+  "sentiment_score": [
+   -0.45,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nicole Miller Regan - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

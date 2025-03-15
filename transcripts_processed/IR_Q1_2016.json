@@ -1,0 +1,259 @@
+{
+ "date": "2016-04-26 10:00:00",
+ "Janet Pfeffer - Vice President-Treasury & Investor Relations": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Michael W. Lamach - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   0.6,
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8821428571428571,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Susan K. Carter - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.21875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.75,
+   0.15,
+   0.0,
+   0.35,
+   0.45,
+   0.15,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Pokrzywinski - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Alfred Ritchie - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.52,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.764,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.818,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Charles Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey D. Hammond - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Eric Winoker - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ }
+}

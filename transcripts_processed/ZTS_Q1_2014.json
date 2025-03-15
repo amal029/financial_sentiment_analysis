@@ -1,0 +1,207 @@
+{
+ "date": "2014-05-06 08:30:00",
+ "John O\u2019Connor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Juan Ramon Alaix": {
+  "avg_sentiment_score": 0.44642857142857145,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.35,
+   0.45,
+   1.0,
+   0.55,
+   0.65,
+   1.0,
+   0.65,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7321428571428571,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Glenn David": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.68125,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "Jessica Fye \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Ellich \u2013 Piper Jaffray": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Redford \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Wesley Nurss \u2013 ISI Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Krieger \u2013 William Blair": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erin Wilson \u2013 Bank of America": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Chris Caponetti \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Louise Chin \u2013 Guggenheim": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Liav Abraham \u2013 Citi": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ariel Herman \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Krempa \u2013 Morningstar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

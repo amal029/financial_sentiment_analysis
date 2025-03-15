@@ -1,0 +1,201 @@
+{
+ "date": "2013-10-16 12:00:00",
+ "Beverly J. Fleming": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael G. O'Grady": {
+  "avg_sentiment_score": 0.26851851851851855,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.75,
+   -0.15,
+   0.65,
+   0.05,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   0.55,
+   0.45,
+   0.45,
+   0.05,
+   0.15,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.721111111111111,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.67
+  ]
+ },
+ "Luke Montgomery - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Howard Chen - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Lee - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Mayo - CLSA Limited, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Cynthia Mayer - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Marquardt - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.6,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

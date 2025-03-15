@@ -1,0 +1,343 @@
+{
+ "date": "2017-01-20 11:00:00",
+ "Dana Nolan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Grayson Hall": {
+  "avg_sentiment_score": 0.278,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.8440000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.5,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75
+  ]
+ },
+ "David Turner": {
+  "avg_sentiment_score": 0.3391304347826087,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.65,
+   0.55,
+   -0.35,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   -0.15,
+   0.45,
+   -0.15,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6826086956521739,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Matt Burnell": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Turner": {
+  "avg_sentiment_score": 0.33571428571428574,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.65,
+   0.85,
+   0.75,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Rose": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.1,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Geoffrey Elliott": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.3071428571428571,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.65
+  ]
+ },
+ "Rob Hansen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Marsh": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Barbara Godin": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Saul Martinez": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "A -Grayson Hall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

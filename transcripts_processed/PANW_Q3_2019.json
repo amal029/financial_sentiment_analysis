@@ -1,0 +1,295 @@
+{
+ "date": "2019-05-29 16:30:00",
+ "David Niederman": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Nikesh Arora": {
+  "avg_sentiment_score": 0.4357142857142857,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   -0.45,
+   0.45,
+   0.55,
+   0.05,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8023809523809524,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.6
+  ]
+ },
+ "Kathleen Bonanno": {
+  "avg_sentiment_score": 0.27187500000000003,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.828125,
+  "confidence": [
+   0.8,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "nan"
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Gur Talpaz": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Lee Klarich": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & Chief Product Officer"
+ },
+ "Walter Pritchard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Talanian": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Nowinski": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Karl Keirstead": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Rob Owens": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Saket Kalia": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Phil Winslow": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Turits": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John DiFucci": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Fatima Boolani": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Matt Hedberg": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ }
+}

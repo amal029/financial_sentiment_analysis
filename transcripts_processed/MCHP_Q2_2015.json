@@ -1,0 +1,256 @@
+{
+ "date": "2014-11-02 16:00:00",
+ "Eric Bjornholt": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.64375,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Ganesh Moorthy": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Steve Sanghi": {
+  "avg_sentiment_score": 0.12000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.15,
+   0.05,
+   1.0,
+   0.45,
+   -0.45,
+   0.65,
+   0.85,
+   0.05,
+   0.05,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.85,
+   -0.25,
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7993333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.68,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.65,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chair"
+ },
+ "Chris Caso \u2013 Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "JoAnne Feeney \u2013 ABR Investment Strategy": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "William Stein - SunTrust": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Hettenbach - Morgan Stanley": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Steve Sanghi ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Harsh Kumar - Stephens": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pitzer - Credit Suisse": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gilbert Alexander - Darfield Associates": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Kevin Cassidy - Stifel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Liwen Zhang - Blaylock Van": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Craig Ellis - B. Riley": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

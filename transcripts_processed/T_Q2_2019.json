@@ -1,0 +1,176 @@
+{
+ "date": "2019-07-24 08:30:00",
+ "Michael Viola": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Randall Stephenson": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8766666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "John Stephens": {
+  "avg_sentiment_score": 0.5111111111111111,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   -0.15,
+   0.55,
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.9
+  ]
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Philip Cusick": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael McCormack": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kannan Venkateshwar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Horan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

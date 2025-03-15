@@ -1,0 +1,193 @@
+{
+ "date": "2012-04-27 17:00:00",
+ "Edward A. Lang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Donald W. Slager": {
+  "avg_sentiment_score": 0.14761904761904762,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   -0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   -0.45,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Tod C. Holmes": {
+  "avg_sentiment_score": 0.011111111111111117,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   -0.15,
+   -0.15,
+   0.55,
+   -0.45,
+   0.0,
+   0.05,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.75
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Scott J. Levine": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Corey Greendale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Vance Edelson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael E. Hoffman": {
+  "avg_sentiment_score": -0.18333333333333335,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "William H. Fisher": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Albert Leo Kaschalk": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ }
+}

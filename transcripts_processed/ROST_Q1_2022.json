@@ -1,0 +1,304 @@
+{
+ "date": "2022-05-18 23:15:00",
+ "Barbara Rentler": {
+  "avg_sentiment_score": 0.2735294117647059,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   -0.35,
+   1.0,
+   -0.45,
+   1.0,
+   0.55,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7058823529411765,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Vice Chairman & CEO"
+ },
+ "Adam Orvos": {
+  "avg_sentiment_score": -0.012499999999999976,
+  "sentiment_score": [
+   -0.15,
+   -1.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Altschwager": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Hartshorn": {
+  "avg_sentiment_score": 0.02272727272727273,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   -0.15,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Group President, COO & Director"
+ },
+ "Lorraine Maikis": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Binetti": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Grom": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Irwin Boruchow": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simeon Siegel": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8783333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Adrienne Yih-Tennant": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Marni Shapiro": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Aneesha Sherman": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Laura Champine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mauricio Serna Vega": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Corey Tarlowe": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Hofkin": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

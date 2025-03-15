@@ -1,0 +1,166 @@
+{
+ "date": "2023-11-01 17:00:00",
+ "Matt Shimao ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jim Heppelmann ": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "CEO & Chairman of the Board"
+ },
+ "Neil Barua ": {
+  "avg_sentiment_score": 0.6062500000000001,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kristian Talvitie ": {
+  "avg_sentiment_score": 0.4642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Kyle Aberasturi": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Wong ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jason Celino ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Saket Kalia ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Andrew Obin ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steve Tusa ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jay Vleeschhouwer ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Blair Abernethy ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

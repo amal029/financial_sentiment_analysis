@@ -1,0 +1,318 @@
+{
+ "date": "2016-11-08 11:00:00",
+ "Antonella Franzen - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9090909090909091,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex A. Molinaroli - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.796,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.67
+  ],
+  "title": "Chairman & Chief Executive Officer"
+ },
+ "George R. Oliver - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.24761904761904763,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.85,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   0.15,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8261904761904763,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Brian J. Stief - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.39444444444444443,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   0.85,
+   0.0,
+   0.15,
+   0.15,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.6722222222222222,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.5,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gautam Khanna - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   0.68,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Eric Winoker - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.17142857142857143,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Pokrzywinski - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Evelyn Chow - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Shannon O'Callaghan - UBS Securities LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Robert Barry - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ }
+}

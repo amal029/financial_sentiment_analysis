@@ -1,0 +1,177 @@
+{
+ "date": "2011-10-26 17:00:00",
+ "Peter Hayes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Charles Liang": {
+  "avg_sentiment_score": 0.321875,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   -0.35,
+   -1.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.60625,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.6,
+   0.75,
+   0.4,
+   0.6,
+   0.4,
+   0.85,
+   0.4
+  ],
+  "title": "Founder, Chairman of the Board, President & CEO"
+ },
+ "Howard Hideshima": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.8,
+   0.4,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Mark Kelleher": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.19444444444444445,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rajesh Ghai": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Glenn Hanus": {
+  "avg_sentiment_score": 0.39285714285714285,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7457142857142857,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Amelia Harris": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   0.64
+  ]
+ }
+}

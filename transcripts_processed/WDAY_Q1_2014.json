@@ -1,0 +1,291 @@
+{
+ "date": "2013-05-22 17:00:00",
+ "Mike Haase - VP Finance, Treasurer and Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Aneel Bhusri - Chairman and Co-Chief Executive Officer": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Co-Founder & Executive Chairman of the Board"
+ },
+ "Mark Peek - Chief Financial Officer": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Co-President"
+ },
+ "Heather Bellini - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Aneel Bhusri": {
+  "avg_sentiment_score": 0.45652173913043476,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8021739130434782,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John DiFucci - JPMorgan": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Mark Peek": {
+  "avg_sentiment_score": 0.1642857142857143,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.65,
+   0.65,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Jennifer Lowe - Morgan Stanley": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Jason Maynard - Wells Fargo": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Barnicle - Pacific Crest Securities": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Richard Davis - Canaccord": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Peter Goldmacher - Cowen & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Pat Walravens - JMP Securities": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brent Thill - UBS": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Chen - Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ross McMillan - Jefferies": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Schwartz - Oppenheimer": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Brian Schwartz \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

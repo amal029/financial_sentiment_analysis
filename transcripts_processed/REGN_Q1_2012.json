@@ -1,0 +1,232 @@
+{
+ "date": "2012-04-26 08:30:00",
+ "Michael Aberman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Leonard S. Schleifer": {
+  "avg_sentiment_score": 0.228125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.778125,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "Murray A. Goldberg": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Robyn Karnauskas - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert J. Terifay": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Vice President of Commercial"
+ },
+ "Jason Kantor - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher J. Raymond - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jim Birchenough - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.12000000000000002,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "George D. Yancopoulos": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Terence C. Flynn - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Byrne - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Biren Amin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mani Mohindru - ThinkEquity LLC, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kumaraguru Raja": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Philip Nadeau - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael E. Ulz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

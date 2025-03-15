@@ -1,0 +1,407 @@
+{
+ "date": "2011-06-22 09:00:00",
+ "Katharine Kenny": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Thomas Folliard": {
+  "avg_sentiment_score": 0.2064814814814815,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   -0.35,
+   0.15,
+   0.45,
+   0.05,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   -0.45,
+   0.1,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.15,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.75,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7703703703703704,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Thomas Reedy": {
+  "avg_sentiment_score": 0.134375,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.796875,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Brian Nagel - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Simeon Gutman - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   -0.15,
+   0.75,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Sharon Zackfia - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Nemer - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": -0.025000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Ryan Brinkman - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Clint Fendley - Davenport & Company, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick Duff": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.65
+  ]
+ },
+ "Dan Galves - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.02,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Elizabeth Lane - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Kennison - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Kimlat - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Sam Yake - BGB Securities, Inc.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "William Armstrong - CL King & Associates, Inc.": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Mark Mandel - ThinkEquity LLC": {
+  "avg_sentiment_score": -0.2875,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ }
+}

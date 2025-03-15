@@ -1,0 +1,210 @@
+{
+ "date": "2020-11-05 11:00:00",
+ "Catherine Suever": {
+  "avg_sentiment_score": -0.056249999999999994,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Williams": {
+  "avg_sentiment_score": 0.46904761904761905,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   0.05,
+   1.0,
+   0.85,
+   0.65,
+   0.35,
+   0.55,
+   0.05,
+   0.85,
+   0.55,
+   0.45,
+   0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7866666666666666,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.67,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Todd Leombruno": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   1.0
+  ]
+ },
+ "John Inch": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.65,
+   0.75,
+   0.75
+  ]
+ },
+ "Jeffrey Sprague": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Lee Banks": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "VC & President"
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Obin": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

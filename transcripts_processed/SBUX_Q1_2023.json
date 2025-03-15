@@ -1,0 +1,262 @@
+{
+ "date": "2023-02-02 17:30:00",
+ "Tiffany Willis": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Howard Schultz": {
+  "avg_sentiment_score": 0.31315789473684214,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9010526315789474,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Founder & Chairman Emeritus"
+ },
+ "Brady Brewer": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.9
+  ]
+ },
+ "Rachel Ruggeri": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Executive VP, CFO & Principal Accounting Officer"
+ },
+ "Jeffrey Bernstein": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Sara Senatore": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Conway": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "Group President of International & Channel Development"
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Belinda Wong": {
+  "avg_sentiment_score": 0.7833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85
+  ]
+ },
+ "John Ivankoe": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Charles": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ },
+ "Peter Saleh": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lauren Silberman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Danilo Gargiulo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Frank Britt": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Jon Tower": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Trilling": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.9
+  ]
+ },
+ "Brian Harbour": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

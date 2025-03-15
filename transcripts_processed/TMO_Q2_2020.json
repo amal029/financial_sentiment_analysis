@@ -1,0 +1,187 @@
+{
+ "date": "2020-07-22 08:30:00",
+ "Kenneth Apicerno": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Marc Casper": {
+  "avg_sentiment_score": 0.4676470588235294,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.15,
+   0.65,
+   0.85,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   -0.45,
+   -0.15,
+   0.55,
+   0.85,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8129411764705883,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.67,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Stephen Williamson": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.35,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9
+  ]
+ },
+ "Derik de Bruin": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Doug Schenkel": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Beuchaw": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "End of Q&A": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

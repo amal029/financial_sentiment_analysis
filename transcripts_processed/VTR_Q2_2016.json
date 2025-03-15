@@ -1,0 +1,372 @@
+{
+ "date": "2016-07-29 10:00:00",
+ "Ryan Shannon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Debra A. Cafaro": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.55,
+   0.85,
+   1.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8706,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.8,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.69,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.64,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Bob Probst": {
+  "avg_sentiment_score": 0.3388888888888889,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9027777777777778,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Bilerman": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Kevin Tyler": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Anderson": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jordan Sadler": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Carroll": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8859999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "John Cobb": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Strategic Advisor"
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.16428571428571428,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8242857142857142,
+  "confidence": [
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Chad Vanacore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.68
+  ]
+ }
+}

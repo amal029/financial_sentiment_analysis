@@ -1,0 +1,304 @@
+{
+ "date": "2015-10-23 09:30:00",
+ "Anthony G. Ostler - SVP & Global Head-Global Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Joseph L. Hooley - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.35555555555555557,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.05,
+   0.45,
+   0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7996296296296296,
+  "confidence": [
+   0.75,
+   0.67,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.67,
+   0.4
+  ]
+ },
+ "Michael W. Bell - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   -0.35,
+   0.55,
+   0.45,
+   0.35,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.15,
+   -0.15,
+   0.65,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Luke Montgomery - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Glenn Paul Schorr - Evercore ISI": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Elizabeth Lynn Graseck - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike L. Mayo - CLSA Americas LLC": {
+  "avg_sentiment_score": -0.2875,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "James F. Mitchell - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian B. Bedell - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Alexander V. Blostein - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Adam Q. Beatty - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ashley Neil Serrao - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vivek Juneja - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Geoffrey Elliott - Autonomous Research LLP": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.65
+  ]
+ }
+}

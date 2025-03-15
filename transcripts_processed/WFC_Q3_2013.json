@@ -1,0 +1,324 @@
+{
+ "date": "2013-10-11 12:17:00",
+ "Jim Rowe": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John G. Stumpf": {
+  "avg_sentiment_score": 0.3735294117647059,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8926470588235295,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.65,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.65,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Timothy J. Sloan": {
+  "avg_sentiment_score": 0.22580645161290322,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   1.0,
+   0.65,
+   0.15,
+   0.55,
+   0.0,
+   0.55,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8435483870967742,
+  "confidence": [
+   0.6,
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Erika Najarian - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John McDonald - Sanford Bernstein": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Morford - RBC Capital Markets": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt O'Connor - Deutsche Bank": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Marty Mosby - Guggenheim": {
+  "avg_sentiment_score": 0.20625000000000002,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.15,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.76125,
+  "confidence": [
+   0.64,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Mayo - CLSA": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "R. Scott Siefers - Sandler O'Neill": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Ken Usdin - Jefferies & Company": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

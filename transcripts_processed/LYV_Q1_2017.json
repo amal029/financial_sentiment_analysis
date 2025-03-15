@@ -1,0 +1,140 @@
+{
+ "date": "2017-05-04 17:00:00",
+ "Michael Rapino - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.51875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Joe Berchtold - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.44999999999999996,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65,
+   0.85,
+   0.55,
+   -0.15,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "President & CFO"
+ },
+ "Kathy Willard - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Amy Yong - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Joyce - Evercore Group LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brandon Ross - BTIG LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "John Tinker - Gabelli & Company": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Douglas Middleton Arthur - Huber Research Partners LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

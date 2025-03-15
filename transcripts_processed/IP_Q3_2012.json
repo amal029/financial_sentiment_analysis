@@ -1,0 +1,341 @@
+{
+ "date": "2012-10-25 09:00:00",
+ "Glenn Landau": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "John V. Faraci": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   0.65,
+   -0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.735,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "Special Advisor"
+ },
+ "Carol L. Roberts": {
+  "avg_sentiment_score": 0.01111111111111112,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Vice President of Finance"
+ },
+ "Timothy S. Nicholls": {
+  "avg_sentiment_score": 0.2529411764705882,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8529411764705882,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Phil M. Gresh - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Stephan Sutton": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "George L. Staphos - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Gustave Kadien": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gail S. Glazerman - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Chercover - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Albert T. Kabili - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark W. Connelly - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Gaffner - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75
+  ]
+ },
+ "Paul C. Quinn - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mark A. Weintraub - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Chip A. Dillon - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wilde - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.025000000000000005,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

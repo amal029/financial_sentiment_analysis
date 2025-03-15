@@ -1,0 +1,325 @@
+{
+ "date": "2023-02-10 11:00:00",
+ "Christy McElroy": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lisa Palmer": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ],
+  "title": "President, CEO & Non Independent Director"
+ },
+ "Alan Roth ": {
+  "avg_sentiment_score": 0.5928571428571429,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.15,
+   0.85,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.75
+  ],
+  "title": "COO & President of East Region"
+ },
+ "Nick Wibbenmeyer ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Mas": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Michael Goldsmith ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael Mas ": {
+  "avg_sentiment_score": 0.2791666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   -0.45,
+   -0.15,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Ki Bin Kim ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Greg McGinniss ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Floris Van Dijkum ": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Lisa Palmer ": {
+  "avg_sentiment_score": 0.61875,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.85,
+   0.6,
+   0.65,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Craig Mailman ": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Juan Sanabria ": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   0.65
+  ]
+ },
+ "Anthony Powell ": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Mike Mueller ": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Paulina Rojas": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Linda Tsai ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Alan Roth": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ronald Kamdem ": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ }
+}

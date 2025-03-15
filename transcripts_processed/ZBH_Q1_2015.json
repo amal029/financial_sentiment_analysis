@@ -1,0 +1,270 @@
+{
+ "date": "2015-04-30 08:00:00",
+ "Robert J. Marshall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "David C. Dvorak": {
+  "avg_sentiment_score": 0.2631578947368421,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8431578947368421,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James T. Crines": {
+  "avg_sentiment_score": 0.14038461538461539,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8115384615384615,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Robert A. Hopkins": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew C. Taylor": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Michael Weinstein": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.80875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Glenn J. Novarro": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard S. Newitter": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David H. Roman": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "William J. Plovanic": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David R. Lewis": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Craig W. Bijou": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "date": "2014-10-27 17:00:00",
+ "Meera Rao": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Steve Smigie - Raymond James": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Smigie - Raymond James ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.15,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.9,
+   0.75
+  ]
+ },
+ "Michael Hsing": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Founder, Chairman, President & CEO"
+ },
+ "Meera Rao ": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.35,
+   0.55,
+   0.45,
+   0.05,
+   1.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.55,
+   0.55,
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.6
+  ]
+ },
+ "Tore Svanberg - Stiefel": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tore Svanberg - Stiefel ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Hsing ": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6916666666666668,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Ross Seymore - Deutsche Bank ": {
+  "avg_sentiment_score": -0.275,
+  "sentiment_score": [
+   -1.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Rick Schafer - Oppenheimer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rick Schafer - Oppenheimer ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Anil Doradla - William Blair": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Anil Doradla - William Blair ": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Wong - Wells Fargo ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

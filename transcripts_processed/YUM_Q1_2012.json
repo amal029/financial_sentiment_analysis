@@ -1,0 +1,340 @@
+{
+ "date": "2012-04-19 09:15:00",
+ "Tim Jerzyk": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9222222222222223,
+  "confidence": [
+   0.95,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.8,
+   1.0
+  ]
+ },
+ "David C. Novak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.55,
+   -0.15,
+   0.0,
+   0.45,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.9
+  ],
+  "title": "Executive Chairman and Chairman of Executive & Finance Committee"
+ },
+ "Richard T. Carucci": {
+  "avg_sentiment_score": 0.17575757575757575,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.75,
+   -0.15,
+   0.05,
+   -0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   -0.15,
+   0.35,
+   0.55,
+   0.05,
+   0.15,
+   0.85,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8075757575757575,
+  "confidence": [
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "President"
+ },
+ "John W. Ivankoe - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Palmer - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Michael Kelter - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brian J. Bittner - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jonathan R. Komp - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Howard W. Penney - Hedgeye Risk Management LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "John S. Glass - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jason West - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Sara H. Senatore - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Andrew Bernstein - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Gregory R. Badishkanian - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Keith Siegner - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Vice Chairman, Chairman of Yum! Restaurants China and Chief Executive Officer of Yum! Restaurants China"
+ },
+ "Joseph T. Buckley - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Mitchell J. Speiser - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Bryan C. Elliott - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

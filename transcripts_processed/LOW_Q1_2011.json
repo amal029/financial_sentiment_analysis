@@ -1,0 +1,237 @@
+{
+ "date": "2011-05-16 09:00:00",
+ "Robert Niblock": {
+  "avg_sentiment_score": 0.28,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.604,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Rick Damron": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Hull": {
+  "avg_sentiment_score": 0.0931818181818182,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   1.0,
+   1.0,
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7431818181818183,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Christopher Horvers - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Zolidis - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Nagel - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Greg Melich - ISI Group Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Binder - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Gregory Bridgeford": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Gary Balter - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Michael Lasser - Lehman Brothers": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Dennis McGill": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Dennis McGill - Zelman & Associates": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

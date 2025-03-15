@@ -1,0 +1,262 @@
+{
+ "date": "2020-10-20 17:00:00",
+ "Rob Berkley": {
+  "avg_sentiment_score": 0.22558139534883723,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.15,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   0.05,
+   -0.35,
+   1.0,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8493023255813954,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.67,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Rich Baio": {
+  "avg_sentiment_score": 0.06999999999999999,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Mike Zaremski": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.014285714285714289,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President of Investments"
+ },
+ "Phil Stefano": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Bill Berkley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8616666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Joshua Shanker": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7816666666666667,
+  "confidence": [
+   1.0,
+   0.67,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ }
+}

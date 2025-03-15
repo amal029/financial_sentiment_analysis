@@ -1,0 +1,161 @@
+{
+ "date": "2018-08-21 17:00:00",
+ "Perry Hayes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kevin Bauer": {
+  "avg_sentiment_score": 0.058695652173913045,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8717391304347827,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Officer"
+ },
+ "Charles Liang": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.4,
+   1.0,
+   0.8,
+   0.4,
+   0.4
+  ],
+  "title": "Founder, Chairman of the Board, President & CEO"
+ },
+ "Nehal Chokshi": {
+  "avg_sentiment_score": -0.03125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Jake Wilhelm": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Jon Lopez": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7791666666666667,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ }
+}

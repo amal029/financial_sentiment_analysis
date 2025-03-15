@@ -1,0 +1,257 @@
+{
+ "date": "2013-11-06 16:30:00",
+ "Adam Townsend": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.9
+  ]
+ },
+ "Sumner M. Redstone": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Founder and Director"
+ },
+ "Joseph R. Ianniello": {
+  "avg_sentiment_score": 0.3590909090909091,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8227272727272728,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Benjamin Swinburne - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Leslie Moonves": {
+  "avg_sentiment_score": 0.37857142857142856,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   -0.15,
+   -0.45,
+   0.85,
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.65,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7476190476190476,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Jessica Reif Cohen - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Bank - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael C. Morris - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "John Janedis - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Douglas D. Mitchelson - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Alexia S. Quadrani - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Laura A. Martin - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.13749999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.05,
+   0.6
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "David W. Miller - B. Riley Caris, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alan S. Gould - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vijay A. Jayant - ISI Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Marci Ryvicker - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

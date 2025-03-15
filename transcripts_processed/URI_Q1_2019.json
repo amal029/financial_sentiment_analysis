@@ -1,0 +1,229 @@
+{
+ "date": "2019-04-18 11:00:00",
+ "Michael Kneeland": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Matt Flannery": {
+  "avg_sentiment_score": 0.46749999999999997,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   0.5,
+   0.65,
+   0.55,
+   0.55,
+   0.65,
+   0.15,
+   0.05,
+   1.0,
+   0.65,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   0.05,
+   0.05,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jessica Graziano": {
+  "avg_sentiment_score": 0.24285714285714288,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6642857142857144,
+  "confidence": [
+   0.0,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Wertheimer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Joe O'Dea": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joe O\u2019Dea": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Seth Weber": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Fisher": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim Thein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Chad Dillard": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "A - Matt Flannery": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

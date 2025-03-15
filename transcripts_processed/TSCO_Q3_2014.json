@@ -1,0 +1,578 @@
+{
+ "date": "2014-10-23 17:00:00",
+ "Christine Skold": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory A. Sandfort": {
+  "avg_sentiment_score": 0.32358490566037734,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.15,
+   -0.35,
+   1.0,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   1.0,
+   0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.55,
+   -0.35,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8449056603773585,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.65,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.68,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Anthony F. Crudele": {
+  "avg_sentiment_score": 0.376,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8088,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.68,
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter S. Benedict \u2013 Robert W. Baird & Co.": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Lee J. Downing": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ],
+  "title": "Executive Vice President of Operations and Real Estate"
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.255,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.942,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Lasser \u2013 UBS Securities": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Steve K. Barbarick": {
+  "avg_sentiment_score": 0.6318181818181818,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7627272727272728,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   0.4
+  ],
+  "title": "President and Chief Merchandising Officer"
+ },
+ "John R. Lawrence \u2013 Stephens Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Chuck Cerankosky \u2013 Northcoast Research": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Horvers \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Chandni Luthra \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Simeon Gutman \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Balter \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Alan Rifkin \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Basham \u2013 Wedbush Securities": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Denise Chai \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark R. Miller \u2013 William Blair & Company LLC": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Brian W. Nagel \u2013 Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Dan Wewer \u2013 Raymond James": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Sindler \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.6900000000000001,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Feldman \u2013 Telsey Advisory Group": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mark K. Montagna \u2013 Avondale Partners, LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Nemer \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Rystrom \u2013 Feltl and Company": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.68
+  ]
+ }
+}

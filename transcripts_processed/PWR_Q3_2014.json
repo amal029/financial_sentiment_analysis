@@ -1,0 +1,269 @@
+{
+ "date": "2014-11-05 09:30:00",
+ "Kip A. Rupp": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "James F. O'Neil": {
+  "avg_sentiment_score": 0.4071428571428572,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.85,
+   0.65,
+   0.05,
+   0.0,
+   0.75,
+   0.0,
+   0.05,
+   0.45,
+   0.65,
+   0.15,
+   0.75,
+   0.55,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Derrick A. Jensen": {
+  "avg_sentiment_score": 0.3961538461538462,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8038461538461538,
+  "confidence": [
+   0.8,
+   0.8,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   0.8,
+   0.75,
+   0.85
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Steven Fisher - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Noelle C. Dilts - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Andrew Buscaglia - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Andrew J. Wittmann - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jerimiah Booream-Phelps - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Adam R. Thalhimer - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel J. Mannes - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "William D. Bremer - Maxim Group LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Min Cho - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John B. Rogers - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Michael Shlisky - Global Hunter Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian K. Lee - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jonathan P. Braatz - Kansas City Capital Associates": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,386 @@
+{
+ "date": "2016-05-10 11:00:00",
+ "Liza Sabol - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Nick Howley - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.036290322580645164,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -0.5,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.8769354838709676,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.65,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Kevin M. Stein - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Terrance M. Paradie - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.1111111111111111,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9411111111111112,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Carter Copeland - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Herbert - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Bill Ledley - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew C. Akers - UBS Securities LLC": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Myles Alexander Walton - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.07666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Robert M. Spingarn - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.12272727272727274,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8863636363636364,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael F. Ciarmoli - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.18571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Hunter K. Keay - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

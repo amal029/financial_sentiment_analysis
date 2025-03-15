@@ -1,0 +1,433 @@
+{
+ "date": "2010-06-23 09:00:00",
+ "Katharine Kenny": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Tom Folliard": {
+  "avg_sentiment_score": 0.20517241379310344,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.05,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.65,
+   0.0,
+   0.15,
+   -0.35,
+   0.05,
+   0.85,
+   0.05,
+   0.45,
+   -0.35,
+   -0.15,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.05,
+   0.15,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7994827586206896,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Keith Browning": {
+  "avg_sentiment_score": 0.134375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.765625,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.5,
+   1.0
+  ],
+  "title": "Executive Vice President of Finance and Director"
+ },
+ "Simeon Gutman \u2013 Credit Suisse": {
+  "avg_sentiment_score": -0.11875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Sharon Zackfia \u2013 William Blair": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Jaison Blair \u2013 Rochdale Research": {
+  "avg_sentiment_score": 0.16428571428571428,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8385714285714286,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Himanshu Patel \u2013 J. P. Morgan": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Murphy \u2013 Banc of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Craig Kennison \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Matt Fassler \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7985714285714286,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.64
+  ]
+ },
+ "Dan Gallatin \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Brian Nagle \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "William Truelove \u2013 UBS": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Armstrong \u2013 CL King & Associates": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Tricia Gill \u2013 Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Scott Stember \u2013 Sidoti & Company": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

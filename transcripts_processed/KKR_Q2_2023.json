@@ -1,0 +1,239 @@
+{
+ "date": "2023-08-07 10:00:00",
+ "Craig Larson": {
+  "avg_sentiment_score": 0.7125,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.805625,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.68,
+   1.0,
+   0.85,
+   0.67,
+   0.85,
+   0.85,
+   0.9,
+   0.67,
+   0.67,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Lewin": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.45,
+   0.75,
+   0.65,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.9
+  ],
+  "title": "Partner & CFO"
+ },
+ "Craig Siegenthaler": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Alexander Blostein": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Nuttall": {
+  "avg_sentiment_score": 0.4357142857142858,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Co-CEO & Director"
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Benjamin Budish": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Brian McKenna": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Michael Brown": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Arnaud Giblat": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Finian O\u2019Shea": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Cyprys": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rufus Hone": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "End of Q&A": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

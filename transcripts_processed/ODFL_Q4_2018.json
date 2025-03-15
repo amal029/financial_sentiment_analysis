@@ -1,0 +1,287 @@
+{
+ "date": "2019-02-07 10:00:00",
+ "David Congdon": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Greg Gantt": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Adam Satterfield": {
+  "avg_sentiment_score": 0.3388888888888889,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.6,
+   0.45,
+   0.0,
+   0.65,
+   0.55,
+   -0.15,
+   -0.15,
+   0.65,
+   0.55,
+   0.45,
+   0.55,
+   0.15,
+   0.45,
+   0.6,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7537037037037038,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Christian Wetherbee": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67,
+   0.6
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Albert Delco": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ariel Rosa": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew Brooklier": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Todd Fowler": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Ross": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Willard Milby": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Benjamin Hartford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Lee Klaskow": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

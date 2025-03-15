@@ -1,0 +1,242 @@
+{
+ "date": "2022-07-28 10:00:00",
+ "Michael McCarthy": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Liberty": {
+  "avg_sentiment_score": 0.43125,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.75,
+   0.6,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Naftali Holtz": {
+  "avg_sentiment_score": 0.5071428571428572,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.55,
+   0.85,
+   0.55,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Steve Wieczynski": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Frederick Wightman": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Bayley": {
+  "avg_sentiment_score": 0.5700000000000001,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "President & CEO of Royal Caribbean International"
+ },
+ "Benjamin Chaiken": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Bayley ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Benjamin Chaiken ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brandt Montour": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vince Ciepiel": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Paul Golding": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jason Liberty ": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Daniel Politzer": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Stathoulopoulos": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Stathoulopoulos ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

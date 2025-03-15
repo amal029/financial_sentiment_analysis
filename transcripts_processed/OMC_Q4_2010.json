@@ -1,0 +1,197 @@
+{
+ "date": "2011-02-15 08:30:00",
+ "Randall Weisenburger": {
+  "avg_sentiment_score": 0.29583333333333334,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.85,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   0.9,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "John Wren": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   -0.35,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8464285714285714,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.8
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Alexia Quadrani - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Meggan Friedman - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Salmon - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Bird - Lazard Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Craig Huber - ": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6583333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "James Dix - Wedbush Securities Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Tim Nollen - Macquarie Research": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ }
+}

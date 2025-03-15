@@ -1,0 +1,166 @@
+{
+ "date": "2023-10-16 16:00:00",
+ "Jeff Edwards": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Walter Bettinger": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Rick Wurster": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85
+  ]
+ },
+ "Peter Crawford": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.45,
+   0.15,
+   0.45,
+   0.45,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "CFO & MD"
+ },
+ "Kenneth Worthington": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Moley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Fannon": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steven Chubak": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alexander Blostein": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Cyprys": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "date": "2018-07-26 09:00:00",
+ "Quintin Lai": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Green": {
+  "avg_sentiment_score": 0.45576923076923076,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   -0.15,
+   0.85,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8661538461538462,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.9,
+   0.68,
+   0.85,
+   0.9,
+   1.0,
+   0.67,
+   0.85,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Non-Independent Chair of the Board, President & CEO"
+ },
+ "Bernard Birkett": {
+  "avg_sentiment_score": 0.44375,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8775,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP and Chief Financial & Operations Officer"
+ },
+ "David Windley": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Knight": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.65,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dana Flanders": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7133333333333333,
+  "confidence": [
+   0.6,
+   0.85,
+   0.69
+  ]
+ },
+ "Larry Solow": {
+  "avg_sentiment_score": 0.67,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.634,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Derik DeBruin": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Hillary": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.68
+  ]
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "date": "2017-05-23 08:30:00",
+ "James Jaye": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Michael Hilton": {
+  "avg_sentiment_score": 0.28620689655172415,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8317241379310345,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Gregory Thaxton": {
+  "avg_sentiment_score": 0.21333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Rudy Hokanson": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Liam Burke": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jeffrey Hammond": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Charles Brady": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7224999999999999,
+  "confidence": [
+   0.69,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Walter Liptak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Allison Poliniak-Cusic": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Trusz": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "David Stratton": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ }
+}

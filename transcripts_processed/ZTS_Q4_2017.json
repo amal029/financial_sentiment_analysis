@@ -1,0 +1,249 @@
+{
+ "date": "2018-02-15 08:30:00",
+ "Steven Frank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Ram\u00f3n Alaix": {
+  "avg_sentiment_score": 0.5555555555555556,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7777777777777778,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Glenn David": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6227272727272727,
+  "confidence": [
+   0.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kevin Ellich": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Erin Wilson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Jonathan Block": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kathleen Miner": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Liav Abraham": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory Gilbert": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Candace Richardson": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Douglas Tsao": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brett Wong": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Westenberg": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

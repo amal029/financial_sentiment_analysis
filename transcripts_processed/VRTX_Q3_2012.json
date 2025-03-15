@@ -1,0 +1,287 @@
+{
+ "date": "2012-11-01 17:00:00",
+ "Michael Partridge": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Jeffrey M. Leiden": {
+  "avg_sentiment_score": 0.1423076923076923,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8576923076923078,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ian F. Smith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Peter R. Mueller": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Geoffrey C. Porges - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Kauffman": {
+  "avg_sentiment_score": 0.2638888888888889,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   -1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.9,
+   0.4,
+   0.4,
+   0.75,
+   0.8,
+   0.67,
+   0.75,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Rachel L. McMinn - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Gloria Woo": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Stuart A. Arbuckle": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Geoffrey C. Meacham - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Omar Saad - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Michael J. Yee - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Liisa A. Bayko - JMP Securities LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Alethia Young - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Corey Abrahams - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Roden - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Terence C. Flynn - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ying Huang - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Friedman - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

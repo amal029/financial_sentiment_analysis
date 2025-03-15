@@ -1,0 +1,302 @@
+{
+ "date": "2014-05-05 10:00:00",
+ "Chuck Triano": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Ian Read": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.7966666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.68,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.9
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Frank D'Amelio": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.8,
+   0.5,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Geno Germano": {
+  "avg_sentiment_score": 0.08333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Group President of Global Innovative Pharma Business"
+ },
+ "Albert Bourla": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.8,
+   1.0,
+   0.85
+  ]
+ },
+ "John Young": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Mark Schoenebaum": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5449999999999999,
+  "confidence": [
+   0.4,
+   0.69
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jami Rubin": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Jeff Holford": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Frank D\u2019Amelio": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Mikael Dolsten": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "John Boris": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marc Goodman": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

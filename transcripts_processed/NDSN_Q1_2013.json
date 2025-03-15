@@ -1,0 +1,232 @@
+{
+ "date": "2013-02-22 08:30:00",
+ "James R. Jaye": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Michael F. Hilton": {
+  "avg_sentiment_score": 0.31153846153846154,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.35,
+   0.65,
+   -0.15,
+   -0.45,
+   0.55,
+   -0.15,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.75,
+   0.75,
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7192307692307692,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.4
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Gregory A. Thaxton": {
+  "avg_sentiment_score": 0.3678571428571429,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7178571428571429,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.5,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Franzreb": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Glynn": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.5,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Joseph K. Radigan": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jason Ursaner": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Mark Douglass": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Warkentin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Liam D. Burke": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Gregory W. Halter": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

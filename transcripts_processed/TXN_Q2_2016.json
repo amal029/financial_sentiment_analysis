@@ -1,0 +1,260 @@
+{
+ "date": "2016-07-25 17:30:00",
+ "David Pahl - Vice President & Head of Investor Relations": {
+  "avg_sentiment_score": 0.2017241379310345,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.85,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8551724137931035,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin P. March - Senior Vice President, Chief Financial Officer, Finance & Operations": {
+  "avg_sentiment_score": 0.22647058823529412,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   -0.15,
+   0.65,
+   0.55,
+   0.55,
+   -0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.1
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Senior Vice President"
+ },
+ "Christopher B. Danely - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "C.J. Muse - Evercore ISI": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Joseph L. Moore - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Craig A. Ellis - B. Riley & Co. LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "John William Pitzer - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Christopher Caso - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Blayne Curtis - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vivek Arya - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Tore Svanberg - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Timothy Arcuri - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

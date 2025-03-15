@@ -1,0 +1,182 @@
+{
+ "date": "2019-07-23 16:30:00",
+ "Dave Pahl": {
+  "avg_sentiment_score": 0.2619047619047619,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.05,
+   0.15,
+   1.0,
+   1.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7771428571428571,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Rafael Lizardi": {
+  "avg_sentiment_score": 0.17727272727272728,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.0,
+   0.65,
+   0.15,
+   0.05,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "CFO and Senior VP of Finance & Operations"
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Toshiya Hari": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ambrish Srivastava": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Stacy Rasgon": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6
+  ]
+ },
+ "Christopher Danely": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Lipacis": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "date": "2018-04-26 11:00:00",
+ "Catherine A. Suever - Parker-Hannifin Corp.": {
+  "avg_sentiment_score": 0.24791666666666667,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9225,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Thomas L. Williams - Parker-Hannifin Corp.": {
+  "avg_sentiment_score": 0.44722222222222224,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   -0.35,
+   0.75,
+   0.0,
+   0.65,
+   0.85,
+   0.05,
+   0.65,
+   0.65,
+   0.85,
+   0.85,
+   0.0,
+   0.75,
+   -1.0
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Ann P. Duignan - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7957142857142857,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Nathan Hardie Jones - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Lee C. Banks - Parker-Hannifin Corp.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "VC & President"
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joel G. Tiss - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew M. Casey - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie L. Cook - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Jeffrey D. Hammond - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Joseph Giordano - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

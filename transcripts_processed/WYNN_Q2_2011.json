@@ -1,0 +1,310 @@
+{
+ "date": "2011-07-18 16:30:00",
+ "Matt Maddox": {
+  "avg_sentiment_score": 0.34444444444444444,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.4,
+   0.65,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Stephen Wynn": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.85,
+   0.05,
+   0.0,
+   0.1,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.75,
+   -0.45,
+   0.85,
+   -0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8462500000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Marilyn Spiegel": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Joseph Greff - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Shaun Kelley - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mark Strawn - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jon Oh - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Harry Curtis - Nomura Securities Co. Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Marc Schorr": {
+  "avg_sentiment_score": 0.42857142857142855,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Operating Officer, Member of Executive Committee and Member of Gaming Compliance Committee"
+ },
+ "Robin Farley - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Katz - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William Lerner - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Marsico": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.45,
+   0.05,
+   -1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Steven Kent - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mario Gabelli - Gabelli & Company": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

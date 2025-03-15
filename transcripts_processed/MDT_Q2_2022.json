@@ -1,0 +1,190 @@
+{
+ "date": "2021-11-23 08:00:00",
+ "Ryan Weispfenning": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Geoffrey Martha": {
+  "avg_sentiment_score": 0.44,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.85,
+   0.45,
+   -0.15,
+   0.65,
+   0.15,
+   0.65,
+   0.15,
+   0.65,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Karen Parkhill": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   -0.15,
+   1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Robbie Marcus": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sean Salmon": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & President of Cardiovascular Portfolio"
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Taylor": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Cecilia Furlong": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Miksic": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew O'Brien": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Pasquale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Frederick Wise": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

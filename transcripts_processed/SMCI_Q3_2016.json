@@ -1,0 +1,195 @@
+{
+ "date": "2016-04-28 17:00:00",
+ "Perry Hayes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Charles Liang": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Founder, Chairman of the Board, President & CEO"
+ },
+ "Howard Hideshima": {
+  "avg_sentiment_score": 0.1111111111111111,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Joseph Quatrochi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Liang ": {
+  "avg_sentiment_score": 0.5133333333333333,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7433333333333334,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.65,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Mark Kelleher": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Kurtz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Grinstead - SIG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Grinstead": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nehal Chokshi": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ }
+}

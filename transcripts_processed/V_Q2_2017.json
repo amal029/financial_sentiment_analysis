@@ -1,0 +1,252 @@
+{
+ "date": "2017-04-20 17:00:00",
+ "Jack Carsky": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.5,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "Al Kelly": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Vasant Prabhu": {
+  "avg_sentiment_score": 0.19230769230769232,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.35,
+   0.05,
+   0.0,
+   0.05,
+   0.05,
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7076923076923076,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.5,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Bob Napoli": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ramsey El-Assal": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Jeffrey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "George Mihalos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Craig Maurer": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan Keane": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Glenn Greene": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Donat": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

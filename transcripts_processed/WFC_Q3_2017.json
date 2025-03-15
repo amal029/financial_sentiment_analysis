@@ -1,0 +1,345 @@
+{
+ "date": "2017-10-13 10:00:00",
+ "John Campbell ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tim Sloan": {
+  "avg_sentiment_score": 0.1735294117647059,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   0.55,
+   -0.35,
+   0.45,
+   -0.15,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.836764705882353,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "John Shrewsberry": {
+  "avg_sentiment_score": 0.08214285714285716,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.05,
+   1.0,
+   -0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7357142857142858,
+  "confidence": [
+   0.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.05833333333333335,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0
+  ]
+ },
+ "Marty Mosby": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.62,
+  "confidence": [
+   0.6,
+   1.0,
+   0.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Saul Martinez": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vivek Juneja": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Kleinhanzl": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

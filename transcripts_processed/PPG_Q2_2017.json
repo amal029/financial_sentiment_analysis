@@ -1,0 +1,443 @@
+{
+ "date": "2017-07-20 14:00:00",
+ "John Bruno": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael McGarry": {
+  "avg_sentiment_score": 0.39142857142857146,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45,
+   0.65,
+   0.05,
+   0.0,
+   0.55,
+   -0.15,
+   1.0,
+   0.55,
+   0.85,
+   0.0,
+   0.45,
+   0.45,
+   0.05,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.6,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.45,
+   1.0,
+   0.85,
+   0.45,
+   0.05,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7314285714285714,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.5,
+   0.6,
+   0.6,
+   0.75,
+   0.65,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "David Begleiter": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Morales": {
+  "avg_sentiment_score": 0.36935483870967745,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7890322580645162,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.65,
+   0.4,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.67,
+   0.4,
+   1.0,
+   0.4
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Ghansham Panjabi": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Koort": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin McCarthy": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Frank Mitsch": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Vincent Andrews": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Parkinson": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Jeffrey Zekauskas": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "PJ Juvekar": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Duffy Fischer": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Don Carson": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Arun Viswanathan": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Byrne": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Dmitry Silversteyn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Sison": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "John Roberts": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Laurence Alexander": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Harrison": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "James Sheehan": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

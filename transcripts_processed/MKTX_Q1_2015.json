@@ -1,0 +1,235 @@
+{
+ "date": "2015-04-22 10:00:00",
+ "Dave Cresci": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Rick McVey": {
+  "avg_sentiment_score": 0.5052631578947369,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7863157894736842,
+  "confidence": [
+   0.9,
+   0.4,
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.6
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Tony DeLise": {
+  "avg_sentiment_score": 0.09545454545454546,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8818181818181817,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Global Head of Corporate Development"
+ },
+ "Mike Adams": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "TonyDeLise": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "RickMcVey": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Hugh Miller": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Niamh Alexander": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9416666666666668,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Q - Patrick O": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Shaughnessy": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ashley Serrao": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

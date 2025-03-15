@@ -1,0 +1,197 @@
+{
+ "date": "2010-04-21 09:00:00",
+ "Jerry Kircher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert Stevens": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Strategic Advisor To The Chief Executive Officer"
+ },
+ "Bruce Tanner ": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.75,
+   -0.15
+  ],
+  "avg_confidence": 0.71875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Robert Spingarn \u2013 Credit Suisse ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Stevens ": {
+  "avg_sentiment_score": 0.4600000000000001,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.05,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.705,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "David Strauss - UBS": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sam Pearlstein - Wells Fargo": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "George Shapiro - Access 342": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Doug Harned - Sanford Bernstein": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Heidi Wood - Morgan Stanley ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert Stallard \u2013 Macquarie ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Nadol - JPMorgan": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ron Epstein - Banc of America": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Peter Arment - Broadpoint": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Joe Campbell - Barclays Capital": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Troy Lahr - Stifel, Nicolaus ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

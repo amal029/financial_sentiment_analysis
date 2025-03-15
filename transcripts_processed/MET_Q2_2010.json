@@ -1,0 +1,244 @@
+{
+ "date": "2010-07-30 08:00:00",
+ "Conor Murphy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "C. Henrikson": {
+  "avg_sentiment_score": 0.12058823529411763,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.8441176470588235,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Director and Member of Investment Committee"
+ },
+ "Steven Kandarian": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "William Wheeler": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.4,
+   0.85,
+   0.9,
+   0.4
+  ],
+  "title": "President of Americas"
+ },
+ "A. Mark Finkelstein - Macquarie Research": {
+  "avg_sentiment_score": 0.42500000000000004,
+  "sentiment_score": [
+   0.4,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Hall - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "William Mullaney": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.65,
+   -0.45,
+   0.45,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President of The U.S. Business Organization"
+ },
+ "Colin Devine - Citigroup Inc": {
+  "avg_sentiment_score": -0.01,
+  "sentiment_score": [
+   -0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William Toppeta": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "President of International and President of International - Metropolitan Life Insurance Company"
+ },
+ "Jamminder Bhullar - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John Nadel - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Suneet Kamath - Bernstein Research": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Carlson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Kligerman - UBS Investment Bank": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "date": "2011-11-02 11:00:00",
+ "Edings Thibault": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Henry Fernandez": {
+  "avg_sentiment_score": 0.3038461538461539,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7269230769230769,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "David Obstler": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7458333333333332,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.8
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Suzanne Stein \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Togut \u2013 Evercore Partners": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Robert Riggs \u2013 William Blair & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Weisberg \u2013 Crestwood Capital": {
+  "avg_sentiment_score": 0.043750000000000004,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "David Scharf \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "date": "2022-10-28 10:00:00",
+ "Andy Taylor": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Devin Stockfish ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Wold": {
+  "avg_sentiment_score": 0.22499999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Devin Stockfish": {
+  "avg_sentiment_score": 0.31086956521739134,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.65,
+   0.55,
+   0.15,
+   0.45,
+   0.05,
+   0.15,
+   0.65,
+   0.65,
+   -0.35,
+   0.05,
+   0.45,
+   0.55,
+   0.65,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8043478260869565,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Susan Maklari ": {
+  "avg_sentiment_score": 0.36250000000000004,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Anthony Pettinari": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "George Staphos": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Mike Roxland ": {
+  "avg_sentiment_score": -0.11249999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Wilde": {
+  "avg_sentiment_score": 0.5875,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Mark Weintraub ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Paul Quinn": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   0.55,
+   0.35
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kurt Yinger": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ }
+}

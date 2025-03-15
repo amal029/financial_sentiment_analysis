@@ -1,0 +1,330 @@
+{
+ "date": "2016-02-03 10:00:00",
+ "Jay Royalty - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark S. Sutton - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   0.45,
+   0.75,
+   0.05,
+   0.65,
+   0.0,
+   -0.35,
+   0.05,
+   -0.35,
+   0.55,
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7466666666666666,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Carol Louise Roberts - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   -0.15,
+   0.0,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.7611111111111111,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Senior Vice President of Finance"
+ },
+ "Mark A. Weintraub - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Timothy S. Nicholls - Senior Vice President, Industrial Packaging": {
+  "avg_sentiment_score": 0.13461538461538464,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.6923076923076923,
+  "confidence": [
+   0.8,
+   0.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Chip A. Dillon - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Philip Ng - Jefferies LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "W. Michael Amick Jr. - Senior Vice President, North American Papers, Pulp & Consumer Packaging": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6714285714285715,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.8
+  ]
+ },
+ "Adam Jesse Josephson - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Mark William Wilde - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Connelly - CLSA Americas LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris D. Manuel - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "John Dunigan - Barclays Capital": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "George Leon Staphos - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Debbie A. Jones - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Danny Moran - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Paul Quinn - RBC Capital Markets": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

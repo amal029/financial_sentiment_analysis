@@ -1,0 +1,324 @@
+{
+ "date": "2015-10-22 14:00:00",
+ "John J. Ferriola - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.1690909090909091,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   -0.45,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   -0.35,
+   0.0,
+   0.15,
+   -0.75,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8718181818181818,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "James D. Frias - Chief Financial Officer, Treasurer & Executive VP": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & Special Advisor to the CEO"
+ },
+ "Evan L. Kurtz - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Murphy - UBS Securities Canada, Inc.": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew James Korn - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Timna Beth Tanners - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jorge M. Beristain - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "R. Joseph Stratman - Executive Vice President": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Chief Digital Officer"
+ },
+ "Michael F. Gambardella - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.018750000000000003,
+  "sentiment_score": [
+   0.0,
+   0.5,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew Lane - Morningstar Research": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Philip N. Gibbs - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Brian Hsien Yu - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

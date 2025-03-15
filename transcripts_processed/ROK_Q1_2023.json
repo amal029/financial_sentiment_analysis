@@ -1,0 +1,253 @@
+{
+ "date": "2023-01-26 07:30:00",
+ "Aijana Zellner": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Blake Moret": {
+  "avg_sentiment_score": 0.36833333333333335,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Nick Gangestad": {
+  "avg_sentiment_score": 0.30625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Andy Kaplowitz": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Joshua Pokrzywinski": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.7875,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7528571428571428,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Brendan Luecke": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   0.67
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

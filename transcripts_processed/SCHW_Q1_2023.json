@@ -1,0 +1,394 @@
+{
+ "date": "2023-04-17 11:00:00",
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Edwards": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Walter Bettinger ": {
+  "avg_sentiment_score": 0.5958333333333333,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.5,
+   0.55,
+   1.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Wurster ": {
+  "avg_sentiment_score": 0.3071428571428571,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Q - Brennan Hawken ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Michael Cyprys ": {
+  "avg_sentiment_score": -0.028571428571428564,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Repetto ": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.6,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.08461538461538462,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.1,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8192307692307692,
+  "confidence": [
+   0.75,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Benjamin Budish ": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Christian Bolu ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeff Edwards ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Joseph Martinetto ": {
+  "avg_sentiment_score": -0.008333333333333331,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.525,
+  "confidence": [
+   0.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Steven Chubak ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jonathan Craig ": {
+  "avg_sentiment_score": 0.12777777777777777,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8888888888888888,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stacy Hammond ": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.6
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Bernard Clark ": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Neesha Hathi ": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Crawford ": {
+  "avg_sentiment_score": 0.14615384615384613,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.6,
+   -0.45,
+   0.55,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.35,
+   0.45,
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7730769230769231,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "CFO & MD"
+ },
+ "Brennan Hawken ": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Craig Siegenthaler ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kyle Voigt ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Daniel Fannon ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

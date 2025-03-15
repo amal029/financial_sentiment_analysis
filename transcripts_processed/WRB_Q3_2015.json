@@ -1,0 +1,59 @@
+{
+ "date": "2015-10-26 17:00:00",
+ "William Berkley": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Robert Berkley": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eugene Ballard": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Crystal Lu": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

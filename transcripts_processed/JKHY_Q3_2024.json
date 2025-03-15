@@ -1,0 +1,306 @@
+{
+ "date": "2024-05-08 08:45:00",
+ "Vance Sherard": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "David Foss": {
+  "avg_sentiment_score": 0.540625,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.55,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.791875,
+  "confidence": [
+   0.9,
+   0.85,
+   0.67,
+   0.9,
+   0.68,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.68,
+   0.6,
+   0.69,
+   1.0
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Gregory Adelson": {
+  "avg_sentiment_score": 0.46842105263157896,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.05,
+   1.0,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.45,
+   0.55,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7736842105263158,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "Mimi Carsley": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.0,
+   0.5,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "CFO & Treasurer"
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Schmidt": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.605,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Vasundhara Govil": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tyler DuPont": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "David Koning": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "James Faucette": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6266666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Charles Nabhan": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "John Davis": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Cristopher Kennedy": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Kenneth Suchoski": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

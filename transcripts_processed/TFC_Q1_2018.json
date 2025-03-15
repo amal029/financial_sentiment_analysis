@@ -1,0 +1,261 @@
+{
+ "date": "2018-04-20 08:00:00",
+ "Alan Greer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Kelly King": {
+  "avg_sentiment_score": 0.33095238095238094,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.45,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8095238095238095,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.8
+  ],
+  "title": "Executive Director"
+ },
+ "Daryl Bible": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Henson": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Senior EVP and Head of Banking & Insurance"
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Clarke Starnes": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Stephen Moss": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Unidentified Company Representative ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.75,
+   -0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Amanda Larsen ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Brian Klock": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kelly Stuart": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

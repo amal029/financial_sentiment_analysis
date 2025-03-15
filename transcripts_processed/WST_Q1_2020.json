@@ -1,0 +1,171 @@
+{
+ "date": "2020-04-23 09:00:00",
+ "Quintin Lai": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Green": {
+  "avg_sentiment_score": 0.5972222222222222,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.4,
+   0.65,
+   0.15,
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8694444444444445,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Non-Independent Chair of the Board, President & CEO"
+ },
+ "Bernard Birkett": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.75,
+   0.65,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Senior VP and Chief Financial & Operations Officer"
+ },
+ "Larry Solow": {
+  "avg_sentiment_score": 0.6625,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Paul Knight": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Danlei Yan": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Juan Avendano": {
+  "avg_sentiment_score": 0.44375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.5,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71625,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Courtney Owens": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

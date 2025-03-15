@@ -1,0 +1,212 @@
+{
+ "date": "2012-06-20 16:30:00",
+ "Kipp A. Bedard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.4
+  ]
+ },
+ "D. Mark Durcan": {
+  "avg_sentiment_score": 0.13636363636363635,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8136363636363636,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Ronald C. Foster": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Vice President of Finance"
+ },
+ "Mark W. Adams": {
+  "avg_sentiment_score": 0.5615384615384615,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.6,
+   0.0,
+   1.0,
+   0.45,
+   0.65,
+   0.85,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7769230769230769,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.9,
+   0.4,
+   0.75
+  ],
+  "title": "President"
+ },
+ "James Schneider - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Alex Gauna - JMP Securities LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kevin Cassidy - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Shawn R. Webster - Macquarie Research": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.8,
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher J. Muse - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Ada Menaker - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Uche X. Orji - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.0625,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian C. Peterson - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

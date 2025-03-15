@@ -1,0 +1,205 @@
+{
+ "date": "2022-02-17 10:00:00",
+ "Lynn Moore": {
+  "avg_sentiment_score": 0.2575,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.05,
+   -0.45,
+   0.0,
+   -0.45,
+   0.65,
+   0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.75,
+   0.75,
+   0.65,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   1.0
+  ]
+ },
+ "Brian Miller": {
+  "avg_sentiment_score": 0.2818181818181818,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.05,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Matt VanVliet": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Heckmann": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8566666666666668,
+  "confidence": [
+   1.0,
+   0.9,
+   0.67
+  ]
+ },
+ "UnidentifiedAnalyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Charlie Strauzer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Berg": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "A \u2013 Brian Miller": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Alex Zukin": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Brent Bracelin": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8433333333333334,
+  "confidence": [
+   0.85,
+   1.0,
+   0.68
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

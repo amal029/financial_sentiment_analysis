@@ -1,0 +1,95 @@
+{
+ "date": "2012-08-03 09:00:00",
+ "Tim Smith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Mark Ordan": {
+  "avg_sentiment_score": 0.07272727272727274,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marc Richards": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Greg Neeb": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Daniel Bernstein \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.10500000000000001,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

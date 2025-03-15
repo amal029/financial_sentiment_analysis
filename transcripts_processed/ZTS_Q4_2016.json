@@ -1,0 +1,227 @@
+{
+ "date": "2017-02-16 08:30:00",
+ "Steve Frank - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Juan Ram\u00f3n Alaix - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.4473684210526316,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   -0.15,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.85,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8105263157894737,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Glenn David - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.385,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.75,
+   0.75,
+   0.05
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   0.8,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.6
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "Louise Chen - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Derik de Bruin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gregg Gilbert - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erin Wright - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jonathan Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brett W. S. Wong - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John C. Kreger - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jami Rubin - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Arfaei - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David R. Risinger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Schott - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kathy M. Miner - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

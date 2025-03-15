@@ -1,0 +1,414 @@
+{
+ "date": "2017-10-24 09:00:00",
+ "Bruce Jermeland - 3M Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Inge G. Thulin - 3M Co.": {
+  "avg_sentiment_score": 0.4107142857142857,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   0.75,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.75,
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.9226190476190477,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.6
+  ]
+ },
+ "Nicholas C. Gangestad - 3M Co.": {
+  "avg_sentiment_score": 0.20441176470588235,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.05,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   -1.0,
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7770588235294118,
+  "confidence": [
+   0.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.65,
+   0.6,
+   0.75,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Andrew Burris Obin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Charles Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.35,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Andrew Kaplowitz - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Paul McCarthy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Davis - Melius Research LLC": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John G. Inch - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.195,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Eric Winoker - UBS": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8825000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.68
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   0.67
+  ]
+ },
+ "Laurence Alexander - Jefferies LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

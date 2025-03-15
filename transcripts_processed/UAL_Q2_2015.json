@@ -1,0 +1,358 @@
+{
+ "date": "2015-07-23 10:30:00",
+ "Irene Foxhall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Jonathan Ireland": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Jeff Smisek": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.85,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Jim Compton": {
+  "avg_sentiment_score": 0.2178571428571429,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.45,
+   0.15,
+   0.45,
+   0.85,
+   0.45,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8178571428571428,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Vice Chairman and Chief Revenue Officer"
+ },
+ "Greg Hart": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "President"
+ },
+ "John Rainey": {
+  "avg_sentiment_score": 0.302,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.05,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.722,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Julie Yates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Baker": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Andrew Didora": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Hunter Keay": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph DeNardi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Linenberg": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Helane Becker": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan McKenzie": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Duane Pfennigwerth": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.766,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   0.68
+  ]
+ },
+ "David Fintzen": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.96875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Kim": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

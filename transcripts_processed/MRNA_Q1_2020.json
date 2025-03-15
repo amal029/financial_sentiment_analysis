@@ -1,0 +1,213 @@
+{
+ "date": "2020-05-07 08:00:00",
+ "Lavina Talukdar": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "St\u00e9phane Bancel": {
+  "avg_sentiment_score": 0.2545454545454545,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   -0.45,
+   0.05,
+   0.0,
+   -0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8227272727272728,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.5,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Tal Zaks": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.6,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   0.5,
+   0.5,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.9
+  ]
+ },
+ "Lorence Kim": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Cory Kasimov": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Salveen Richter": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Juan Andres": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ],
+  "title": "President of Strategic Partnerships & Enterprise Expansion"
+ },
+ "Ted Tenthoff": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Yasmeen Rahimi": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Alec Stranahan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Alan Carr": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gobind Singh": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Hartaj Singh": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.785,
+  "confidence": [
+   0.9,
+   0.67
+  ]
+ }
+}

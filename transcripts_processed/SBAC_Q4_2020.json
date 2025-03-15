@@ -1,0 +1,437 @@
+{
+ "date": "2021-02-22 17:00:00",
+ "Mark DeRussy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Brendan Cavanagh": {
+  "avg_sentiment_score": 0.11250000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.75,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark DeRussy ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Stoops ": {
+  "avg_sentiment_score": 0.12558139534883722,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8430232558139535,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Prentiss": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Jeff Stoops": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   0.85,
+   0.4
+  ]
+ },
+ "Brendan Cavanagh ": {
+  "avg_sentiment_score": 0.13571428571428573,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   -1.0,
+   0.45,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.65,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Prentiss ": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jonathan Atkin ": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Walter Piecyk ": {
+  "avg_sentiment_score": -0.008333333333333331,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Nicholas Del Deo ": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Barden ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Colby Synesael ": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Feldman ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Amir Rozwadowski ": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Luebchow ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Simon Flannery ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Batya Levi ": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Rollins ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Spencer Kurn ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Tim Long ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brandon Nispel ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Sami Badri ": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Guarino ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

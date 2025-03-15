@@ -1,0 +1,173 @@
+{
+ "date": "2020-02-04 08:00:00",
+ "Bryan Brokmeier": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher O'Connell": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.05,
+   0.45,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.05,
+   0.55,
+   0.65,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Sherry Buck": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   0.15,
+   0.55,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Brennan": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Derik de Bruin": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Douglas Schenkel": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel Arias": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Knight": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen Beuchaw": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

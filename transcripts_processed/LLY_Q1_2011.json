@@ -1,0 +1,266 @@
+{
+ "date": "2011-04-18 09:00:00",
+ "Phil Johnson": {
+  "avg_sentiment_score": 0.028947368421052635,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.5,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8894736842105262,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ronika Pletcher": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Derica Rice": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.85,
+   0.15,
+   1.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.740909090909091,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.8,
+   0.85,
+   0.9,
+   0.75,
+   0.8,
+   0.75,
+   0.6
+  ],
+  "title": "CFO & Executive VP of Global Services"
+ },
+ "Jami Rubin - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jan Lundberg": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.9,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.9
+  ]
+ },
+ "Tim Anderson - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Jeffrey Simmons": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Gregory Gilbert - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steve Scala - Cowen and Company, LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Boris - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert Hazlett - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez - Leerink Swann LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Catherine Arnold - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Marc Goodman - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jill Thoren": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Christopher Schott - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Damien Conover": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

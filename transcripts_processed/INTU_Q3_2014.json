@@ -1,0 +1,226 @@
+{
+ "date": "2014-05-20 00:00:00",
+ "Matt Rhodes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brad Smith": {
+  "avg_sentiment_score": 0.6208333333333333,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.85,
+   0.85,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8520833333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.6,
+   0.85,
+   0.9
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "R. Williams": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Peter Goldmacher": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Walter Pritchard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brent Thill": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gil Luria": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gregory Dunham": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jennifer Swanson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Scott Schneeberger": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Willi": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Millman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

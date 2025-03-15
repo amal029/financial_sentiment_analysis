@@ -1,0 +1,154 @@
+{
+ "date": "2016-08-04 08:30:00",
+ "Melissa Marsden - Senior Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "William Leo Meaney - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.24047619047619045,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666666,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Roderick Day - Chief Financial Officer & Executive Vice President, Iron Mountain, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.5
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Shlomo Rosenbaum - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "George K. F. Tong - Piper Jaffray & Co. (Broker)": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Charles Steinerman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8380000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.67,
+   0.67
+  ]
+ },
+ "Justin P. Hauke - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "date": "2018-05-01 11:00:00",
+ "Antonella Franzen - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.1142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9535714285714285,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "George R. Oliver - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.39807692307692305,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8288461538461539,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Brian J. Stief - Johnson Controls International Plc": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Julian Mitchell - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Winoker - UBS Securities LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Charles Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gautam Khanna - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.67,
+   0.85,
+   0.6,
+   0.68
+  ]
+ },
+ "Andrew Kaplowitz - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.734,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.67,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

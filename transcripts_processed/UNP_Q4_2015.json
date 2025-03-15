@@ -1,0 +1,476 @@
+{
+ "date": "2016-01-21 08:45:00",
+ "Lance M. Fritz": {
+  "avg_sentiment_score": 0.2867647058823529,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   -0.15,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   -0.45,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8261764705882353,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Eric L. Butler": {
+  "avg_sentiment_score": 0.1105263157894737,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -1.0,
+   -0.15,
+   0.65,
+   1.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8142105263157895,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.67,
+   0.6,
+   1.0
+  ],
+  "title": "Executive VP, Chief Administrative Officer & Corporate Secretary"
+ },
+ "Cameron A. Scott": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.4
+  ],
+  "title": "Executive VP & COO of Union Pacific Railroad Company"
+ },
+ "Robert M. Knight, Jr": {
+  "avg_sentiment_score": 0.0045454545454545504,
+  "sentiment_score": [
+   0.05,
+   0.5,
+   0.45,
+   0.15,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   -0.45,
+   -0.35,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Salmon ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Brandon Oglenski ": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Scott Group ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Alex Saraci ": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6266666666666667,
+  "confidence": [
+   0.8,
+   0.4,
+   0.68
+  ]
+ },
+ "Thomas Wadewitz": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Unidentified Analyst ": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Troy ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "John Barnes": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Justin Long": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "Jeffrey Kauffman ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Hartford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Cleo Zagrean": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.5,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Sami Hazboun": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "date": "2015-03-26 09:00:00",
+ "Chris Tham": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Laurent Potdevin": {
+  "avg_sentiment_score": 0.3888888888888889,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.75,
+   0.0,
+   0.55,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7611111111111111,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Stuart Haselden": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.55,
+   0.45,
+   1.0,
+   0.45,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.69375,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew McClintock": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Oliver Chen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Tara Poseley": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive"
+ },
+ "Kevin Heenan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Edward Yruma": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Adrienne Tennant": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Howard Tubin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

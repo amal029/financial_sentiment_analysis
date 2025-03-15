@@ -1,0 +1,209 @@
+{
+ "date": "2021-08-05 16:30:00",
+ "Amy Wakeham": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mick Farrell": {
+  "avg_sentiment_score": 0.5764705882352942,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   0.9
+  ]
+ },
+ "Brett Sandercock": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "John Deakin-Bell": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Dan Hurren": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "David Bailey": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.1,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Sean Laaman": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Maggie Nolan": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "James Hollings": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9
+  ]
+ },
+ "Andrew Paine": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Rob Douglas": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "President & COO"
+ },
+ "Chris Cooper": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Lyanne Harrison": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Low": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.75,
+   0.68,
+   1.0,
+   0.85
+  ]
+ }
+}

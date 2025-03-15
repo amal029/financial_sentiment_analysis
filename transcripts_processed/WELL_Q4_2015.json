@@ -1,0 +1,433 @@
+{
+ "date": "2016-02-18 10:00:00",
+ "Jeff Miller": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Tom DeRosa": {
+  "avg_sentiment_score": 0.33636363636363636,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.45,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   -0.75,
+   0.45
+  ],
+  "avg_confidence": 0.8068181818181818,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Scott Brinker": {
+  "avg_sentiment_score": 0.1642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.05,
+   0.65,
+   0.0,
+   0.15,
+   0.15,
+   -0.45,
+   0.45,
+   1.0,
+   -0.35,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   -0.45,
+   0.55,
+   0.45,
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7321428571428571,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Investment Officer and Executive Vice President"
+ },
+ "Scott Estes": {
+  "avg_sentiment_score": 0.1423076923076923,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.35,
+   0.05,
+   0.55,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7423076923076923,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Josh Raskin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Ross Nussbaum": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Chad Vanacore": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Vikram Malhotra": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Vin Chao": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Jordan Sadler": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya": {
+  "avg_sentiment_score": 0.11249999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Carroll": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Smedes Rose": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Anderson": {
+  "avg_sentiment_score": 0.014285714285714282,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Karin Ford": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Kevin Tyler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Mueller": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Todd Stender": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Jonathan Hughes": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

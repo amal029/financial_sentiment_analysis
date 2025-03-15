@@ -1,0 +1,342 @@
+{
+ "date": "2019-04-24 08:00:00",
+ "Dennis Lange": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "James Loree": {
+  "avg_sentiment_score": 0.27291666666666664,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Donald Allan, Jr.": {
+  "avg_sentiment_score": 0.22749999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.865,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jeffery Ansell": {
+  "avg_sentiment_score": 0.77,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "Executive Vice President"
+ },
+ "Jeffrey Sprague": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Rehaut": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Tim Wojs": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.67,
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Joe Ritchie": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Deepa Raghavan": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Rob Wertheimer": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Justin Speer": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Barry": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Wood": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David MacGregor": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Ken Zener": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Susan Maklari": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Bergner": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

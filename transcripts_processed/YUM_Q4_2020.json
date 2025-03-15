@@ -1,0 +1,137 @@
+{
+ "date": "2021-02-04 08:15:00",
+ "Keith Siegner": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Gibbs": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   0.85,
+   0.55,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Chris Turner": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "David Tarantino": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Glass": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "John Ivankoe": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Greg Francfort": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dennis Geiger": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Tower": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

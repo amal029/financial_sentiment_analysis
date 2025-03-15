@@ -1,0 +1,333 @@
+{
+ "date": "2017-04-26 12:00:00",
+ "Stephen C. Movius - Northrop Grumman Corp.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Wesley G. Bush - Northrop Grumman Corp.": {
+  "avg_sentiment_score": 0.28714285714285714,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8511428571428571,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Kenneth L. Bedingfield - Northrop Grumman Corp.": {
+  "avg_sentiment_score": 0.20681818181818182,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.15,
+   0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8054545454545454,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   0.9,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "Robert Stallard - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew McConnell - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Myles A. Walton - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Noah Poponak - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Hunter K. Keay - Wolfe Research LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Carter Copeland - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Douglas S. Harned - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Cai von Rumohr - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Howard A. Rubel - Jefferies LLC": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jason Gursky - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter J. Arment - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

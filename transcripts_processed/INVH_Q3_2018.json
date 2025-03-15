@@ -1,0 +1,335 @@
+{
+ "date": "2018-11-05 11:00:00",
+ "Greg Van Winkle": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dallas Tanner": {
+  "avg_sentiment_score": 0.19464285714285715,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   0.15,
+   0.05,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Co-Founder, CEO & Director"
+ },
+ "Charles Young": {
+  "avg_sentiment_score": 0.19642857142857142,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.55,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "Ernest Freedman": {
+  "avg_sentiment_score": 0.09642857142857143,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   -0.15,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Douglas Harter": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Shirley Wu": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nick Joseph": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Haendel Emmanuel St. Juste": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "John Pawlowski": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Richard Hill": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Steve Sakwa": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Jade Rahmani": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Derek Johnston": {
+  "avg_sentiment_score": 0.11250000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Ryan Gilbert": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

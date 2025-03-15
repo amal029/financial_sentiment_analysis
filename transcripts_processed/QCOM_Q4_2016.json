@@ -1,0 +1,205 @@
+{
+ "date": "2016-11-02 16:45:00",
+ "John T. Sinnott - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Steven M. Mollenkopf - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.7875,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Special Advisor"
+ },
+ "Derek K. Aberle - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.45,
+   0.55,
+   0.05,
+   -0.15,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.8,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.9
+  ],
+  "title": "President"
+ },
+ "George S. Davis - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "T. Michael Walkley - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Cristiano R. Amon - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President & Director"
+ },
+ "James E. Faucette - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simona K. Jankowski - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rod B. Hall - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Patrick Long - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Romit J. Shah - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Arcuri - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David M. Wong - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Edward Snyder - Charter Equity Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Daniel Joseph Bartus - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

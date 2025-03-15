@@ -1,0 +1,205 @@
+{
+ "date": "2019-01-30 08:30:00",
+ "Kenneth J. Apicerno": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Marc N. Casper": {
+  "avg_sentiment_score": 0.5619047619047619,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.15,
+   0.65,
+   0.15,
+   0.85,
+   0.45,
+   0.65,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.0,
+   -0.35,
+   0.85,
+   0.15,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8595238095238096,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Stephen Williamson": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.5
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ross Muken": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.9,
+   0.6,
+   0.67
+  ]
+ },
+ "Derik De Bruin": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Doug Schenkel": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Steve Beuchaw": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Patrick Donnelly": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Daniel Arias": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Brennan": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "date": "2014-07-23 10:30:00",
+ "Michael J.Yates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew K. Silvernail": {
+  "avg_sentiment_score": 0.21354166666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.75,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7972916666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.67,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Allison A. Poliniak-Cusic \u2013 Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nathan H. Jones \u2013 Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.4428571428571429,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew W. McConnell \u2013 Citi Investment Research.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8383333333333334,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew J. Summerville \u2013 KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Heath A. Mitts": {
+  "avg_sentiment_score": 0.3541666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8208333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "R. Scott Graham \u2013 Jefferies LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Graham \u2013 Jefferies & Company": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "R. Scott Graham - Jefferies LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Charley D. Brady \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Brady \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul R. Knight \u2013 Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Paul R. Knight \u2013 Janney Capital Markets": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "D. Mark Douglas \u2013 Longbow Research LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Giannakouros \u2013 Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Giordano \u2013 Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6725,
+  "confidence": [
+   0.67,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Walter S. Liptak - Global Hunter Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Walter S. Liptak \u2013 Global Hunter Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

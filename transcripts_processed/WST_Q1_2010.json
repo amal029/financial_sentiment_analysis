@@ -1,0 +1,183 @@
+{
+ "date": "2010-04-29 09:00:00",
+ "John Woolford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Don Morel": {
+  "avg_sentiment_score": 0.23823529411764705,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7823529411764706,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Bill Federici": {
+  "avg_sentiment_score": 0.146875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.790625,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Arnie Ursaner- CJS Securities": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Raphael - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ross Taylor - CL King": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Hilgenbrink - Jefferies & Company": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jim Sidoti - Sidoti & Company": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

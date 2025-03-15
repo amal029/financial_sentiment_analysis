@@ -1,0 +1,315 @@
+{
+ "date": "2022-07-18 12:00:00",
+ "Jill Sawyer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Tim Arndt": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   -0.45,
+   -0.15,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "CFO, MD of Treasury & Financial Planning and Treasurer"
+ },
+ "Craig Mailman": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Hamid Moghadam": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   0.15,
+   0.85,
+   -0.35,
+   -0.15,
+   0.05,
+   0.85,
+   -0.45,
+   0.05,
+   0.05,
+   0.05,
+   0.0,
+   0.05,
+   -0.45,
+   0.05,
+   -0.35,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7424999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Chris Caton": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.55,
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Steve Sakwa": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Catherwood": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Letter": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ki Bin Kim": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Kim": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ronald Kamdem": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mike Curless": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Todd Thomas": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Anthony Powell": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vince Tibone": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Carroll": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nikita Bely": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Crow": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Derek Johnston": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dave Rogers": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Bilerman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

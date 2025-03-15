@@ -1,0 +1,344 @@
+{
+ "date": "2011-07-14 09:15:00",
+ "Tim Jerzyk": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Novak": {
+  "avg_sentiment_score": 0.4076923076923077,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   -0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7769230769230769,
+  "confidence": [
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman and Chairman of Executive & Finance Committee"
+ },
+ "Richard Carucci": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   -0.15,
+   -0.45,
+   0.45,
+   0.05,
+   1.0,
+   0.65,
+   0.45,
+   0.15,
+   0.6,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "President"
+ },
+ "John Glass - Morgan Stanley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joseph Buckley - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Palmer - UBS Investment Bank": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Howard Penney - Prudential Equity Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Kelter - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Tarantino - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Jeffrey Omohundro - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jake Bartlett - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.6,
+   -0.15,
+   0.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Vice Chairman, Chairman of Yum! Restaurants China and Chief Executive Officer of Yum! Restaurants China"
+ },
+ "Jason West - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Unknown Analyst - ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mitchell Speiser - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sara Senatore - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Keith Siegner - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John Ivankoe - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gregory Badishkanian - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.8,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve West": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Larry Miller - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

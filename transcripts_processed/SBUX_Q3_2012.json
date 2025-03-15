@@ -1,0 +1,245 @@
+{
+ "date": "2012-07-26 17:00:00",
+ "JoAnn DeGrande": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Howard D. Schultz": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Founder & Chairman Emeritus"
+ },
+ "Troy Alstead": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.35,
+   0.05,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7272727272727273,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   0.75,
+   0.6,
+   0.8,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "Chief Operations Officer"
+ },
+ "John Culver": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Non-Executive Advisor"
+ },
+ "Joseph Buckley \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sharon Zackfia \u2013 William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Kelter \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Howard Schultz": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -0.15,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "David Palmer \u2013 UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Ivankoe \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cliff Burrows": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Group President of Siren Retail"
+ },
+ "Keith Siegner \u2013 Credit Suisse": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sara Senatore \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Bernstein \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Glass \u2013 Morgan Stanley & Co. Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Will Slabaugh \u2013 Stephens Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Jason West \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew DiFrisco \u2013 Lazard Capital Markets": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

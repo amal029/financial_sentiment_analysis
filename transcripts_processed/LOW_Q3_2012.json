@@ -1,0 +1,237 @@
+{
+ "date": "2012-11-19 09:00:00",
+ "Robert Niblock": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Gregory Bridgeford": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.8,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.5,
+   1.0,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Robert Hull": {
+  "avg_sentiment_score": 0.023333333333333338,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Budd Bugatch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Gober": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Colin McGranahan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Gregory Melich": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Gary Balter": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Binder": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

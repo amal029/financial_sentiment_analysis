@@ -1,0 +1,185 @@
+{
+ "date": "2014-05-06 16:30:00",
+ "Lea Ann McNabb": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Steven W. Berglund": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -1.0,
+   0.15,
+   0.45,
+   0.45,
+   0.05,
+   0.55,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.05,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7434782608695653,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Francois Delepine": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.8,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jonathan Ho - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael E. Cox - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Ian Ing - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Andrea James - Dougherty & Company LLC, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard C. Eastman - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Spinola - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

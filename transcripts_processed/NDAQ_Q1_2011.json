@@ -1,0 +1,410 @@
+{
+ "date": "2011-04-20 08:00:00",
+ "Vince Palmiere": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Greifeld": {
+  "avg_sentiment_score": 0.4076086956521739,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.85,
+   0.65,
+   1.0,
+   1.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   0.55,
+   0.65,
+   -0.45,
+   0.55,
+   0.65,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8163043478260869,
+  "confidence": [
+   0.4,
+   0.4,
+   0.9,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Executive Officer, Staff Director and Member of Executive Committee"
+ },
+ "Ronald Hassen": {
+  "avg_sentiment_score": 0.23461538461538464,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Interim Chief Financial Officer and Senior Vice President"
+ },
+ "Howard Chen - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9400000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Richard Repetto - Sandler O`Neill": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick O'Shaughnessy - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Edward Knight": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Harris - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Fannon - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Roger Freeman - Barclays Capital": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8240000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Christopher Harris - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Heinz - Jefferies & Company": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Carrier - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Niamh Alexander - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": 0.09375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Noll": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President of Transaction Services - US and UK"
+ },
+ "Brian Bedell - ISI Group Inc.": {
+  "avg_sentiment_score": 0.41000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Casteleyn - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Rob Rutschow - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": -0.13999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

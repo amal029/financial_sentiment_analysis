@@ -1,0 +1,179 @@
+{
+ "date": "2023-02-08 16:15:00",
+ "Julie Cameron-Doe": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Craig Billings": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8194444444444444,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Carlo Santarelli": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Frederic Luvisutto": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Joe Greff": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Cassandra Lee": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.8
+  ]
+ },
+ "Daniel Politzer": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Stephen Grambling": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Gullbrants": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

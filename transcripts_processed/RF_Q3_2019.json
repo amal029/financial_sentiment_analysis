@@ -1,0 +1,266 @@
+{
+ "date": "2019-10-22 11:00:00",
+ "Dana Nolan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Turner": {
+  "avg_sentiment_score": 0.305,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.765,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "David Turner": {
+  "avg_sentiment_score": 0.06052631578947369,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.35,
+   0.55,
+   0.45,
+   0.15,
+   -0.15,
+   0.05,
+   -0.35,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7289473684210526,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Ryan Nash": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": -0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Owen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ],
+  "title": "COO & Senior EVP"
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Saul Martinez": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brian Foran": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Barbara Godin": {
+  "avg_sentiment_score": -0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Ronald Smith": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Marinac": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Scouten": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

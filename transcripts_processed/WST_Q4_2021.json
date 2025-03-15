@@ -1,0 +1,171 @@
+{
+ "date": "2022-02-17 09:00:00",
+ "Quintin Lai": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Eric Green": {
+  "avg_sentiment_score": 0.675,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.65,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   1.0
+  ],
+  "title": "Non-Independent Chair of the Board, President & CEO"
+ },
+ "Bernard Birkett": {
+  "avg_sentiment_score": 0.41111111111111115,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Senior VP and Chief Financial & Operations Officer"
+ },
+ "Derik DeBruin": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Larry Solow": {
+  "avg_sentiment_score": 0.72,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.05,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.686,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jacob Johnson": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Paul Knight": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Dave Windley": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "date": "2016-08-02 09:00:00",
+ "Kate Scolnick - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stephen James Luczo - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   -0.15,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8224999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "David H. Morton - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Sherri A. Scribner - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Rich J. Kugele - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ananda P. Baruah - Brean Capital LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.97,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

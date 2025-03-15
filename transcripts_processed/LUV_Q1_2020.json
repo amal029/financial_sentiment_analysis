@@ -1,0 +1,305 @@
+{
+ "date": "2020-04-28 11:30:00",
+ "Ryan Martinez": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Gary Kelly": {
+  "avg_sentiment_score": 0.066,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   -1.0,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   0.0,
+   -0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.5,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Van de Ven": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas Nealon": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.75,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Tammy Romo": {
+  "avg_sentiment_score": 0.18181818181818182,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8954545454545454,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Hunter Keay": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Duane Pfennigwerth": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jamie Baker": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Linenberg": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Joe Caiado": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ },
+ "Linda Rutherford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Mary Schlangenstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tracy Rucinski": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Leslie Josephs": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Alison Sider": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Conor Cunningham": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Koenig": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Dawn Gilbertson": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Slotnick": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

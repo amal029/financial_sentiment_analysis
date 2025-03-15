@@ -1,0 +1,261 @@
+{
+ "date": "2018-05-02 08:30:00",
+ "Anurag Maheshwari - Harris Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "William M. Brown - Harris Corp.": {
+  "avg_sentiment_score": 0.3390625,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Rahul Ghai - Harris Corp.": {
+  "avg_sentiment_score": 0.5214285714285715,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.85,
+   0.0,
+   0.55,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   0.65
+  ]
+ },
+ "Robert M. Spingarn - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Strauss - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Noah Poponak - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jon Raviv - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gautam Khanna - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Carter Copeland - Melius Research LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter John Skibitski - Drexel Hamilton LLC": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Stallard - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6675,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.67
+  ]
+ }
+}

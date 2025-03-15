@@ -1,0 +1,413 @@
+{
+ "date": "2016-07-19 08:45:00",
+ "Stephen J. Hemsley - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.19078947368421054,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.9078947368421053,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Larry C. Renfro - Chief Executive Officer-Optum & Vice Chairman, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.85
+  ],
+  "title": "Vice Chairman and Chief Executive Officer of Optum"
+ },
+ "David Scott Wichmann - President": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "Executive Officer"
+ },
+ "Matthew Borsch - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Nelson - Chief Executive Officer, UnitedHealthcare Medicare & Retirement": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Justin Lake - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Daniel J. Schumacher - Chief Operating Officer and Chief Financial Officer, UnitedHealthcare, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05,
+   0.0,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Sarah James - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Scott Fidel - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tami L. Reller - Chief Financial Officer, Optum, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "A. J. Rice - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "John Franklin Rex - Chief Financial Officer": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Peter Heinz Costa - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Mark A. Thierer - Chief Executive Officer, OptumRx, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Andy Schenker - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Austin T. Pittman - Chief Executive Officer, UnitedHealthcare Community & State, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0
+  ]
+ },
+ "Chris Rigg - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael J. Baker - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Berkowitz - Executive Vice President, Optum, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Sheryl R. Skolnick - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Frank Morgan - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Weissel - Executive Vice President, Optum Consumer Solutions, UnitedHealth Group, Inc": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Christine Arnold - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Bill Miller - Chief Executive Officer, OptumInsight, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Ana A. Gupte - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Larsen - Executive Vice President, OptumCare, UnitedHealth Group, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joshua Raskin - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

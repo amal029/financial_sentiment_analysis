@@ -1,0 +1,199 @@
+{
+ "date": "2014-10-16 11:00:00",
+ "Mark Joslin": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Manny Perez De La Mesa": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ],
+  "title": "Chief Executive Officer, President and Inside Director"
+ },
+ "Matt Duncan - Stephens Incorporated": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Manuel Perez De La Mesa": {
+  "avg_sentiment_score": 0.32592592592592595,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   0.85,
+   0.35,
+   1.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8155555555555556,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   0.6,
+   0.67,
+   0.6
+  ]
+ },
+ "David Mann - Johnson Rice": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Manthey - Robert W. Baird": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Merkel - William Blair": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Anthony Lebiedzinski - Sidoti": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Zikeli - Longbow Research": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

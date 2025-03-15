@@ -1,0 +1,141 @@
+{
+ "date": "2020-02-26 11:00:00",
+ "Eric Senay": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Tom Faust": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.65,
+   -0.35,
+   0.0,
+   0.55,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8181818181818182,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Laurie Hylton": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.85
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Mike Carrier": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Jeff Drezner": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Katz": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

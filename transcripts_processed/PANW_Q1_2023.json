@@ -1,0 +1,293 @@
+{
+ "date": "2022-11-17 07:00:00",
+ "Clay Bilby": {
+  "avg_sentiment_score": 0.090625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.953125,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nikesh Arora": {
+  "avg_sentiment_score": 0.4071428571428572,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   -0.15,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.769047619047619,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   0.6,
+   0.9,
+   0.4
+  ]
+ },
+ "Dipak Golechha": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "A - Clay Bilby": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Saket Kalia": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Hamza Fodderwala": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Lee Klarich": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Executive VP & Chief Product Officer"
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Nowinski": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Philip Winslow": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Fatima Boolani": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Turits": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Peter Auty": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Roger Boyd": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John DiFucci": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Adam Borg": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robbie Owens": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Hedberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gray Powell": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

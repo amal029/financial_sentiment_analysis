@@ -1,0 +1,356 @@
+{
+ "date": "2015-01-29 09:00:00",
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Martin L. Flanagan": {
+  "avg_sentiment_score": 0.2779411764705882,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.45,
+   0.85,
+   0.85,
+   -0.35,
+   -0.45,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   -0.45,
+   0.05,
+   -0.15,
+   -0.45,
+   0.05,
+   0.05,
+   0.75,
+   0.0,
+   0.5,
+   0.0,
+   0.05,
+   0.65,
+   0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7808823529411765,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Loren M. Starr": {
+  "avg_sentiment_score": 0.18695652173913044,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.65,
+   -0.15,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   -0.35,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Senior MD & Chief Executive Officer, Asia Pacific"
+ },
+ "Michael S. Kim - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Kenneth B. Worthington - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "William R. Katz - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Carrier - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "M. Patrick Davitt - Autonomous Research LLP": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Daniel Thomas Fannon - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Eric N. Berg - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Lucas Montgomery - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Robert Lee - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Harris - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Bedell - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Douglas Sipkin - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Greggory Warren - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

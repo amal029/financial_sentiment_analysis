@@ -1,0 +1,354 @@
+{
+ "date": "2017-04-27 12:30:00",
+ "Marcy Brand - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gary C. Kelly - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.11714285714285716,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   -0.15,
+   0.45,
+   -1.0,
+   -0.15,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.55,
+   0.5,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8691428571428572,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.67,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tammy Romo - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   0.6,
+   0.67,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Jack Atkins - Stephens, Inc.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Duane Pfennigwerth - Evercore ISI": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brandon Oglenski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Michael J. Linenberg - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Jamie N. Baker - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael G. Van de Ven - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Rajeev Lalwani - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Thomas M. Nealon - Southwest Airlines Co.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Savanthi N. Syth - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Helane Becker - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Linda B. Rutherford - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Conor Shine - The Dallas Morning News, Inc.": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrea Ahles - Fort Worth Star-Telegram": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Koenig - The Associated Press": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Robert E. Jordan - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Mary Schlangenstein - Bloomberg News": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

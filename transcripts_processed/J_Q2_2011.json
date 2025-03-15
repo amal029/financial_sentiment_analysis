@@ -1,0 +1,458 @@
+{
+ "date": "2011-04-26 11:00:00",
+ "Patricia Bruner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Prosser": {
+  "avg_sentiment_score": 0.14047619047619048,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7809523809523808,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Craig Martin": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.55,
+   -1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -1.0,
+   -0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.15,
+   0.05,
+   1.0,
+   0.15,
+   0.0,
+   -0.45,
+   1.0,
+   0.15,
+   0.05,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   -0.45,
+   0.65,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.769,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Jamie Cook - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Will Gabrielski - Gleacher & Company, Inc.": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Paget - Morgan Joseph": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alexander Rygiel - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Noel Watson": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Michael Dudas - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Avram Fisher - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.026190476190476188,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8904761904761904,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Levine - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7616666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Andy Kaplowitz - Barclays Capital": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "George Kunberger": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Ritchie - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Connors - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Rogers - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6933333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.68
+  ]
+ },
+ "Brandon Verblow - UBS Investment Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Norfleet - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5640000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "date": "2021-04-29 08:00:00",
+ "Julie Trudell": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joseph Zubretsky": {
+  "avg_sentiment_score": 0.24545454545454548,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.05,
+   -0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.85,
+   0.65,
+   0.0,
+   0.15,
+   -0.45,
+   0.15,
+   0.45,
+   0.85,
+   0.15,
+   -0.45,
+   0.45,
+   0.05,
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mark Keim": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Senior EVP, CFO & Treasurer"
+ },
+ "Kevin Fischbeck": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.6,
+   -0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "A.J. Rice": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Fidel": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Steve Valiquette": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Raskin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Borsch": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "date": "2021-07-28 08:30:00",
+ "Mike Cieplak": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Chris Kempczinski": {
+  "avg_sentiment_score": 0.5638888888888889,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.75,
+   0.45,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   0.15,
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   0.85,
+   0.45,
+   0.45,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7694444444444444,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kevin Ozan": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   -0.15,
+   0.45,
+   0.55,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Senior Executive Vice President of Strategic Initiatives"
+ },
+ "A \u2013 Mike Cieplak": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Charles": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Gonzalez": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dennis Geiger": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Tarantino": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Glass": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeff Bernstein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Greg Francfort": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Pete Saleh": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lauren Silberman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Ivankoe": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Q \u2013 Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

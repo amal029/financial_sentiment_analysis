@@ -1,0 +1,197 @@
+{
+ "date": "2017-10-25 10:00:00",
+ "Dave Cresci": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Rick McVey": {
+  "avg_sentiment_score": 0.40652173913043477,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   -1.0,
+   -1.0,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7617391304347826,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.67,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Tony DeLise": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Global Head of Corporate Development"
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Conor Fitzgerald": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tony Delise": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Shutler": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7471428571428572,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9528571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ }
+}

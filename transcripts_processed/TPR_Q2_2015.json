@@ -1,0 +1,253 @@
+{
+ "date": "2015-01-29 08:30:00",
+ "Andrea Shaw Resnick": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Victor Luis": {
+  "avg_sentiment_score": 0.418,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.85,
+   1.0,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.6
+  ],
+  "avg_confidence": 0.7924,
+  "confidence": [
+   0.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   0.8,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.67,
+   0.67,
+   0.6,
+   0.67,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Jane Nielsen": {
+  "avg_sentiment_score": 0.2772727272727273,
+  "sentiment_score": [
+   0.05,
+   0.6,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8427272727272727,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Bob Drbul": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Barbara Wyckoff": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ike Boruchow": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Oliver Chen": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Antoine Belge": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Erinn Murphy": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Morris": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Joan Payson": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Ed Yruma": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,186 @@
+{
+ "date": "2023-02-07 10:00:00",
+ "Andrea van der Berg": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Patrick Decker": {
+  "avg_sentiment_score": 0.5769230769230769,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.85,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.5,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "Sandy Rowland": {
+  "avg_sentiment_score": 0.4642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.45,
+   0.05,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew Pine": {
+  "avg_sentiment_score": 0.35555555555555557,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   -0.15,
+   -0.15,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7944444444444445,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "CEO, President, COO & Director"
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   0.9
+  ]
+ },
+ "Joe Giordano": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Mike Halloran ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Nathan Jones ": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Scott Davis ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "A \u2013Patrick Decker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andy Kaplowitz": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

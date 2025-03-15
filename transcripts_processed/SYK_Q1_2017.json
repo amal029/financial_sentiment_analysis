@@ -1,0 +1,296 @@
+{
+ "date": "2017-04-26 16:30:00",
+ "Kevin A. Lobo - Stryker Corp.": {
+  "avg_sentiment_score": 0.5227272727272727,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.85,
+   0.65,
+   0.55,
+   0.15,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.9,
+   0.6,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Katherine A. Owen - Stryker Corp.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.05,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.15,
+   0.55,
+   0.65,
+   0.05,
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7899999999999999,
+  "confidence": [
+   0.8,
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Glenn S. Boehnlein - Stryker Corp.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David R. Lewis - Aurelian Resources, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Michael Weinstein - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Robert Hopkins - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Frederick Wise - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Miksic - UBS Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Taylor - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Joanne Karen Wuensch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joshua Jennings - Cowen and Company LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "J. P. McKim - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Anthony Petrone - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard S. Newitter - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Craig William Bijou - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kaila P. Krum - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brent Williams - D.A. Davidson & Co. (Investment Management)": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ }
+}

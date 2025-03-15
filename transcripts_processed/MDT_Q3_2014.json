@@ -1,0 +1,198 @@
+{
+ "date": "2014-02-18 08:00:00",
+ "Jeff Warren": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Omar Ishrak": {
+  "avg_sentiment_score": 0.33,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.45,
+   0.65,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.85,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7866666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   0.4,
+   0.85
+  ]
+ },
+ "Gary Ellis": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "Consultant"
+ },
+ "Mike Weinstein": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mike Coyle": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.75,
+   0.75
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Matthew Dodd": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Roman": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Bob Hopkins": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Kristen Stewart": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "David Lewis": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Joann Wuensch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Derrick Sung": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

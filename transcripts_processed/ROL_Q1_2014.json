@@ -1,0 +1,298 @@
+{
+ "date": "2014-04-23 10:00:00",
+ "Marilynn Meek": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary": {
+  "avg_sentiment_score": 0.478125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Rollins": {
+  "avg_sentiment_score": 0.49375,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.8,
+   0.85,
+   0.4,
+   1.0,
+   0.9,
+   0.4,
+   0.6,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Harry": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0
+  ]
+ },
+ "Cynkus": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   0.9,
+   1.0
+  ]
+ },
+ "Question": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "and": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jamie Clement": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9171428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Sidoti & Company": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Gary Rollins": {
+  "avg_sentiment_score": -0.025000000000000005,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Harry Cynkus": {
+  "avg_sentiment_score": 0.2727272727272727,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   1.0,
+   0.05,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7518181818181818,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.67,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Joe Box ": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Jamie": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Clement": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Sean Kim - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

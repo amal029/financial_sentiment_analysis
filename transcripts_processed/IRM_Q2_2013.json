@@ -1,0 +1,174 @@
+{
+ "date": "2013-08-01 08:30:00",
+ "Melissa Marsden": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "William L. Meaney": {
+  "avg_sentiment_score": 0.28500000000000003,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.75
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Brian P. McKeon": {
+  "avg_sentiment_score": 0.2178571428571429,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.05,
+   0.0,
+   1.0,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "George K. Tong - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin D. McVeigh - Macquarie Research": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Steven Shui - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Andrew C. Steinerman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Justin P. Hauke - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Scott A. Schneeberger - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Berg - Post Advisory Group, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

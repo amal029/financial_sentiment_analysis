@@ -1,0 +1,271 @@
+{
+ "date": "2017-01-25 08:00:00",
+ "Eric Salander": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Donnelly": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.35,
+   0.65,
+   -0.45,
+   0.0,
+   0.75,
+   0.15,
+   -0.15,
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.55,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7984848484848486,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Frank Connor": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Gursky": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Rajeev Lalwani": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Sam Pearlstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Pete Skibitski": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Noah Poponak": {
+  "avg_sentiment_score": 0.1357142857142857,
+  "sentiment_score": [
+   -0.35,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Myles Walton": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Sheila Kahyaoglu": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "Peter Arment": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Stallard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,404 @@
+{
+ "date": "2014-01-30 11:00:00",
+ "Robert J. Wells": {
+  "avg_sentiment_score": 0.18666666666666668,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   1.0,
+   0.75,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7533333333333334,
+  "confidence": [
+   0.8,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher M. Connor": {
+  "avg_sentiment_score": 0.25625000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   0.45,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.846875,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Director"
+ },
+ "Robert A. Koort - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sean P. Hennessy": {
+  "avg_sentiment_score": 0.10517241379310346,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.75,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Duffy Fischer - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.6,
+   0.8
+  ]
+ },
+ "Aram Rubinson - Wolfe Research, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "P. J. Juvekar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Charles A. Dan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill - Zelman & Associates, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Nils-Bertil Wallin - CLSA Limited, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "John Roberts - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   0.6,
+   -1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Ivan M. Marcuse - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dmitry Silversteyn - Longbow Research LLC": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory S. Melich - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Edward Cerankosky - Northcoast Research": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Richard O'Reilly": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ }
+}

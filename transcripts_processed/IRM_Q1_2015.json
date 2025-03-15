@@ -1,0 +1,190 @@
+{
+ "date": "2015-04-29 08:30:00",
+ "Melissa Marsden - Senior Vice President, Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Leo Meaney - President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.3520833333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.15,
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7854166666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.65,
+   0.4
+  ]
+ },
+ "Roderick Day - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Kevin D. McVeigh - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "George K. F. Tong - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Andrew Charles Steinerman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Shlomo H. Rosenbaum - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sachin Shah - Albert Fried & Co. LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Han Zhang - Churchill Capital": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

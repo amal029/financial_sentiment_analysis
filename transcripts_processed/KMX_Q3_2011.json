@@ -1,0 +1,362 @@
+{
+ "date": "2010-12-21 17:00:00",
+ "Katharine Kenny": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tom Folliard": {
+  "avg_sentiment_score": 0.24545454545454548,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.45,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.55,
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.05,
+   0.1,
+   0.45,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Tom Reedy": {
+  "avg_sentiment_score": 0.4818181818181818,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   -0.35,
+   1.0,
+   0.65,
+   0.45,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7181818181818183,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "Executive Officer"
+ },
+ "Elizabeth Lane": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Browning": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President of Finance and Director"
+ },
+ "Sharon Zackfia": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Nemer": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Himanshu Patel": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Brinkman": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Kennison": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Bill Armstrong": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6583333333333333,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Dan Galves": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Mandel": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Scott Stember": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

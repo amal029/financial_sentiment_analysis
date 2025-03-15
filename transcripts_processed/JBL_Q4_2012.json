@@ -1,0 +1,259 @@
+{
+ "date": "2012-09-25 16:30:00",
+ "Beth Walters": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Forbes I.J. Alexander": {
+  "avg_sentiment_score": 0.027777777777777776,
+  "sentiment_score": [
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Timothy L. Main": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.55,
+   -0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   0.05,
+   -0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman"
+ },
+ "Brian Alexander - Raymond James": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Hettenbach - Goldman, Sachs & Co.": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Shawn Harrison - Longbow Research": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Fox - Cross Research": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Wamsi Mohan - Bank of America, Merrill Lynch": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Amitabh Passi - UBS Investment Research": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Matthew Sheerin - Stifel, Nicolaus & Company, Inc.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Kevin LaBuz - Deutsche Bank": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

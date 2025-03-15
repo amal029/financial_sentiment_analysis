@@ -1,0 +1,385 @@
+{
+ "date": "2012-07-18 10:30:00",
+ "William H. Callihan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "James E. Rohr": {
+  "avg_sentiment_score": 0.4051724137931034,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.55,
+   0.85,
+   0.55,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7931034482758621,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.6
+  ],
+  "title": "Executive Chairman, Member of Executive Committee and Member of Risk Committee"
+ },
+ "Richard J. Johnson": {
+  "avg_sentiment_score": 0.14761904761904762,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.15,
+   -0.15,
+   -0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   -0.35,
+   0.15,
+   0.75,
+   -0.45,
+   0.45,
+   0.65,
+   -0.15,
+   0.05,
+   0.15,
+   0.6,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8130952380952381,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Leanne Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "R. Scott Siefers - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew D. O'Connor - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "David A. George - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Todd L. Hagerman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul J. Miller - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Christopher M. Mutascio - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Mayo - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter Frank Ganucheau - Carlson Capital, L.P.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew H. Burnell - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.8
+  ]
+ },
+ "Marty Mosby - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Turner - Compass Point Research & Trading, LLC, Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

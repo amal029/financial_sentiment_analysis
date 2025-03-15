@@ -1,0 +1,224 @@
+{
+ "date": "2015-05-20 09:00:00",
+ "Robert Niblock": {
+  "avg_sentiment_score": 0.29375,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.9,
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Michael Jones": {
+  "avg_sentiment_score": 0.5277777777777778,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.85,
+   0.55,
+   0.65,
+   0.15,
+   0.65,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.9,
+   0.6,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Robert Hull": {
+  "avg_sentiment_score": 0.2545454545454545,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   -0.15,
+   0.35,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6954545454545454,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jason Smith": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rick Damron": {
+  "avg_sentiment_score": 0.53125,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.8,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gregory Melich": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Daniel Binder": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Judy Merrick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jaime Katz": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Budd Bugatch": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

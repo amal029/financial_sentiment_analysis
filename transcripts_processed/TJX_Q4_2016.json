@@ -1,0 +1,248 @@
+{
+ "date": "2016-02-24 11:00:00",
+ "Ernie L. Herrman - Chief Executive Officer, President & Director": {
+  "avg_sentiment_score": 0.3879310344827586,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.6,
+   0.0,
+   0.85,
+   0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8741379310344828,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.68,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Debra McConnell - Senior Vice President, Global Communications": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Carol M. Meyrowitz - Executive Chairman": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.68,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Scott Goldenberg - Senior Executive Vice President & Chief Financial Officer": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Senior Executive Vice President of Finance"
+ },
+ "Omar Saad - Evercore ISI": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Jaffe - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Kimberly Conroy Greenberger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Robert Boss - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Lejuez - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.4,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Grambling - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Lorraine Maikis Hutchinson - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Mike Baker - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

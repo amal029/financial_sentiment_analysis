@@ -1,0 +1,154 @@
+{
+ "date": "2019-01-23 16:30:00",
+ "Dave Pahl": {
+  "avg_sentiment_score": 0.0026315789473684236,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.45,
+   0.55,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7447368421052631,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.5,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Rafael Lizardi": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.45,
+   0.05,
+   0.15,
+   0.55,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "CFO and Senior VP of Finance & Operations"
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Chris Danely": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.05,
+   0.15,
+   0.0,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.8
+  ]
+ }
+}

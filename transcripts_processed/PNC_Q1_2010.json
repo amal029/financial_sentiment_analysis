@@ -1,0 +1,277 @@
+{
+ "date": "2010-04-22 08:30:00",
+ "William Callihan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "James Rohr": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   0.85,
+   0.05,
+   0.45,
+   0.45,
+   -0.15,
+   0.55,
+   1.0,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7708333333333334,
+  "confidence": [
+   0.9,
+   0.9,
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman, Member of Executive Committee and Member of Risk Committee"
+ },
+ "Richard Johnson": {
+  "avg_sentiment_score": 0.20526315789473684,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   -0.35,
+   0.55,
+   0.15,
+   0.0,
+   -0.45,
+   1.0,
+   0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7789473684210527,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Michael Mayo \u2013 CLSA": {
+  "avg_sentiment_score": -0.009999999999999998,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "William Wallace \u2013 FBR Capital Markets": {
+  "avg_sentiment_score": -0.04999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Jim Rohr": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John McDonald \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew O\u2019Connor \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Edward Najarian \u2013 ISI Group": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Matthew Burnell \u2013 Wells Fargo": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Kenneth Usdin \u2013 Bank of America": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Heather Wolf \u2013 UBS": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Meredith Whitney \u2013 Meredith Whitney Advisory Group": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Weiss \u2013 Janney Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

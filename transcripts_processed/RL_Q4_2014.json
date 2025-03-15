@@ -1,0 +1,155 @@
+{
+ "date": "2014-05-09 09:00:00",
+ "James Hurley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jacki Nemerov": {
+  "avg_sentiment_score": 0.72,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Chris Peterson": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   0.55,
+   0.75,
+   0.65,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "President of Global Brands"
+ },
+ "Omar Saad \u2013 ISI Group": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Binetti \u2013 UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Glick \u2013 Buckingham Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kate McShane \u2013 Citigroup": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lindsay Drucker Mann \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Liz Dunn \u2013 Macquarie Capital": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Erinn Murphy \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joan Payson \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

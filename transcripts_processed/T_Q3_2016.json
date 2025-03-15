@@ -1,0 +1,280 @@
+{
+ "date": "2016-10-24 08:30:00",
+ "Michael J. Viola - AT&T, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Randall L. Stephenson - AT&T, Inc.": {
+  "avg_sentiment_score": 0.587037037037037,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   0.85,
+   1.0,
+   0.85,
+   0.45,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8270370370370371,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.9,
+   0.67,
+   0.9,
+   0.75,
+   0.67,
+   1.0,
+   0.9,
+   0.67,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Jeff L. Bewkes - Time Warner, Inc.": {
+  "avg_sentiment_score": 0.5277777777777778,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.9222222222222223,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "John J. Stephens - AT&T, Inc.": {
+  "avg_sentiment_score": 0.55625,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Amy Yong - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Christopher Hodulik - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.65
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "David R. McAtee II - AT&T, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Simon Flannery - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Benjamin Daniel Swinburne - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Philip A. Cusick - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David William Barden - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Timothy Horan - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Frank Garreth Louthan - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Niknam - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike L. McCormack - Jefferies LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

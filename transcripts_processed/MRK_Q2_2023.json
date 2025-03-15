@@ -1,0 +1,218 @@
+{
+ "date": "2023-08-01 09:00:00",
+ "Peter Dannenbaum": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9073333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.67,
+   1.0,
+   0.67
+  ]
+ },
+ "Robert Davis": {
+  "avg_sentiment_score": 0.6833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.75,
+   0.65,
+   0.75,
+   0.85,
+   0.85,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   0.6,
+   0.9
+  ]
+ },
+ "Caroline Litchfield": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Dean Li": {
+  "avg_sentiment_score": 0.54375,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Geoffrey Meacham": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mohit Bansal": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Akash Tewari": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daina Graybosch": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Anderson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Shibutani": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Scala": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

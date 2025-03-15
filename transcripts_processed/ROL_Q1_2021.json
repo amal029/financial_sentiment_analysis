@@ -1,0 +1,137 @@
+{
+ "date": "2021-04-28 10:00:00",
+ "Joe Calabrese": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Rollins": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Julie Bimmerman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Vice President of Finance & Investor Relations"
+ },
+ "John Wilson": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Vice Chairman & Assistant to the Chairman"
+ },
+ "Jerry Gahlhoff": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.9,
+   1.0,
+   0.4
+  ]
+ },
+ "Eddie Northen": {
+  "avg_sentiment_score": 0.18333333333333332,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "Senior Vice President of Sustainability"
+ },
+ "Tim Mulrooney": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mario Cortellacci": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Michael Hoffman": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.85,
+   -0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ }
+}

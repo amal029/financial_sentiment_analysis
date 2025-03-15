@@ -1,0 +1,266 @@
+{
+ "date": "2013-03-28 09:00:00",
+ "Laura Gagnon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Prokopanko": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.35,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7461538461538461,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.6
+  ],
+  "title": "Senior Advisor"
+ },
+ "Lawrence Stranghoener": {
+  "avg_sentiment_score": 0.39,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Executive Vice President of Strategy & Business Development"
+ },
+ "Vincent Andrews - Morgan Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James O'Rourke": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Joel Jackson - BMO Capital Markets": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard McLellan": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Senior Vice President of Commercial"
+ },
+ "Bill Carroll - UBS": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kurt Schoen - CLSA": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "PJ Juvekar - Citigroup": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Parkinson - Credit Suisse": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mike Rahm": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.45,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.9
+  ]
+ },
+ "Kevin McCarthy - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Don Carson - Susquehanna Financial": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ben Isaacson - Scotia Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Begleiter - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Gulley - BGC Financial": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Piken - Cleveland Research": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Korn - Barclays": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Zekauskas - JP Morgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "date": "2013-07-26 10:00:00",
+ "John Egan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Larry Donald Zimpleman": {
+  "avg_sentiment_score": 0.2323529411764706,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.45,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8088235294117647,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman, Chairman of The Principal Life, Director of Principal Life and Chairman of Executive Committee"
+ },
+ "Terrance J. Lillis": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Seth Weiss - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Luis Valdez": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Sean Dargan - Macquarie Research": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas G. Gallagher - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel J. Houston": {
+  "avg_sentiment_score": 0.3166666666666667,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Joanne A. Smith - Scotiabank Global Banking and Markets, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "James Patrick McCaughan": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "President of Global Asset Management & CEO of Principal Global Investors"
+ },
+ "Eric N. Berg - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ryan Krueger - Dowling & Partners Securities, LLC": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steven D. Schwartz - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ }
+}

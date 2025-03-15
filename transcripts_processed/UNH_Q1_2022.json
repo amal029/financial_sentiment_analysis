@@ -1,0 +1,244 @@
+{
+ "date": "2022-04-14 08:00:00",
+ "Andrew Witty": {
+  "avg_sentiment_score": 0.6645833333333333,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.55,
+   0.65,
+   0.85,
+   0.6,
+   0.85,
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.76125,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   0.67,
+   0.4,
+   0.5,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.6,
+   0.9
+  ],
+  "title": "CEO & Non-Independent Director"
+ },
+ "Dirk McMahon": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "John Rex": {
+  "avg_sentiment_score": 0.33749999999999997,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Thompson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.75,
+   0.9
+  ]
+ },
+ "A.J. Rice": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Fidel": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Wyatt Decker": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Taylor": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin Fischbeck": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Stephen Baxter": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Josh Raskin": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Tim Noel": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Heather Cianfrocco": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "date": "2020-02-19 08:30:00",
+ "Stacey Brodbar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Stephenson": {
+  "avg_sentiment_score": 0.29285714285714287,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.85,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.861904761904762,
+  "confidence": [
+   0.9,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Eric Schneider": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lee Shavel": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.55,
+   0.05,
+   0.85,
+   0.65,
+   0.0,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andrew Steinerman": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Gary Bisbee": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Hamzah Mazari": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Jeff Meuler": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Jeffrey": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Mark Anquillare": {
+  "avg_sentiment_score": 0.21818181818181817,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.05,
+   -1.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7636363636363637,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President & COO"
+ },
+ "George Tong": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Silber": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ashish Sabadra": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Greg Peters": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Warmington": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Andrew Nicholas": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Foresi": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

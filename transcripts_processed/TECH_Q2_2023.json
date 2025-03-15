@@ -1,0 +1,176 @@
+{
+ "date": "2023-02-02 09:00:00",
+ "David Clair": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chuck Kummeth": {
+  "avg_sentiment_score": 0.6124999999999999,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.15,
+   0.85,
+   0.65,
+   0.55,
+   0.45,
+   1.0,
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.7791666666666667,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.9,
+   0.6
+  ],
+  "title": "Senior Advisor & Director"
+ },
+ "Jim Hippel": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   0.0,
+   0.15,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.6,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Jacob Johnson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Dan Arias": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Chuck Kummeth ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.9
+  ]
+ },
+ "Jim Hippel ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Leonard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Catherine Schulte": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Patrick Donnelly": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Justin Bowers": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

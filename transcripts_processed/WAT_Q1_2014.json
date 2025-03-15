@@ -1,0 +1,205 @@
+{
+ "date": "2014-04-29 08:30:00",
+ "Douglas Berthiaume": {
+  "avg_sentiment_score": 0.24444444444444446,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.15,
+   1.0,
+   0.45,
+   1.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   0.35,
+   -0.15,
+   0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Gene Cassis": {
+  "avg_sentiment_score": 0.3607142857142857,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.6892857142857143,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Senior Advisor"
+ },
+ "Brandon Couillard - Jefferies": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Doug Schenkel - Cowen": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Amanda Murphy - William Blair": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jon Groberg - Macquarie": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Knight - Janney Capital Markets": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Isaac Ro - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jeff Elliott - Robert W. Baird": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Evans - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Derik De Bruin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "date": "2023-05-04 14:25:00",
+ "Gillian Tiltman": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Meaney": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.85,
+   0.55,
+   -0.45,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.9,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85
+  ]
+ },
+ "Barry Hytinen": {
+  "avg_sentiment_score": 0.75625,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Hess": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Luebchow": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Brendan Lynch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

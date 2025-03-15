@@ -1,0 +1,194 @@
+{
+ "date": "2014-04-23 11:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.31724137931034485,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   -1.0,
+   0.45,
+   0.55,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8148275862068965,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.68,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Sue Main": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Greg Konrad - Jefferies": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "Mark Jordan - Noble Financial": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Ricchiuti - Needham & Company": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Chris Quilty - Raymond James": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Ciarmoli - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Levenson - Stifel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

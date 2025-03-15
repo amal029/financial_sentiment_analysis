@@ -1,0 +1,162 @@
+{
+ "date": "2019-04-24 17:00:00",
+ "Mike Milotich": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Al Kelly": {
+  "avg_sentiment_score": 0.48125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Vasant Prabhu": {
+  "avg_sentiment_score": 0.30625,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.25,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jamie Friedman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Moshe Orenbuch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Keane": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jeff Cantwell": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Harshita Rawat": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ryan Cary": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,366 @@
+{
+ "date": "2017-02-21 08:00:00",
+ "Ryan Weispfenning": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8360000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Omar S. Ishrak": {
+  "avg_sentiment_score": 0.5543478260869565,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.45,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.45,
+   1.0,
+   0.6,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.75,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8295652173913043,
+  "confidence": [
+   0.85,
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.68,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.6
+  ]
+ },
+ "Karen L. Parkhill": {
+  "avg_sentiment_score": 0.365,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Kristen Stewart": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Weinstein": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David R. Lewis": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Bob Hopkins": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Danielle J. Antalffy": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brooks E. West": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Hooman C. Hakami": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Joanne Karen Wuensch": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Michael J. Coyle": {
+  "avg_sentiment_score": 0.4714285714285714,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.6,
+   0.85,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.5,
+   0.85,
+   1.0
+  ]
+ },
+ "Matthew Taylor": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Bryan Hanson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Bruce M. Nudell": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Jennings": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Raj Denhoy": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Miksic": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0
+  ]
+ }
+}

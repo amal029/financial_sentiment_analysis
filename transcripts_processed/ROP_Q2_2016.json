@@ -1,0 +1,235 @@
+{
+ "date": "2016-07-25 08:30:00",
+ "John Humphrey - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.2966666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Brian D. Jellison - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.18703703703703703,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8592592592592593,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of the Board, Chief Executive Officer and President"
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Robert McCarthy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Laurence Neil Hunn - Group Vice President-Medical Business": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9
+  ]
+ },
+ "Joseph Giordano - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.4875,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7325,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.007142857142857153,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Eastman - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "date": "2011-02-24 10:00:00",
+ "John Seaberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard O'Brien": {
+  "avg_sentiment_score": 0.4346153846153846,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8038461538461538,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Russell Ball": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Guy Lansdown": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.8708333333333332,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Hill": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.7277777777777777,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Vice President of Sustainability and External Affairs"
+ },
+ "John Bridges - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jorge Beristain - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "E Engel": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice President of Strategic Development"
+ },
+ "David Christie - Scotia Capital Inc.": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Chidley - HSBC Holdings plc": {
+  "avg_sentiment_score": 0.011111111111111115,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8999999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian MacArthur - UBS Investment Bank": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

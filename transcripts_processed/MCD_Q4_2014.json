@@ -1,0 +1,203 @@
+{
+ "date": "2015-01-23 11:00:00",
+ "Chris Stent": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Don Thompson": {
+  "avg_sentiment_score": 0.39375,
+  "sentiment_score": [
+   0.35,
+   0.55,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Executive Officer, President, Director and Chairman of Executive Committee"
+ },
+ "Pete Bensen": {
+  "avg_sentiment_score": 0.03125,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.8
+  ],
+  "title": "Chief Administrative Officer"
+ },
+ "Joe Buckley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Andres": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Karen Holthouse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Palmer": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Farmer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Tarantino": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Glass": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Keith Siegner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Will Slabaugh": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Q \u2013 Katherine Heng": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Q \u2013 Sara Senatore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ }
+}

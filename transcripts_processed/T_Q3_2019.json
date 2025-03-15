@@ -1,0 +1,162 @@
+{
+ "date": "2019-10-28 08:30:00",
+ "Michael Viola": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Randall Stephenson": {
+  "avg_sentiment_score": 0.5464285714285715,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.05,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.45,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.8107142857142857,
+  "confidence": [
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "John Stephens": {
+  "avg_sentiment_score": 0.5222222222222223,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.05,
+   0.45,
+   0.85,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.8277777777777778,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   0.85
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Philip Cusick": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.6,
+   0.65
+  ]
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kannan Venkateshwar": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Rollins": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

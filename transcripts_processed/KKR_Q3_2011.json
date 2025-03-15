@@ -1,0 +1,309 @@
+{
+ "date": "2011-11-05 17:00:00",
+ "Angela Yang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bill Sonneborn": {
+  "avg_sentiment_score": 0.15892857142857145,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.75,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   -0.45,
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Michael McFerran": {
+  "avg_sentiment_score": 0.2611111111111111,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   -0.05,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.85
+  ]
+ },
+ "John Hecht \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill Sonneborn ": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Laws \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7528571428571428,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Amy DeBone \u2013 Compass Point Research and Trading": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael McFarran": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Howlett - Macquarie": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael McFerran ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Sarcone \u2013 Sandler O\u2019Neill": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.1,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Gage Poggi \u2013 FBR": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Daniel Furtado - Jefferies": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Lee Cooperman \u2013 Omega Advisors": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Wayne Cooperman \u2013 Cobalt Capital": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joel Montgomery \u2013 Cobalt Capital": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

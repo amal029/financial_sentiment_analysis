@@ -1,0 +1,423 @@
+{
+ "date": "2016-02-18 13:00:00",
+ "Arne M. Sorenson - President, Chief Executive Officer and Director": {
+  "avg_sentiment_score": 0.20555555555555555,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8455555555555555,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.4,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Kathleen Kelly Oberg - Chief Financial Officer & Executive VP": {
+  "avg_sentiment_score": 0.2366666666666667,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.55,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.8816666666666666,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Robin M. Farley - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Harry C. Curtis - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.05625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.89375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Felicia Hendrix - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.67
+  ]
+ },
+ "Shaun Clisby Kelley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph R. Greff - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Laura E. Paugh - Senior Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Ryan Meliker - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas G. Allen - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "David Loeb - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8200000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Steven Eric Kent - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Wes Golladay - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   0.05,
+   -1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Bill A. Crow - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Allen Hightower - Evercore ISI": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Katz - Telsey Advisory Group LLC": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Stuart J. Gordon - Joh. Berenberg, Gossler & Co. KG (United Kingdom)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

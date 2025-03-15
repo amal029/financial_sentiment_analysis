@@ -1,0 +1,351 @@
+{
+ "date": "2010-07-21 09:30:00",
+ "Jason Bewley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bob Fornaro": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.35,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8638888888888889,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   0.9
+  ]
+ },
+ "Arne Haak": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7458333333333332,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Duane Pfennigwerth \u2013 Raymond James": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Healy": {
+  "avg_sentiment_score": 0.26999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8433333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Greene \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Glenn Engel \u2013 Bank of America": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.75,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.93125,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Chase \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Linenberg \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.67
+  ]
+ },
+ "Daniel McKenzie \u2013 Hudson Securities": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Kevin Crissey \u2013 UBS Investment Bank": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve O\u2019Hara \u2013 Sidoti & Company": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Helane Becker \u2013 Dahlman Rose": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Derchin \u2013 CRT Capital": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "James Higgins \u2013 Soleil Securities": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

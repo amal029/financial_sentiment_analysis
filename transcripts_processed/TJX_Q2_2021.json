@@ -1,0 +1,155 @@
+{
+ "date": "2020-08-19 11:00:00",
+ "Ernie Herrman": {
+  "avg_sentiment_score": 0.3458333333333334,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.15,
+   0.45,
+   0.65,
+   0.65,
+   0.05,
+   0.05,
+   1.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Deb McConnell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Scott Goldenberg": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Senior Executive Vice President of Finance"
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Goldenber": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lorraine Hutchinson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Paul Trussell": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Altschwager": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alexandra Walvis": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Scott Golderberg": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Jamie Merriman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "date": "2018-04-26 08:15:00",
+ "Paul Shoukry - Raymond James Financial, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul C. Reilly - Raymond James Financial, Inc.": {
+  "avg_sentiment_score": 0.3238095238095238,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.45,
+   -0.15,
+   0.35,
+   0.05,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.05,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857144,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6
+  ]
+ },
+ "Jeffrey P. Julien - Raymond James Financial, Inc.": {
+  "avg_sentiment_score": 0.022222222222222223,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7777777777777778,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "James Mitchell - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Julian Craitar - Nomura Instinet": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   1.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Harris - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Conor Fitzgerald - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Devin P. Ryan - JMP Securities LLC": {
+  "avg_sentiment_score": 0.53,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ }
+}

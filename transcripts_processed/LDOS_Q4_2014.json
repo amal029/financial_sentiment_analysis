@@ -1,0 +1,177 @@
+{
+ "date": "2014-03-27 00:00:00",
+ "John Sweeney": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "John Jumper": {
+  "avg_sentiment_score": 0.24642857142857144,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.55,
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8107142857142857,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman of The Board, Chief Executive Officer, Member of Classified Business Oversight Committee and Member of Ethics & Corporate Responsibility Committee"
+ },
+ "Mark Sopp": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.6,
+   -0.35
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Cai Von Rumohr": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Lou Von Thaer": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "President of National Security Solutions"
+ },
+ "Robert Spingarn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Amit Singh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher Sands": {
+  "avg_sentiment_score": 0.012500000000000018,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "William Loomis": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.15,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

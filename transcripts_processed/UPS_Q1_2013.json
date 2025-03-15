@@ -1,0 +1,468 @@
+{
+ "date": "2013-04-25 08:30:00",
+ "Andy Dolny": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Kurt Kuehn": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   0.85
+  ],
+  "title": "Chief Financial & Compliance Officer, Senior Vice President and Member of Corporate Sustainability Steering Committee"
+ },
+ "Brandon Oglenski \u2013 Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Myron Gray": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Scott Davis ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   -0.35,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.8
+  ]
+ },
+ "Kevin Sterling - BB&T Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alex Johnson - JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Arthur W. Hatfield \u2013 Raymond James": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kurt Kuehn ": {
+  "avg_sentiment_score": 0.2973684210526316,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8263157894736842,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Ken Hoexter \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ken Hoexter - Bank of America Merrill Lynch ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alan Gershenhorn": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Ceraso - Cr\u00e9dit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Abney": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "David Vernon - Sanford C. Bernstein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kelly Dougherty - Macquarie": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Brutto": {
+  "avg_sentiment_score": 0.3944444444444445,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.15,
+   0.85,
+   0.15,
+   0.55,
+   0.15,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7611111111111111,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Jeff Kauffman \u2013 Sterne Agee": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christian Wetherbee \u2013 Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Justin Yagerman \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Greene - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Benjamin Hartford \u2013Robert W. Baird": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nathan Brochmann - William Blair & Company": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Barnes - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Chief Information Officer, Senior Vice President and Global Business Services Officer"
+ },
+ "Peter Nesvold - Jefferies & Company": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Scott Group - Wolfe Trahan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Ross - Stifel Nicolaus": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Schneeberger - Oppenheimer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Myron Gray ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Keith Schoonmaker - Morningstar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jack Atkins - Stephens": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Helane Becker - Cowen Securities ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kelly Dougherty - Macquarie ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

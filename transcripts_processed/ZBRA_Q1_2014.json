@@ -1,0 +1,214 @@
+{
+ "date": "2014-05-06 11:00:00",
+ "Doug Fox": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Anders Gustafsson": {
+  "avg_sentiment_score": 0.42894736842105263,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.8921052631578947,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.75
+  ],
+  "title": "Executive Chair"
+ },
+ "Mike Smiley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7136363636363636,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Brian Drab \u2013 William Blair & Company": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Terzich": {
+  "avg_sentiment_score": 0.7416666666666667,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   1.0,
+   0.85,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4,
+   0.9,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Administrative Officer and Senior Vice President"
+ },
+ "Paul Coster \u2013 J.P. Morgan Securities, Inc": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Housum \u2013 Northcoast Research": {
+  "avg_sentiment_score": 0.8625,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Kim \u2013 Imperial Capital, LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7825,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Greg Halter \u2013 Great Lakes Review": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Spinola \u2013 Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

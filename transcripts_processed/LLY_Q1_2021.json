@@ -1,0 +1,310 @@
+{
+ "date": "2021-04-27 09:30:00",
+ "Kevin Hern": {
+  "avg_sentiment_score": -0.006521739130434782,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9652173913043478,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Ricks": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   -0.45,
+   1.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.4,
+   0.6,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Anat Ashkenazi": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Daniel Skovronsky": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.85,
+   0.5,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Anne White": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.45,
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9
+  ]
+ },
+ "Michael Mason": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ilya Yuffa": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.9
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jacob Van Naarden": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "EVP, CEO of Loxo Oncology & President of Lilly Oncology"
+ },
+ "Carter Gould": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Scala": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Aaron Gal": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kerry Holford": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gregory Gilbert": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "date": "2017-07-19 16:45:00",
+ "John Sinnott": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "Steve Mollenkopf": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.9
+  ],
+  "title": "Special Advisor"
+ },
+ "Derek Aberle": {
+  "avg_sentiment_score": -0.024999999999999988,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.15,
+   0.55,
+   0.0,
+   -0.15,
+   0.55,
+   -1.0
+  ],
+  "avg_confidence": 0.68125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "George Davis": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.15,
+   0.15,
+   0.65,
+   0.45,
+   0.65,
+   -1.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Mike Walkley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rod Hall": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Don Rosenberg": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4
+  ]
+ },
+ "Kulbinder Garcha": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Doug Clark": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Cristiano Amon": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President & Director"
+ },
+ "James Faucette": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Tim Long": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Tal Liani": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stacy Rasgon": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Vijay Rakesh": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Romit Shah": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tavis McCourt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

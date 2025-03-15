@@ -1,0 +1,348 @@
+{
+ "date": "2013-01-31 15:00:00",
+ "Ron Hubbard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Denny Oklak": {
+  "avg_sentiment_score": 0.29333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.05,
+   0.05,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.6,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.6,
+   0.15,
+   -0.15,
+   0.55,
+   0.45,
+   0.65,
+   0.45,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.7786666666666666,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.69,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "Christie Kelly": {
+  "avg_sentiment_score": 0.265,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9435,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Paul Adornato - BMO Capital Markets": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Bilerman - Citi": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Josh Attie - Citi": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Maiorana - Wells Fargo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "James Sullivan - Cohen & Company": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9277777777777777,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jamie Feldman - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jamie Feldman - Bank of America": {
+  "avg_sentiment_score": -0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Salinsky - RBC Capital Markets": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.83375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Dave Rodgers - Baird": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

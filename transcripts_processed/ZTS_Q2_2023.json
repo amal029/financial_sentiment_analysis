@@ -1,0 +1,140 @@
+{
+ "date": "2023-08-08 08:30:00",
+ "Steve Frank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Kristin Peck": {
+  "avg_sentiment_score": 0.64,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.05,
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Wetteny Joseph": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   0.75,
+   0.55,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.85
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nathan Rich": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Block": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Westenberg": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brandon Vazquez": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

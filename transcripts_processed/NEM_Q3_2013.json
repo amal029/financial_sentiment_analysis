@@ -1,0 +1,267 @@
+{
+ "date": "2013-10-24 13:00:00",
+ "Jeff Wilhoit": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Charles Jeannes": {
+  "avg_sentiment_score": 0.2434782608695652,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8347826086956521,
+  "confidence": [
+   0.8,
+   0.85,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "George Burns": {
+  "avg_sentiment_score": 0.31875000000000003,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.45,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Russell Ball": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Lindsay Hall": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Andrew Quail \u2013 Goldmand Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "David Haughton \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tony Lesiak \u2013 Canaccord Genuity": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Graf \u2013 Cowen & Co.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Anita Soni \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.5,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Yu \u2013 Citigroup": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Bridges \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

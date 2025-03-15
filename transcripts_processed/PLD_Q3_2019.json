@@ -1,0 +1,316 @@
+{
+ "date": "2019-10-15 12:00:00",
+ "Tracy Ward": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Tom Olinger": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Craig Mailman": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Hamid Moghadam": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   0.0,
+   1.0,
+   0.15,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.65,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Gene Reilly": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "Jeremy Metz": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Derek Johnston": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vikram Malhotra": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Caton": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Blaine Heck": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ki Bin Kim": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric Frankel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Caitlin Burrows": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Manny Korchman": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Carroll": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Sakwa": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "John Guinee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Mueller": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Curless": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Gary Anderson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Advisor"
+ }
+}

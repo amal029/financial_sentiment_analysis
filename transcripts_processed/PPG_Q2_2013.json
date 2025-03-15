@@ -1,0 +1,417 @@
+{
+ "date": "2013-07-18 14:00:00",
+ "Vincent J. Morales": {
+  "avg_sentiment_score": 0.14411764705882354,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   -0.15,
+   -0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8294117647058823,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Charles E. Bunch": {
+  "avg_sentiment_score": 0.29305555555555557,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.65,
+   -0.45,
+   -0.15,
+   0.65,
+   0.05,
+   0.65,
+   0.65,
+   0.55,
+   -0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   -0.45,
+   0.05,
+   0.85,
+   0.45,
+   0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7986111111111112,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.5,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "David B. Navikas": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Senior Vice President of Strategic Planning & Corporate Development and Member of Executive Committee"
+ },
+ "Ramanan Sivalingam - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert A. Koort - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.425,
+  "sentiment_score": [
+   -1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "P. J. Juvekar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Frank J. Mitsch - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Laurence Alexander - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Roberts - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Ivan M. Marcuse - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Nils-Bertil Wallin - CLSA Limited, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher J. Nocella - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Hocevar - Northcoast Research": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Duffy Fischer - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dmitry Silversteyn - Longbow Research LLC": {
+  "avg_sentiment_score": 0.01428571428571429,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Charles A. Dan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Richard O'Reilly": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Stafford - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

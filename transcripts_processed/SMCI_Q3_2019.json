@@ -1,0 +1,155 @@
+{
+ "date": "2019-05-17 00:00:00",
+ "Perry Hayes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Charles Liang": {
+  "avg_sentiment_score": 0.5545454545454546,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   0.75,
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8272727272727273,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Founder, Chairman of the Board, President & CEO"
+ },
+ "Kevin Bauer": {
+  "avg_sentiment_score": 0.1366666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.83,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "David Ryzhik": {
+  "avg_sentiment_score": 0.08750000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Nehal Chokshi": {
+  "avg_sentiment_score": 0.037500000000000006,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Staiger": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Lopez": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75
+  ]
+ }
+}

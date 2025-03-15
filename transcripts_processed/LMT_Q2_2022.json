@@ -1,0 +1,205 @@
+{
+ "date": "2022-07-19 11:00:00",
+ "Greg Gardner": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Taiclet": {
+  "avg_sentiment_score": 0.395,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.5,
+   0.9
+  ]
+ },
+ "Jay Malave": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.65,
+   -0.15,
+   0.05,
+   -0.45,
+   0.65,
+   -0.45,
+   -0.15,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Doug Harned": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Richard Safran": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David Strauss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Greg Konrad": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kristine Liwag": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Rob Spingarn": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Peter Arment": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Matt Akers": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Pete Skibitski": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

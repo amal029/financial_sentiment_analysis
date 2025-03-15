@@ -1,0 +1,264 @@
+{
+ "date": "2023-11-03 11:00:00",
+ "Christy McElroy ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lisa Palmer ": {
+  "avg_sentiment_score": 0.3964285714285714,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.05,
+   0.85,
+   0.65,
+   -0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8049999999999999,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.67
+  ],
+  "title": "President, CEO & Non Independent Director"
+ },
+ "Alan Roth ": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.85,
+   0.55,
+   0.45,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.0
+  ],
+  "title": "COO & President of East Region"
+ },
+ "Nicholas Wibbenmeyer ": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75
+  ],
+  "title": "Chief Investment Officer & President of West Region"
+ },
+ "Michael Mas ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.85,
+   0.95,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Goldsmith ": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.15,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Borden ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Lizzy Doykan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Viktor Fediv ": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ronald Kamdem ": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Samir Khanal ": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Craig Mailman ": {
+  "avg_sentiment_score": 0.037500000000000006,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Ki Bin Kim ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Linda Tsai ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Mueller ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Paulina Rojas": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "date": "2024-02-15 09:00:00",
+ "Quintin Lai": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Green": {
+  "avg_sentiment_score": 0.3264705882352941,
+  "sentiment_score": [
+   0.35,
+   0.65,
+   -0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.05,
+   -0.35,
+   0.65,
+   -0.45,
+   0.55,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8294117647058823,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Non-Independent Chair of the Board, President & CEO"
+ },
+ "Bernard Birkett": {
+  "avg_sentiment_score": 0.3038461538461539,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.65,
+   0.65,
+   -0.35,
+   0.85,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8692307692307693,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP and Chief Financial & Operations Officer"
+ },
+ "David Windley": {
+  "avg_sentiment_score": 0.02500000000000002,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0,
+   -0.15,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Paul Knight": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jacob Johnson": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Derik De Bruin": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Matt Larew": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "John Sourbeer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Justin Bowers": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Larry Solow": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85
+  ]
+ }
+}

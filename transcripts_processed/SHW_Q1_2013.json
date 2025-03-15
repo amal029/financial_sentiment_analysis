@@ -1,0 +1,436 @@
+{
+ "date": "2013-04-18 12:00:00",
+ "Robert J. Wells": {
+  "avg_sentiment_score": 0.12083333333333335,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.05,
+   0.45,
+   -0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8041666666666667,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher M. Connor": {
+  "avg_sentiment_score": 0.23823529411764705,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   0.15,
+   0.05,
+   0.0,
+   0.55,
+   -0.45,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8558823529411765,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Director"
+ },
+ "Ghansham Panjabi - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Sean P. Hennessy": {
+  "avg_sentiment_score": 0.04772727272727273,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -1.0,
+   -1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7568181818181817,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Aram Rubinson - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.01249999999999999,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Koort - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "P.J. Juvekar - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher J. Nocella - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Donald Carson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Kevin W. McCarthy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Nils-Bertil Wallin - CLSA Asia-Pacific Markets, Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Matthew McGinley - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Ivan M. Marcuse - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Charles Edward Cerankosky - Northcoast Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey J. Zekauskas - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.22499999999999998,
+  "sentiment_score": [
+   0.6,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John E. Roberts - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Charles A. Dan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John P. McNulty - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Dennis McGill - Zelman & Associates, LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Dmitry Silversteyn - Longbow Research LLC": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard O'Reilly": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

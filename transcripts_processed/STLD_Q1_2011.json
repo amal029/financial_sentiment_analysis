@@ -1,0 +1,235 @@
+{
+ "date": "2011-04-19 10:00:00",
+ "Fred Warner": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Busse": {
+  "avg_sentiment_score": 0.34600000000000003,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.85,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   -1.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.05,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   0.4,
+   0.9,
+   0.9,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Co-Founder, Executive Chairman, Chief Executive Officer of Iron Dynamics Inc, President of Iron Dynamics Inc and Director of Iron Dynamics Inc"
+ },
+ "Mark Millett": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9416666666666668,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Richard Teets": {
+  "avg_sentiment_score": 0.53,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.45,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Gary Heasley": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of Business Development and President of New Millennium Building Systems"
+ },
+ "Theresa Wagler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Michelle Applebaum - Michelle Applebaum Research": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael Gambardella - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9400000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Sal Tharani - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Mark Parr - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "David Katz - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Olkovetsky": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Charles Bradford - Bradford Research": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

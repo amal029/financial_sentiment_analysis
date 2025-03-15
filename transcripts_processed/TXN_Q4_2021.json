@@ -1,0 +1,160 @@
+{
+ "date": "2022-01-25 16:15:00",
+ "Dave Pahl": {
+  "avg_sentiment_score": 0.3394736842105263,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.05,
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8368421052631579,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.4
+  ]
+ },
+ "Rafael Lizardi": {
+  "avg_sentiment_score": 0.41875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   -0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "CFO and Senior VP of Finance & Operations"
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Toshiya Hari": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tore Svanberg": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Ambrish Srivastava": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

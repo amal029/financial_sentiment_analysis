@@ -1,0 +1,203 @@
+{
+ "date": "2018-02-01 09:00:00",
+ "Evren Kopelman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333333,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrice Louvet": {
+  "avg_sentiment_score": 0.24230769230769234,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jane Nielsen": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Robert Drbul": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simeon Siegel": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Kate McShane": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.6499999999999999,
+  "confidence": [
+   0.7,
+   0.6
+  ]
+ },
+ "Ike Boruchow": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Lindsay Drucker Mann": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Rick Patel": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erinn Murphy": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

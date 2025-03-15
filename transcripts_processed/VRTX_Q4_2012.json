@@ -1,0 +1,337 @@
+{
+ "date": "2013-01-29 17:00:00",
+ "Michael Partridge": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jeff Leiden": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.9
+  ]
+ },
+ "Peter Mueller": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Stuart Arbuckle": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Ian Smith": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.8,
+   0.8,
+   0.75
+  ]
+ },
+ "Geoffrey Porges - Bernstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Bob Kauffman": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.75,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.5,
+   0.6,
+   1.0,
+   0.4,
+   0.85,
+   0.6
+  ]
+ },
+ "Geoff Meacham - JPMorgan": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mark Schoenebaum - ISI group": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rachel McMinn - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Yee - RBC Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lisa Bayko - JMP Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Yaron Werber - Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ian Smith ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robyn Karnauskas - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Terence Flynn - Goldman Sachs": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matt Roden - UBS": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christine Huang - Barclays": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Slifka - Morgan Stanley": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Abrahams - Wells Fargo": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Howard Liang - Leerink Swann": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Katherine Xu - William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Jason Kolbert - Maxim Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Phil Nadeau - Cowen and Company": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

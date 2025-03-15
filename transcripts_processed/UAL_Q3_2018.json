@@ -1,0 +1,306 @@
+{
+ "date": "2018-10-17 10:30:00",
+ "Michael Leskinen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Oscar Munoz": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.785,
+  "confidence": [
+   0.9,
+   0.67
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Scott Kirby": {
+  "avg_sentiment_score": 0.5055555555555555,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   -0.15,
+   0.65,
+   0.65,
+   0.55,
+   0.15,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Andrew Nocella": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   0.15,
+   0.55,
+   0.45,
+   0.85,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7966666666666666,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.85,
+   0.4
+  ]
+ },
+ "Gerry Laderman": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Baker": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Greg Hart": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "President"
+ },
+ "Hunter Keay": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Kevin Crissey": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Helane Becker": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Linenberg": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Brandon Oglenski": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Rajeev Lalwani": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Andrew Didora": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Dan McKenzie": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alison Sider": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Bachman": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dawn Gilbertson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.5
+  ]
+ },
+ "Leslie Josephs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

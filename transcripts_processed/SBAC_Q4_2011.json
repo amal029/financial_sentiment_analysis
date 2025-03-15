@@ -1,0 +1,253 @@
+{
+ "date": "2012-02-24 10:00:00",
+ "Mark DeRussy": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brendan Cavanagh": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Stoops": {
+  "avg_sentiment_score": 0.15185185185185185,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.75,
+   0.55,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8129629629629629,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.8,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ric Prentiss \u2013 Raymond James": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Philip Cusick - JP Morgan": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jonathan Schildkraut \u2013 Evercore Partners": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "David Barden \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.645,
+  "confidence": [
+   0.6,
+   0.69
+  ]
+ },
+ "Simon Flannery \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Armstrong \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "James Ratcliffe \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Suhail Chandy \u2013 Wedbush Securities": {
+  "avg_sentiment_score": 0.25833333333333336,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Rollins \u2013 Citi Investment Research": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Smithen - Macquarie Securities": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

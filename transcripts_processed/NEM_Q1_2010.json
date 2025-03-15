@@ -1,0 +1,243 @@
+{
+ "date": "2010-04-27 11:00:00",
+ "John Seaberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard O'Brien": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.829,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Russell Ball": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   1.0,
+   0.5,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Brian Hill": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.4
+  ],
+  "title": "Executive Vice President of Sustainability and External Affairs"
+ },
+ "Guy Lansdown": {
+  "avg_sentiment_score": 0.3181818181818182,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7954545454545454,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Bridges \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jorge Beristain \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Haughton \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": -0.034999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Barry Cooper \u2013 CIBC World Markets": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick Chidley \u2013 Barnard Jacobs Mellet": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Randy Engel": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of Strategic Development"
+ },
+ "Stephen Walker \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.0,
+   0.6,
+   1.0
+  ]
+ }
+}

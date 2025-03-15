@@ -1,0 +1,185 @@
+{
+ "date": "2009-10-27 17:00:00",
+ "Perry Hayes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Charles Liang": {
+  "avg_sentiment_score": 0.8300000000000001,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.595,
+  "confidence": [
+   0.9,
+   0.6,
+   0.0,
+   0.4,
+   0.9,
+   0.4,
+   0.85,
+   0.6,
+   0.9,
+   0.4
+  ],
+  "title": "Founder, Chairman of the Board, President & CEO"
+ },
+ "Howard Hideshima": {
+  "avg_sentiment_score": 0.18055555555555555,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7816666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   0.67,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Michael Bertz \u2013 Kennedy Capital": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7775,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Doug Reid \u2013 Thomas Weisel Partners": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Hanus \u2013 Needham": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nihal Satchi \u2013 Technology Insights Research": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Alex Kurtz \u2013 Merriman Curhan Ford": {
+  "avg_sentiment_score": -0.07142857142857142,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

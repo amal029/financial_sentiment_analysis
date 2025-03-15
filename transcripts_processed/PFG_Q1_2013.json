@@ -1,0 +1,190 @@
+{
+ "date": "2013-04-26 17:30:00",
+ "John Egan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Larry Donald Zimpleman": {
+  "avg_sentiment_score": 0.3433333333333334,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.85,
+   0.15,
+   0.45,
+   -0.15,
+   0.45,
+   0.65,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6966666666666667,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman, Chairman of The Principal Life, Director of Principal Life and Chairman of Executive Committee"
+ },
+ "Terrance J. Lillis": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "Seth Weiss - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   -0.35
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Daniel J. Houston": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Sean Dargan - Macquarie Research": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric N. Berg - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Luis Valdez": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "A. Mark Finkelstein - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Suneet L. Kamath - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "John M. Nadel - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

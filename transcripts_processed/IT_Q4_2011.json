@@ -1,0 +1,217 @@
+{
+ "date": "2012-02-07 08:30:00",
+ "Brian Shipman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "Chris Lafond": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Gene Hall": {
+  "avg_sentiment_score": 0.42173913043478256,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7391304347826086,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.4,
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.9,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Peter Appert - Piper Jaffray": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.75,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Dave Lewis - JPMorgan": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.6,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Riggs - William Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "William Bird - Lazard": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Sutherland - Northland Capital Markets": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Karimzad - Goldman Sachs": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Leben - Robert W. Baird": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Manav Patnaik - Barclays Capital": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ }
+}

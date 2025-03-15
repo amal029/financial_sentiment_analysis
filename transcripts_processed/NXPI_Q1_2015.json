@@ -1,0 +1,308 @@
+{
+ "date": "2015-04-30 08:00:00",
+ "Jeff Palmer": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Richard L. Clemmer": {
+  "avg_sentiment_score": 0.2948275862068966,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   0.55,
+   0.85,
+   0.15,
+   -0.15,
+   1.0,
+   0.85,
+   -0.15,
+   -0.35,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7344827586206897,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.0,
+   1.0,
+   0.9
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Peter Kelly": {
+  "avg_sentiment_score": 0.22727272727272727,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.85,
+   0.0,
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8568181818181819,
+  "confidence": [
+   0.9,
+   0.8,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ross Seymore - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vivek Arya - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Blayne Curtis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "James V. Covello - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John William Pitzer - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Christopher J. Muse - Evercore ISI, Research Division": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Christopher Caso - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ambrish Srivastava - BMO Capital Markets Equity Research": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Stein - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Craig Hettenbach - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Steven Smigie - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rajvindra S. Gill - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Tore Svanberg - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Christopher Rolland - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ }
+}

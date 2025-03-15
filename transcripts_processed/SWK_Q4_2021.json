@@ -1,0 +1,136 @@
+{
+ "date": "2022-02-01 08:00:00",
+ "Dennis Lange": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Jim Loree": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   -0.15,
+   0.85,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Don Allan": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.45,
+   0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Markus Mittermaier": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Rehaut": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joe O\u2019Dea": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

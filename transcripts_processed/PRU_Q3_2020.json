@@ -1,0 +1,242 @@
+{
+ "date": "2020-11-04 11:00:00",
+ "Darin Arita": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Charlie Lowrey": {
+  "avg_sentiment_score": 0.3166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   -0.15,
+   0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ]
+ },
+ "Rob Axel": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Tanji": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Andy Sullivan": {
+  "avg_sentiment_score": 0.3678571428571429,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.4,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.15,
+   0.15,
+   0.45,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP and Head of International Businesses & PGIM"
+ },
+ "Humphrey Lee": {
+  "avg_sentiment_score": 0.09000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Sleyster": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Shanker": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

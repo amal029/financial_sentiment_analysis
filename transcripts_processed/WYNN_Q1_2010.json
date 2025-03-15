@@ -1,0 +1,223 @@
+{
+ "date": "2010-04-30 16:30:00",
+ "Matt Maddox": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Stephen Wynn": {
+  "avg_sentiment_score": 0.14038461538461539,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8730769230769231,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Joe Greff - JPMorgan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Pascal": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Strawn - Morgan Stanley": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Cameron McKnight - Buckingham": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Marsico - Marsico Capital Management": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Marc Schorr": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Chief Operating Officer, Member of Executive Committee and Member of Gaming Compliance Committee"
+ },
+ "Steven Wieczynski - Stifel, Nicolaus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robin Farley - UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Linda Chen": {
+  "avg_sentiment_score": 0.5700000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.4,
+   0.4
+  ],
+  "title": "President of Wynn International Marketing Limited"
+ },
+ "Larry Klatzkin - Chapdelaine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Janet Brashear - Sanford C. Bernstein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

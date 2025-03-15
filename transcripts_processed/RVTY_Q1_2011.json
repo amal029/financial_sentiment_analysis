@@ -1,0 +1,210 @@
+{
+ "date": "2011-05-06 17:00:00",
+ "David Francisco": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Robert Friel": {
+  "avg_sentiment_score": 0.4694444444444444,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7805555555555556,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Frank Wilson": {
+  "avg_sentiment_score": 0.2277777777777778,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Quintin Lai": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Isaac Ro": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Peter Lawson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Leonard": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Groberg": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jon Wood": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

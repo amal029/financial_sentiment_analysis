@@ -1,0 +1,323 @@
+{
+ "date": "2018-10-25 12:30:00",
+ "Ryan Martinez - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gary C. Kelly - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.1660714285714286,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.15,
+   -0.45,
+   0.45,
+   -0.35,
+   0.0,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas M. Nealon - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.85
+  ],
+  "title": "Strategic Advisor"
+ },
+ "Michael G. Van de Ven - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tammy Romo - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.26875,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Jack Atkins - Stephens, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Rajeev Lalwani - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Hunter K. Keay - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Savanthi N. Syth - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Jamie N. Baker - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Duane Pfennigwerth - Evercore ISI": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Helane Becker - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Linda B. Rutherford - Southwest Airlines Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Conor Shine - The Dallas Morning News, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Mary Schlangenstein - Bloomberg LP": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Tracy Rucinski - Thomson Reuters": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alison Sider - The Wall Street Journal": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ghim-Lay Yeo - FlightGlobal": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

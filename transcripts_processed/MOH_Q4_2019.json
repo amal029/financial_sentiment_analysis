@@ -1,0 +1,289 @@
+{
+ "date": "2020-02-11 08:00:00",
+ "Julie Trudell": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joseph Zubretsky": {
+  "avg_sentiment_score": 0.24838709677419354,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.0,
+   -0.75,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.6,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.55,
+   0.45,
+   -0.35,
+   0.15,
+   -0.35,
+   0.65,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.7645161290322581,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Thomas Tran": {
+  "avg_sentiment_score": 0.1611111111111111,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   -0.15,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.5666666666666667,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Advisor"
+ },
+ "Peter Costa": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Borsch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Newshel": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Stephen Tanal": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.6950000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68,
+   0.75
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Fidel": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joshua Raskin": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Charles Rhyee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Gary Taylor": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kevin Fischbeck": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "David Windley": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Sarah James": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "George Hill": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

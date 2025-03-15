@@ -1,0 +1,159 @@
+{
+ "date": "2023-02-01 08:30:00",
+ "Michael Rednor": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Judy Marks": {
+  "avg_sentiment_score": 0.4269230769230769,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8730769230769231,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Chair, President & CEO"
+ },
+ "Anurag Maheshwari": {
+  "avg_sentiment_score": 0.46875,
+  "sentiment_score": [
+   0.75,
+   -0.45,
+   0.55,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.6
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nick Housden": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Miguel Borrega": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

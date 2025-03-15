@@ -1,0 +1,47 @@
+{
+ "date": "2020-05-04 11:00:00",
+ "Mary Skafidas": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "James Tisch": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Co-Chairman of the Board & Member of the Office of the President"
+ },
+ "David Edelson": {
+  "avg_sentiment_score": -0.85,
+  "sentiment_score": [
+   -0.85
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.95
+  ],
+  "title": "Senior Vice President"
+ },
+ "Q - ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

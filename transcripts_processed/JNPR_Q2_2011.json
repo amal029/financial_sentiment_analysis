@@ -1,0 +1,255 @@
+{
+ "date": "2011-07-26 17:00:00",
+ "Kathleen Nemeth": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Johnson": {
+  "avg_sentiment_score": 0.4818181818181818,
+  "sentiment_score": [
+   0.35,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.6,
+   0.55
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer, Director, Member of Mergers & Aquisitions Committee, Member of Stock Committee, Member of Offering Committee and Member of Stock Repurchase Committee"
+ },
+ "Robyn Denholm": {
+  "avg_sentiment_score": 0.23076923076923078,
+  "sentiment_score": [
+   -0.35,
+   0.35,
+   -0.15,
+   0.65,
+   0.55,
+   -0.45,
+   0.6,
+   0.0,
+   0.05,
+   0.15,
+   1.0,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.6846153846153846,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial & Operations Officer and Executive Vice President"
+ },
+ "Nikos Theodosopoulos - UBS Investment Bank": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Mark Sue - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Marchetti - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Ittai Kidron - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Marshall - Gleacher & Company, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tal Liani - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Simon Leopold - Morgan Keegan & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian White - Ticonderoga Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey Kvaal - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "George Notter - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Slack - Citigroup Inc": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jayson Noland - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Rod Hall - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul Silverstein - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Choi": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

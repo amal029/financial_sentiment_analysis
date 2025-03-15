@@ -1,0 +1,371 @@
+{
+ "date": "2010-04-21 09:30:00",
+ "Wells Fargo & Company (WFC)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bob Strickland": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Stumpf": {
+  "avg_sentiment_score": 0.21710526315789475,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8447368421052632,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Howard Atkins": {
+  "avg_sentiment_score": 0.017948717948717954,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.75,
+   -1.0,
+   0.65,
+   0.0,
+   -1.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8307692307692307,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   0.5,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Head of Investor Relations, Head of Treasury, Head of Corporate Development, Head of Investment Portfolio, Head of Corporate Properties, Head of Venture Capital"
+ },
+ "John Mcdonald \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.03571428571428571,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8964285714285715,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew O'Connor \u2013 Deutsche Bank": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.35,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Kotowski \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Betsy Graseck \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.01875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Mutascio \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Nancy Bush \u2013 NAB Research": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joe Morford \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.15833333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Moshe Orenbuch \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ }
+}

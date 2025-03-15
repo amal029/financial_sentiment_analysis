@@ -1,0 +1,239 @@
+{
+ "date": "2018-07-27 10:00:00",
+ "John Egan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Houston": {
+  "avg_sentiment_score": 0.25434782608695655,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8478260869565217,
+  "confidence": [
+   0.85,
+   0.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Deanna Strable": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Taylor Scott": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Nora Everett": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75
+  ]
+ },
+ "Humphrey Lee": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "James McCaughan": {
+  "avg_sentiment_score": -0.03999999999999999,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.0,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "President of Global Asset Management & CEO of Principal Global Investors"
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Luis Vald\u00e9s": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Amy Friedrich": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Nadel": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ }
+}

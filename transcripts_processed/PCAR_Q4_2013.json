@@ -1,0 +1,389 @@
+{
+ "date": "2014-01-31 12:00:00",
+ "Robin E. Easton": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Mark C. Pigott": {
+  "avg_sentiment_score": 0.39705882352941174,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.65,
+   0.65,
+   0.15,
+   0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.85,
+   0.05,
+   0.75,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   -0.35,
+   0.65,
+   -0.05,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8156862745098039,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.5
+  ],
+  "title": "Executive Chairman and Chairman of Executive Committee"
+ },
+ "Jamie L. Cook - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert J. Christensen": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ],
+  "title": "President and Chief Financial Officer"
+ },
+ "Stephen E. Volkmann - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Andrew M. Casey - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Andrew Kaplowitz - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Shlisky - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Jerry Revich - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Joel Gifford Tiss - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.6950000000000001,
+  "confidence": [
+   0.68,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Steven Fisher - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Wertheimer - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "J. B. Groh - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Weber - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Adam William Uhlman - Cleveland Research Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Asher Kauffman - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Timothy Denoyer": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Research, LLC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Sponheimer - G. Research, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tim Robinson - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

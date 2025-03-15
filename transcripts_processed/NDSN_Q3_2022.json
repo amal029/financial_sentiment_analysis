@@ -1,0 +1,217 @@
+{
+ "date": "2022-08-23 08:30:00",
+ "Lara Mahoney": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sundaram Nagarajan": {
+  "avg_sentiment_score": 0.6366666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8033333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Joseph Kelley": {
+  "avg_sentiment_score": 0.3735294117647059,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.35,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7647058823529411,
+  "confidence": [
+   0.85,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP of Industrial Precision Solutions Leader"
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Connor Lynagh": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Glynn": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Hammond": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.694,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Saree Boroditsky": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Pez": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Dankert": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

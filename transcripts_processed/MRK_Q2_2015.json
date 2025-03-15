@@ -1,0 +1,296 @@
+{
+ "date": "2015-07-28 08:00:00",
+ "Joseph Romanelli": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.883,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Kenneth C. Frazier": {
+  "avg_sentiment_score": 0.40625,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.15,
+   0.85,
+   0.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.85,
+   0.9
+  ]
+ },
+ "Adam H. Schechter": {
+  "avg_sentiment_score": 0.38666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.45,
+   0.15,
+   1.0,
+   0.85,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8033333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Vice President and President of Global Human Health"
+ },
+ "Robert M. Davis": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Roger M. Perlmutter": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   0.55,
+   0.6,
+   0.05,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Marc Goodman": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Anderson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jami Rubin": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Boris": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Schoenebaum": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9470000000000001,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Tony Butler": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Colin Bristow": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregg Gilbert": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

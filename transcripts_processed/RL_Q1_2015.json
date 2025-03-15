@@ -1,0 +1,175 @@
+{
+ "date": "2014-08-06 09:00:00",
+ "James Hurley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jackwyn L. Nemerov": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Christopher H. Peterson": {
+  "avg_sentiment_score": 0.3464285714285715,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.15,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7392857142857142,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "President of Global Brands"
+ },
+ "Omar Saad - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Binetti - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David J. Glick - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lizabeth Dunn - Macquarie Research": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Faye I. Landes - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Weiner - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erinn E. Murphy - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joan Payson - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christian Buss - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Barbara Wyckoff - CLSA Limited, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

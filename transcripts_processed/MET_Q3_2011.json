@@ -1,0 +1,343 @@
+{
+ "date": "2011-10-28 08:00:00",
+ "John McCallion": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven A. Kandarian": {
+  "avg_sentiment_score": 0.2041666666666667,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "William J. Wheeler": {
+  "avg_sentiment_score": 0.11590909090909092,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8386363636363636,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "President of Americas"
+ },
+ "Jay Gelb - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "William J. Mullaney": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.65,
+   -0.35,
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.8,
+   0.6,
+   0.75
+  ],
+  "title": "President of The U.S. Business Organization"
+ },
+ "Jamminder S. Bhullar - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Giovanni - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Colin W. Devine - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Joanne A. Smith - Scotia Capital Inc., Research Division": {
+  "avg_sentiment_score": -0.725,
+  "sentiment_score": [
+   -0.45,
+   -1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "A. Mark Finkelstein - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steven J. Goulart": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Andrew Kligerman - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William J. Toppeta": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "President of International and President of International - Metropolitan Life Insurance Company"
+ },
+ "Randy Binner - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey R. Schuman - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John M. Nadel - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": -0.01249999999999999,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Thomas G. Gallagher - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.05714285714285715,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Suneet Kamath - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Nigel P. Dally - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

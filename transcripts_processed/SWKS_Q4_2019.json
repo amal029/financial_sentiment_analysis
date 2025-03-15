@@ -1,0 +1,209 @@
+{
+ "date": "2019-11-12 17:00:00",
+ "Company Representatives": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mitch Haws": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Liam Griffin": {
+  "avg_sentiment_score": 0.40714285714285714,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.05,
+   -0.45,
+   0.0,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8321428571428572,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "CEO, President & Chairman of the Board"
+ },
+ "Kris Sennesael": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.75,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.35
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Karl Ackerman ": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jamison Crone": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "A - Liam Griffin": {
+  "avg_sentiment_score": 0.46249999999999997,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Blayne Curtis": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Craig Ellis ": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Craig Hettenbach": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Caso": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Edward Snyder": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Bill Peterson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

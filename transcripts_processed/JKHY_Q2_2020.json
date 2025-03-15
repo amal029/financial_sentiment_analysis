@@ -1,0 +1,268 @@
+{
+ "date": "2020-02-05 08:45:00",
+ "Kevin Williams": {
+  "avg_sentiment_score": 0.38421052631578945,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8552631578947368,
+  "confidence": [
+   0.4,
+   0.75,
+   0.8,
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "David Foss": {
+  "avg_sentiment_score": 0.41875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.05,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   -0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.8029166666666666,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   0.85
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Vasundhara Govil": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Davis": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Foresi": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Peter Heckmann": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Glenn Greene ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Glenn Greene": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.4,
+   0.9,
+   0.4,
+   1.0
+  ]
+ },
+ "David Koning": {
+  "avg_sentiment_score": 0.2375,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brett Huff": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Togut": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

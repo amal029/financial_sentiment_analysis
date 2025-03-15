@@ -1,0 +1,591 @@
+{
+ "date": "2014-07-15 08:30:00",
+ "Jamie Dimon": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   0.15,
+   0.6,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.6,
+   0.05,
+   0.65,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8490740740740741,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Marianne Lake": {
+  "avg_sentiment_score": 0.23174603174603173,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.85,
+   0.85,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.15,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8047619047619048,
+  "confidence": [
+   0.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer of Consumer & Community Banking"
+ },
+ "Gerard Cassidy \u2013 RBC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Dimon ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Guy Moszkowski - Autonomous": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8777777777777778,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Schorr \u2013 ISI": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Glenn Schorr - ISI": {
+  "avg_sentiment_score": 0.04285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marianne Lake ": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.061764705882352944,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   -1.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John McDonald - Stanford Bernstein": {
+  "avg_sentiment_score": 0.07857142857142856,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Mayo - CLSA": {
+  "avg_sentiment_score": 0.040000000000000015,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Erika Najarian - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew O\u2019Connor - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Moshe Orenbuch - Credit Suisse": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Derek De Vries - UBS": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Wasserstrom - SunTrust Robinson": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth Usdin - Jefferies & Company": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Miller - FBR": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Chubak - Nomura": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "James Mitchell - Buckingham Research": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

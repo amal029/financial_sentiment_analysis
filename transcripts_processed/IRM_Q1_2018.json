@@ -1,0 +1,226 @@
+{
+ "date": "2018-04-26 08:30:00",
+ "Melissa Marsden - Iron Mountain, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "William Leo Meaney - Iron Mountain, Inc.": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   -0.35,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8554166666666667,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.68,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stuart B. Brown - Iron Mountain, Inc.": {
+  "avg_sentiment_score": 0.465,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8220000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   0.75,
+   1.0
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Sheila McGrath - Evercore Group LLC": {
+  "avg_sentiment_score": 0.29285714285714287,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Kidd - Iron Mountain, Inc.": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "George Tong - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Y. Cho - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Shlomo H. Rosenbaum - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.32142857142857145,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Justin P. Hauke - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Cybart - MUFG Securities America, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Compton - Morningstar, Inc. (Research)": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

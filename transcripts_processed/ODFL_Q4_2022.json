@@ -1,0 +1,283 @@
+{
+ "date": "2023-02-01 10:00:00",
+ "Drew Andersen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Greg Gantt": {
+  "avg_sentiment_score": 0.49411764705882355,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   0.05,
+   0.05,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.45,
+   0.05,
+   0.05,
+   1.0,
+   0.15,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7570588235294117,
+  "confidence": [
+   0.9,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Marty Freeman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "President & CEO"
+ },
+ "Adam Satterfield": {
+  "avg_sentiment_score": 0.3541666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   -0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7958333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jordan Alliger": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jack Atkins": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Bascome Majors": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Christian Wetherbee": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jon Chappell": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.65
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ari Rosa": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeff Kauffman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

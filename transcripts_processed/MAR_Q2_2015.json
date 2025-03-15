@@ -1,0 +1,270 @@
+{
+ "date": "2015-07-30 13:00:00",
+ "Arne M. Sorenson": {
+  "avg_sentiment_score": 0.23076923076923078,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.05,
+   0.65,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7865384615384615,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   0.9,
+   0.9,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Carl T. Berquist": {
+  "avg_sentiment_score": 0.28500000000000003,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Special Adviser"
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Smedes Rose": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Kent": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Felicia Hendrix": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Harry Curtis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Laura E. Paugh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bill Crow": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Greff": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David Loeb": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Thomas Allen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Ryan Meliker": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ian Rennardson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Wes Golladay": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vince Ciepiel": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

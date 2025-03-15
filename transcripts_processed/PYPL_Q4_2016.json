@@ -1,0 +1,176 @@
+{
+ "date": "2017-01-26 16:30:00",
+ "Gabrielle Scheibe Rabinovitch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dan Schulman": {
+  "avg_sentiment_score": 0.4388888888888889,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "John Rainey": {
+  "avg_sentiment_score": 0.6285714285714287,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.05,
+   1.0,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   0.9,
+   0.6,
+   1.0
+  ],
+  "title": "CFO & Executive VP of Global Customer Operations"
+ },
+ "Tien-tsin Huang": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Keane": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.8,
+   0.68
+  ]
+ },
+ "Bill Ready": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "James Cakmak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Scott Devitt": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin Pellar": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Bill Ready ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

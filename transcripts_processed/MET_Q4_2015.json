@@ -1,0 +1,291 @@
+{
+ "date": "2016-02-04 08:00:00",
+ "Edward A. Spehar - Head-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Albert Kandarian - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   0.35,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "John C. R. Hele - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": -0.05499999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "CFO and Executive Vice President"
+ },
+ "Seth M. Weiss - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9033333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jamminder Singh Bhullar - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.27999999999999997,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven J. Goulart - Chief Investment Officer & Executive Vice President": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & Chief Investment Officer"
+ },
+ "Thomas George Gallagher - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John M. Nadel - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher G. Townsend - President-Asia Region": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ],
+  "title": "President of Asia"
+ },
+ "Ryan Krueger - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Eric Berg - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Humphrey Hung Fai Lee - Dowling & Partners Securities LLC": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Thomas Steigerwalt - Executive Vice President, U.S. Business, MetLife, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Maria R. Morris - Executive VP & Head-Global Employee Benefits": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Yaron J. Kinar - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.33999999999999997,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   -0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Erik J. Bass - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

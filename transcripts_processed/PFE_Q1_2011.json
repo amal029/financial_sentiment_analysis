@@ -1,0 +1,226 @@
+{
+ "date": "2011-05-03 10:00:00",
+ "Charles Triano": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ian Read": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.65,
+   0.85,
+   0.45,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.6,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Frank D'Amelio": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.55,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jami Rubin": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Catherine Arnold": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Charles Butler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Geno Germano": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Group President of Global Innovative Pharma Business"
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Boris": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory Gilbert": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marc Goodman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Simmons": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "President of Emerging Markets & Established Products units and General Manager of Emerging Markets & Established Products units"
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

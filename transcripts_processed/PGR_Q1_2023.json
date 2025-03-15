@@ -1,0 +1,304 @@
+{
+ "date": "2023-05-03 09:00:00",
+ "Douglas Constantine": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.5,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Susan Griffith": {
+  "avg_sentiment_score": 0.1310344827586207,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.45,
+   0.45,
+   -0.35,
+   -0.15,
+   -0.15,
+   0.15,
+   -0.15,
+   0.55,
+   0.45,
+   -0.15,
+   0.05,
+   -0.15,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   -0.35,
+   0.45,
+   -0.35,
+   1.0,
+   -0.15,
+   -0.15,
+   0.05,
+   -0.35,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7396551724137931,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "A - Douglas Constantine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Zaremski": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John Sauerland": {
+  "avg_sentiment_score": 0.41428571428571426,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "VP & CFO"
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Andrew Kligerman": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Jamminder Bhullar": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Alexander Scott": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "Jon Newsome": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Motemaden": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Patrick Callahan": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "President of Personal Lines"
+ },
+ "Tracy Benguigui": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Shanker": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Ward": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Bauer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "date": "2023-05-04 09:00:00",
+ "Tim Yocum": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Greg Brown": {
+  "avg_sentiment_score": 0.7642857142857142,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Jason Winkler": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Tim Long": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Molloy": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Executive VP & COO"
+ },
+ "George Notter": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Meta Marshall": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mahesh Saptharishi": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sami Badri": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

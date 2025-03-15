@@ -1,0 +1,343 @@
+{
+ "date": "2016-04-26 16:30:00",
+ "Agnes Lee": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Mick Farrell": {
+  "avg_sentiment_score": 0.3828125,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   -0.35,
+   1.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.75,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8725,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.9
+  ]
+ },
+ "Brett Sandercock": {
+  "avg_sentiment_score": 0.40714285714285714,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.15,
+   0.65,
+   0.0,
+   0.85,
+   -0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7392857142857142,
+  "confidence": [
+   0.4,
+   0.4,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Ian Abbott": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Taylor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Goodsall": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Margaret Kaczor": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Hollingshead": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Will Dunlop": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Matson": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Rob Douglas": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "J.P. Peltier": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Saul Hadassin": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Anthony Petrone": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Victor Windeyer": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Douglas ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Kallos": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Suraj Kalia": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

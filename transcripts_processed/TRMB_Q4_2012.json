@@ -1,0 +1,267 @@
+{
+ "date": "2013-02-05 16:30:00",
+ "Willa McManmon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Steve Berglund": {
+  "avg_sentiment_score": 0.3464285714285714,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   1.0,
+   0.65,
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7882142857142858,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Raj Bahri": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   -0.45,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Assistant Secretary"
+ },
+ "Rich Valera \u2013 Needham & Company": {
+  "avg_sentiment_score": 0.02142857142857143,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jonathan Ho \u2013 William Blair": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.73375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.67,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Wong \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Paul Coster \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Andrea James \u2013 Dougherty & Company": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Andrew Spinola \u2013 Wells Fargo": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Eli Lustgarten \u2013 Longbow Securities": {
+  "avg_sentiment_score": 0.065,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.882,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Ian Ing \u2013 Lazard Capital Markets": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

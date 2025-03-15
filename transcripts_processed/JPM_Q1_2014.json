@@ -1,0 +1,481 @@
+{
+ "date": "2014-04-11 08:30:00",
+ "Marianne Lake": {
+  "avg_sentiment_score": 0.1144927536231884,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.35,
+   1.0,
+   0.0,
+   -0.45,
+   0.55,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   -0.45,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.793623188405797,
+  "confidence": [
+   0.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   0.69,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.68,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer of Consumer & Community Banking"
+ },
+ "Glenn Schorr - ISI": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.65,
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie Dimon": {
+  "avg_sentiment_score": 0.1261904761904762,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.85,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Erika Najarian - Bank of America": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew O\u2019Connor - Deutsche Bank": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.35,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John McDonald - Sanford Bernstein ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John McDonald - Sanford Bernstein": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.042857142857142864,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Guy Moszkowski - Autonomous": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Gerard Cassidy - RBC": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Derek De Vries - UBS": {
+  "avg_sentiment_score": 0.19285714285714287,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.45,
+   0.0,
+   0.5,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Miller - FBR": {
+  "avg_sentiment_score": 0.03750000000000001,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Chubak - Nomura": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Jeff Harte - Sandler O'Neill": {
+  "avg_sentiment_score": 0.1416666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Mitchell - Buckingham Research": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Kotowski - Oppenheimer": {
+  "avg_sentiment_score": -0.16,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ]
+ }
+}

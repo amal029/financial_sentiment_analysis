@@ -1,0 +1,426 @@
+{
+ "date": "2010-04-23 11:30:00",
+ "Nene Foxhall": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Vice President of Communications & Government Affairs"
+ },
+ "DeAnne Gabel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Smisek ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Jim Compton": {
+  "avg_sentiment_score": 0.34375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.4,
+   0.8
+  ],
+  "title": "Vice Chairman and Chief Revenue Officer"
+ },
+ "Zane Rowe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Jeff Smisek": {
+  "avg_sentiment_score": 0.2475,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.9
+  ]
+ },
+ "Jamie Baker \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Zane Rowe ": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan McKenzie \u2013 Hudson Securities ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Hunter Keay \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Greene \u2013 Morgan Stanley": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Crissey \u2013 UBS": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Chase \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Helane Becker \u2013 Jesup & Lamont": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Mastoris \u2013 Broadpoint": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Gerry Laderman": {
+  "avg_sentiment_score": -0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Terry Maxon \u2013 Dallas Morning News": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.65
+  ]
+ },
+ "Deepa Seetharaman \u2013 Thomson Reuters": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Koenig \u2013 Associated Press": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jed Melnick \u2013 New York Times": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Richard Newman \u2013 The Record": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ted Reed \u2013 TheStreet.com": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nene Foxhall ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Dan Reed \u2013 USA TODAY": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Compton ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

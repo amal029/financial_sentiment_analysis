@@ -1,0 +1,294 @@
+{
+ "date": "2012-07-12 10:00:00",
+ "Arne M. Sorenson": {
+  "avg_sentiment_score": 0.1716666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   -0.15,
+   0.45,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   -0.45,
+   0.45,
+   1.0,
+   0.05,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   -0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7533333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Carl T. Berquist": {
+  "avg_sentiment_score": 0.2590909090909091,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8181818181818182,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Special Adviser"
+ },
+ "Smedes Rose - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Steven E. Kent - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Robin M. Farley - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Scholes": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Laura E. Paugh": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ryan Meliker - McNicoll, Lewis & Vlak LLC, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Harry C. Curtis - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "William C. Marks - JMP Securities LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Felicia R. Hendrix - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shaun C. Kelley - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "David Loeb - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Attie - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Joseph Greff - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "William A. Crow - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": -0.675,
+  "sentiment_score": [
+   -0.35,
+   -1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Ian C. Weissman - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

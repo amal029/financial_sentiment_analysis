@@ -1,0 +1,332 @@
+{
+ "date": "2011-01-24 11:00:00",
+ "Cathy Martin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Skinner": {
+  "avg_sentiment_score": 0.45909090909090905,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   1.0,
+   0.65,
+   0.15,
+   0.65,
+   1.0,
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6454545454545454,
+  "confidence": [
+   0.9,
+   0.4,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Vice Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "Peter Bensen": {
+  "avg_sentiment_score": 0.08846153846153847,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.05,
+   -0.35,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Administrative Officer"
+ },
+ "Michael Kelter - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Palmer - UBS Investment Bank": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Donald Thompson": {
+  "avg_sentiment_score": 0.53125,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   0.45,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President, Director and Chairman of Executive Committee"
+ },
+ "David Tarantino - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Matthew DiFrisco - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey Omohundro - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Barish - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Glass - Morgan Stanley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mitchell Speiser - Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Siegner - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joseph Buckley - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nicole Regan - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Van Vliet": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gregory Badishkanian - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Ivankoe - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Larry Miller - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Howard Penney - Prudential Equity Group": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Company Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jason West - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

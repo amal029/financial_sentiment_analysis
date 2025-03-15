@@ -1,0 +1,242 @@
+{
+ "date": "2014-10-29 08:00:00",
+ "Jake Elguicze": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Benson F. Smith": {
+  "avg_sentiment_score": 0.274,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   -0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.85,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8220000000000001,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Thomas E. Powell": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.05,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "David R. Lewis - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Lawrence S. Keusch - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "David L. Turkaly - JMP Securities LLC, Research Division": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Jason Wittes - Brean Capital LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Matthew Taylor - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.08333333333333336,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Anthony Petrone - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Matthew Mishan - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher C. Cooley - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ravi Misra - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew O'Brien - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

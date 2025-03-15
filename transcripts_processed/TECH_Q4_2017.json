@@ -1,0 +1,204 @@
+{
+ "date": "2017-08-08 09:00:00",
+ "James T. Hippel - Bio-Techne Corp.": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Charles R. Kummeth - Bio-Techne Corp.": {
+  "avg_sentiment_score": 0.44782608695652176,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.65,
+   0.45,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.35,
+   0.85,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8652173913043477,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Advisor & Director"
+ },
+ "Daniel Arias - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7949999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Puneet Souda - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7366666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Dan Leonard - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Emily G. Stent - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Amanda L. Murphy - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Matthew G. Hewitt - Craig-Hallum Capital Group LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim C. Evans - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

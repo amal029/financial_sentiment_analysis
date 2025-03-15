@@ -1,0 +1,157 @@
+{
+ "date": "2020-07-21 10:00:00",
+ "Tricia Meyers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Millett": {
+  "avg_sentiment_score": 0.403125,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.55,
+   0.0,
+   0.45,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.865625,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa Wagler": {
+  "avg_sentiment_score": 0.29444444444444445,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8888888888888888,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Chris Terry": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Dave Gagliano": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Rosenfeld": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andreas Bokkenheuser": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "John Tumazos": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0
+  ]
+ }
+}

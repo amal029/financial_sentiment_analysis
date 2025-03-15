@@ -1,0 +1,285 @@
+{
+ "date": "2010-04-20 11:00:00",
+ "List Underwood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Grayson Hall": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "David Tuner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Wells": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.8,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew O'Connor \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Siegenthaler \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Turner": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.0,
+   -0.15,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.845,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.8,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Brian Foran \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Mutascio \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Barb Godin": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Ken Usdin \u2013 Bank of America": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Betsy Graseck \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Betsy Graseck- Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Betsy Graseck \u2013 Stanley Morgan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Kevin St. Pierre \u2013 Bernstein": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Valentin \u2013 FBR Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Marinac \u2013 FIG Partners": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

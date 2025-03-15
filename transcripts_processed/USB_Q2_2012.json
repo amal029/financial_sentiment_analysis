@@ -1,0 +1,285 @@
+{
+ "date": "2012-07-18 09:30:00",
+ "Judith T. Murphy": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Richard K. Davis": {
+  "avg_sentiment_score": 0.11944444444444444,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.05,
+   -0.45,
+   0.55,
+   -0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.15,
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6972222222222223,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.5,
+   0.85
+  ],
+  "title": "Executive Chairman and Executive Chairman of US Bank"
+ },
+ "Andrew Cecere": {
+  "avg_sentiment_score": 0.03636363636363637,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15,
+   0.15,
+   -0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8068181818181818,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Leanne Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Jon G. Arfstrom - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "P. W. Parker": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "R. Scott Siefers - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Gregory W. Ketron - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Marty Mosby - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Todd L. Hagerman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.11249999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Nancy A. Bush - NAB Research, LLC, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Mayo - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David A. George - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul J. Miller - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.35,
+   -0.35,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

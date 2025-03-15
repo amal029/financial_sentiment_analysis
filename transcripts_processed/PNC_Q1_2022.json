@@ -1,0 +1,185 @@
+{
+ "date": "2022-04-14 11:00:00",
+ "Bryan Gill": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.6
+  ]
+ },
+ "Bill Demchak ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Rob Reilly ": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Reilly": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Bill Demchak": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8178571428571428,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": -0.02999999999999998,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   -0.35,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

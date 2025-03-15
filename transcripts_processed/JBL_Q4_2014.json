@@ -1,0 +1,261 @@
+{
+ "date": "2014-09-24 16:30:00",
+ "Beth Walters": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Mondello": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Forbes Alexander": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.8,
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Mark Delaney - Goldman Sachs": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Delaney - Goldman Sachs ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Mondello ": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.35,
+   0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Alexander - Raymond James": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Alexander - Raymond James ": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8
+  ]
+ },
+ "Amitabh Passi - UBS ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Forbes Alexander ": {
+  "avg_sentiment_score": 0.6071428571428571,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.6285714285714287,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.8,
+   0.4,
+   0.6,
+   0.85
+  ]
+ },
+ "Steven Fox - Cross Research ": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Shawn Harrison - Longbow Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Shawn Harrison - Longbow Research ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sherri Scribner - Deutsche Bank ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Nikhil Kumar - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sean Hannan - Needham & Company ": {
+  "avg_sentiment_score": 0.014285714285714287,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Beth Walters ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

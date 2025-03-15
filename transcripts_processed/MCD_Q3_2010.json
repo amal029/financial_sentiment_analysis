@@ -1,0 +1,300 @@
+{
+ "date": "2010-10-26 11:00:00",
+ "Mary Kay Shaw": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9473684210526315,
+  "confidence": [
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Skinner": {
+  "avg_sentiment_score": 0.35454545454545455,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.15,
+   0.15,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7363636363636363,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Vice Chairman, Chief Executive Officer and Chairman of Executive Committee"
+ },
+ "Peter Bensen": {
+  "avg_sentiment_score": 0.49615384615384617,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45,
+   0.85,
+   0.55,
+   0.85,
+   1.0,
+   0.85,
+   0.45,
+   -0.35,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7307692307692307,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Administrative Officer"
+ },
+ "David Palmer": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey Omohundro": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Donald Thompson": {
+  "avg_sentiment_score": 0.61875,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   1.0,
+   0.45,
+   0.55,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director and Chairman of Executive Committee"
+ },
+ "David Tarantino": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Glass": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Barish": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jason West": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew DiFrisco": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Buckley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Larry Miller": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey Bernstein": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mitchell Speiser - Buckingham Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Siegner": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Ivankoe": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joshua Long - Stephens Inc": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Senatore": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Peter Saleh - Telsey Advisory Group": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "date": "2018-02-22 13:00:00",
+ "Bonni Rosen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Glenn Rufrano": {
+  "avg_sentiment_score": 0.390625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7475,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   0.67,
+   0.4
+  ]
+ },
+ "Michael Bartolotta": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.5,
+   0.75,
+   0.75
+  ]
+ },
+ "Sheila McGrath": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Dennerlein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Lucas": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ }
+}

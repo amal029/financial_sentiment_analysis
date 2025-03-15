@@ -1,0 +1,283 @@
+{
+ "date": "2013-10-21 11:00:00",
+ "Kathy Martin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Don Thompson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director and Chairman of Executive Committee"
+ },
+ "Peter Bensen": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ],
+  "title": "Chief Administrative Officer"
+ },
+ "Joseph Buckley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Don Thompson ": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   -0.35,
+   0.65,
+   0.65,
+   0.45,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.45,
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kathy Martin ": {
+  "avg_sentiment_score": 0.056666666666666664,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9933333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Glass - Morgan Stanley ": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey Bernstein - Barclays ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Peter Bensen ": {
+  "avg_sentiment_score": 0.18125,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   0.45,
+   0.0,
+   0.05,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.66875,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Tarantino - Robert W. Baird ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Will Slabaugh - Stephens": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matt DiFrisco - Lazard Capital Markets": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike [Tamis] - Oppenheimer": {
+  "avg_sentiment_score": -1.0,
+  "sentiment_score": [
+   -1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Unidentified Analyst ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Senatore - Sanford Bernstein ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nicole Miller - Piper Jaffray": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeff Farmer - Wells Fargo ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "R.J. Hottovy - Morningstar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andy Barish - Jefferies ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mitch Speiser - Buckingham Research ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

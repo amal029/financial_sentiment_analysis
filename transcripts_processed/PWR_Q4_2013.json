@@ -1,0 +1,267 @@
+{
+ "date": "2014-02-20 09:30:00",
+ "Kip A. Rupp": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "James F. O'Neil": {
+  "avg_sentiment_score": 0.42608695652173917,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8130434782608695,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Derrick A. Jensen": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.15,
+   0.05,
+   -0.35,
+   0.65,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.7374999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.75
+  ]
+ },
+ "Saagar Parikh - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6
+  ]
+ },
+ "Will Gabrielski - Stephens Inc.": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Alexander J. Rygiel - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steven Fisher - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jamie L. Cook - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.8,
+   0.9
+  ]
+ },
+ "Jerimiah Booream-Phelps - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew J. Wittmann - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Adam R. Thalhimer - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Craig E. Irwin - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Brian K. Lee - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "William D. Bremer - Maxim Group LLC, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Noelle C. Dilts - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel J. Mannes - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Cory Mitchell - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ }
+}

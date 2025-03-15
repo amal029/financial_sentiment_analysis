@@ -1,0 +1,179 @@
+{
+ "date": "2015-08-04 08:30:00",
+ "John O'Connor": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Ramon Alaix": {
+  "avg_sentiment_score": 0.4538461538461539,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.55,
+   0.65,
+   0.05,
+   0.85,
+   0.85,
+   0.05,
+   0.0,
+   0.15,
+   0.75,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7615384615384616,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Paul Herendeen": {
+  "avg_sentiment_score": 0.34500000000000003,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.05,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.8,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Kevin Ellich": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erin Wilson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kathy Miner": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Schoenebaum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeff Holford": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

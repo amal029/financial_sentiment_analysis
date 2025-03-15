@@ -1,0 +1,174 @@
+{
+ "date": "2013-10-30 08:00:00",
+ "Jake Elguicze": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Benson F. Smith": {
+  "avg_sentiment_score": 0.3764705882352941,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.85,
+   0.35,
+   0.85,
+   0.05,
+   0.45,
+   0.55,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   0.65,
+   0.35,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.8
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Thomas E. Powell": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David R. Lewis - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Lawrence S. Keusch - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Matthew O'Brien - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Newitter - Leerink Swann LLC, Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew Taylor - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Anthony Petrone - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": -0.037500000000000006,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "James Sidoti - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

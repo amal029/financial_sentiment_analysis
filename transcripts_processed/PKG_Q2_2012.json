@@ -1,0 +1,348 @@
+{
+ "date": "2012-07-17 10:00:00",
+ "Mark W. Kowlzan": {
+  "avg_sentiment_score": 0.3157142857142857,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.05,
+   0.05,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.35,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7957142857142857,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Richard B. West": {
+  "avg_sentiment_score": 0.1409090909090909,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8863636363636364,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Chip A. Dillon - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul T. Stecko": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Thomas A. Hassfurther": {
+  "avg_sentiment_score": 0.2357142857142857,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Phil M. Gresh - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Anthony Pettinari - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark A. Weintraub - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "George L. Staphos - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Wilde - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark W. Connelly - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Philip Ng - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Scott Gaffner - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Albert T. Kabili - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Joshua L. Zaret - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Ovshey Ovshey - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

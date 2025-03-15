@@ -1,0 +1,302 @@
+{
+ "date": "2011-10-20 08:00:00",
+ "Tamera Gjesdal": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Kelly S. King": {
+  "avg_sentiment_score": 0.3382352941176471,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.45,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.15,
+   0.45,
+   0.45,
+   -0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7970588235294118,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Director"
+ },
+ "Clarke R. Starnes": {
+  "avg_sentiment_score": 0.2966666666666667,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.6,
+   0.55,
+   -0.15,
+   0.0,
+   0.55,
+   -0.55,
+   0.55,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Daryl N. Bible": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.05,
+   -0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.45,
+   -0.75,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew O'Connor - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Mayo - CLSA Asia-Pacific Markets, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "L. Erika Penala - Merrill Lynch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John G. Pancari - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Nancy A. Bush - NAB Research, LLC, Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.1,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ed Najarian - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew H. Burnell - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   -1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brian Foran - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher M. Mutascio - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher W. Marinac - FIG Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

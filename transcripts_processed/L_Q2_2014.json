@@ -1,0 +1,81 @@
+{
+ "date": "2014-08-04 11:00:00",
+ "Mary Skafidas": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "James Tisch": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Co-Chairman of the Board & Member of the Office of the President"
+ },
+ "David Edelson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Senior Vice President"
+ },
+ "Michael Millman \u2013 Millman Research Associates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Josh Shanker \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Mary Skafidas ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

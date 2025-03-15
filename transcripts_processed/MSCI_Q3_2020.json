@@ -1,0 +1,199 @@
+{
+ "date": "2020-10-27 11:00:00",
+ "Salli Schwartz": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Henry Fernandez": {
+  "avg_sentiment_score": 0.5066666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.85,
+   0.45,
+   0.05,
+   0.55,
+   0.55,
+   0.65,
+   0.45,
+   0.55,
+   0.45,
+   0.15,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8033333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Baer Pettit": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.75,
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75
+  ],
+  "title": "President, COO & Director"
+ },
+ "Andy Wiechmann": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.55,
+   0.85,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75
+  ],
+  "title": "CFO & Interim Principal Accounting Officer"
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.75,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.9
+  ]
+ },
+ "Chris Shutler": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Craig Huber": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Owen Lau": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Keith Housum": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Henry Chien": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jake Williams": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

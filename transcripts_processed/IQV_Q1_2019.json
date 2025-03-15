@@ -1,0 +1,206 @@
+{
+ "date": "2019-05-01 09:00:00",
+ "Andrew Markwick": {
+  "avg_sentiment_score": 0.0071428571428571435,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ari Bousbib": {
+  "avg_sentiment_score": 0.28157894736842104,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.85,
+   0.85,
+   0.0,
+   0.15,
+   0.0,
+   0.35,
+   0.65,
+   0.15,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8710526315789474,
+  "confidence": [
+   0.75,
+   0.9,
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Michael McDonnell": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Erin Wright": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Ross Muken": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David Windley": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Eric Coldwell": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "A - Andrew Markwick": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

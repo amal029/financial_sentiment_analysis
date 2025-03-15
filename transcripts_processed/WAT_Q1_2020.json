@@ -1,0 +1,157 @@
+{
+ "date": "2020-04-28 08:00:00",
+ "Bryan Brokmeier": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher O'Connell": {
+  "avg_sentiment_score": 0.16333333333333336,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.15,
+   0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7133333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.5,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Sherry Buck": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Derik de Bruin ": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Daniel Arias ": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Sherry Buck ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Douglas Schenkel ": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Vijay Kumar ": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Daniel Brennan ": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brandon Couillard ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

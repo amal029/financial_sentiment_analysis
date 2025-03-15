@@ -1,0 +1,179 @@
+{
+ "date": "2010-04-28 10:00:00",
+ "Kate White": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "John Lundgren": {
+  "avg_sentiment_score": 0.06818181818181818,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8272727272727273,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Special Advisor"
+ },
+ "Jim Loree": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.85,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Don Allan": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Eric Bosshard - Cleveland Research": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Lucas - Janney Montgomery Scott": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dennis McGill - Zelman & Associates": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Don Allan ": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nicole DeBlase - Deutsche Bank": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan Oppenhiem - Credit Suisse": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Peter Lisnic - Robert W. Baird": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Kate White ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

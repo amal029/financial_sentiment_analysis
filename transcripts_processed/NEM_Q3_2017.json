@@ -1,0 +1,234 @@
+{
+ "date": "2017-10-26 10:00:00",
+ "Jessica Largent - Newmont Mining Corp.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gary J. Goldberg - Newmont Mining Corp.": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8887999999999999,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Nancy K. Buese - Newmont Mining Corp.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Tom Palmer - Newmont Mining Corp.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "John Bridges - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.28125,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael S. Dudas - Vertical Research Partners, LLC.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "David Haughton - CIBC World Markets, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Dean Gehring - Newmont Mining Corp.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Tanya Jakusconek - Scotiabank": {
+  "avg_sentiment_score": -0.04642857142857142,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.8
+  ]
+ },
+ "Lucas N. Pipes - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ }
+}

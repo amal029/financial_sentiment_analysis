@@ -1,0 +1,229 @@
+{
+ "date": "2015-04-29 09:00:00",
+ "Barbara L. Gasper - Executive Vice President & Group Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ajay Banga - President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.45,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.85,
+   0.45,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.784375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Martina Hund-Mejean - Chief Financial Officer": {
+  "avg_sentiment_score": -0.029166666666666664,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6791666666666667,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "James E. Friedman - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Jared Maurer - Autonomous Research US LP": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Sanjay Sakhrani - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Smittipon Srethapramote - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason A. Kupferberg - Jefferies LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "David S. Hochstim - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Moshe Ari Orenbuch - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin D. Peller - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bryan C. Keane - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bob P. Napoli - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Jeffrey - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

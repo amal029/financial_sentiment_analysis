@@ -1,0 +1,171 @@
+{
+ "date": "2013-05-01 10:00:00",
+ "Pam Testani": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Mike McFerran": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Bill Sonneborn": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Scott Valentin \u2013 FBR Capital Markets": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Furtado \u2013 Jefferies": {
+  "avg_sentiment_score": 0.19444444444444445,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.15476190476190477,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7652380952380953,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.67,
+   1.0,
+   0.75
+  ]
+ },
+ "John Hecht \u2013 Stephens": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Lee Cooperman \u2013 Omega Advisors": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7757142857142857,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.68
+  ]
+ }
+}

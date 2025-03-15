@@ -1,0 +1,245 @@
+{
+ "date": "2011-02-09 10:00:00",
+ "John Egan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Larry Zimpleman": {
+  "avg_sentiment_score": 0.19062500000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   -0.35,
+   0.45,
+   0.15,
+   0.15,
+   0.55,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.728125,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Chairman, Chairman of The Principal Life, Director of Principal Life and Chairman of Executive Committee"
+ },
+ "Terrance Lillis": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.93,
+  "confidence": [
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President"
+ },
+ "John Nadel - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Houston": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.35,
+   0.35
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Norman Sorensen": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "James McCaughan": {
+  "avg_sentiment_score": 0.13000000000000003,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   -0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President of Global Asset Management & CEO of Principal Global Investors"
+ },
+ "Nigel Dally - Morgan Stanley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Julia Lawler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jamminder Bhullar - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Randy Binner - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Schwartz - Raymond James & Associates": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Colin Devine - Citigroup Inc": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joanne Smith - Scotia Capital Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.3,
+   0.75,
+   1.0
+  ]
+ },
+ "Darin Arita - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "date": "2019-10-23 09:00:00",
+ "Kevin Hern": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9739285714285714,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Ricks": {
+  "avg_sentiment_score": 0.4115384615384615,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.45,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8576923076923078,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Josh Smiley": {
+  "avg_sentiment_score": 0.33571428571428574,
+  "sentiment_score": [
+   0.65,
+   -0.05,
+   0.45,
+   0.45,
+   0.55,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Dan Skovronsky": {
+  "avg_sentiment_score": 0.7625,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Enrique Conterno": {
+  "avg_sentiment_score": 0.8099999999999999,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.9
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrik Jonsson": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.9
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Navin Jacob": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

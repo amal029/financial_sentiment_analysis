@@ -1,0 +1,199 @@
+{
+ "date": "2016-04-21 08:30:00",
+ "Michael T. Stefanski - Senior Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Francis J. Shammo - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.1236842105263158,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   -0.35,
+   -0.35,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.7894736842105263,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9
+  ]
+ },
+ "Brett Feldman - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Simon Flannery - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "David William Barden - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Philip A. Cusick - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael I. Rollins - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Craig Eder Moffett - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Christopher Hodulik - UBS Securities LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mike L. McCormack - Jefferies LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.85
+  ]
+ }
+}

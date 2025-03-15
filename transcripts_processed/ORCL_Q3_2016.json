@@ -1,0 +1,220 @@
+{
+ "date": "2016-03-15 17:00:00",
+ "Ken Bond": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Safra Catz": {
+  "avg_sentiment_score": 0.4833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8944444444444445,
+  "confidence": [
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Larry Ellison": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9
+  ],
+  "title": "Co-Founder, Chairman & CTO"
+ },
+ "Mark Hurd": {
+  "avg_sentiment_score": 0.5307692307692308,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8038461538461538,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.5,
+   0.75,
+   1.0,
+   0.85,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Heather Bellini": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Turits": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Kash Rangan": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "John DiFucci": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Philip Winslow": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Analyst ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kirk Materne": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Brent Thill": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,310 @@
+{
+ "date": "2012-02-08 10:00:00",
+ "Janet Pfeffer \u2013 Vice President, Business Development and Investor Relations": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Mike Lamach \u2013 Chairman, President and Chief Executive Officer": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steve Shawley \u2013 Senior Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Steve Tusa \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.03333333333333334,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8777777777777778,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Vice President and President of Engineered Products Group"
+ },
+ "Mike Lamach": {
+  "avg_sentiment_score": 0.21341463414634146,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   -0.35,
+   0.65,
+   0.85,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7895121951219511,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Nigel Coe \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew Obin \u2013 Bank of America": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Shawley": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Terry Darling \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.16499999999999998,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   0.8,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Shannon O'Callaghan \u2013 Nomura": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Julian Mitchell \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Winoker \u2013 Sanford Bernstein": {
+  "avg_sentiment_score": 0.3055555555555556,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

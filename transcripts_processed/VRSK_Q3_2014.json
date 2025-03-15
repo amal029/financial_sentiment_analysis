@@ -1,0 +1,255 @@
+{
+ "date": "2014-10-29 08:30:00",
+ "Eva F. Huston": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Scott G. Stephenson": {
+  "avg_sentiment_score": 0.3275,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.55,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.845,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mark V. Anquillare": {
+  "avg_sentiment_score": 0.23214285714285715,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "President & COO"
+ },
+ "Manav Patnaik - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Timothy McHugh - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jeffrey P. Meuler - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Denny Galindo - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew W. Jeffrey - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Anjaneya Singh - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Ginocchio - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joseph D. Foresi - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William A. Warmington - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "David Togut - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Kevin D. McVeigh - Macquarie Research": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew C. Steinerman - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

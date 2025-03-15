@@ -1,0 +1,349 @@
+{
+ "date": "2012-01-24 11:00:00",
+ "M. List Underwood": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "O. B. Grayson Hall": {
+  "avg_sentiment_score": 0.27391304347826084,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.773913043478261,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "David J. Turner": {
+  "avg_sentiment_score": 0.19677419354838713,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.55,
+   0.75,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7967741935483871,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "John G. Pancari - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Barbara Godin": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Marty Mosby - Guggenheim Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Lusco": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Foran - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.4,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Matthew D. O'Connor - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Leanne Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0071428571428571435,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4857142857142857,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   0.4
+  ]
+ },
+ "Jefferson Harralson - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Kevin Fitzsimmons - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Matthew H. Burnell - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Gregory W. Ketron - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.8
+  ]
+ },
+ "Christopher W. Marinac - FIG Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

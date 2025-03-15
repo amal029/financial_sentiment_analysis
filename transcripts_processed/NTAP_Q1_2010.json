@@ -1,0 +1,314 @@
+{
+ "date": "2009-08-19 17:00:00",
+ "Tara Dhillon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Warmenhoven": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Chairman and Member of Strategy Committee"
+ },
+ "Steven Gomo ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   -1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   -0.35,
+   0.0,
+   0.55,
+   0.05,
+   0.15,
+   0.0,
+   0.45,
+   0.15,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7825,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   0.8,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President of Finance"
+ },
+ "Thomas Georgens ": {
+  "avg_sentiment_score": 0.45666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.85,
+   -0.15,
+   0.75,
+   0.15,
+   -0.35,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.55,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7133333333333333,
+  "confidence": [
+   0.4,
+   0.6,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Brent Bracelin \u2013 Pacific Crest Securities": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Benjamin Reitzes \u2013 Barclays Capital ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Kelleher - Brigantine Advisors": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Freed \u2013 Morgan, Keegan & Company": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Bailey - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Keith Bachman \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Brian Marshal \u2013 Broadpoint American Technology Research": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Martinuzzi \u2013 Craig-Hallum Capital Group": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bill Schultz \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Whitmore \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Walter Pritchard \u2013 Cowen and Co. ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Alex Kurtz - Merriman Curhan Ford": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Moskowitz \u2013 JP Morgan": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "William Fearnley \u2013 FTN Midwest Securities": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Mansky \u2013 Cannacord Adams ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Wamsi Mohan \u2013 Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Glenn Hanus - Needham & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Katie Huberty \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "date": "2010-04-30 08:00:00",
+ "Vince Palmiere": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Greifeld": {
+  "avg_sentiment_score": 0.2867647058823529,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   -0.35,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.55,
+   0.55,
+   0.35,
+   0.15,
+   -0.45,
+   0.55,
+   0.15,
+   0.15,
+   0.15,
+   0.55,
+   0.65,
+   0.55,
+   0.65,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7602941176470589,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Executive Officer, Staff Director and Member of Executive Committee"
+ },
+ "Adena Friedman": {
+  "avg_sentiment_score": 0.23500000000000001,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.6,
+   0.0,
+   0.05,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Daniel Harris - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Repetto - Sandler O`Neill": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Roger Freeman - Barclays Capital": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Niamh Alexander - Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.97,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Howard Chen - Cr\u00e9dit Suisse First Boston, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Robert Napoli - Piper Jaffray Companies": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Matthew Heinz - Jefferies & Company": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David Grossman - Thomas Weisel Partners Equity Research": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Edward Ditmire - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Edward Knight": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Carrier - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Celeste Brown - Morgan Stanley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

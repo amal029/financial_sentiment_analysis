@@ -1,0 +1,180 @@
+{
+ "date": "2020-04-30 17:00:00",
+ "Mike Milotich": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Al Kelly": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.65,
+   0.05,
+   0.45,
+   1.0,
+   0.05,
+   -0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7683333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.67,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vasant Prabhu": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.15,
+   0.05,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6749999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Sanjay Sakhrani": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Moshe Orenbuch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tien-Tsin Huang": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Bob Napoli": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Lisa Ellis": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ashwin Shirvaikar": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Darrin Peller": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Harshita Rawat": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ }
+}

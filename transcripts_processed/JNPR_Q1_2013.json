@@ -1,0 +1,199 @@
+{
+ "date": "2013-04-23 17:00:00",
+ "Kathleen Nemeth": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin R. Johnson": {
+  "avg_sentiment_score": 0.3409090909090909,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.8045454545454546,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   0.75
+  ],
+  "title": "Chief Executive Officer, Director, Member of Mergers & Aquisitions Committee, Member of Stock Committee, Member of Offering Committee and Member of Stock Repurchase Committee"
+ },
+ "Rami Rahim": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.4,
+   0.75,
+   0.8,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Robyn M. Denholm": {
+  "avg_sentiment_score": 0.14375000000000002,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.75,
+   0.0,
+   -0.35,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial & Operations Officer and Executive Vice President"
+ },
+ "Roderick B. Hall - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kevin J. Dennean - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.4,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark McKechnie - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Amitabh Passi - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen Patel - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tal Liani - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George C. Notter - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ehud A. Gelblum - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert L. Muglia": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President and General Manager of Software Solutions Division"
+ },
+ "Natarajan Subrahmanyan - The Juda Group, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

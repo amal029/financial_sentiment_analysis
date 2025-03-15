@@ -1,0 +1,142 @@
+{
+ "date": "2010-07-30 17:00:00",
+ "Tom Lewis": {
+  "avg_sentiment_score": 0.17380952380952383,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   -0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7619047619047619,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Paul Meurer": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Executive Vice President and Treasurer"
+ },
+ "Jeffrey Donnelly": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Moore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Andrew Fenton": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

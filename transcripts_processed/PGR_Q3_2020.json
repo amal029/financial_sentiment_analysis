@@ -1,0 +1,297 @@
+{
+ "date": "2020-11-04 09:30:00",
+ "Doug Constantine": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tricia Griffith": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.15,
+   0.85,
+   0.75,
+   0.55,
+   1.0,
+   0.05,
+   0.55,
+   0.55,
+   0.85,
+   0.45,
+   0.65,
+   0.4,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.8079999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Mike Zaremski": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "John Sauerland": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.6,
+   0.65,
+   0.45,
+   0.55,
+   0.55,
+   0.15,
+   0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "VP & CFO"
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Sauerland ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Greg Peters": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Phillips": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Gary Ransom": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "David Motemaden": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "A \u2013 John Sauerland": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "A \u2013 Tricia Griffith": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Q \u2013 Brian Meredith": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Josh Shanker": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

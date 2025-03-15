@@ -1,0 +1,394 @@
+{
+ "date": "2012-04-30 11:00:00",
+ "Chris Van Ens ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Thomas Toomey": {
+  "avg_sentiment_score": 0.40588235294117647,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   1.0,
+   0.15,
+   0.55,
+   0.05,
+   0.15,
+   -0.45,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.55,
+   0.05,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7823529411764706,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   0.9
+  ]
+ },
+ "David Messenger": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   0.35,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jerry Davis": {
+  "avg_sentiment_score": 0.29250000000000004,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   -0.15,
+   0.45,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.9,
+   0.85,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "David Bragg - Zelman & Associates": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Harry Alcock": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Investment Officer & Senior VP"
+ },
+ "Eric (ph) - Citi": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jana Galan - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Derek Bower - UBS Investment Bank": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Karin Ford - KeyBanc Capital Markets": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Andrew McCulloch - Green Street Advisors": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Salinsky - RBC Capital Markets": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Alexander Goldfarb - Sandler O\u2019Neill": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Swaroop Yalla - Morgan Stanley": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Richard Anderson - BMO Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Robert Stevenson - Macquarie": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Donnelly - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Bilerman - Citi Financials": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9642857142857143,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Taylor Schimkat - KBW": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paula Poskon - Robert W. Baird": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.65
+  ]
+ }
+}

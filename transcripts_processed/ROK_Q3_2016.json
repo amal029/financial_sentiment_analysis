@@ -1,0 +1,367 @@
+{
+ "date": "2016-07-27 08:30:00",
+ "Patrick Goris - Vice President, Finance and Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Blake D. Moret - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.15185185185185185,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8729629629629629,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Theodore D. Crandall - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.0015625000000000044,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   0.55,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   -0.25,
+   1.0,
+   0.65,
+   -0.45,
+   -0.45,
+   0.0,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8140625,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Vice President of Control Products & Solutions"
+ },
+ "Scott Reed Davis - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John G. Inch - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05,
+   0.0,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.029999999999999992,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Julian Mitchell - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Eastman - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": -0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9055555555555556,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shannon O'Callaghan - UBS Securities LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "Andrew Kaplowitz - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Eric Winoker - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.37142857142857144,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7357142857142858,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeremie Capron - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

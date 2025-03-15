@@ -1,0 +1,221 @@
+{
+ "date": "2023-07-26 08:30:00",
+ "Michael Rednor": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Judy Marks": {
+  "avg_sentiment_score": 0.2619047619047619,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.75,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8738095238095239,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chair, President & CEO"
+ },
+ "Anurag Maheshwari": {
+  "avg_sentiment_score": 0.42083333333333334,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8708333333333332,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Sprague": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Nick Housden": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Pokrzywinski": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe O'Dea": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

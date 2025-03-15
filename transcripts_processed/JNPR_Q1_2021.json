@@ -1,0 +1,235 @@
+{
+ "date": "2021-04-27 17:00:00",
+ "Jess Lubert": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Rami Rahim": {
+  "avg_sentiment_score": 0.659375,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.90625,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Ken Miller": {
+  "avg_sentiment_score": 0.384375,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   -0.35,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Rod Hall": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Simon Leopold": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Joe Cardoso": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Jake Wilhelm": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Tim Long": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Meta Marshall": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George Notter": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sami Badri": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Lloyd": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Alex Henderson": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Silverstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

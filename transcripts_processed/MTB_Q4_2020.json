@@ -1,0 +1,154 @@
+{
+ "date": "2021-01-21 11:00:00",
+ "Don MacLeod": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Darren King": {
+  "avg_sentiment_score": 0.1763157894736842,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   -0.45,
+   0.45,
+   0.05,
+   0.55,
+   0.05,
+   0.05,
+   0.55,
+   0.45,
+   0.0,
+   0.55,
+   0.15,
+   -0.15,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7052631578947368,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ],
+  "title": "Sr. Executive VP of Retail Banking, Business Banking, Mortgage & Indirect Dealer of Consumer Lending"
+ },
+ "Ken Zerbe ": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Steven Alexopoulos": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Usdin ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ }
+}

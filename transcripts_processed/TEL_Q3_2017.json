@@ -1,0 +1,271 @@
+{
+ "date": "2017-07-26 08:30:00",
+ "Sujal Shah - TE Connectivity Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Terrence R. Curtin - TE Connectivity Ltd.": {
+  "avg_sentiment_score": 0.384,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.85,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8548,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.65,
+   0.85,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Heath Mitts - TE Connectivity Ltd.": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.05,
+   0.65,
+   0.75,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.8,
+   0.4,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "CFO, Executive VP & Executive Director"
+ },
+ "Wamsi Mohan - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Shawn M. Harrison - Longbow Research LLC": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig M. Hettenbach - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Giordano - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.808,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.69
+  ]
+ },
+ "Matthew Sheerin - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "William Stein - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Mark Delaney - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.85,
+   0.6,
+   0.65
+  ]
+ },
+ "Sherri A. Scribner - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

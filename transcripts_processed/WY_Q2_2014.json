@@ -1,0 +1,349 @@
+{
+ "date": "2014-08-01 10:00:00",
+ "Denise Merle": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Doyle Simons": {
+  "avg_sentiment_score": 0.46,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   -0.45,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.75,
+   1.0,
+   0.05,
+   1.0,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8042857142857143,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   0.67,
+   0.68,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.68,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.67,
+   0.8,
+   0.85,
+   0.8
+  ]
+ },
+ "Patty Bedient": {
+  "avg_sentiment_score": 0.12222222222222223,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   -1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.45,
+   0.65,
+   1.0,
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Anthony Pettinari \u2013 Citi": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Weintraub \u2013 Buckingham Research": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Chip Dillon \u2013 Vertical Research Partners": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gail Glazerman \u2013 UBS": {
+  "avg_sentiment_score": 0.07857142857142858,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Ovshey \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark Wilde \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Mark Connelly \u2013 CLSA": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "George Staphos \u2013 Bank of America": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   -0.45,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7533333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Steve Chercover \u2013 DA Davidson": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Quinn \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Collin Mings \u2013 Raymond James": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "date": "2013-10-18 11:00:00",
+ "Pamela J. Huggins": {
+  "avg_sentiment_score": 0.017857142857142856,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.6,
+   0.6,
+   0.8,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Donald E. Washkewicz": {
+  "avg_sentiment_score": 0.3923076923076923,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.45,
+   0.55,
+   0.85,
+   -0.35,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8076923076923077,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Andrew M. Casey - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jon P. Marten": {
+  "avg_sentiment_score": 0.20625000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.35,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.15,
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75625,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Vice President"
+ },
+ "Ann P. Duignan - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joel Gifford Tiss - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Jamie L. Cook - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey D. Hammond - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Alexander M. Blanton - Clear Harbor Asset Management, LLC": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74375,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Stephen E. Volkmann - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mircea Dobre - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eli S. Lustgarten - Longbow Research LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Ritchie - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.033333333333333326,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.55
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Joshua C. Pokrzywinski - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jamie Sullivan - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

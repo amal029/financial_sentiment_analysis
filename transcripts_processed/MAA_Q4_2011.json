@@ -1,0 +1,273 @@
+{
+ "date": "2012-02-03 00:00:00",
+ "Leslie Bratten Cantrell Wolfgang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "H. Bolton": {
+  "avg_sentiment_score": 0.41363636363636364,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.05,
+   0.05,
+   1.0,
+   0.65,
+   0.05,
+   0.05,
+   0.75,
+   0.65,
+   0.45,
+   0.0,
+   -1.0,
+   0.45,
+   0.65,
+   0.75,
+   0.85,
+   1.0,
+   0.45,
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7204545454545455,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Albert M. Campbell": {
+  "avg_sentiment_score": 0.4264705882352941,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   1.0,
+   0.15,
+   0.55,
+   0.45,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.85,
+   0.45,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6823529411764706,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "David Toti": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Swaroop Yalla": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Thomas L. Grimes": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.35,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.95,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Stevenson": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.1,
+   0.55,
+   0.0,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Anderson": {
+  "avg_sentiment_score": -0.32999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -1.0,
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Paula Poskon": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Michael Salinsky": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.5928571428571429,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.0,
+   0.6,
+   0.75
+  ]
+ },
+ "David Bragg": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andy McCulloch": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Omotayo Okusanya": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

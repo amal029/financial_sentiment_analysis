@@ -1,0 +1,319 @@
+{
+ "date": "2016-04-26 17:00:00",
+ "John C. Lechleiter - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   -0.75,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Philip Johnson - Vice President, Investor Relations": {
+  "avg_sentiment_score": 0.22972972972972974,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8945945945945947,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.67,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Derica W. Rice - Chief Financial Officer & EVP-Global Services": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "CFO & Executive VP of Global Services"
+ },
+ "Gregg Gilbert - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David A. Ricks - President-Bio Medicines & Senior Vice President": {
+  "avg_sentiment_score": 0.37142857142857144,
+  "sentiment_score": [
+   -0.35,
+   0.85,
+   0.0,
+   0.85,
+   0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.75,
+   0.9,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Jan M. Lundberg - Executive Vice President, Science and Technology; President, Lilly Research Laboratories": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Susan Mahony - Senior Vice President & President, Lilly Oncology": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Jami Rubin - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Timothy Minton Anderson - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.0,
+  "confidence": [
+   0.0
+  ]
+ },
+ "Enrique A. Conterno - Senior Vice President & President, Lilly Diabetes": {
+  "avg_sentiment_score": 0.5916666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Andrew S. Baum - Citigroup Global Markets Ltd.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Steve Scala - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John T. Boris - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christopher Schott - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil K. Divan - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David R. Risinger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

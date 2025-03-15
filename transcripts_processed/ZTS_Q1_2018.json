@@ -1,0 +1,265 @@
+{
+ "date": "2018-05-02 08:30:00",
+ "Steve Frank - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Ram\u00f3n Alaix - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.3553571428571428,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8196428571428571,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Glenn David - Zoetis, Inc.": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.75,
+   0.85,
+   0.0,
+   0.45,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7791666666666667,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   1.0
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "John C. Kreger - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Ellich - Craig-Hallum Capital Group LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Louise Chen - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Ryskin - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David R. Risinger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gregg Gilbert - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jonathan David Block - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Schott - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jami Rubin - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Douglas D. Tsao - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alex Arfaei - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kathy M. Miner - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Liav Abraham - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Westenberg - C.L. King & Associates, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

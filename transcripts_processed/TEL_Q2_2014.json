@@ -1,0 +1,283 @@
+{
+ "date": "2014-04-23 08:30:00",
+ "Keith Kolstrom": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Tom Lynch": {
+  "avg_sentiment_score": 0.4103448275862069,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.45,
+   0.65,
+   0.0,
+   0.35,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.75,
+   0.55,
+   0.15,
+   0.0,
+   0.05,
+   0.55,
+   -0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8258620689655172,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Bob Hau": {
+  "avg_sentiment_score": 0.14375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.8,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Mark Delaney \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Terrence Curtin": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Wamsi Mohan \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Wood \u2013 Macquarie Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Amit Daryanani \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5700000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   0.68
+  ]
+ },
+ "Matt Sheerin \u2013 Stifel, Nicolaus & Co.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Shawn Harrison \u2013 Longbow Research": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.65
+  ]
+ },
+ "Amitabh Passi \u2013 UBS ": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Suva \u2013 Citigroup ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "William Stein \u2013 SunTrust Robinson Humphrey ": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Steven Fox \u2013 Cross Research": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ },
+ "Sheri Scribner \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

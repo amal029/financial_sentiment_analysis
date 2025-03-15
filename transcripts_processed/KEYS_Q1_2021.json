@@ -1,0 +1,299 @@
+{
+ "date": "2021-02-18 16:30:00",
+ "Jason Kary": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ron Nersesian": {
+  "avg_sentiment_score": 0.578,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   -0.45,
+   1.0,
+   0.45,
+   1.0,
+   0.55,
+   1.0,
+   0.15,
+   0.05,
+   1.0,
+   0.35
+  ],
+  "avg_confidence": 0.7988,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.67,
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.65,
+   0.75
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Neil Dougherty": {
+  "avg_sentiment_score": 0.39545454545454545,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.15,
+   1.0,
+   0.55,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.75
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Richard Eastman": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Mark Wallace": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85
+  ],
+  "title": "Senior VP of Global Sales & Chief Customer Officer"
+ },
+ "Jim Suva": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Marchetti": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Satish Dhanasekaran": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.05,
+   0.05,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   0.9,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.34375,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.87375,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.64,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mehdi Hosseini": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Mark Delaney": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Ridley-Lane": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Adam Thalhimer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Snyder": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brandon Couillard": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

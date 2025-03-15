@@ -1,0 +1,305 @@
+{
+ "date": "2011-08-08 16:30:00",
+ "Dan D'Arrigo": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.5499999999999999,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Jim Murren": {
+  "avg_sentiment_score": 0.31129032258064515,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.15,
+   0.65,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.85,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8241935483870968,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.8,
+   0.4,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Bobby Baldwin": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   -0.35,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6857142857142857,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.4
+  ],
+  "title": "Chief Customer Development Officer & Director"
+ },
+ "Stephen Kent - Goldman Sachs": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Shaun Kelley - Bank of America": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Grant Bowie": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Greff - JP Morgan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Katz - Jefferies & Co.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Janet Brashear - Sanford C. Bernstein": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Felicia Hendrix - Barclays ": {
+  "avg_sentiment_score": 0.135,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8949999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Lerner - Union Gaming": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Mark Strawn - Morgan Stanley": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Harry Curtis - Nomura Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Corey Sanders": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.8,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Robin Farley - UBS": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Larry [Katzen] - [Katzen] Advisors": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

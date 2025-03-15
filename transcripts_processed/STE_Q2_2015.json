@@ -1,0 +1,204 @@
+{
+ "date": "2014-11-05 10:00:00",
+ "Julie Winter": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Tokich": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Walter M Rosebrough": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   1.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7814285714285714,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Ian Mishan \u2013 KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0,
+   0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6699999999999999,
+  "confidence": [
+   0.67,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Walter M. Rosebrough": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75
+  ]
+ },
+ "David L. Turkaly \u2013 JMP Securities LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.67
+  ]
+ },
+ "Lawrence S. Keusch \u2013 Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Erin Wilson \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Jason A. Rodgers \u2013 Great Lakes Review": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitra Ramgopal \u2013 Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "date": "2022-08-02 08:00:00",
+ "Stuart Davis": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Roger Krone": {
+  "avg_sentiment_score": 0.23636363636363636,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.65,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8581818181818182,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Chris Cage": {
+  "avg_sentiment_score": 0.365625,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.15,
+   1.0,
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.78875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Peter Arment": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Sheila Kahyaoglu": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Spingarn": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Gavin Parsons": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Colin Canfield": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Akers": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Chris Cage ": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Bert Subin": {
+  "avg_sentiment_score": 0.02500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jasper Bibb": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

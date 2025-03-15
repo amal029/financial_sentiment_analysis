@@ -1,0 +1,254 @@
+{
+ "date": "2014-11-05 16:30:00",
+ "Brian K. Roberts": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Patrick J. Sullivan ": {
+  "avg_sentiment_score": 0.2863636363636364,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Danielle Antalffy - Leerink Partners": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Brian Roberts": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.6,
+   -0.15,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8240000000000001,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Raj Denhoy \u2013 Jefferies": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Patrick Sullivan": {
+  "avg_sentiment_score": 0.61,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.1,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Ben Andrew - William Blair": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William J. Plovanic \u2013 Canaccord Genuity, Inc": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.21363636363636365,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7618181818181818,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.68,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Mike Rich \u2013 Raymond James": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jan Wald - Benchmark Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ }
+}

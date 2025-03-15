@@ -1,0 +1,472 @@
+{
+ "date": "2018-01-24 08:45:00",
+ "Clay Moore": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "James Squires": {
+  "avg_sentiment_score": 0.4697368421052632,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   0.55,
+   0.75,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   -0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.55,
+   -0.15,
+   0.05,
+   0.65,
+   0.45,
+   0.55,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7276315789473684,
+  "confidence": [
+   0.9,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.9,
+   0.4,
+   0.85,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Alan Shaw": {
+  "avg_sentiment_score": 0.3738095238095238,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.15,
+   -0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8380952380952381,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael Joseph Wheeler": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.9,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Cynthia Earhart": {
+  "avg_sentiment_score": 0.10384615384615385,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   0.35,
+   -0.35,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6576923076923078,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.4,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Matt Reustle": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6075,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   0.68
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Barry Oglenski": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Justin Long": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Bascome Majors": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Walter Spracklin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Cherilyn Radbourne": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Ben Hartford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tyler Brown": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

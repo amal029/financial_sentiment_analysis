@@ -1,0 +1,200 @@
+{
+ "date": "2011-01-27 17:00:00",
+ "JoAnn DeGrande": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Howard Schultz": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.8,
+   0.85
+  ],
+  "title": "Founder & Chairman Emeritus"
+ },
+ "John Culver": {
+  "avg_sentiment_score": 0.8333333333333334,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6
+  ],
+  "title": "Non-Executive Advisor"
+ },
+ "Troy Alstead": {
+  "avg_sentiment_score": 0.4318181818181818,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.85,
+   0.05,
+   -0.15,
+   0.85,
+   0.85,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.740909090909091,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Operations Officer"
+ },
+ "John Glass - Morgan Stanley": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sharon Zackfia - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Palmer - UBS Investment Bank": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Hansberry": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.8,
+   0.85
+  ],
+  "title": "President of China & Asia Pacific Region"
+ },
+ "Michael Kelter - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew DiFrisco - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Senatore - Bernstein Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Siegner - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Ivankoe - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Clifford Burrows": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Group President of Siren Retail"
+ },
+ "Phillip Juhan - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

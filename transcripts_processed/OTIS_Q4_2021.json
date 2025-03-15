@@ -1,0 +1,201 @@
+{
+ "date": "2022-01-31 08:30:00",
+ "Michael Rednor": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Judy Marks": {
+  "avg_sentiment_score": 0.4735294117647059,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.45,
+   0.75,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.85,
+   0.75,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8647058823529411,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "Chair, President & CEO"
+ },
+ "Rahul Ghai": {
+  "avg_sentiment_score": 0.33529411764705885,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   1.0,
+   -0.15,
+   0.15,
+   0.55,
+   -0.45,
+   1.0,
+   0.65,
+   -0.35,
+   0.85,
+   0.55,
+   0.05,
+   0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.7482352941176471,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Miguel Borrega": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Stephen Tusa": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Walsh": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Nick Housden": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ]
+ },
+ "Joel Spungin": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

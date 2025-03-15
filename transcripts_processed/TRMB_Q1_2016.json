@@ -1,0 +1,215 @@
+{
+ "date": "2016-04-29 16:30:00",
+ "Jim Todd": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Steve Berglund": {
+  "avg_sentiment_score": 0.23125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.65,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Robert Painter": {
+  "avg_sentiment_score": 0.3086956521739131,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0,
+   0.55,
+   0.05,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.7934782608695652,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "James Faucette": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Eastman": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Rich Valera": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Brett Wong": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Rose": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Eli Lustgarten": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ }
+}

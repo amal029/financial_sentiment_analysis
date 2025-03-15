@@ -1,0 +1,283 @@
+{
+ "date": "2015-11-05 09:30:00",
+ "Kip A. Rupp - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James F. O'Neil - Chief Executive Officer and President": {
+  "avg_sentiment_score": 0.29531250000000003,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   1.0,
+   0.85,
+   0.55,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.15,
+   0.6,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.05,
+   0.55,
+   0.05,
+   0.0,
+   0.75,
+   0.05,
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.793125,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.68,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Derrick A. Jensen - Chief Financial Officer": {
+  "avg_sentiment_score": -0.07222222222222222,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Mannes - Avondale Partners LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew John Wittmann - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Matt Duncan - Stephens, Inc.": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.8,
+   0.85,
+   0.75
+  ]
+ },
+ "Steven Michael Fisher - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "William Bremer - Maxim Group LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "John Bergstrom Rogers - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Min Chung Cho - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": -0.039999999999999994,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Ben E. Xiao - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Vish B. Shah - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Adam Robert Thalhimer - BB&T Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey Y. Volshteyn - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

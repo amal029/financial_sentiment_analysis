@@ -1,0 +1,239 @@
+{
+ "date": "2017-04-26 11:00:00",
+ "Mike Flores - McDonald's Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen J. Easterbrook - McDonald's Corp.": {
+  "avg_sentiment_score": 0.590625,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.55,
+   0.85,
+   0.45,
+   0.55,
+   0.85,
+   0.45,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.35,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Kevin M. Ozan - McDonald's Corp.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.6,
+   0.4,
+   0.6,
+   0.75
+  ],
+  "title": "Senior Executive Vice President of Strategic Initiatives"
+ },
+ "David Palmer - RBC Capital Markets LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew DiFrisco - Guggenheim Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Brian Bittner - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brett Levy - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Will Slabaugh - Stephens, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Charles - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David E. Tarantino - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sara Harkavy Senatore - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "John Glass - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeff D. Farmer - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Matthew Robert McGinley - Evercore Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "John William Ivankoe - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

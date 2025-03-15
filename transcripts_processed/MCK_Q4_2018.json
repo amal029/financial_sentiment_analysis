@@ -1,0 +1,222 @@
+{
+ "date": "2018-05-24 08:00:00",
+ "Craig Mercer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "John Hammergren": {
+  "avg_sentiment_score": 0.42142857142857143,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.45,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.45,
+   -1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7595238095238095,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.8,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.6
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Britt Vitalone": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Glen Santangelo": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Elizabeth Anderson": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Brian Tanquilut": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Jones": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Percher": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Cherny": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

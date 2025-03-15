@@ -1,0 +1,170 @@
+{
+ "date": "2015-01-27 16:30:00",
+ "Michael Viola ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Randall Stephenson": {
+  "avg_sentiment_score": 0.4636363636363636,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.6,
+   0.65,
+   0.85,
+   0.15,
+   0.0,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "John Stephens": {
+  "avg_sentiment_score": 0.49444444444444446,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.75,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "John Hodulik ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike McCormack": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Phil Cusick": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Simon Flannery ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joe Mastrogiovanni": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Donovan": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Amir Rozwadowski": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Brett Feldman ": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

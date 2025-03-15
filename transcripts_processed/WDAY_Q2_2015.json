@@ -1,0 +1,265 @@
+{
+ "date": "2014-08-27 17:00:00",
+ "Michael Haase": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Aneel Bhusri": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7523809523809524,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.8,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Co-Founder & Executive Chairman of the Board"
+ },
+ "Mark Peek": {
+  "avg_sentiment_score": 0.27142857142857146,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.15,
+   0.55,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Co-President"
+ },
+ "Jennifer Swanson Lowe \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Heather A. Bellini \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Karl Keirstead \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Walter H. Pritchard \u2013 Citi": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Brian J. Schwartz \u2013 Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.1
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Schwartz \u2013 Oppenheimer": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brent Thill \u2013 UBS": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Barnicle \u2013 Pacific Crest": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven M. Ashley \u2013 Robert W. Baird & Co": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Justin Furby \u2013": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "William Blair & Company, L.L.C.": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Shannon S. Cross \u2013 Cross Research LLC": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Derrick Wood \u2013 Susquehanna Financial Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ }
+}

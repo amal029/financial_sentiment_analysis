@@ -1,0 +1,364 @@
+{
+ "date": "2014-01-28 10:00:00",
+ "Chuck Triano": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0
+  ]
+ },
+ "Ian Read": {
+  "avg_sentiment_score": 0.36764705882352944,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   0.85,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.68,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.6,
+   0.67,
+   1.0
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Frank D'Amelio": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.8,
+   0.85,
+   1.0,
+   0.6
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Albert Bourla": {
+  "avg_sentiment_score": 0.5083333333333334,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.85
+  ]
+ },
+ "Gregg Gilbert": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Schoenebaum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jami Rubin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Young": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Douglas Lankler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mikael Dolsten": {
+  "avg_sentiment_score": 0.74,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.15,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   0.8,
+   0.9
+  ]
+ },
+ "John Boris": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Geno Germano": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.85,
+   0.9
+  ],
+  "title": "Group President of Global Innovative Pharma Business"
+ },
+ "Charles Triano": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tony Butler": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Damien Conover": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,284 @@
+{
+ "date": "2011-01-25 09:00:00",
+ "Henry Meyer": {
+  "avg_sentiment_score": 0.3388888888888889,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.55,
+   0.15,
+   0.15,
+   0.45,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6388888888888888,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Jeffrey Weeden": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   -0.45,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Senior Executive Vice President and Member of Executive Council"
+ },
+ "Matthew O'Connor - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Christopher Gorman": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.35,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "William Koehler": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Brian Foran - Nomura Securities Co. Ltd.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Alexopoulos - JP Morgan Chase & Co": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Charles Hyle": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Usdin - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Mayo - CLSA Limited": {
+  "avg_sentiment_score": 0.11250000000000002,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Gerard Cassidy - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": -0.1625,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Beth Mooney": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Betsy Graseck - Morgan Stanley": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Matthew Burnell - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Jeff Davis - Guggenheim Securities, LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Konrad - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

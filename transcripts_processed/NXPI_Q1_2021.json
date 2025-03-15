@@ -1,0 +1,191 @@
+{
+ "date": "2021-04-27 08:00:00",
+ "Jeff Palmer": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kurt Sievers": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.85,
+   -0.15,
+   0.65,
+   0.75,
+   0.85,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   -0.45,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.9,
+   0.9
+  ],
+  "title": "President, CEO & Executive Director"
+ },
+ "Peter Kelly": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.6,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "CFO, Executive VP of Strategy, M&A and Integration"
+ },
+ "C.J. Muse": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Q \u2013 C.J. Muse": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Stacy Rasgon": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "William Stein": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Blayne Curtis": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Caso": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "date": "2019-01-30 10:00:00",
+ "David Cresci": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Rick McVey": {
+  "avg_sentiment_score": 0.5214285714285715,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.05,
+   0.55,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7261904761904762,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Tony DeLise": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.6583333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   0.85,
+   0.75
+  ],
+  "title": "Global Head of Corporate Development"
+ },
+ "Chris Concannon": {
+  "avg_sentiment_score": 0.445,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.75,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8550000000000001,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.85,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Chris Allen": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeremy Campbell": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Hugh Miller": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Chris Shutler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Patrick O\u2019Shaughnessy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

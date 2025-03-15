@@ -1,0 +1,187 @@
+{
+ "date": "2014-10-31 17:00:00",
+ "Brian Delghiaccio": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6
+  ]
+ },
+ "Donald W. Slager": {
+  "avg_sentiment_score": 0.18250000000000002,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.45,
+   -0.35,
+   -0.45,
+   0.65,
+   0.45,
+   -0.15,
+   0.05,
+   0.35,
+   0.55,
+   -0.35,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Charles F. Serianni": {
+  "avg_sentiment_score": 0.15833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.8,
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.75
+  ],
+  "title": "Special Advisor to CEO"
+ },
+ "Joe Box": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75
+  ]
+ },
+ "Albert Leo Kaschalk": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Scott Justin Levine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Alex Ovshey": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Tony Bancroft": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Michael Edward Hoffman": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Barbara Noverini": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

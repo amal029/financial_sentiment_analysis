@@ -1,0 +1,402 @@
+{
+ "date": "2020-10-23 10:00:00",
+ "Mary Pilkington": {
+  "avg_sentiment_score": 0.21481481481481482,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.8,
+   0.4
+  ]
+ },
+ "Harry Lawton": {
+  "avg_sentiment_score": 0.5208333333333334,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.75,
+   0.65,
+   0.0,
+   0.6,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8604166666666666,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Kurt Barton": {
+  "avg_sentiment_score": 0.43846153846153846,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Seth Estep": {
+  "avg_sentiment_score": 0.5571428571428572,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "John Ordus": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.35
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75
+  ]
+ },
+ "Robert Mills": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Executive VP and Chief Technology, Digital Commerce & Strategy Officer"
+ },
+ "A - Mary Pilkington": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Zachary Fadem": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Steven Forbes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Karen Short": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Chuck Grom": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Oliver Wintermantel": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Peter Keith": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Ciccarelli": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew McClintock": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Daniel Imbro": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bradley Thomas": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Feldman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "date": "2018-08-30 16:30:00",
+ "Howard Tubin": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.5,
+   0.4
+  ]
+ },
+ "Glenn Murphy": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Calvin McDonald": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Stuart Haselden": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.9
+  ],
+  "title": "Chief Financial Officer and Chief Operating Officer"
+ },
+ "Patrick Guido": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "nan"
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Sharon Zackfia": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Tunick": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Celeste Burgoyne": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.85
+  ],
+  "title": "President of Americas & Global Guest Innovation"
+ },
+ "Mark Altschwager": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew McClintock": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

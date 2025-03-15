@@ -1,0 +1,261 @@
+{
+ "date": "2019-10-25 09:00:00",
+ "Steve Filton": {
+  "avg_sentiment_score": 0.7999999999999999,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Executive VP, CFO & Secretary"
+ },
+ "UnidentifiedAnalyst": {
+  "avg_sentiment_score": 0.05357142857142857,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8907142857142858,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "SteveFilton": {
+  "avg_sentiment_score": 0.07272727272727272,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.05,
+   -0.15,
+   -0.15,
+   0.45,
+   0.55,
+   0.15,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.65,
+   -0.15,
+   0.15,
+   -0.15,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7818181818181819,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "KevinFischbeck": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "JoshRaskin": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "AlanMiller": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "A.J.Rice": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "SarahJames": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "RalphGiacobbe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PitoChickering": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PeterCosta": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

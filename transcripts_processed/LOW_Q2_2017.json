@@ -1,0 +1,253 @@
+{
+ "date": "2017-08-23 09:00:00",
+ "Robert Niblock": {
+  "avg_sentiment_score": 0.31923076923076926,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.55,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Rick Damron": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Marshall Croom": {
+  "avg_sentiment_score": 0.21363636363636365,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65,
+   -0.45,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Joshua Siber": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael McDermott": {
+  "avg_sentiment_score": 0.5750000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.75,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Alan Rifkin": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.6,
+   0.5
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Baker": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Maltsbarger": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

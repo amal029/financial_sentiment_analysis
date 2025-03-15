@@ -1,0 +1,428 @@
+{
+ "date": "2013-01-22 16:30:00",
+ "Michael Hostutler ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Charles W. Moorman": {
+  "avg_sentiment_score": 0.18181818181818182,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   -0.45,
+   0.65,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Donald W. Seale": {
+  "avg_sentiment_score": 0.10104166666666668,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8114583333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Marketing Officer and Executive Vice President"
+ },
+ "Mark D. Manion": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "John P. Rathbone": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President of Finance"
+ },
+ "Justin B. Yagerman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9249999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "H. Peter Nesvold - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jason H. Seidl - Dahlman Rose & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.8,
+   0.6
+  ]
+ },
+ "Walter Spracklin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.45,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   0.6
+  ]
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew Troy - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brandon R. Oglenski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Keith Schoonmaker - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John G. Larkin - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kenton Moorhead - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Salvatore Vitale - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

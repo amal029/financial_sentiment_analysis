@@ -1,0 +1,255 @@
+{
+ "date": "2023-04-26 17:00:00",
+ "Kevin Kessel": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Richard Wallace": {
+  "avg_sentiment_score": 0.21363636363636365,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.05,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   -0.45,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7545454545454546,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.5
+  ],
+  "title": "President, CEO & Executive Director"
+ },
+ "Bren Higgins": {
+  "avg_sentiment_score": 0.19285714285714284,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.65,
+   0.65,
+   -0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.65,
+   0.15,
+   -0.15,
+   0.65,
+   0.65,
+   -0.15,
+   0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7404761904761905,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher Muse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Sreekrishnan Sankarnarayanan": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Quatrochi": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Atif Malik": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Timothy Arcuri": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Sidney Ho": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Toshiya Hari": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Joseph Moore": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Blayne Curtis": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brian Chin": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mehdi Hosseini": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

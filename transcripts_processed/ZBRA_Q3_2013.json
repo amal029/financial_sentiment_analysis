@@ -1,0 +1,194 @@
+{
+ "date": "2013-11-05 11:00:00",
+ "Doug Fox": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6
+  ]
+ },
+ "Anders Gustafsson": {
+  "avg_sentiment_score": 0.5117647058823529,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.55,
+   0.85,
+   0.05,
+   1.0,
+   0.65,
+   0.75,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8264705882352942,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   0.8,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "Executive Chair"
+ },
+ "Mike Smiley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Greg Halter - Great Lakes Review": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Coster - J.P. Morgan": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mike Terzich": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.55,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Administrative Officer and Senior Vice President"
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Unidentified analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Kim - Imperial Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim Mulrooney - William Blair": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Carr Lanphier - Morningstar Equity Research": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

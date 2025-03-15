@@ -1,0 +1,482 @@
+{
+ "date": "2017-10-25 08:45:00",
+ "Claiborne Moore - Norfolk Southern Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "James A. Squires - Norfolk Southern Corp.": {
+  "avg_sentiment_score": 0.39875,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.6,
+   -0.35,
+   1.0,
+   0.85,
+   1.0,
+   -0.45,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8074999999999999,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   0.8,
+   0.85,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.9,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Alan H. Shaw - Norfolk Southern Corp.": {
+  "avg_sentiment_score": 0.5305555555555556,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.65,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.6083333333333333,
+  "confidence": [
+   0.9,
+   0.75,
+   0.4,
+   0.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.4,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Michael J. Wheeler - Norfolk Southern Corp.": {
+  "avg_sentiment_score": 0.5900000000000001,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Cindy Cynthia Earhart - Norfolk Southern Corp.": {
+  "avg_sentiment_score": 0.26999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.35,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.15,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.85,
+   0.85,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Allison M. Landry - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Wetherbee - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Wadewitz - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Ravi Shanker - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Jason Seidl - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Amit Mehrotra - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew Troy - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Brandon Oglenski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Ken Hoexter - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Scott H. Group - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Justin Long - Stephens, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian P. Ossenbeck - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Bascome Majors - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Suneel Manhas - RBC Dominion Securities, Inc.": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Cherilyn Radbourne - TD Securities, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Ben J. Hartford - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "J. David Scott Vernon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7060000000000001,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Patrick Tyler Brown - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

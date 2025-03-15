@@ -1,0 +1,445 @@
+{
+ "date": "2014-10-21 10:00:00",
+ "Marlene Owen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Mark D. Millett": {
+  "avg_sentiment_score": 0.3142857142857143,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.75,
+   0.0,
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -1.0,
+   1.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.8397619047619048,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.9
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa E. Wagler": {
+  "avg_sentiment_score": 0.15333333333333332,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8433333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Luke Folta - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Richard P. Teets": {
+  "avg_sentiment_score": 0.19230769230769232,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   0.45,
+   0.05,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.8653846153846154,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Evan L. Kurtz - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Anthony B. Rizzuto - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Russel B. Rinn": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "Executive Vice President of Metals Recycling"
+ },
+ "Sohail Tharani - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.1642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Christopher A. Graham": {
+  "avg_sentiment_score": 0.35555555555555557,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Senior Vice President of Flat Roll Steel Group"
+ },
+ "Jorge M. Beristain - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Timna Tanners - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Murphy - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Philip Ross Gibbs - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.05714285714285715,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Lane - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Yu - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.6
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Aldo J. Mazzaferro - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nicholas Jarmoszuk - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sam Dubinsky - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Charles A. Bradford - Bradford Research, Inc.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nathan Littlewood - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ }
+}

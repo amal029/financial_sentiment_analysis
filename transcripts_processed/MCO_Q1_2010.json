@@ -1,0 +1,289 @@
+{
+ "date": "2010-04-21 11:30:00",
+ "Moody\u2019s Corporation (NYSE": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Liz Zale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Raymond McDaniel": {
+  "avg_sentiment_score": 0.08636363636363636,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7681818181818181,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.6
+  ]
+ },
+ "Linda Huber": {
+  "avg_sentiment_score": 0.18055555555555555,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.55,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.6833333333333333,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.9
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Peter Appert \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Peter Appert": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.67
+  ]
+ },
+ "William Bird -Banc of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Meltz \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Michelle Madelain": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President of Moody's Investors Service Inc and Chief Operating Officer of Moody's Investors Service Inc"
+ },
+ "Craig Huber \u2013 Access 342": {
+  "avg_sentiment_score": -0.04375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Participant": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sloan Bohlen \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.945,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Brian Shipman \u2013 Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Edward Atorino \u2013 Benchmark": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "T": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

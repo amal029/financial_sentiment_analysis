@@ -1,0 +1,391 @@
+{
+ "date": "2010-12-09 09:00:00",
+ "Joe Teklits": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Christine Day": {
+  "avg_sentiment_score": 0.6051724137931035,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   1.0,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.65,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7386206896551725,
+  "confidence": [
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.4,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.9,
+   0.6,
+   0.4,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "John Currie": {
+  "avg_sentiment_score": 0.2225,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   -0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7975,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85
+  ]
+ },
+ "Michelle Tan - Goldman Sachs": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.67,
+   1.0,
+   0.67
+  ]
+ },
+ "Paul Alexander - Bank of America": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Janet Kloppenburg - JJK Research": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.68
+  ]
+ },
+ "Liz Dunn - FBR": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Sheree Waterson ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "Chief Product Officer"
+ },
+ "Sharon Zackfia - William Blair": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "John Morris - Bank of Montreal ": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9339999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Currie,": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "John Morris - Bank of Montreal": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Erika Maschmeyer - Robert W. Baird": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chi Lee - Morgan Stanley": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Taposh Bari - Jefferies & Company": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Tracy Cogan - Nomura Holdings, Inc.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8575,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Howard Tubin - RBC Capital Markets": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sheree Waterson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Howard Tubin - RBC Capital Markets ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Richard Jaffe - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Laura Champine - Cowen and Company": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0
+  ]
+ },
+ "Jennifer Black \u2013 Jennifer Black & Associates": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "date": "2010-05-20 17:00:00",
+ "Lisa Ewbank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Aart de Geus": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.05,
+   0.0,
+   0.35,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Beattie": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.85,
+   0.4,
+   0.75
+  ],
+  "title": "Chief Administrative Officer and Executive Vice President of Business Operations"
+ },
+ "Richard Valera - Needham & Company, LLC": {
+  "avg_sentiment_score": 0.14,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "K.C. Rajkumar - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

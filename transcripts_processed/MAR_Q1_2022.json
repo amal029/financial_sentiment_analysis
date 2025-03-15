@@ -1,0 +1,294 @@
+{
+ "date": "2022-05-04 08:30:00",
+ "Leeny Oberg": {
+  "avg_sentiment_score": 0.392,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.55,
+   0.05,
+   1.0,
+   0.05,
+   -0.35,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8136,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.4,
+   1.0,
+   0.75
+  ],
+  "title": "CFO & Executive VP of Development"
+ },
+ "Jackie Burka McConagha": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Anthony Capuano": {
+  "avg_sentiment_score": 0.49166666666666664,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   -0.15,
+   0.55,
+   0.45,
+   0.0,
+   1.0,
+   0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.75,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.45,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.831,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.68,
+   0.68,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   0.68,
+   0.67,
+   0.75,
+   0.8,
+   0.67,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "Steven Grambling": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Greff": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick Scholes": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Smedes Rose": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Clarke": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Katz": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Chad Beynon": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.65,
+   0.75,
+   0.67
+  ]
+ },
+ "Vince Ciepiel": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

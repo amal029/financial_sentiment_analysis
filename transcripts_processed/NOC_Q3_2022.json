@@ -1,0 +1,215 @@
+{
+ "date": "2022-10-27 09:00:00",
+ "Todd Ernst": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kathy Warden": {
+  "avg_sentiment_score": 0.45769230769230773,
+  "sentiment_score": [
+   0.85,
+   -0.55,
+   0.65,
+   0.85,
+   0.65,
+   -0.15,
+   0.05,
+   0.45,
+   0.65,
+   1.0,
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7423076923076923,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Chair, CEO & President"
+ },
+ "Dave Keffer": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15,
+   0.05,
+   0.05,
+   -0.15,
+   0.45,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Corporate VP & CFO"
+ },
+ "Doug Harned": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ronald Epstein": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Myles Walton": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kristine Liwag": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Rob Stallard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Sheila Kahyaoglu": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": -0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.5
+  ]
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Ken Herbert": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Scott Deuschle": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "David Strauss": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,368 @@
+{
+ "date": "2013-02-07 10:00:00",
+ "Earl E. Congdon": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "David S. Congdon": {
+  "avg_sentiment_score": 0.08600000000000002,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.65,
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   -1.0,
+   0.15,
+   0.0,
+   0.0,
+   -1.0,
+   0.55,
+   -0.15,
+   -1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7240000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "J. Wes Frye": {
+  "avg_sentiment_score": 0.0641025641025641,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   -0.15,
+   0.75,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.45,
+   -0.35,
+   0.55,
+   0.0,
+   -0.45,
+   0.35,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8025641025641026,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.75
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": -0.1875,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4
+  ]
+ },
+ "Justin B. Yagerman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.5900000000000001,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Jason H. Seidl - Dahlman Rose & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "A. Brad Delco - Stephens Inc., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Matthew S. Brooklier - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "David G. Ross - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Kenton Moorhead - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Todd C. Fowler - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "David P. Campbell - Thompson, Davis & Company": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78375,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.4
+  ]
+ }
+}

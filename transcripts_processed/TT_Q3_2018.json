@@ -1,0 +1,278 @@
+{
+ "date": "2018-10-24 00:00:00",
+ "Zac Nagle": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Lamach": {
+  "avg_sentiment_score": 0.4542857142857143,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.35,
+   0.15,
+   0.85,
+   0.85,
+   0.45,
+   0.85,
+   0.0,
+   0.65,
+   0.85,
+   -0.15,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.55,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8242857142857143,
+  "confidence": [
+   0.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Susan Carter": {
+  "avg_sentiment_score": 0.06999999999999999,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.45,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jeffrey Sprague": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "C. Stephen Tusa": {
+  "avg_sentiment_score": 0.08571428571428573,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Steven Winoker": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Breindy Goldring": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bhupender Bohra": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Evelyn Chow": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Walsh": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Kwas": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   1.0
+  ]
+ }
+}

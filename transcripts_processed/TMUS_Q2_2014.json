@@ -1,0 +1,158 @@
+{
+ "date": "2014-07-31 08:30:00",
+ "Nils Paellmann": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John J. Legere": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.846875,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.9
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "J. Braxton Carter": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75
+  ]
+ },
+ "Simon Flannery - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "G. Michael Sievert": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "John C. Hodulik - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Jonathan Chaplin - New Street Research LLP": {
+  "avg_sentiment_score": -0.575,
+  "sentiment_score": [
+   -0.15,
+   -1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Philip Cusick - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard H. Prentiss - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President of Technology"
+ },
+ "Kevin R. Smithen - Macquarie Research": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

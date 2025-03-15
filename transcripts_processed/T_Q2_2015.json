@@ -1,0 +1,217 @@
+{
+ "date": "2015-07-23 16:30:00",
+ "Mike Viola": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "John Stephens": {
+  "avg_sentiment_score": 0.4537037037037037,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.65,
+   1.0,
+   0.15,
+   0.75,
+   0.15,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.15,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8218518518518519,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   0.85,
+   0.67,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "John Hodulik": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Phil Cusick": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike McCormack": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6175,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.67
+  ]
+ },
+ "David Barden": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Amir Rozwadowski": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Brett Feldman": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Simon Flannery": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Mastrogiovanni": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Frank Louthan": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "James Ratcliffe": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Horan": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ }
+}

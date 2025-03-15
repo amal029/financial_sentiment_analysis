@@ -1,0 +1,263 @@
+{
+ "date": "2015-10-22 10:00:00",
+ "Leslie H. Kratcoski - Snap-on, Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Nicholas T. Pinchuk - Snap-on, Inc.": {
+  "avg_sentiment_score": 0.26046511627906976,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Aldo J. Pagliari - Snap-on Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP of Finance & CFO"
+ },
+ "Bret Jordan - Jefferies LLC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Liam D. Burke - Wunderlich Securities, Inc.": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Frank Prestopino - Barrington Research Associates, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Leiker - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.08499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David S. MacGregor - Longbow Research LLC": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom L. Hayes - Northcoast Research Partners LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

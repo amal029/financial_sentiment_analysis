@@ -1,0 +1,462 @@
+{
+ "date": "2014-04-22 11:00:00",
+ "Liz Zale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Simon": {
+  "avg_sentiment_score": 0.1982142857142857,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   -1.0,
+   0.15,
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   -0.45,
+   -0.15,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8208928571428571,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.67,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.68,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Steve Sakwa - ISI Group": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rick Sokolov": {
+  "avg_sentiment_score": 0.5346153846153846,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   1.0,
+   0.65,
+   -0.45,
+   0.85,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   0.85
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Michael Bilerman - Citi": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christy McElroy - Citi": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Dan Oppenheim - Credit Suisse": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Morgan - MLV": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "David Harris - Imperial Capital": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Sterrett": {
+  "avg_sentiment_score": 0.19666666666666668,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8366666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Executive Vice President"
+ },
+ "Ki Bin - SunTrust": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Schmidt - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexander Goldfarb - Sandler O'Neill": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Daniel Busch - Green Street Advisors": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Vincent Chao - Deutsche Bank": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya - Jefferies": {
+  "avg_sentiment_score": 0.041666666666666664,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Ben Yang - Evercore": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   0.4,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Mueller - JPMorgan": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Sullivan - Cowen Group": {
+  "avg_sentiment_score": 0.23571428571428574,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "date": "2018-08-22 09:00:00",
+ "Marvin Ellison": {
+  "avg_sentiment_score": 0.40714285714285714,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.45,
+   0.55,
+   0.05,
+   0.45,
+   0.85,
+   -0.15,
+   0.55,
+   0.05,
+   0.85,
+   0.45,
+   -0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7678571428571429,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Chairman"
+ },
+ "Michael McDermott": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Marshall Croom": {
+  "avg_sentiment_score": -0.10625000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.55,
+   0.0,
+   -1.0,
+   -0.35,
+   0.6,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Zachary Fadem": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Forbes": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

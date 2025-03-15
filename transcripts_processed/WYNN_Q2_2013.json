@@ -1,0 +1,272 @@
+{
+ "date": "2013-07-29 08:30:00",
+ "Matthew O. Maddox": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Stephen A. Wynn": {
+  "avg_sentiment_score": 0.18857142857142856,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.55,
+   0.05,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8542857142857142,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Joseph Greff - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Gansmo": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Felicia R. Hendrix - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Ian Michael Coughlan": {
+  "avg_sentiment_score": 0.4800000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.75
+  ]
+ },
+ "Carlo Santarelli - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Allen - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.55
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Linda Chen": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "President of Wynn International Marketing Limited"
+ },
+ "Cameron Philip Sean McKnight - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Harry C. Curtis - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robin M. Farley - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.734,
+  "confidence": [
+   1.0,
+   0.67,
+   0.4,
+   1.0,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,268 @@
+{
+ "date": "2017-05-02 08:30:00",
+ "Andrea Shaw Resnick - Coach, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Interim CFO and Global Head of IR & Corporate Communications"
+ },
+ "Victor Luis - Coach, Inc.": {
+  "avg_sentiment_score": 0.494,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8464,
+  "confidence": [
+   0.9,
+   1.0,
+   0.67,
+   0.67,
+   1.0,
+   0.67,
+   0.85,
+   1.0,
+   0.5,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Kevin G. Wills - Coach, Inc.": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.75875,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   0.85
+  ]
+ },
+ "Robert Drbul - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andre Cohen - Coach, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "President of North America and Global Marketing"
+ },
+ "Ike Boruchow - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "David A. Schick - Consumer Edge Research LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Erinn E. Murphy - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Oliver Chen - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Anna Andreeva - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   0.67
+  ]
+ },
+ "Omar Saad - Evercore Group LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Dana Telsey - Telsey Advisory Group": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark R. Altschwager - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Binetti - UBS Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Adrienne Yih - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Jay Tunick - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

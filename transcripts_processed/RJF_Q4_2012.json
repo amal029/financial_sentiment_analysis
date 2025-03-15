@@ -1,0 +1,163 @@
+{
+ "date": "2012-10-26 08:15:00",
+ "Paul C. Reilly": {
+  "avg_sentiment_score": 0.05294117647058824,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.776470588235294,
+  "confidence": [
+   0.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "Jeffrey Paul Julien": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   -0.35,
+   0.45,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ]
+ },
+ "Christopher Harris": {
+  "avg_sentiment_score": -0.11249999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Steven M. Raney": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Hugh M. Miller": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Alexander Blostein": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Devin Ryan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

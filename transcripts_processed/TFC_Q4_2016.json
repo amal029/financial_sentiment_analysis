@@ -1,0 +1,321 @@
+{
+ "date": "2017-01-19 08:00:00",
+ "Alan Greer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Kelly King": {
+  "avg_sentiment_score": 0.24629629629629632,
+  "sentiment_score": [
+   -0.15,
+   0.75,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.05,
+   -0.45,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8396296296296297,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.67
+  ],
+  "title": "Executive Director"
+ },
+ "Daryl Bible": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.55,
+   0.75,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Chris Henson": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.75
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85
+  ],
+  "title": "Senior EVP and Head of Banking & Insurance"
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jennifer Demba": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Matt O\u2019Connor": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Rose": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Burnell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Amanda Larsen": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Saul Martinez": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,287 @@
+{
+ "date": "2016-11-04 17:00:00",
+ "Thomas Shaw - Starbucks Corp.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Howard S. Schultz - Starbucks Corp.": {
+  "avg_sentiment_score": 0.2708333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.6,
+   0.85,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "title": "Founder & Chairman Emeritus"
+ },
+ "Kevin R. Johnson - Starbucks Corp.": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Consultant"
+ },
+ "Scott Harlan Maw - Starbucks Corp.": {
+  "avg_sentiment_score": 0.45625,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.35,
+   0.45,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Andrew Marc Barish - Jefferies LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Gonzalez - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sara Harkavy Senatore - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Glass - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Ryan - Starbucks Corp.": {
+  "avg_sentiment_score": 0.4875,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "David E. Tarantino - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Charles - Cowen & Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John William Ivankoe - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason West - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph Terrence Buckley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "John Winchester Culver - Starbucks Corp.": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75
+  ],
+  "title": "Non-Executive Advisor"
+ },
+ "Karen Holthouse - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey Bernstein - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew DiFrisco - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Nicole Miller Regan - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Conway - Starbucks Corp.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Matthew Robert McGinley - Evercore ISI": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0
+  ]
+ }
+}

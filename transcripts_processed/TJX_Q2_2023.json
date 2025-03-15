@@ -1,0 +1,161 @@
+{
+ "date": "2022-08-17 11:00:00",
+ "Ernie Herrman": {
+  "avg_sentiment_score": 0.49062500000000003,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.55,
+   0.65,
+   0.85,
+   0.45,
+   -0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Debra McConnell": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Goldenberg": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.85,
+   -0.15,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7142857142857143,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Senior Executive Vice President of Finance"
+ },
+ "Lorraine Hutchinson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": -0.425,
+  "sentiment_score": [
+   0.15,
+   -1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Jay Sole": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brooke Roach": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Kernan": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

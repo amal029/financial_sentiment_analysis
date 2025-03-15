@@ -1,0 +1,387 @@
+{
+ "date": "2016-07-21 10:00:00",
+ "Mark W. Kowlzan - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.16272727272727272,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.860909090909091,
+  "confidence": [
+   0.8,
+   0.4,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Thomas A. Hassfurther - Executive Vice President, Corrugated Products": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.55,
+   0.6,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7816666666666667,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert P. Mundy - Chief Financial Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Clyde Alvin Dillon - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark A. Weintraub - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark William Wilde - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Connelly - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Debbie A. Jones - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Philip Ng - Jefferies LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott L. Gaffner - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris D. Manuel - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.4083333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6583333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Anthony Pettinari - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "George Leon Staphos - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Gail S. Glazerman - Roe Equity Research": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

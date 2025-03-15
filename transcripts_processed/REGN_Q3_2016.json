@@ -1,0 +1,246 @@
+{
+ "date": "2016-11-04 20:30:00",
+ "Michael Aberman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9538461538461539,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Leonard Schleifer": {
+  "avg_sentiment_score": 0.24615384615384617,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.45,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.7961538461538461,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0
+  ]
+ },
+ "George Yancopoulos": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.0,
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.75
+  ]
+ },
+ "Robert Terifay": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President of Commercial"
+ },
+ "Robert Landry": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ying Huang": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Raymond": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Geoffrey Porges": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alethia Young": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "John Scotti": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cory Kasimov": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Birchenough": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Phil Nadeau": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

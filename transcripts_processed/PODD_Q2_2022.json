@@ -1,0 +1,207 @@
+{
+ "date": "2022-08-07 16:30:00",
+ "Deborah Gordon": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.55,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jim Hollingshead": {
+  "avg_sentiment_score": 0.6428571428571429,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.85
+  ]
+ },
+ "Wayde McMillan": {
+  "avg_sentiment_score": 0.35625,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.05,
+   0.45,
+   0.65,
+   0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   1.0
+  ],
+  "title": "Executive VP,CFO & Treasurer"
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robbie Marcus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bret Christensen": {
+  "avg_sentiment_score": 0.4571428571428572,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.45,
+   0.45,
+   0.6,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & Chief Commercial Officer"
+ },
+ "Travis Steed": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Lichtman": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Pasquale": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Cecilia Furlong": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Margaret Kaczor": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jayson Bedford": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Kennedy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Matthew O\u2019Brien": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff Johnson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,300 @@
+{
+ "date": "2017-04-18 12:00:00",
+ "Tracy Ward": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Tom Olinger": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.05,
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Advisor"
+ },
+ "Hamid Moghadam": {
+  "avg_sentiment_score": 0.25961538461538464,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   -1.0,
+   0.55,
+   0.45,
+   1.0,
+   -0.15,
+   0.35,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.55,
+   0.45,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   -0.15,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7788461538461539,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Co-Founder, Chairman & CEO"
+ },
+ "Rob Simone": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Sumit Sharma": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Blaine Heck": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jamie Feldman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nick Yulico": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Lesnick": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Rodgers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Eugene Reilly": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Chief Investment Officer"
+ },
+ "Gary Anderson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Advisor"
+ },
+ "John Guinee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Mike Curless": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Craig Mailman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Manny Korchman": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Vincent Chao": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Frankel": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ki Bin Kim": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Neil Malkin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Caton": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

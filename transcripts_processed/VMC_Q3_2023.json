@@ -1,0 +1,363 @@
+{
+ "date": "2023-10-26 11:00:00",
+ "Mark Warren": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tom Hill": {
+  "avg_sentiment_score": 0.364,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.45,
+   1.0,
+   0.45,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8637999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.67,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Mary Andrews Carlisle": {
+  "avg_sentiment_score": 0.18333333333333332,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8566666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Trey Grooms": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Tyler Brown": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Garik Shmois": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Anthony Pettinari": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Stanley Elliott": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kathryn Thompson": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Jerry Revich": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Dahl": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Philip Ng": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Hughes": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Dudas": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David MacGregor": {
+  "avg_sentiment_score": 0.32999999999999996,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Michael Feniger": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Rohit Seth": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.67,
+   0.85,
+   1.0
+  ]
+ }
+}

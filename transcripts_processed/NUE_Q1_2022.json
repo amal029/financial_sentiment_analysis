@@ -1,0 +1,183 @@
+{
+ "date": "2022-04-21 14:00:00",
+ "Leon Topalian": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.8588235294117647,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.9,
+   0.85,
+   0.8
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Stephen Laxton": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "CFO, Treasurer & Executive VP"
+ },
+ "Emily Chieng": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.67,
+   0.6
+  ]
+ },
+ "Rex Query": {
+  "avg_sentiment_score": 0.41250000000000003,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Vice President of Sheet, Tubular Products & Talent Resources"
+ },
+ "Allen Behr": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Douglas Jellison": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Carlos De Alba": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Seth Rosenfeld": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Chad Utermark": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of New Markets & Innovation"
+ },
+ "Curtis Woodworth": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

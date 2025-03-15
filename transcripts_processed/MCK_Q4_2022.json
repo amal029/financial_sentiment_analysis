@@ -1,0 +1,187 @@
+{
+ "date": "2022-05-05 16:30:00",
+ "Rachel Rodriguez": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Tyler": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9
+  ]
+ },
+ "Britt Vitalone": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.35,
+   -0.15,
+   0.45,
+   -0.15,
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.5,
+   1.0,
+   0.6,
+   0.85
+  ]
+ },
+ "Michael Cherny": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Percher": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Charles Rhyee": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lisa Gill": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steven Valiquette": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Caliendo": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric Coldwell": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Elizabeth Anderson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George Hill": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "date": "2011-05-05 08:30:00",
+ "Brian Duperreault": {
+  "avg_sentiment_score": 0.20357142857142857,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President, Director, Member of Executive Committee and Member of Finance Committee"
+ },
+ "Vanessa Wittman": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.35,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Keith Walsh - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Daniel Glaser": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Peter Zaffino": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.05
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ],
+  "title": "Chairman of Risk & Insurance Services Segment and Chief Executive Officer of Marsh Inc"
+ },
+ "Brian Meredith - UBS Investment Bank": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Cliff Gallant - Keefe, Bruyette, & Woods, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Meyer Shields - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "M. Burns": {
+  "avg_sentiment_score": 0.5700000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.65,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Yaron Kinar - Deutsche Bank AG": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Heimermann - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.061111111111111116,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9722222222222222,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Larry Greenberg - Langen McAlenney": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Klauber - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Thomas Mitchell - Miller Tabak + Co., LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

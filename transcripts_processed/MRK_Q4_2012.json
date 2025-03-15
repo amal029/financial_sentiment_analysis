@@ -1,0 +1,170 @@
+{
+ "date": "2013-02-01 17:00:00",
+ "Alex Kelly": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Ken Frazier": {
+  "avg_sentiment_score": 0.5928571428571429,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85
+  ]
+ },
+ "Peter Kim": {
+  "avg_sentiment_score": 0.33,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   0.85
+  ]
+ },
+ "Adam Schechter": {
+  "avg_sentiment_score": 0.67,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.75,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Executive Vice President and President of Global Human Health"
+ },
+ "Peter Kellogg": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.1,
+   0.45
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tony Butler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marc Goodman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Damien Conover": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

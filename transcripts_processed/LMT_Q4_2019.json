@@ -1,0 +1,215 @@
+{
+ "date": "2020-01-28 11:00:00",
+ "Greg Gardner": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marillyn Hewson": {
+  "avg_sentiment_score": 0.3318181818181818,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.0,
+   -0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8772727272727273,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Strategic Adviser to CEO"
+ },
+ "Ken Possenriede": {
+  "avg_sentiment_score": 0.32105263157894737,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9078947368421053,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Rob Stallard": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Myles Walton": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rob Spingarn": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Ron Epstein": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Noah Poponak": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Jon Raviv": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Doug Harned": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

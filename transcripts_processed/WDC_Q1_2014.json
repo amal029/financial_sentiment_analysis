@@ -1,0 +1,332 @@
+{
+ "date": "2013-10-24 18:00:00",
+ "Robert Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stephen D. Milligan": {
+  "avg_sentiment_score": 0.16730769230769232,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.1,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "CEO & Director"
+ },
+ "Wolfgang U. Nickl": {
+  "avg_sentiment_score": 0.19666666666666668,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.05,
+   0.15,
+   0.55,
+   0.55,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Aaron C. Rakers - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Richard Kugele - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Ananda Baruah - Brean Capital LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Bill C. Shope - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew J. Nowinski - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Daryanani - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Robert Cihra - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Monika Garg - Pacific Crest Securities, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Jayson Noland - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Sherri Scribner - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Steven Bryant Fox - Cross Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Keith F. Bachman - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Joseph Wittine - Longbow Research LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "CFO & Chief Strategy Officer"
+ },
+ "Mark A. Moskowitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nehal Sushil Chokshi - Technology Insights Research LLC": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Eric Sterling - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Joe Yoo - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

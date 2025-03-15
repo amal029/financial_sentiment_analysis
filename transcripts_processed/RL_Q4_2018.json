@@ -1,0 +1,231 @@
+{
+ "date": "2018-05-24 09:00:00",
+ "Evren Kopelman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333333,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrice Louvet": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   -0.35,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   1.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8574999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jane Nielsen": {
+  "avg_sentiment_score": 0.43125,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.871875,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Michael Binetti": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.65,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Tunick": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.67,
+   0.6
+  ]
+ },
+ "Ike Boruchow": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Rick Patel": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Drbul": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Tracy": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Simeon Siegel": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "John Kernan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

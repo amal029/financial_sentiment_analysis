@@ -1,0 +1,164 @@
+{
+ "date": "2016-10-21 08:30:00",
+ "Jerry Leshne": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Michael Roth": {
+  "avg_sentiment_score": 0.3911764705882353,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.45,
+   0.55,
+   0.0,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.05,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7588235294117647,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Frank Mergenthaler": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Alexia Quadrani": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Ben Swinburne": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Peter Stabler": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steven Cahall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Omar Sheikh": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Wieser": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Barry Lucas": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dan Salmon": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

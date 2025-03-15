@@ -1,0 +1,441 @@
+{
+ "date": "2014-10-23 08:45:00",
+ "John J. Koraleski": {
+  "avg_sentiment_score": 0.2578947368421053,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9118421052631579,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Chairman and Executive Chairman of Union Pacific Railroad"
+ },
+ "Eric L. Butler": {
+  "avg_sentiment_score": 0.4291666666666667,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   0.05,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   0.65,
+   0.85,
+   0.55,
+   0.05,
+   -0.15,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.6,
+   0.05
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.85,
+   0.4,
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP, Chief Administrative Officer & Corporate Secretary"
+ },
+ "Lance M. Fritz": {
+  "avg_sentiment_score": 0.6357142857142858,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6642857142857144,
+  "confidence": [
+   0.75,
+   0.85,
+   0.8,
+   0.4,
+   0.6,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Robert M. Knight": {
+  "avg_sentiment_score": 0.40499999999999997,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.45,
+   0.05,
+   0.0,
+   0.4,
+   0.55,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.9,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.6
+  ]
+ },
+ "Brandon R. Oglenski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "John G. Larkin - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Jason H. Seidl - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Thomas R. Wadewitz - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Kenneth Scott Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Executive VP & COO of Union Pacific Railroad Company"
+ },
+ "Allison M. Landry - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Scott H. Group - Wolfe Research, LLC": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Walter Spracklin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Robert H. Salmon - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Kim - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.45,
+   0.4,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Justin Long - Stephens Inc., Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Cleo Zagrean - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Executive": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Keith Schoonmaker - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Benjamin J. Hartford - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "date": "2013-07-17 09:00:00",
+ "Judith T. Murphy": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Richard K. Davis": {
+  "avg_sentiment_score": 0.409375,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.55,
+   0.55,
+   0.45,
+   0.85,
+   0.45,
+   -0.45,
+   0.65,
+   0.15,
+   0.45,
+   0.45,
+   -0.45,
+   0.55,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   1.0
+  ],
+  "title": "Executive Chairman and Executive Chairman of US Bank"
+ },
+ "Andrew Cecere": {
+  "avg_sentiment_score": -0.09285714285714285,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.65,
+   -0.35,
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.6928571428571428,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Jessica Ribner - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jack Micenko - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "P. W. Parker": {
+  "avg_sentiment_score": 0.33,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Vice Chairman and Chief Risk Officer"
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Scinicariello - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Betsy Graseck - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Barker - Compass Point Research & Trading, LLC, Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Werner - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jon G. Arfstrom - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

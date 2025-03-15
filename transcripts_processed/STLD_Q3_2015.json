@@ -1,0 +1,353 @@
+{
+ "date": "2015-10-20 10:00:00",
+ "Marlene Owen - Director-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark D. Millett - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.20857142857142857,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.35,
+   0.65,
+   0.0,
+   -0.45,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8257142857142856,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa E. Wagler - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.4
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Tony B. Rizzuto - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Richard P. Teets - Director, EVP-Steelmaking, President & COO-Steel Operations": {
+  "avg_sentiment_score": 0.1642857142857143,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Matthew James Korn - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Graham - President of New Millennium and Vice President of Steel Dynamics, Steel Dynamics, Inc.": {
+  "avg_sentiment_score": -1.0,
+  "sentiment_score": [
+   -1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior Vice President of Flat Roll Steel Group"
+ },
+ "Evan L. Kurtz - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Russell B. Rinn - Executive Vice President-Metals Recycling": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Vice President of Metals Recycling"
+ },
+ "Brian Hsien Yu - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Timna Beth Tanners - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Philip N. Gibbs - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Aldo Mazzaferro - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Jorge M. Beristain - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   0.68,
+   1.0,
+   0.75
+  ]
+ },
+ "John C. Tumazos - John Tumazos Very Independent Research LLC": {
+  "avg_sentiment_score": -0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Justine B. Fisher - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "David A. Lipschitz - CLSA Americas LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Murphy - UBS Securities Canada, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

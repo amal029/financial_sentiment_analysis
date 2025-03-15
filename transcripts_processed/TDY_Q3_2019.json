@@ -1,0 +1,137 @@
+{
+ "date": "2019-10-23 11:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.390625,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.85,
+   0.65,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   0.8,
+   0.85,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Aldo Pichelli": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "President & CEO"
+ },
+ "Susan Main": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Gregory Konrad": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "James Ricchiuti": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Giordano": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "George Godfrey": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

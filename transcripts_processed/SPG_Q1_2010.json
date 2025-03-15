@@ -1,0 +1,496 @@
+{
+ "date": "2010-04-30 11:00:00",
+ "Shelly Doran": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David Simon": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Alexander Goldfarb - Sandler O'Neill & Partners L.P.": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "David Simon ": {
+  "avg_sentiment_score": -0.0024999999999999974,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   -0.45,
+   -0.45,
+   -0.15,
+   -1.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7983333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Stephen Sterrett ": {
+  "avg_sentiment_score": 0.14666666666666667,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Executive Vice President"
+ },
+ "Paul Morgan \u2013 Morgan Stanley ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard Sokolov ": {
+  "avg_sentiment_score": 0.37857142857142856,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Steve Sakwa \u2013 ISI Group ": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Jim Sullivan \u2013 Cowan & Co. ": {
+  "avg_sentiment_score": 0.06875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.96875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Haberman - Goldman Sachs": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Craig Schmidt \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Bilerman - Citigroup": {
+  "avg_sentiment_score": -0.15714285714285717,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   -1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Quentin Velleley - Citigroup": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tayo Okusanya \u2013 Jefferies & Co. ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Ben Yang \u2013 Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Cedrik Lachance \u2013 Green Street Advisors ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Donnelly - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Mueller - J.P. Morgan": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard Moore - RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Christy McElroy - UBS": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ross Nussbaum - UBS": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Nathan Isbee - Stifel Nicolaus & Company Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.5
+  ]
+ }
+}

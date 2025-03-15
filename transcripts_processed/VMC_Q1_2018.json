@@ -1,0 +1,393 @@
+{
+ "date": "2018-05-03 10:00:00",
+ "Mark D. Warren - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "J. Thomas Hill - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.2511111111111111,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.6,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.35,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   -0.45,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8315555555555556,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.8
+  ],
+  "title": "CEO & Chairman"
+ },
+ "John R. McPherson - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.17894736842105263,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   1.0,
+   -0.15,
+   0.15,
+   -0.35,
+   0.35,
+   0.85,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   -0.35,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7757894736842106,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.0,
+   0.68,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.68,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   0.65,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial & Strategy Officer and Executive Vice President"
+ },
+ "Adam Seiden - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Trey H. Grooms - Stephens, Inc.": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.85,
+   0.85,
+   0.4
+  ]
+ },
+ "Kathryn Ingram Thompson - Thompson Research Group LLC": {
+  "avg_sentiment_score": 0.09444444444444446,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jerry Revich - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": -0.03749999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Philip Ng - Jefferies LLC": {
+  "avg_sentiment_score": 0.5714285714285714,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.45,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7628571428571428,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Adam Robert Thalhimer - Thompson Davis & Co., Inc.": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Garik S. Shmois - Longbow Research LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Schrier - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Timna Beth Tanners - Merrill Lynch, Pierce, Fenner & Smith, Inc.": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Stanley Stoker Elliott - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   0.68,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Edward Thielman - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

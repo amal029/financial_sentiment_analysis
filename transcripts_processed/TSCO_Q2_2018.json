@@ -1,0 +1,339 @@
+{
+ "date": "2018-07-26 10:00:00",
+ "Mary Winn Pilkington - Tractor Supply Co.": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory A. Sandfort - Tractor Supply Co.": {
+  "avg_sentiment_score": 0.2823529411764706,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8729411764705882,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Steve K. Barbarick - Tractor Supply Co.": {
+  "avg_sentiment_score": 0.496875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "President and Chief Merchandising Officer"
+ },
+ "Kurt D. Barton - Tractor Supply Co.": {
+  "avg_sentiment_score": 0.28421052631578947,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   -0.45,
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.05,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.83,
+  "confidence": [
+   0.85,
+   0.85,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Benjamin Bienvenu - Stephens, Inc.": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.605,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Simeon Ari Gutman - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Zachary Fadem - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Chuck Grom - Gordon Haskett Research Advisors": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Seth I. Sigman - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Steven Forbes - Guggenheim Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brian Nagel - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6
+  ]
+ },
+ "Peter S. Benedict - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael Louis Lasser - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Oliver Wintermantel - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ },
+ "Peter Jacob Keith - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Horvers - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth M. Basham - Wedbush Securities, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chuck Cerankosky - Northcoast Research Partners LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0
+  ]
+ }
+}

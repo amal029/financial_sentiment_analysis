@@ -1,0 +1,216 @@
+{
+ "date": "2016-02-16 08:30:00",
+ "John O'Connor - Vice President, Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Ram\u00f3n Alaix - Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.5735294117647058,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.15,
+   0.75,
+   0.0,
+   0.85,
+   0.45,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   1.0,
+   0.85,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8088235294117647,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   0.9,
+   0.85,
+   0.75
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Paul S. Herendeen - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.45,
+   0.5,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Kevin K. Ellich - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Louise Chen - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Arfaei - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erin Wilson - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John C. Kreger - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Christopher Schott - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jami Rubin - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.6,
+   0.65
+  ]
+ },
+ "Douglas Tsao - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David R. Risinger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "Kathy M. Miner - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey Holford - Jefferies LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

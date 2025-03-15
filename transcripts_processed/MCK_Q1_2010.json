@@ -1,0 +1,229 @@
+{
+ "date": "2009-07-29 17:00:00",
+ "Ana Schrank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "John Hammergren": {
+  "avg_sentiment_score": 0.4538461538461539,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7269230769230769,
+  "confidence": [
+   0.8,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Jeff Campbell": {
+  "avg_sentiment_score": 0.2263157894736842,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   0.75,
+   0.65,
+   -0.45,
+   0.0,
+   0.6,
+   0.45,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8526315789473684,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Lisa Gill \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Rhyee \u2013 Oppenheimer Co., Inc": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Glen Santangelo \u2013 Credit Suisse-North America": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Larry Marsh \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Willoughby \u2013 BAS-ML": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Gallucci \u2013 Lazard Capital Markets": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Boorady \u2013 Citigroup": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Coldwell \u2013 Robert W. Baird & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Ransom \u2013 Raymond James": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Randall Stanicky \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

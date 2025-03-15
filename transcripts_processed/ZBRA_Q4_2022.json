@@ -1,0 +1,214 @@
+{
+ "date": "2023-02-16 08:30:00",
+ "Mike Steele": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.6,
+   0.4,
+   0.85
+  ]
+ },
+ "Anders Gustafsson": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.65,
+   0.75,
+   0.65,
+   0.45,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Chair"
+ },
+ "Nathan Winters": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.55,
+   -0.45,
+   0.45,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Bill Burns": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.65,
+   0.65,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Damian Karas": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jim Ricchiuti": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Heel": {
+  "avg_sentiment_score": 0.33571428571428574,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.75,
+   -0.45,
+   0.05,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.85
+  ]
+ },
+ "Paul Chung": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Housum": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Meta Marshall": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Guy Hardwick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Rob Mason": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Drab": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Thomas Moll ": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

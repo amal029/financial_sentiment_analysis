@@ -1,0 +1,445 @@
+{
+ "date": "2016-07-27 09:00:00",
+ "Thomas Ward - Senior Vice President of Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David E. Simon - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.17761194029850746,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.872089552238806,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Craig Richard Schmidt - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Sakwa - Evercore ISI": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.836,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Richard S. Sokolov - President, Chief Operating Officer & Director": {
+  "avg_sentiment_score": 0.1888888888888889,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Paul B. Morgan - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Jeremy Metz - UBS Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Caitlin Burrows - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexander D. Goldfarb - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": 0.027777777777777776,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.75,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7688888888888888,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Christy McElroy - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Jason Bilerman - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Edward Adornato - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Vincent Chao - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Rich Moore - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Ki Bin Kim - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael W. Mueller - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard Hill - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Omotayo Tejumade Okusanya - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Floris van Dijkum - Boenning & Scattergood, Inc. (Broker)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "date": "2011-10-19 16:30:00",
+ "Matt Maddox": {
+  "avg_sentiment_score": 0.16785714285714287,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9264285714285715,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ],
+  "title": "CEO & Director"
+ },
+ "Stephen A. Wynn": {
+  "avg_sentiment_score": 0.14555555555555555,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   -0.75,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.9,
+   0.6,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Joseph Greff - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Carlo Santarelli - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Marc D. Schorr": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Operating Officer, Member of Executive Committee and Member of Gaming Compliance Committee"
+ },
+ "Shaun C. Kelley - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Mark Strawn - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Marilyn Spiegel": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Harry Curtis - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ian Michael Coughlan": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Robin M. Farley - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Janet Brashear - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David B. Katz - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Dennis I. Forst - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.08181818181818182,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Janet Lu - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ]
+ }
+}

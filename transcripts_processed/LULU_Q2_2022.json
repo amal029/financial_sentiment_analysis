@@ -1,0 +1,209 @@
+{
+ "date": "2022-09-01 16:30:00",
+ "Howard Tubin": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Calvin McDonald": {
+  "avg_sentiment_score": 0.7045454545454546,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.45,
+   0.65,
+   0.75,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Meghan Frank": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.05,
+   -0.45,
+   0.45,
+   -0.15,
+   -0.15,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Adrienne Yih-Tennant": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Altschwager": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Alexandra Straton": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Brooke Roach": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Lorraine Maikis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "John Kernan": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Binetti": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sharon Zackfia": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tom Nikic": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jay Sole": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

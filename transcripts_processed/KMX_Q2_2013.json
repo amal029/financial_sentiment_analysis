@@ -1,0 +1,325 @@
+{
+ "date": "2012-09-20 09:00:00",
+ "Katharine W. Kenny": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Thomas J. Folliard": {
+  "avg_sentiment_score": 0.2207317073170732,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   -0.35,
+   0.05,
+   0.55,
+   0.45,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   -0.45,
+   -0.75,
+   -0.15,
+   0.0,
+   0.65,
+   0.05,
+   -0.35,
+   0.65,
+   0.6,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7682926829268293,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Thomas W. Reedy": {
+  "avg_sentiment_score": 0.11875,
+  "sentiment_score": [
+   0.75,
+   -0.35,
+   -0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "John Murphy - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   -0.15,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Ravi Shanker - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.6,
+   -0.35
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Sharon Zackfia - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Craig R. Kennison - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Joshua Dolin - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "James J. Albertine - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew J. Fassler - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.06428571428571428,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Rod Lache - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.07,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Clint D. Fendley - Davenport & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "William R. Armstrong - CL King & Associates, Inc., Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Efraim Levy - S&P Equity Research": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Whiston - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "date": "2016-01-28 10:30:00",
+ "Michael Yates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andy Silvernail": {
+  "avg_sentiment_score": 0.16764705882352943,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.65,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   -0.45,
+   -0.55,
+   -0.45,
+   -0.45,
+   0.55,
+   0.65,
+   0.65,
+   -0.45,
+   0.45,
+   0.0,
+   0.6,
+   0.65
+  ],
+  "avg_confidence": 0.7735294117647059,
+  "confidence": [
+   0.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Mike Halloran": {
+  "avg_sentiment_score": 0.1166666666666667,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Heath Mitts": {
+  "avg_sentiment_score": 0.19166666666666668,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Steven Winoker": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": 0.042857142857142864,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Matt McConnell": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Charlie Brady": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bhupender Bohra": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Radigan": {
+  "avg_sentiment_score": 0.2833333333333334,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Brian Konigsberg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Jim Giannakouros": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Walter Liptak": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Joe Giordano": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Jim Foung": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

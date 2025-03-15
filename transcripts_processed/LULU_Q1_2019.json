@@ -1,0 +1,202 @@
+{
+ "date": "2019-06-12 16:30:00",
+ "Howard Tubin": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Calvin McDonald": {
+  "avg_sentiment_score": 0.7227272727272728,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8454545454545456,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "CEO & Director"
+ },
+ "Stuart Haselden": {
+  "avg_sentiment_score": 0.6799999999999999,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Chief Operating Officer"
+ },
+ "Patrick Guido": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   -0.15,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "nan"
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Irwin Boruchow": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kate Fitzsimons": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Adrienne Yih-Tennant": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "John Kernan": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Camilo Lyon": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

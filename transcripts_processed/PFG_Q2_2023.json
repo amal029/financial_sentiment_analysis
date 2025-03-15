@@ -1,0 +1,264 @@
+{
+ "date": "2023-07-28 10:00:00",
+ "Humphrey Lee": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dan Houston": {
+  "avg_sentiment_score": 0.26842105263157895,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.15,
+   -0.35,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.781578947368421,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Deanna Strable": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.05,
+   0.45,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Littlefield": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Pat Halter": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.55,
+   0.55,
+   0.65,
+   0.35,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "President of Asset Management SM"
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Tom Gallagher": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Barnidge": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Amy Friedrich": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "President of Benefits & Protection"
+ },
+ "Wes Carmichael": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Scott": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.6,
+   0.5
+  ]
+ },
+ "Tracy Benguigui": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Mike Ward": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

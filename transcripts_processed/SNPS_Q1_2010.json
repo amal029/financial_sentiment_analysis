@@ -1,0 +1,168 @@
+{
+ "date": "2010-02-17 17:00:00",
+ "Lisa Ewbank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Aart de Geus": {
+  "avg_sentiment_score": 0.4473684210526316,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.6,
+   0.45,
+   0.55,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8447368421052632,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Brian Beattie": {
+  "avg_sentiment_score": 0.4857142857142857,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.75,
+   0.35,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Administrative Officer and Executive Vice President of Business Operations"
+ },
+ "Richard Valera \u2013 Needham & Company": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Goodman \u2013 Bank of America": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6950000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Sterling Auty \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer \u2013 Ticonderoga Securities": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "K.C. Rajkumar \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

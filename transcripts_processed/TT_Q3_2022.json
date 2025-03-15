@@ -1,0 +1,257 @@
+{
+ "date": "2022-11-02 10:00:00",
+ "Zachary Nagle": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "David Regnery": {
+  "avg_sentiment_score": 0.5153846153846154,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.55,
+   0.45,
+   1.0,
+   0.55,
+   0.55,
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   0.15,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8315384615384616,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.8
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Christopher Kuehn": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   -0.15,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   -0.15,
+   0.55,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.7966666666666666,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Andy Kaplowitz": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Walsh": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.6
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Joe Ritchie": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Joe O'Dea": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

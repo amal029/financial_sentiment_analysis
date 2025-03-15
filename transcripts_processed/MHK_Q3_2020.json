@@ -1,0 +1,300 @@
+{
+ "date": "2020-10-30 11:00:00",
+ "Frank Boykin ": {
+  "avg_sentiment_score": 0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jeff Lorberbaum": {
+  "avg_sentiment_score": -0.030357142857142857,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   -0.45,
+   0.65,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   -0.35,
+   -0.35,
+   -1.0,
+   -0.45,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7767857142857143,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Chris Wellborn ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President, COO, President of Global Ceramic & Director"
+ },
+ "Stephen Kim ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Tim Wojs": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Tim Wojs ": {
+  "avg_sentiment_score": -1.0,
+  "sentiment_score": [
+   -1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sam Darkatsh ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Dahl ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Keith Hughes ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Chris Wellborn": {
+  "avg_sentiment_score": 5.551115123125783e-18,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Bosshard ": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Phil Ng ": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kathryn Thompson ": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Susan Maklari ": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Lovallo ": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Matthew Bouley ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Rehaut ": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

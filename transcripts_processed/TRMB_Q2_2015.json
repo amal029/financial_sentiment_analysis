@@ -1,0 +1,167 @@
+{
+ "date": "2015-08-04 16:30:00",
+ "Jim Todd - Director-Investor Relations": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Steven W. Berglund - President & Chief Executive Officer, Executive Committee Member": {
+  "avg_sentiment_score": 0.234375,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.45,
+   0.0,
+   0.15,
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.740625,
+  "confidence": [
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Francois Delepine - Chief Financial Officer & Executive Committee Member": {
+  "avg_sentiment_score": -0.22499999999999998,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75,
+   0.8,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jonathan F. Ho - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Jerry D. Revich - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Richard C. Eastman - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Richard F. Valera - Needham & Co. LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Brett W. S. Wong - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Ian L. Ing - MKM Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

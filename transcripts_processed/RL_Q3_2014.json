@@ -1,0 +1,139 @@
+{
+ "date": "2014-02-05 09:00:00",
+ "James Hurley": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Jackwyn L. Nemerov": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Christopher H. Peterson": {
+  "avg_sentiment_score": 0.5785714285714285,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.65,
+   0.45,
+   0.55,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.8,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "President of Global Brands"
+ },
+ "Omar Saad - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kate McShane - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Binetti - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Erinn E. Murphy - Piper Jaffray Companies, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lizabeth Dunn - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Christian Buss - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Barbara Wyckoff - CLSA Limited, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert F. Ohmes - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

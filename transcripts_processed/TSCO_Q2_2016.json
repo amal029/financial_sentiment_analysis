@@ -1,0 +1,443 @@
+{
+ "date": "2016-07-21 17:00:00",
+ "Christine Skold": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Greg Sandfort": {
+  "avg_sentiment_score": 0.1620689655172414,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.05,
+   -0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.35,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8179310344827586,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Tony Crudele": {
+  "avg_sentiment_score": 0.18913043478260871,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   1.0,
+   1.0,
+   0.05,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   -1.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7643478260869564,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   0.75,
+   0.68,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Steven Forbes": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Steve Barbarick": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.55,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   -0.45,
+   0.45,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "President and Chief Merchandising Officer"
+ },
+ "Alan Rifkin": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6
+  ]
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9339999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ben Bienvenu": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Peter Keith": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Stephen Tanal": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Bottiglieri": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6266666666666666,
+  "confidence": [
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Chuck Cerankosky": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Wewer": {
+  "avg_sentiment_score": -0.06000000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Adam Sindler": {
+  "avg_sentiment_score": 0.27999999999999997,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

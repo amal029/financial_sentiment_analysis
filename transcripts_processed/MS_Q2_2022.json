@@ -1,0 +1,207 @@
+{
+ "date": "2022-07-14 09:30:00",
+ "James Gorman": {
+  "avg_sentiment_score": 0.4454545454545455,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.85,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.8090909090909091,
+  "confidence": [
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Sharon Yeshaya": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.55,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.05,
+   0.55,
+   0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7684210526315789,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.5,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Christian Bolu": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steve Chubak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ebrahim Poonawala": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": -0.025,
+  "sentiment_score": [
+   -0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matt O\u2019Connor": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.75,
+   0.5,
+   1.0,
+   0.6
+  ]
+ },
+ "Jim Mitchell": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

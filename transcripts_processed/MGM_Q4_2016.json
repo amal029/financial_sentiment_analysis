@@ -1,0 +1,404 @@
+{
+ "date": "2017-02-16 11:00:00",
+ "Daniel J. D'Arrigo - MGM Resorts International": {
+  "avg_sentiment_score": 0.24107142857142858,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7910714285714285,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "James Joseph Murren - MGM Resorts International": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.923,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Joseph R. Greff - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Cathy Santoro - MGM Resorts International": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Corey I. Sanders - MGM Resorts International": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Christopher W. Nordling - MGM Resorts International": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Harry C. Curtis - Nomura Instinet": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Grant R. Bowie - MGM China Holdings Limited": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.88375,
+  "confidence": [
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Shaun Clisby Kelley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7814285714285714,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Stephen Grambling - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.776,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Kenneth Fong - Credit Suisse (Hong Kong) Ltd.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Carlo Santarelli - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0071428571428571435,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Felicia Hendrix - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9542857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Robin M. Farley - UBS Securities LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Thomas G. Allen - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

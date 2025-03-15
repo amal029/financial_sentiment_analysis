@@ -1,0 +1,345 @@
+{
+ "date": "2010-06-23 16:30:00",
+ "Beth Walters": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Forbes Alexander": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Tim Main": {
+  "avg_sentiment_score": 0.19215686274509805,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   1.0,
+   -0.15,
+   0.65,
+   0.05,
+   -1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.55,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8368627450980393,
+  "confidence": [
+   0.9,
+   0.6,
+   0.67,
+   0.6,
+   0.85,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.69,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.8,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman"
+ },
+ "Steven Fox \u2013 CLSA": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Louis Miscioscia \u2013 Collins Stewart": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Amitabh Passi \u2013 UBS": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Wamsi Mohan \u2013 Banc of America": {
+  "avg_sentiment_score": 0.64,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.68,
+   1.0
+  ]
+ },
+ "Brian Alexander \u2013 Raymond James": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8566666666666668,
+  "confidence": [
+   1.0,
+   0.9,
+   0.67
+  ]
+ },
+ "Shawn Harrison \u2013 Longbow Research": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "William Stein \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "Jim Suva \u2013 Citi Financial": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6
+  ]
+ },
+ "Sean Hannan \u2013 Needham & Company": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Sherri Scribner \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Alex Blanton \u2013 Ingalls & Snyder": {
+  "avg_sentiment_score": 1.3877787807814458e-18,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9425000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

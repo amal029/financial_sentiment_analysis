@@ -1,0 +1,259 @@
+{
+ "date": "2021-10-28 16:30:00",
+ "Amy Wakeham": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mick Farrell": {
+  "avg_sentiment_score": 0.2131578947368421,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   -0.15,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.85,
+   0.0,
+   0.45,
+   -0.15,
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   0.85,
+   0.15,
+   0.75
+  ],
+  "avg_confidence": 0.7947368421052632,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.85
+  ]
+ },
+ "Brett Sandercock": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Matthew Mishan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Chris Cooper": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Low": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Suraj Kalia": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jim Hollingshead": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Gretel Janu": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Craig Wong-Pan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rob Douglas": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "President & COO"
+ },
+ "David Bailey": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Maggie Boeye": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sean Laaman": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steve Wheen": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Deakin-Bell": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Lyanne Harrison": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Saul Hadassin": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dan Hurren": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

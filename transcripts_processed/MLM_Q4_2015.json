@@ -1,0 +1,297 @@
+{
+ "date": "2016-02-10 14:00:00",
+ "Howard Nye": {
+  "avg_sentiment_score": 0.34651162790697676,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.65,
+   0.55,
+   0.55,
+   0.45,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   -0.15,
+   0.85,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.45,
+   0.65,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7895348837209303,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Kathryn Thompson": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Anne Lloyd": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.8,
+   0.4,
+   1.0,
+   0.4,
+   0.8,
+   0.4
+  ]
+ },
+ "Adam Thalhimer": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Todd Vencil": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   0.8,
+   0.75
+  ]
+ },
+ "Ted Grace": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "James Armstrong": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Garik Shmois": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.6
+  ]
+ },
+ "Trey Grooms": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   0.6
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Brandon Jaffe": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.25,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mike Betts": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Craig Bibb": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   0.75
+  ]
+ }
+}

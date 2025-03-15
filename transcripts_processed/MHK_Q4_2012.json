@@ -1,0 +1,243 @@
+{
+ "date": "2013-02-22 11:00:00",
+ "Jeffrey S. Lorberbaum": {
+  "avg_sentiment_score": 0.2913793103448276,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.65,
+   0.15,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.65,
+   1.0,
+   0.65,
+   -0.15,
+   -0.35,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.45,
+   0.15,
+   -0.35,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8120689655172414,
+  "confidence": [
+   0.4,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Frank H. Boykin": {
+  "avg_sentiment_score": 0.33461538461538465,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7576923076923077,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Kenneth R. Zener - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Michael Jason Rehaut - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Kathryn I. Thompson - Thompson Research Group, LLC.": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Mike Wood - Macquarie Research": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Susan Maklari - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Dennis McGill - Zelman & Associates, LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Daniel Oppenheim - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8
+  ]
+ },
+ "John A. Baugh - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Keith B. Hughes - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Desi DiPierro - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

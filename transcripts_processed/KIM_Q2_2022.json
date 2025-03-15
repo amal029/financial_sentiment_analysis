@@ -1,0 +1,326 @@
+{
+ "date": "2022-07-28 08:30:00",
+ "David Bujnicki ": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Conor Flynn ": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Ross Cooper ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "President & Chief Investment Officer"
+ },
+ "Glenn Cohen ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Craig Schmidt ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Jamieson": {
+  "avg_sentiment_score": 0.53125,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.83125,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Executive VP & COO"
+ },
+ "Adam Kramer": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Conor Flynn": {
+  "avg_sentiment_score": 0.6222222222222222,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0,
+   0.75,
+   0.55,
+   0.65,
+   0.65,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Greg McGinniss ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Craig Mailman": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ross Cooper": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   -0.15,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Samir Khanal": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Glenn Cohen": {
+  "avg_sentiment_score": 0.42142857142857143,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6
+  ]
+ },
+ "Juan Sanabria ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Goldfarb": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Haendel St. Juste": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Floris Van Dijkum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mike Mueller": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Anthony Powell ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Derek Johnston ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ki Bin Kim": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tayo Okusanya": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Linda Tsai": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "A \u2013Conor Flynn": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Bilerman": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ }
+}

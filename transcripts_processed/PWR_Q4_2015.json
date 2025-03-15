@@ -1,0 +1,319 @@
+{
+ "date": "2016-02-25 09:30:00",
+ "Kip A. Rupp - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James F. O'Neil - Chief Executive Officer and President": {
+  "avg_sentiment_score": 0.21022727272727273,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.55,
+   0.55,
+   0.05,
+   0.45,
+   0.05,
+   1.0,
+   0.0,
+   0.65,
+   0.6,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8295454545454546,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.68,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.67,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Derrick A. Jensen - Chief Financial Officer": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Daniel Mannes - Avondale Partners LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   1.0,
+   0.8,
+   0.4,
+   0.65
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7957142857142857,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Matt Duncan - Stephens, Inc.": {
+  "avg_sentiment_score": -0.04,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.945,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Noelle Dilts - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.67,
+   0.6
+  ]
+ },
+ "William Bremer - Maxim Group LLC": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Bergstrom Rogers - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Sangita Jain - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.67
+  ]
+ },
+ "Jamie L. Cook - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Chad Dillard - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Justin P. Hauke - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

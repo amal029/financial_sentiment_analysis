@@ -1,0 +1,392 @@
+{
+ "date": "2014-04-24 08:30:00",
+ "Analyst ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Joe Wilkinson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.40869565217391307,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   1.0,
+   0.15,
+   -0.15,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7608695652173914,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Kurt Kuehn": {
+  "avg_sentiment_score": 0.39333333333333337,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.35,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.83,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Financial & Compliance Officer, Senior Vice President and Member of Corporate Sustainability Steering Committee"
+ },
+ "Jim Barber": {
+  "avg_sentiment_score": 0.51875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Scott Schneeberger - Oppenheimer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Myron Gray": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ],
+  "title": "Senior Vice President and President of United States Operations"
+ },
+ "Bill Greene - Morgan Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan Gershenhorn": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Chief Commercial Officer and Senior Vice President"
+ },
+ "Ken Hoexter - Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nate Brochmann - William Blair & Company": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Abney": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "David Vernon - Sanford Bernstein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Scott Group - Wolfe Research": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brandon Oglenski - Barclays Capital": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Wetherbee - Citi": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Allison Landry - Credit Suisse": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kevin Sterling - BB&T Capital Markets": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Ben Hartford - Robert W. Baird & Co.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Thomas Kim - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Salmon - Deutsche Bank": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Shoemaker - Morningstar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Barnes - RBC Capital Markets": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Chief Information Officer, Senior Vice President and Global Business Services Officer"
+ },
+ "David Ross - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kelly Dougherty - Macquarie Capital": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Atkins - Stephens Inc.": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Helane Becker - Cowen & Co.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeff Kauffman - Buckingham Research": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

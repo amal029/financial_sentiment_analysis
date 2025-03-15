@@ -1,0 +1,307 @@
+{
+ "date": "2021-07-29 08:00:00",
+ "Eric Salander": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9666666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Donnelly": {
+  "avg_sentiment_score": 0.22749999999999998,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Frank Connor": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Sheila Kahyaoglu": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Peter Arment": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.65,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Pete Skibitski": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Carter Copeland": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Ron Epstein": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Noah Poponak": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Strauss": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   0.65
+  ]
+ },
+ "Seth Seifman": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Stallard": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.68,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "George Shapiro": {
+  "avg_sentiment_score": -0.05833333333333333,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Kristine Liwag": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

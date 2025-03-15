@@ -1,0 +1,309 @@
+{
+ "date": "2019-04-30 09:00:00",
+ "Kevin Hern": {
+  "avg_sentiment_score": 0.1025,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9475,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Ricks": {
+  "avg_sentiment_score": 0.4291666666666667,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8975,
+  "confidence": [
+   0.85,
+   0.9,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Josh Smiley": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ],
+  "title": "Executive Officer"
+ },
+ "Dr. Dan Skovronsky": {
+  "avg_sentiment_score": 0.47500000000000003,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Enrique Conterno": {
+  "avg_sentiment_score": 0.4600000000000001,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0,
+   0.65,
+   0.55,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Christi Shaw": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.15,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Jason Gerberry": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Anne White": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Arfaei": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Navin Jacob": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

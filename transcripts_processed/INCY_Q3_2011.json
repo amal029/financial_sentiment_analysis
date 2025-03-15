@@ -1,0 +1,290 @@
+{
+ "date": "2011-11-01 08:30:00",
+ "Analysts ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Pamela A. Murphy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Paul A. Friedman, M.D. ": {
+  "avg_sentiment_score": 0.1411764705882353,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   -0.35,
+   0.0,
+   0.15,
+   -1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7735294117647059,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President, Director, Member of Non-Management Stock Option Committee and Member of Finance Committee"
+ },
+ "David C. Hastings ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Rachel McMinn \u2013 Bank of America": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Patricia S. Andrews, M.D. ": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.45,
+   0.05,
+   0.55,
+   0.45,
+   0.65,
+   0.85,
+   0.15,
+   0.15,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.7458333333333332,
+  "confidence": [
+   0.6,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Commercial Officer and Executive Vice President"
+ },
+ "Richard S. Levy, M.D. ": {
+  "avg_sentiment_score": 0.33,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.4,
+   0.45,
+   0.6,
+   0.75,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Drug Development Officer and Executive Vice President"
+ },
+ "Matthew Roden, PhD \u2013 UBS": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Salveen Richter, CFA \u2013 Collins Stewart": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Corey Kasimov \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas J. Russo \u2013 Robert W. Baird & Co.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Joshua Schimmer, M.D. \u2013 Leerink": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Lucy Lu, M.D. \u2013 Citigroup": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Bret Holly, PhD \u2013 Oppenheimer": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Freidman, M.D. \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Analyst for Brian Abrahams, M.D. \u2013 Wells Fargo": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Analyst for Ian Somaiya \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Liisa A. Bayko \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

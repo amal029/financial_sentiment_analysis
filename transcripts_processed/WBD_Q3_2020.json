@@ -1,0 +1,198 @@
+{
+ "date": "2020-11-05 08:00:00",
+ "Andrew Slabin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Zaslav": {
+  "avg_sentiment_score": 0.5346153846153846,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.85,
+   0.65,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   -0.45,
+   0.65,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8384615384615385,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Gunnar Wiedenfels": {
+  "avg_sentiment_score": 0.51875,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.55,
+   0.65,
+   0.85,
+   1.0,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.71875,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Doug Mitchelson": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Greenfield": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Nathanson": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Jessica Reif Ehrlich": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Kutgun Maral": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Michael Morris": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "David Joyce": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Cahall": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Swinburne": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Q \u2013 Ben Swinburne": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

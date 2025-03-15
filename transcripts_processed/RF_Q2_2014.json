@@ -1,0 +1,357 @@
+{
+ "date": "2014-07-22 11:00:00",
+ "List Underwood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Grayson Hall": {
+  "avg_sentiment_score": 0.18387096774193548,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8483870967741935,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.65,
+   1.0
+  ]
+ },
+ "David Turner": {
+  "avg_sentiment_score": 0.15961538461538463,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.45,
+   0.0,
+   0.05,
+   0.35,
+   0.45,
+   0.45,
+   0.45,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7788461538461539,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Murray - ISI": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Eric Wasserstrom - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   -0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Matt O'Connor - Deutsche Bank": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Miller - FBR": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Ryan Nash - Goldman Sachs": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.0,
+   0.1,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6575,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Marty Mosby - Vining Sparks": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0
+  ]
+ },
+ "Ken Usdin - Jefferies": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Gaston Ceron - Morningstar Equity Research": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Erika Najarian - Bank of America": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Burnell - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Gerard Cassidy - RBC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Richard Bove - Rafferty Capital Markets": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Mutascio - KBW": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pancari - Evercore": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ }
+}

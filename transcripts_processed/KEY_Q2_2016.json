@@ -1,0 +1,410 @@
+{
+ "date": "2016-07-26 09:00:00",
+ "Beth Elaine Mooney - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.2409090909090909,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.859090909090909,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Donald R. Kimble - Chief Financial Officer": {
+  "avg_sentiment_score": 0.34464285714285714,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.45,
+   1.0,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   -0.15,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   -0.35,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8196428571428571,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.68,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.67,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.67,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.67,
+   1.0,
+   0.6,
+   0.67,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Bob H. Ramsey - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Alexopoulos - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "John Pancari - Evercore Group LLC": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "William L. Hartmann - Chief Risk Officer": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Derek O'Connor - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "R. Scott Siefers - Sandler O'Neill & Partners LP": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Zerbe - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ken Usdin - Jefferies LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Hart Burnell - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Gerard Cassidy - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Marty Mosby - Vining Sparks IBG LP": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Mayo - CLSA Americas LLC": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David J. Long - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Eads - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin J. Barker - Piper Jaffray & Co. (Broker)": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Geoffrey Elliott - Autonomous Research LLP": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

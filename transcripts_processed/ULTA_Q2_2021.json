@@ -1,0 +1,159 @@
+{
+ "date": "2021-08-25 16:30:00",
+ "Kiley Rawlins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.0,
+   1.0
+  ]
+ },
+ "David Kimbell": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Scott Settersten": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.85,
+   -0.15,
+   0.65,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Adrienne Yih-Tennant": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Kecia Steelman": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "President & COO"
+ },
+ "Simeon Siegel": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Olivia Tong Cheang": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Stephanie Schiller Wissink": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Irwin Boruchow": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Katharine McShane": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Krisztina Katai": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ }
+}

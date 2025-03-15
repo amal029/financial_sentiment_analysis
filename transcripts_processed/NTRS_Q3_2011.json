@@ -1,0 +1,286 @@
+{
+ "date": "2011-10-19 12:00:00",
+ "Beverly J. Fleming": {
+  "avg_sentiment_score": 0.2111111111111111,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8111111111111111,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ]
+ },
+ "William Lind Morrison": {
+  "avg_sentiment_score": 0.1425925925925926,
+  "sentiment_score": [
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   -0.35,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.8129629629629629,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Vice Chairman"
+ },
+ "Michael G. O'grady": {
+  "avg_sentiment_score": 0.22083333333333333,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7958333333333334,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Howard Chen - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   1.0,
+   0.5,
+   0.6
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Brian Bedell - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Alexander Blostein - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.06999999999999999,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Mayo - Credit Agricole Securities (USA) Inc., Research Division": {
+  "avg_sentiment_score": -0.27,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.784,
+  "confidence": [
+   1.0,
+   0.75,
+   0.5,
+   1.0,
+   0.67
+  ]
+ },
+ "J. Jeffrey Hopson - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Robert Lee - Keefe, Bruyette, & Woods, Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Stilmar - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "Nancy A. Bush - NAB Research, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

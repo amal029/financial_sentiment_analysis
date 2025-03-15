@@ -1,0 +1,257 @@
+{
+ "date": "2020-08-06 10:00:00",
+ "Doug Constantine": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tricia Griffith": {
+  "avg_sentiment_score": 0.335,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.15,
+   0.45,
+   1.0,
+   0.55,
+   0.55,
+   0.05,
+   0.0,
+   0.6,
+   0.75,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Elyse Greenspan": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Mike Zaremski": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John Sauerland": {
+  "avg_sentiment_score": 0.0730769230769231,
+  "sentiment_score": [
+   0.55,
+   0.85,
+   0.0,
+   0.15,
+   -0.15,
+   0.55,
+   0.55,
+   -1.0,
+   0.45,
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7899999999999999,
+  "confidence": [
+   0.75,
+   0.9,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "VP & CFO"
+ },
+ "David Motemaden": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Greg Peters ": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9642857142857143,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Michael Phillips": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

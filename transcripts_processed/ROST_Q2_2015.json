@@ -1,0 +1,278 @@
+{
+ "date": "2015-08-19 23:30:00",
+ "Barbara Rentler": {
+  "avg_sentiment_score": 0.24642857142857144,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8464285714285714,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Vice Chairman & CEO"
+ },
+ "Michael Hartshorn": {
+  "avg_sentiment_score": 0.46875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.64375,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.75
+  ],
+  "title": "Group President, COO & Director"
+ },
+ "Lorraine Maikis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Hofkin": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael O'Sullivan": {
+  "avg_sentiment_score": 0.08000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.15,
+   -0.35,
+   0.0,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8533333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "President, Chief Operating Officer and Director"
+ },
+ "Marni Shapiro": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Oliver Chen": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Richard Jaffe": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jason Smith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Anne-Charlotte Windal": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jeffrey Stein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jill Caruthers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Stephen Grambling": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robert Drbul": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick McKeever": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

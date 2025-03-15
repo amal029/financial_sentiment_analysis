@@ -1,0 +1,355 @@
+{
+ "date": "2022-01-19 09:53:00",
+ "Jen Thompson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Andy Cecere": {
+  "avg_sentiment_score": 0.2113636363636364,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8727272727272727,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Terry Dolan": {
+  "avg_sentiment_score": 0.07954545454545456,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.75,
+   0.15,
+   0.05,
+   0.45,
+   0.0,
+   -0.15,
+   0.05,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   -0.35,
+   -0.15,
+   0.55,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7886363636363637,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Administration Officer & Vice Chair"
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7814285714285714,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Long": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Vivek Juneja": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.35,
+   -0.4,
+   0.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

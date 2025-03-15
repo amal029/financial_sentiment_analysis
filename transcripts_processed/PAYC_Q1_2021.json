@@ -1,0 +1,228 @@
+{
+ "date": "2021-05-05 17:00:00",
+ "James Samford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Chad Richison": {
+  "avg_sentiment_score": 0.36086956521739133,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.773913043478261,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.6,
+   0.4,
+   0.85,
+   0.9,
+   0.85,
+   0.75
+  ],
+  "title": "Founder, President, Co-CEO & Chairman of the Board"
+ },
+ "Craig Boelte": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.85,
+   -0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Samad Samana": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   1.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Jester": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Brian Schwartz": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Simmons": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Josh": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ami Mehta": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Bryan Bergin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Josh Beck": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Arvind Ramnani": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Zukin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

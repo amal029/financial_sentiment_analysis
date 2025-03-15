@@ -1,0 +1,246 @@
+{
+ "date": "2023-05-16 16:30:00",
+ "Jason Kary": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Satish Dhanasekaran": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.05,
+   0.0,
+   0.45,
+   0.85,
+   0.05,
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.805,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Neil Dougherty": {
+  "avg_sentiment_score": 0.4033333333333333,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.55,
+   0.55,
+   0.15,
+   -0.35,
+   0.45,
+   -0.15,
+   0.45,
+   0.35,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7966666666666666,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Samik Chatterjee": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7066666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.67
+  ]
+ },
+ "Mehdi Hosseini": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Snyder": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mark Wallace": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP of Global Sales & Chief Customer Officer"
+ },
+ "Meta Marshall": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Meta Marshall ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.68,
+  "confidence": [
+   0.68
+  ]
+ },
+ "Adam Thalhimer": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Niknam": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt Niknam ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Ridley-Lane": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David Ridley-Lane ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

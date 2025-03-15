@@ -1,0 +1,193 @@
+{
+ "date": "2017-03-21 11:00:00",
+ "David Collins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stuart Miller": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   -0.15,
+   0.65,
+   -0.45,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.4,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.8
+  ],
+  "title": "Co-CEO & Executive Chairman"
+ },
+ "Rick Beckwitt": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Co-CEO, Co-President & Director"
+ },
+ "Bruce Gross": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Vice President"
+ },
+ "Carl Reichardt": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alan Ratner": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Jaffe": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.45,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Co-CEO, President & Director"
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Stephen East": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John Lovallo": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Rehaut": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.85,
+   0.75,
+   0.5
+  ]
+ },
+ "Jade Rahmani": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

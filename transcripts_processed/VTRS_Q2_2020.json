@@ -1,0 +1,224 @@
+{
+ "date": "2020-08-07 10:30:00",
+ "Melissa Trombetta": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Heather Bresch": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   -0.15,
+   0.85,
+   -0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.4
+  ]
+ },
+ "Rajiv Malik": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "President & Executive Director"
+ },
+ "Tony Mauro": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.5,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "President of Developed Markets"
+ },
+ "Ken Parks": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Robert Coury": {
+  "avg_sentiment_score": 0.3076923076923077,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   -0.35,
+   0.85,
+   1.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7938461538461539,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.67,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Randall Stanicky": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Elliot Wilbur": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gary Nachman": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jason Gerberry": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Caliendo": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Nathan Rich": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

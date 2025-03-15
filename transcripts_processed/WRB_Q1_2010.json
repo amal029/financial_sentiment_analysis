@@ -1,0 +1,274 @@
+{
+ "date": "2010-04-27 08:30:00",
+ "William Berkley": {
+  "avg_sentiment_score": 0.12413793103448276,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.35,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8724137931034484,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Unidentified Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Rob Berkley": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Eugene Ballard": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Mike Grasher - Piper Jaffray": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Doug McGregor - RBC Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Gene Ballard": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   -0.45
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.75
+  ]
+ },
+ "William Berkley ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Nannizzi - Oppenheimer": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Meyer Shields - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice President of Investments"
+ },
+ "Jay Cohen - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Vinay Misquith - Credit Suisse": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Josh Shanker - Deutsche Bank": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.4
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Larry Greenberg - Langen McAlenney": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Robert Berkley": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Unidentified Company Representative ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

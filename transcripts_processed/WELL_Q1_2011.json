@@ -1,0 +1,303 @@
+{
+ "date": "2011-05-03 10:00:00",
+ "Jeffrey Miller": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "George Chapman": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.05,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.6
+  ],
+  "title": "Senior Advisor, Chairman of Executive Committee, Member of Planning Committee and Member of Investment Committee"
+ },
+ "Scott Estes": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8305555555555555,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Jana Galan - BofA Merrill Lynch": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "James Milam - Sandler O'Neill + Partners, L.P.": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Brinker": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Thomas": {
+  "avg_sentiment_score": 0.63,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.75,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9
+  ],
+  "title": "Executive Vice President of Medical Facilities"
+ },
+ "Richard Anderson - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8450000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   0.67
+  ]
+ },
+ "Karin Ford - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jerry Doctrow - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.015,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9349999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephanie Anderson": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Todd Stender - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Omotayo Okusanya - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Mead - ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

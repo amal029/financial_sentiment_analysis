@@ -1,0 +1,179 @@
+{
+ "date": "2018-09-20 16:30:00",
+ "Farhan Ahmad": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Sanjay Mehrotra": {
+  "avg_sentiment_score": 0.4666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   -0.35,
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.15,
+   0.55,
+   0.65,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8444444444444444,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.85
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Dave Zinsner": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.05,
+   0.0,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.8,
+   0.75,
+   0.9
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Romit Shah": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Tim Arcuri": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Mehdi Hosseini": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "C.J. Muse": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

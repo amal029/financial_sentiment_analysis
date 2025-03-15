@@ -1,0 +1,116 @@
+{
+ "date": "2023-11-02 08:00:00",
+ "Ana Soro": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Taylor": {
+  "avg_sentiment_score": 0.9,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6
+  ]
+ },
+ "Shyam Sankar": {
+  "avg_sentiment_score": 0.5142857142857143,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8428571428571429,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "CTO & Executive VP"
+ },
+ "David Glazer": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.4
+  ]
+ },
+ "Alex Karp": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.5
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.6
+  ]
+ },
+ "A - Ana Soro": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mariana Perez Mora": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

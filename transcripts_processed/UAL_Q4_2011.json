@@ -1,0 +1,430 @@
+{
+ "date": "2012-01-26 10:30:00",
+ "Nene Foxhall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice President of Communications & Government Affairs"
+ },
+ "Tyler Reddian": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffery Smisek": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7125,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "Jim Compton": {
+  "avg_sentiment_score": 0.2416666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   -0.15,
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman and Chief Revenue Officer"
+ },
+ "Zane Rowe": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Jeffery Smisek ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Hunter Keay - Wolfe Trahan": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.9
+  ]
+ },
+ "All right Jim, thanks. No, that is helpful. And Jeff, I\u2019d like to hear your thoughts on labor for a second here. You mentioned the new leadership, obviously United ALPA. Have you had conversations with Captain Hepper (ph) yet and do you feel like any kind of ground was lost with the transaction leadership, any kind of progress you would have made under our (Inaudible) ALPA administration and maybe a brief update on where you stand or the pilots stand on seniority less integration. Thanks. ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jim Compton ": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75
+  ]
+ },
+ "Sure. Yes, I\u2019ve visited with Jay already a couple of times, Jay Heppner (ph). I now have two Jay\u2019s, so I have to distinguish between who is the Jay and I think in terms of progress loss, I think as the former United ALPA leader was sort of winding down, there was a period of time which we obviously couldn\u2019t really make a progress, but now that we have a new leader I think we can. I visited with Jay about this, so he really does have a tremendous opportunity, kind of an inflection point here to be constructive and responsible and to move this process forward and I hope that he will do so. ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "As for other details of the negotiations or the pilots discussions regarding a senior, a single seniored list, I won\u2019t comment on those, I don\u2019t think it\u2019s appropriate at this time. ": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "All right, thanks. ": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Our next question comes form Bill Greene from Morgan Stanley. Please go ahead. ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Greene - Morgan Stanley ": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.45,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Hi there, good morning. Zane, a question on the guidance, the chasm guidance. When you gave it, does it include an assumption about occurring for future labor contracts or is that something that we have to work in later as we get closer to CBA. ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Zane Rowe ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Bill, it includes what we call from our normal GAAP assumption. So it includes what we are assuming today. ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Okay and the Jim or Jeff, when you look back at your time at Continental, when you were dealing with competitor bankruptcies, did you notice that there was any material corporate market share gains or did that not really play a roll in discussion at that time. ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Yes, it really didn\u2019t play. I would say I really never saw significant change I think, particularly over time as the market place I think understands chapter 11 and so forth. So I think what we are seeing on the corporate side is really related to the network and the strength of the network as our sales force gets out there and communicates the value of this new enterprise going forward. So anything that we see, its really we think directly, really related to vast and correspondent to kind of our sales force talking about the value of the new enterprise. ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Michael Linenberg - Deutsche Bank ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Duane Pfennigwerth - Evercore Partners ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Duane Pfennigwerth - Evercore Partners": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Glenn Engel - Bank of America ": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.0,
+   1.0
+  ]
+ },
+ "Jamie Baker - JP Morgan": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Kevin Crissey \u2013 UBS": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Chase - Barclays Capital ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Gary Chase - Barclays Capital": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Josh Freed - Associated Press ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mary Jane Credeur - Bloomberg News": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Ronnie Crocker - Houston Chronicle ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ronnie Crocker - Houston Chronicle": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

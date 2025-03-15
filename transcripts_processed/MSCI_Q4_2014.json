@@ -1,0 +1,138 @@
+{
+ "date": "2015-02-05 11:00:00",
+ "Stephen Davidson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Henry A. Fernandez": {
+  "avg_sentiment_score": 0.19583333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Robert Qutub": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7083333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Georgios Mihalos - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher Shutler - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alex Kramm - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Toni Kaplan - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "William A. Warmington - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ },
+ "Kevin D. McVeigh - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

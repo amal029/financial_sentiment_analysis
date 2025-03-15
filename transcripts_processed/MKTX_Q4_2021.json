@@ -1,0 +1,171 @@
+{
+ "date": "2022-01-26 10:00:00",
+ "Dave Cresci ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rick McVey": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.45,
+   0.05,
+   0.15,
+   0.55,
+   0.65,
+   0.45,
+   0.6,
+   0.45,
+   0.55,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Chris Gerosa": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.45,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Rich Repetto": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "Chris Concannon": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Michael Cyprys": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kyle Voigt": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Patrick O'Shaughnessy": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ }
+}

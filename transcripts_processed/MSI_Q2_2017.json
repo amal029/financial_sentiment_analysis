@@ -1,0 +1,293 @@
+{
+ "date": "2017-08-03 17:00:00",
+ "Chris Kutsor - Motorola Solutions, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory Q. Brown - Motorola Solutions, Inc.": {
+  "avg_sentiment_score": 0.36363636363636365,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.45,
+   -0.15,
+   0.85,
+   0.65,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8409090909090909,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Gino A. Bonanotte - Motorola Solutions, Inc.": {
+  "avg_sentiment_score": 0.121875,
+  "sentiment_score": [
+   0.75,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Matthew Cabral - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Timothy Patrick Long - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.6,
+   0.65
+  ]
+ },
+ "Bruce Brda - Motorola Solutions, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President of Products & Solutions"
+ },
+ "Tavis C. McCourt - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Keith Housum - Northcoast Research Partners LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stanley Kovler - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Rod Hall - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Kyle McNealy - Jefferies LLC": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew C. Spinola - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8624999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ben J. Bollin - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John P. Molloy - Motorola Solutions, Inc.": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive VP & COO"
+ }
+}

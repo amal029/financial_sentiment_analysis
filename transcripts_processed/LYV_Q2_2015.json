@@ -1,0 +1,124 @@
+{
+ "date": "2015-08-10 17:00:00",
+ "Michael Rapino - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.6777777777777777,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.85,
+   0.75,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Joe Berchtold - Chief Operating Officer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.8,
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.75
+  ],
+  "title": "President & CFO"
+ },
+ "Kathy Willard - Chief Financial Officer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Amy Yong - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "David Carl Joyce - Evercore ISI": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.806,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "John Janedis - Jefferies LLC": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Douglas Middleton Arthur - Huber Research Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ]
+ }
+}

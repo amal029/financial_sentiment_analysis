@@ -1,0 +1,313 @@
+{
+ "date": "2017-08-03 17:00:00",
+ "J. Eric Bjornholt - Microchip Technology, Inc.": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Ganesh Moorthy - Microchip Technology, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Steve Sanghi - Microchip Technology, Inc.": {
+  "avg_sentiment_score": 0.3355263157894737,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.35,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   -0.35,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.85,
+   0.45,
+   1.0,
+   0.15,
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7984210526315789,
+  "confidence": [
+   0.8,
+   0.4,
+   0.85,
+   1.0,
+   0.68,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.5,
+   0.9,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.68,
+   0.75,
+   0.68,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.4
+  ],
+  "title": "Executive Chair"
+ },
+ "Vivek Arya - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Mark Delaney - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "John W. Pitzer - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "William Stein - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Caso - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Craig A. Ellis - B. Riley & Co. LLC": {
+  "avg_sentiment_score": 0.27,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Harlan Sur - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.45,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Christopher B. Danely - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Gil Alexandre - Darphil Associates": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Kevin E. Cassidy - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Craig M. Hettenbach - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitchell R. Little - Microchip Technology, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior Vice President of Worldwide Client Engagement"
+ },
+ "Christopher Rolland - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ]
+ }
+}

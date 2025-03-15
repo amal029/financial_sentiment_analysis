@@ -1,0 +1,483 @@
+{
+ "date": "2012-05-15 11:00:00",
+ "Lori A. Walker": {
+  "avg_sentiment_score": 0.07380952380952381,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8119047619047619,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.5,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary E. Hendrickson": {
+  "avg_sentiment_score": 0.2521428571428571,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.85,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   -0.45,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   1.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8495714285714285,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Prashant J. Juvekar \u2013 Citigroup": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Ivan Marcuse \u2013 Keybanc Capital Markets": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Zekauskas \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dmitry Silversteyn \u2013 Longbow Research": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Robert Koort \u2013 Goldman Sachs": {
+  "avg_sentiment_score": -0.041666666666666664,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Saul Ludwig \u2013 Northcoast Research": {
+  "avg_sentiment_score": 0.10625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Don Carson \u2013 Susquehanna Financial Group, LLP": {
+  "avg_sentiment_score": 0.19166666666666668,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Schwartz \u2013 First Analysis": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Steven Schwartz \u2013 First Analysis Corp": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Nils Wallin \u2013 CLSA": {
+  "avg_sentiment_score": 0.15833333333333335,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rosemarie Morbelli \u2013 Gabelli & Company, Inc.": {
+  "avg_sentiment_score": -0.004545454545454544,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9045454545454544,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Mcnulty \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Jeffrey Zekauskas \u2013 JPMorgan ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

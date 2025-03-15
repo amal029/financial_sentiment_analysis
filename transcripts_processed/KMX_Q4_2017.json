@@ -1,0 +1,416 @@
+{
+ "date": "2017-04-06 09:00:00",
+ "Katharine Kenny": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Bill Nash": {
+  "avg_sentiment_score": 0.228,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   -0.45,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.836,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Tom Reedy": {
+  "avg_sentiment_score": 0.05512820512820513,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8358974358974359,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "Matt Fassler": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Sharon Zackfia": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Craig Kennison": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Liz Suzuki": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Montani": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "John Healy": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brett Hoselton": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael Levin": {
+  "avg_sentiment_score": 0.039999999999999994,
+  "sentiment_score": [
+   0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ali Faghri": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "James Albertine": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Bill Armstrong": {
+  "avg_sentiment_score": 0.06,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nic Zangler": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "David Whiston": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   -1.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Bottiglieri": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Bottiglieri": {
+  "avg_sentiment_score": 0.042857142857142864,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Linda Adefioye": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

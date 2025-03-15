@@ -1,0 +1,469 @@
+{
+ "date": "2014-04-23 08:45:00",
+ "Michael Hostutler": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Wick Moorman": {
+  "avg_sentiment_score": 0.22857142857142856,
+  "sentiment_score": [
+   -1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Don Seale": {
+  "avg_sentiment_score": 0.24375000000000002,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.85,
+   0.05,
+   -1.0,
+   -0.45,
+   0.55,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.6,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7765625,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.4,
+   0.4
+  ]
+ },
+ "Mark Manion": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "Marta Stewart": {
+  "avg_sentiment_score": 0.08125000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   -0.35
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   0.8,
+   0.8,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Executive Vice President of Finance"
+ },
+ "Bill Greene - Morgan Stanley": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Allison Landry - Credit Suisse": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   0.67
+  ]
+ },
+ "Scott Group - Wolfe Research": {
+  "avg_sentiment_score": 0.010000000000000004,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.756,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Chris Wetherbee - Citigroup": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Seidl - Cowen and Company": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Kim - Goldman Sachs": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Brandon Oglenski - Barclays": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Justin Long - Stephens": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.8,
+   0.8,
+   0.65
+  ]
+ },
+ "Ken Hoexter - Bank of America": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.724,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Walter Spracklin - RBC Capital Markets": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Larkin - Stifel": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   -0.55,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Salmon - Deutsche Bank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "John Mims - FBR Capital Markets": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Jeff Kauffman - Buckingham Research": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "David Vernon - Sanford Bernstein": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.734,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Keith Schoonmaker - Morningstar": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Cleo Zagrean - Macquarie Group": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.35,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tyler Brown - Raymond James": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.68
+  ]
+ }
+}

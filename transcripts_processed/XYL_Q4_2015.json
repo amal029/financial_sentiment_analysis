@@ -1,0 +1,372 @@
+{
+ "date": "2016-02-04 09:00:00",
+ "Phil De Sousa": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick Decker": {
+  "avg_sentiment_score": 0.24375,
+  "sentiment_score": [
+   0.45,
+   0.75,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   -0.15,
+   1.0,
+   0.0,
+   0.05,
+   -0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8650000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.6
+  ]
+ },
+ "Shashank Patel": {
+  "avg_sentiment_score": 0.13863636363636364,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.85,
+   -0.35,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8295454545454546,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Interim Chief Financial Officer, Chief Financial Officer for Applied Water Systems Division and Vice President of Finance for Applied Water Systems Division"
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.68,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Rose": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Connors": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   0.67,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Chip Moore": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brent Thielman": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Konigsberg": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Nicholas Prendergast": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Giordano": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8366666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Ryan Cassil": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Barry": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

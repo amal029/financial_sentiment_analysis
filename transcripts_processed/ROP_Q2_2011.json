@@ -1,0 +1,209 @@
+{
+ "date": "2011-07-25 08:30:00",
+ "John Humphrey": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.45,
+   0.75,
+   0.15,
+   0.05,
+   0.85,
+   0.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7374999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "B. Jellison": {
+  "avg_sentiment_score": 0.44749999999999995,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.85,
+   0.0,
+   0.65,
+   0.35,
+   0.55,
+   0.15,
+   0.45,
+   -0.15,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.8,
+   0.9,
+   0.8,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   0.5,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman of the Board, Chief Executive Officer and President"
+ },
+ "Jeffrey Sprague - Citigroup": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Deane Dray - Citigroup Inc": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Alexander Blanton - Clear Harbor Asset Management, LLC": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "D. Mark Douglass - Longbow Research LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Christopher Glynn - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Terry Darling - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Richard Eastman - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Matt Summerville - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Wendy Caplan - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

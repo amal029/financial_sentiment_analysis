@@ -1,0 +1,206 @@
+{
+ "date": "2023-07-31 17:00:00",
+ "Genevieve Cunningham": {
+  "avg_sentiment_score": 0.005555555555555556,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9555555555555555,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bernie Blegen": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   -0.35,
+   0.65,
+   -0.15,
+   0.45,
+   -0.35,
+   1.0,
+   0.0,
+   0.65,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "A - Genevieve Cunningham": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ross Seymore": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Michael Hsing": {
+  "avg_sentiment_score": 0.13571428571428573,
+  "sentiment_score": [
+   1.0,
+   -1.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.6,
+   0.6,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Founder, Chairman, President & CEO"
+ },
+ "Quinn Bolton": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Rick Schafer": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Jeremy Kwan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "William Stein": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Matt Ramsay": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7575000000000001,
+  "confidence": [
+   0.68,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Caso": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

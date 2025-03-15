@@ -1,0 +1,227 @@
+{
+ "date": "2012-10-30 08:00:00",
+ "Maria Duey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Wadhams": {
+  "avg_sentiment_score": 0.28800000000000003,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   -0.35,
+   0.05,
+   0.65,
+   0.0,
+   -1.0,
+   0.55,
+   0.05,
+   0.05,
+   0.0,
+   -0.15,
+   0.15,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.728,
+  "confidence": [
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.4
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "John G. Sznewajs": {
+  "avg_sentiment_score": 0.21764705882352942,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8205882352941176,
+  "confidence": [
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "VP & CFO"
+ },
+ "Peter Lisnic - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Keith B. Hughes - SunTrust Robinson Humphrey, Inc., Research Division": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Robert C. Wetenhall - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Stephen F. East - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David S. MacGregor - Longbow Research LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Sam Darkatsh - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Rudiger - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Kenneth R. Zener - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

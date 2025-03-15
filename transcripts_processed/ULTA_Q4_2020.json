@@ -1,0 +1,217 @@
+{
+ "date": "2021-03-11 17:00:00",
+ "Kiley Rawlins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Mary Dillon": {
+  "avg_sentiment_score": 0.38571428571428573,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.05,
+   1.0,
+   -0.15,
+   -0.35,
+   0.85
+  ],
+  "avg_confidence": 0.7671428571428571,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   0.67,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Executive Chair of Board"
+ },
+ "David Kimbell": {
+  "avg_sentiment_score": 0.645,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.55,
+   0.65,
+   0.55,
+   1.0,
+   0.65,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7969999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.67,
+   0.85,
+   0.9,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Scott Settersten": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   -0.15,
+   0.65,
+   0.65,
+   0.35,
+   0.05,
+   -0.15
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Katharine McShane": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Omar Saad": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Kelly Crago": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Stephanie Schiller Wissink": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Paul Trussell": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Michael Binetti": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Steven Forbes": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Irwin Boruchow": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

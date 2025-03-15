@@ -1,0 +1,243 @@
+{
+ "date": "2021-08-31 08:30:00",
+ "Lara Mahoney": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Sundaram Nagarajan": {
+  "avg_sentiment_score": 0.418,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.0,
+   0.75,
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.846,
+  "confidence": [
+   0.9,
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Joseph P. Kelley": {
+  "avg_sentiment_score": 0.41250000000000003,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   -0.15,
+   -0.15,
+   0.45,
+   0.45,
+   0.65,
+   0.55,
+   1.0,
+   -0.15,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7291666666666666,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Executive VP of Industrial Precision Solutions Leader"
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Connor Lynagh": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeffrey Hammond": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Halloran": {
+  "avg_sentiment_score": 0.27142857142857146,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   -0.15,
+   0.0,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   0.68
+  ]
+ },
+ "Christopher Glynn": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7779999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.69
+  ]
+ },
+ "Andrew Buscaglia": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Walter Liptak": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

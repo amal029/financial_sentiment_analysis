@@ -1,0 +1,264 @@
+{
+ "date": "2018-10-25 08:30:00",
+ "Dennis Lange - Stanley Black & Decker, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "James M. Loree - Stanley Black & Decker, Inc.": {
+  "avg_sentiment_score": 0.21944444444444444,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Donald Allan, Jr. - Stanley Black & Decker, Inc.": {
+  "avg_sentiment_score": 0.20625000000000002,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.834375,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.4,
+   0.75,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Jeffery D. Ansell - Stanley Black & Decker, Inc.": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "Executive Vice President"
+ },
+ "Jeffrey Todd Sprague - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Julian Mitchell - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Richard M. Kwas - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Steven Winoker - UBS Securities LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   1.0,
+   -0.15
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.67,
+   0.6
+  ]
+ },
+ "Joshua Charles Pokrzywinski - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Jason Rehaut - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Nigel Coe - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.67,
+   0.75
+  ]
+ },
+ "Timothy Ronald Wojs - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.0,
+   0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Dennis Patrick McGill - Zelman Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Rob Wertheimer - Melius Research LLC": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

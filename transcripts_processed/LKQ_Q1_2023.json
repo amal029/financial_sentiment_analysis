@@ -1,0 +1,155 @@
+{
+ "date": "2023-04-27 16:00:00",
+ "Joe Boutross": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nick Zarcone": {
+  "avg_sentiment_score": 0.39333333333333337,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.15,
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.8480000000000001,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.67,
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Rick Galloway": {
+  "avg_sentiment_score": 0.6357142857142858,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Daniel Imbro": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Bret Jordan": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Butler": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Scott Stember": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Craig Kennison": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

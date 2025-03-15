@@ -1,0 +1,253 @@
+{
+ "date": "2011-02-11 17:00:00",
+ "Edward Lang": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5900000000000001,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Donald Slager": {
+  "avg_sentiment_score": 0.35434782608695653,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7065217391304348,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.8
+  ],
+  "title": "Consultant"
+ },
+ "Tod Holmes": {
+  "avg_sentiment_score": 0.03636363636363637,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   -1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   -0.15,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7022727272727273,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75,
+   0.8,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Hamzah Mazari": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.8
+  ]
+ },
+ "Scott Levine": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Jonathan Ellis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Albert Kaschalk": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Corey Greendale": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "William Fisher": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vance Edelson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Hoffman": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6888888888888889,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.8,
+   1.0
+  ]
+ }
+}

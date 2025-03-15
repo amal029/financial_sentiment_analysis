@@ -1,0 +1,256 @@
+{
+ "date": "2021-11-18 16:30:00",
+ "Justin Furby": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Aneel Bhusri": {
+  "avg_sentiment_score": 0.4785714285714286,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   1.0
+  ],
+  "title": "Co-Founder & Executive Chairman of the Board"
+ },
+ "Chano Fernandez": {
+  "avg_sentiment_score": 0.66875,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.85,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.85
+  ]
+ },
+ "Robynne Sisco": {
+  "avg_sentiment_score": 0.56,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.85,
+   0.55,
+   0.55,
+   0.55,
+   0.65,
+   -0.15,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "Kirk Materne": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Kash Regan": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Mark Murphy": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brad Sills": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Pete Schlampp": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Dj Hynes": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Michael Turits": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brad Reback": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Brent Bracelin": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Brent Thill": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Karl Keirstead": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Derrick Wood": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

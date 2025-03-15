@@ -1,0 +1,246 @@
+{
+ "date": "2015-02-12 08:00:00",
+ "Edward A. Spehar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steven A. Kandarian": {
+  "avg_sentiment_score": 0.11875,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.93125,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "John C. R. Hele": {
+  "avg_sentiment_score": 0.08571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7321428571428571,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.6
+  ],
+  "title": "CFO and Executive Vice President"
+ },
+ "Ryan Krueger": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Thomas Gallagher": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Jeffrey Goulart": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Suneet Kamath": {
+  "avg_sentiment_score": -0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Erik Bass": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6174999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Jimmy Bhullar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "William J. Wheeler": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   1.0,
+   0.85
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.9
+  ],
+  "title": "President of Americas"
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Dally": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Weiss": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Eric Berg": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

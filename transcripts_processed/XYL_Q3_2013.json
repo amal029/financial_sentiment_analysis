@@ -1,0 +1,203 @@
+{
+ "date": "2013-10-29 09:00:00",
+ "Phil De Sousa": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Steven R. Loranger": {
+  "avg_sentiment_score": 0.41428571428571426,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   0.65,
+   -0.15,
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7535714285714287,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director and Member of Nominating and Governance Committee"
+ },
+ "Michael T. Speetzen": {
+  "avg_sentiment_score": 0.2535714285714286,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.55,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.0,
+   0.55,
+   -0.35,
+   -0.45,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.736,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.68
+  ]
+ },
+ "Matt J. Summerville - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Scott R. Davis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.15,
+   -0.55
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Brian Konigsberg - Vertical Research Partners, LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Kevin R. Maczka - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Chip Moore - Canaccord Genuity, Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David L. Rose - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85
+  ]
+ },
+ "James Krapfel - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stewart Scharf - S&P Capital IQ Equity Research": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

@@ -1,0 +1,382 @@
+{
+ "date": "2018-10-18 09:00:00",
+ "Unidentified Company Representative": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Martin Flanagan": {
+  "avg_sentiment_score": 0.42083333333333334,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   -0.15,
+   0.85,
+   0.35,
+   0.35,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.55,
+   0.15,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   1.0,
+   0.5,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.75,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8297222222222222,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Loren Starr": {
+  "avg_sentiment_score": 0.15454545454545454,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.85,
+   0.05,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.6,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   -0.45,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7977272727272727,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6,
+   0.9,
+   0.6,
+   0.85,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Senior MD & Chief Executive Officer, Asia Pacific"
+ },
+ "William Katz": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Robert Lee": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6066666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   0.67
+  ]
+ },
+ "Ken Worthington": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Dan Fannon": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Cyprys": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Michael Carrier": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Kenneth Lee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Shutler": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6839999999999999,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeremy Campbell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.24000000000000005,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick Davitt": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Harrison": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Greggory Warren": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,243 @@
+{
+ "date": "2022-04-26 10:00:00",
+ "Steve Filton": {
+  "avg_sentiment_score": -0.02241379310344827,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   0.0,
+   -0.35,
+   -0.35,
+   -0.35,
+   -0.45,
+   0.45,
+   0.05,
+   -0.35,
+   0.45,
+   0.45,
+   0.65,
+   -0.45,
+   -0.15,
+   -0.45,
+   0.45,
+   0.15,
+   -0.45,
+   -0.45,
+   0.55,
+   -0.15,
+   -0.45,
+   -0.35,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7551724137931034,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Secretary"
+ },
+ "Marc Miller": {
+  "avg_sentiment_score": 0.31666666666666665,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   -0.35
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.9,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Marco Criscuolo": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Benjamin Rossi": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andrew Mok": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Justin Lake": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Stephen Baxter": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason Cassorla": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Pito Chickering": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Ann Hynes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Sarah James": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Albert Rice": {
+  "avg_sentiment_score": -0.04999999999999999,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Jamie Perse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joanna Gajuk": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.45,
+   0.6,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Benjamin Mayo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   0.67,
+   1.0
+  ]
+ }
+}

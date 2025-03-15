@@ -1,0 +1,225 @@
+{
+ "date": "2012-07-31 08:30:00",
+ "Craig Felenstein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "David M. Zaslav": {
+  "avg_sentiment_score": 0.5684210526315789,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.15,
+   0.65,
+   0.45,
+   0.85,
+   0.55,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.15,
+   0.0,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.8105263157894737,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Andrew C. Warren": {
+  "avg_sentiment_score": 0.38846153846153847,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.15,
+   0.0,
+   0.45,
+   0.85,
+   0.6,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7153846153846154,
+  "confidence": [
+   0.4,
+   0.8,
+   0.6,
+   0.4,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Senior Executive Vice President"
+ },
+ "Douglas D. Mitchelson - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Benjamin Swinburne - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "David Bank - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Janedis - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Todd Juenger - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jessica Reif Cohen - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael Nathanson - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Anthony J. DiClemente - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ]
+ },
+ "Tuna N. Amobi - S&P Equity Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Barton E. Crockett - Lazard Capital Markets LLC, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ }
+}

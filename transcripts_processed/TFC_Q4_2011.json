@@ -1,0 +1,288 @@
+{
+ "date": "2012-01-19 08:00:00",
+ "Tamera Gjesdal": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Kelly S. King": {
+  "avg_sentiment_score": 0.45769230769230773,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.55,
+   0.05,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.7615384615384616,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Director"
+ },
+ "Clarke R. Starnes": {
+  "avg_sentiment_score": 0.3678571428571429,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.35,
+   0.45,
+   -0.35,
+   0.45,
+   0.55,
+   0.65,
+   0.6,
+   0.55,
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.8,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Daryl N. Bible": {
+  "avg_sentiment_score": 0.185,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Brian Foran - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.6,
+   0.8
+  ]
+ },
+ "Todd L. Hagerman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Joshua Rogers - ISI Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory W. Ketron - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4
+  ]
+ },
+ "Gerard S. Cassidy - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John G. Pancari - Evercore Partners Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Leanne Erika Penala - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Robert S. Patten - Morgan Keegan & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Fitzsimmons - Sandler O'Neill + Partners, L.P., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.18000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.0,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.85
+  ]
+ },
+ "Christopher W. Marinac - FIG Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Rose - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Lana Chan - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

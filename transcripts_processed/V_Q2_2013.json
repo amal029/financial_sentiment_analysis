@@ -1,0 +1,252 @@
+{
+ "date": "2013-05-01 17:00:00",
+ "Jack Carsky": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Byron H. Pollitt": {
+  "avg_sentiment_score": 0.37083333333333335,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   -0.45,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Charles W. Scharf": {
+  "avg_sentiment_score": 0.3047619047619048,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.85,
+   0.0,
+   0.15,
+   0.45,
+   -0.15,
+   0.15,
+   0.85,
+   0.45,
+   0.15,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.6,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Moshe Orenbuch - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Craig Maurer - CLSA": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill Carache - Nomura": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sanjay Sakhrani - Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason Kupferberg - Jefferies & Co.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Friedman - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Rod Bourgeois - Sanford C. Bernstein & Co.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tien-Tsin Huang - J.P. Morgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robert Napoli - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Julio Contreras - Goldman Sachs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Darrin Peller - Barclays Capital Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Togut - Evercore Partners Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Glenn Fodor - Autonomous Research": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Bryan Keane - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Williams - UBS": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75
+  ]
+ }
+}

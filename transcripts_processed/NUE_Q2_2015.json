@@ -1,0 +1,321 @@
+{
+ "date": "2015-07-23 14:00:00",
+ "John J. Ferriola - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.20813953488372094,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.55,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.45,
+   -0.35,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8425581395348837,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.9,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "James D. Frias - Chief Financial Officer, Treasurer & Executive VP": {
+  "avg_sentiment_score": 0.24285714285714285,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.4,
+   1.0
+  ],
+  "title": "Executive VP & Special Advisor to the CEO"
+ },
+ "Luke Folta - Jefferies LLC": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Evan L. Kurtz - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Murphy - UBS Securities Canada, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Raymond S. Napolitan - Executive Vice President": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Timna Beth Tanners - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael F. Gambardella - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.045454545454545456,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -1.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8863636363636364,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Gagliano - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Philip N. Gibbs - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.53,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.784,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Brian Hsien Yu - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Lane - Morningstar Research": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Scott Nicholls - Bishop Rosen & Co": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew J. Korn - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

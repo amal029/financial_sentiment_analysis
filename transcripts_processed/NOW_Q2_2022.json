@@ -1,0 +1,299 @@
+{
+ "date": "2022-07-27 17:00:00",
+ "Darren Yip": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill McDermott": {
+  "avg_sentiment_score": 0.6796296296296297,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.0,
+   0.75,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.65,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8318518518518518,
+  "confidence": [
+   0.9,
+   0.9,
+   0.65,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.67,
+   0.9,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   0.9,
+   0.67,
+   0.9,
+   0.4,
+   0.9,
+   0.68,
+   0.85,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Gina Mastantuono": {
+  "avg_sentiment_score": 0.6642857142857143,
+  "sentiment_score": [
+   0.65,
+   0.6,
+   1.0,
+   0.85,
+   0.55,
+   1.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0,
+   0.15,
+   0.55,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8152380952380953,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.65,
+   0.4,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.8,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Kash Rangan": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Tyler Radke": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.6,
+   0.65
+  ]
+ },
+ "Phil Winslow": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Turrin": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.55,
+   0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Bachman": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alex Zukin": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brad Sills": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Derrick Wood ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Q \u2013 Derrick Wood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Pat Walravens": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ }
+}

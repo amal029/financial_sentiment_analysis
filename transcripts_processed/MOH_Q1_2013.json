@@ -1,0 +1,388 @@
+{
+ "date": "2013-04-25 17:00:00",
+ "Juan Jose Orellana": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Joseph Mario Molina": {
+  "avg_sentiment_score": 0.1673913043478261,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8652173913043477,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman of the Board, Chief Executive Officer and President"
+ },
+ "John C. Molina": {
+  "avg_sentiment_score": 0.06944444444444445,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Terry P. Bayer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joshua R. Raskin - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9142857142857144,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Joseph W. White": {
+  "avg_sentiment_score": -0.006666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Sarah James - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Peter Heinz Costa - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.05000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Scott J. Fidel - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Carl R. McDonald - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Michael J. Baker - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin M. Fischbeck - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8772727272727273,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unknown Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David H. Windley - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Borsch - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Christian Rigg - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.03125,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Thomas A. Carroll - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

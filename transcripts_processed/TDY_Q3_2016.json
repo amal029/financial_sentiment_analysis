@@ -1,0 +1,106 @@
+{
+ "date": "2016-11-06 10:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.8,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.3961538461538462,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.75,
+   0.45,
+   0.55,
+   0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8346153846153845,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Sue Main": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Mark Jordan": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Jim Ricchiuti": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Greg Konrad": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

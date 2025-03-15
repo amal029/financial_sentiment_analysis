@@ -1,0 +1,271 @@
+{
+ "date": "2014-11-19 09:00:00",
+ "Robert Niblock": {
+  "avg_sentiment_score": 0.378125,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.834375,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.4,
+   0.8
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Michael Jones": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Customer Officer"
+ },
+ "Robert Hull": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.05,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   1.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6533333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.4,
+   0.75,
+   0.6,
+   0.8
+  ]
+ },
+ "Daniel Binder": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "David Strasser": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Laura Champine": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "David Vargas": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Baker": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Aram Rubinson": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

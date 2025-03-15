@@ -1,0 +1,314 @@
+{
+ "date": "2019-11-20 23:15:00",
+ "Barbara Rentler": {
+  "avg_sentiment_score": 0.5321428571428571,
+  "sentiment_score": [
+   0.75,
+   0.05,
+   0.45,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   1.0,
+   0.85,
+   0.15,
+   0.65,
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7214285714285714,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.9,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Vice Chairman & CEO"
+ },
+ "Travis Marquette": {
+  "avg_sentiment_score": 0.21071428571428572,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.5,
+   1.0,
+   0.75
+  ],
+  "title": "Group Senior VP & CFO"
+ },
+ "Matthew Boss": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Hartshorn": {
+  "avg_sentiment_score": 0.19642857142857142,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   0.05,
+   -0.35,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Group President, COO & Director"
+ },
+ "Mark Altschwager": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Lorraine Maikis": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kimberly Greenberger": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Alexandra Walvis": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Binetti": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Paul Trussell": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kate Fitzsimons": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Daniel Hofkin": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Adrienne Yih-Tennant": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Baker": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Kernan": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Irwin Boruchow": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Marni Shapiro": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert Drbul": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Laura Champine": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

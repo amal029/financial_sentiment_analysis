@@ -1,0 +1,177 @@
+{
+ "date": "2015-10-21 16:30:00",
+ "Daniel Briggs": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Sheldon Adelson": {
+  "avg_sentiment_score": 0.34545454545454546,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   -1.0,
+   0.55
+  ],
+  "avg_confidence": 0.9018181818181819,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   0.67,
+   0.75
+  ],
+  "title": "Chairman, CEO & Treasurer"
+ },
+ "Joe Greff": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Rob Goldstein": {
+  "avg_sentiment_score": 0.18157894736842103,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   -0.35,
+   -0.35,
+   -0.35,
+   -0.45,
+   0.35,
+   0.0,
+   -0.45,
+   0.45,
+   0.65,
+   -0.45,
+   0.85,
+   0.0,
+   0.15,
+   -0.45,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8210526315789474,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman, CEO & Treasurer"
+ },
+ "Felicia Hendrix": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Jon Oh": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Thomas Allen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Carlo Santarelli": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

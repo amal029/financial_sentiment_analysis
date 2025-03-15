@@ -1,0 +1,203 @@
+{
+ "date": "2016-02-10 09:00:00",
+ "Aida Sukys": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John Haley": {
+  "avg_sentiment_score": 0.4555555555555555,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Dominic Casserley": {
+  "avg_sentiment_score": 0.44375,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.64375,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.85,
+   0.8,
+   0.9,
+   0.4,
+   0.6
+  ],
+  "title": "President, Deputy Chief Executive Officer, Executive Director and Member of Executive Committee"
+ },
+ "John Greene": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Group Chief Financial Officer"
+ },
+ "Roger Millay": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.6,
+   0.05,
+   0.15,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kai Pan": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Mark Marcon": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6
+  ]
+ },
+ "Daniel Farrell": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Charles Peters": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Adam Klauber": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Parrington": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Joshua Shanker": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,320 @@
+{
+ "date": "2017-07-26 16:30:00",
+ "Daniel J. Briggs - Las Vegas Sands Corp.": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.5,
+   0.9
+  ]
+ },
+ "Sheldon G. Adelson - Las Vegas Sands Corp.": {
+  "avg_sentiment_score": 0.07894736842105263,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9605263157894737,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0
+  ],
+  "title": "Chairman, CEO & Treasurer"
+ },
+ "Thomas G. Allen - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert G. Goldstein - Las Vegas Sands Corp.": {
+  "avg_sentiment_score": 0.35909090909090907,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8506060606060606,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman, CEO & Treasurer"
+ },
+ "Joseph R. Greff - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Felicia Hendrix - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick Dumont - Las Vegas Sands Corp.": {
+  "avg_sentiment_score": 0.234375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.6,
+   -0.15,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "President, COO & Director"
+ },
+ "Shaun C. Kelley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Robin M. Farley - UBS Securities LLC": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Harry Curtis - Nomura Instinet": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Grambling - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8116666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Carlo Santarelli - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

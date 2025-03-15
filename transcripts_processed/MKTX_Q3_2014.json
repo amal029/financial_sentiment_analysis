@@ -1,0 +1,253 @@
+{
+ "date": "2014-10-22 10:00:00",
+ "Dave Cresci": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Rick McVey": {
+  "avg_sentiment_score": 0.37916666666666665,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   -0.35,
+   0.55,
+   0.45,
+   0.45,
+   0.75,
+   0.0,
+   -0.35,
+   0.45,
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8208333333333333,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8
+  ],
+  "title": "Founder & Executive Chairman"
+ },
+ "Tony DeLise": {
+  "avg_sentiment_score": 0.08666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.05,
+   0.0,
+   0.55,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Global Head of Corporate Development"
+ },
+ "Mike Adams - Sandler O\u2019Neill": {
+  "avg_sentiment_score": 0.09090909090909091,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.05,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8818181818181817,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Niamh Alexander - KBW": {
+  "avg_sentiment_score": 0.44166666666666665,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick O\u2019Shaughnessy - Raymond James": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.858,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.69
+  ]
+ },
+ "Jillian Miller - BMO Capital Markets": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Ashley Serrao - Credit Suisse": {
+  "avg_sentiment_score": 0.024999999999999994,
+  "sentiment_score": [
+   -0.45,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Michael Wong - Morningstar": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

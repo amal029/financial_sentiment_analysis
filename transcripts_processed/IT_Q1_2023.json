@@ -1,0 +1,206 @@
+{
+ "date": "2023-05-02 10:00:00",
+ "David Cohen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gene Hall": {
+  "avg_sentiment_score": 0.41250000000000003,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.85,
+   0.05,
+   0.05,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Craig Safian": {
+  "avg_sentiment_score": 0.24545454545454548,
+  "sentiment_score": [
+   0.75,
+   0.15,
+   0.45,
+   0.65,
+   -0.15,
+   0.15,
+   0.05,
+   -0.15,
+   0.65,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Jeffrey Meuler": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Heather Balsky": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Weber": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Nicholas": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Jeff Silber": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephanie Moore": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

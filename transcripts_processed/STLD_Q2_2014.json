@@ -1,0 +1,442 @@
+{
+ "date": "2014-07-22 10:00:00",
+ "Marlene Owen - Director, Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Mark Millett - President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.9,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.9,
+   0.9,
+   0.4
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa Wagler - Executive Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Luke Folta - Jefferies": {
+  "avg_sentiment_score": 0.14375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Millett": {
+  "avg_sentiment_score": 0.3222222222222222,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.825925925925926,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Graham": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   0.8
+  ],
+  "title": "Senior Vice President of Flat Roll Steel Group"
+ },
+ "Theresa Wagler": {
+  "avg_sentiment_score": 0.053125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.921875,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Levy - Jefferies": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Dick Teets": {
+  "avg_sentiment_score": 0.4444444444444444,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.15,
+   1.0,
+   1.0,
+   0.35,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Millet": {
+  "avg_sentiment_score": 0.3205882352941177,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8247058823529412,
+  "confidence": [
+   0.4,
+   0.85,
+   0.8,
+   0.4,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matt Murphy - UBS": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Tony Rizzuto - Cowen and Company": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7428571428571429,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Timna Tanners - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Evan Kurtz - Morgan Stanley": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Gambardella - JPMorgan": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Sal Tharani - Goldman Sachs": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Andrew Lane - Morningstar Inc.": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Phil Gibbs - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8571428571428571,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Nathan Littlewood - Credit Suisse": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.67
+  ]
+ }
+}

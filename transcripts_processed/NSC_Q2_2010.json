@@ -1,0 +1,396 @@
+{
+ "date": "2010-07-27 16:30:00",
+ "Leanne Marilley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Charles Moorman": {
+  "avg_sentiment_score": 0.31923076923076926,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8769230769230769,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6
+  ]
+ },
+ "Donald Seale": {
+  "avg_sentiment_score": 0.4348484848484848,
+  "sentiment_score": [
+   1.0,
+   0.75,
+   0.45,
+   1.0,
+   1.0,
+   0.55,
+   0.45,
+   1.0,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.05,
+   0.45,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.753030303030303,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.8,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Marketing Officer and Executive Vice President"
+ },
+ "Mark Manion": {
+  "avg_sentiment_score": 0.6125,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.45,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.5875,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.4
+  ],
+  "title": "Chief Operating Officer and Executive Vice President"
+ },
+ "James Squires": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Walter Spracklin - RBC Capital Markets Corporation": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Jason Seidl - Dahlman Rose & Company, LLC": {
+  "avg_sentiment_score": 0.10833333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7416666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.8
+  ]
+ },
+ "Bill Greene - Morgan Stanley": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Christian Wetherbee - Merrill Lynch.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Thomas Wadewitz - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Garrett Chase - Barclays Capital": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Ceraso - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Cherilyn Radbourne - TD Newcrest Capital Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Scott Group - Wolfe Research": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Salmon": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Malat - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Flower - Macquarie Research": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "John Larkin - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.8
+  ]
+ },
+ "Jeffrey Kauffman - Sterne Agee & Leach Inc.": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

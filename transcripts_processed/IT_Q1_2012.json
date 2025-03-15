@@ -1,0 +1,201 @@
+{
+ "date": "2012-05-03 08:30:00",
+ "Brian Shipman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Eugene Hall": {
+  "avg_sentiment_score": 0.5444444444444445,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.85,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.6777777777777777,
+  "confidence": [
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   0.9,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "CEO & Director"
+ },
+ "Christopher Lafond": {
+  "avg_sentiment_score": 0.4583333333333333,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.45,
+   0.75,
+   0.65,
+   1.0,
+   0.55,
+   0.45,
+   0.45,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7749999999999999,
+  "confidence": [
+   0.8,
+   0.9,
+   0.8,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Officer"
+ },
+ "Peter Appert \u2013 Piper Jaffray": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "William Bird \u2013 Lazard": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Robert Riggs \u2013 William Blair": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Manav Patnaik \u2013 Barclays": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8859999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Kelly Flynn \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Dan Leben \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Karimzad \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

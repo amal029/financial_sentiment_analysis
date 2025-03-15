@@ -1,0 +1,157 @@
+{
+ "date": "2022-10-19 08:00:00",
+ "Ed Ditmire": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Adena Friedman": {
+  "avg_sentiment_score": 0.3607142857142857,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.75,
+   0.0,
+   0.05,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7321428571428571,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.5,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.5,
+   0.6
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Ann Dennison": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Richard Repetto": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Gautam Sawant": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Bedell": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Craig Siegenthaler": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Cho": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Daniel Fannon": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Blostein": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Owen Lau": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Andrew Bond": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

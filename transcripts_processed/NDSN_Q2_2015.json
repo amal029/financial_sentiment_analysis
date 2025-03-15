@@ -1,0 +1,216 @@
+{
+ "date": "2015-05-20 08:30:00",
+ "James R. Jaye": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Michael F. Hilton": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Gregory A. Thaxton": {
+  "avg_sentiment_score": 0.33125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85625,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.8,
+   1.0
+  ]
+ },
+ "Liam D. Burke": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   0.68
+  ]
+ },
+ "John E. Franzreb": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9118181818181817,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Allison A. Poliniak-Cusic": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Joe K. Radigan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jason M. Ursaner": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.65
+  ]
+ }
+}

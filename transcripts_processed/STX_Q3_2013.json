@@ -1,0 +1,253 @@
+{
+ "date": "2013-05-01 17:00:00",
+ "Kate Scolnick": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stephen Luczo": {
+  "avg_sentiment_score": 0.28055555555555556,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   -0.15,
+   -0.15,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "Ananda Baruah - Brean Murray": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Mosley": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Joe Wittine - Longbow Research": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.9
+  ]
+ },
+ "Rocky Pimentel": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "Richard Kugele - Needham & Company": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Jason Nolan - Robert Baird": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Rob Cihra - Evercore Partners": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Aaron Rakers - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Pat O'Malley": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Sherri Scribner - Deutsche Bank": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick Connolly": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Nehal Chokshi - Technology Insights Research": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Bachman Bank - Montreal": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.4
+  ]
+ }
+}

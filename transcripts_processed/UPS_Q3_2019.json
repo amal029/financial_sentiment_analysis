@@ -1,0 +1,282 @@
+{
+ "date": "2019-10-22 08:30:00",
+ "Scott Childress": {
+  "avg_sentiment_score": 0.16153846153846155,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8076923076923077,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "David Abney": {
+  "avg_sentiment_score": 0.6208333333333333,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8458333333333333,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Jim Barber": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Richard Peretz": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.9099999999999999,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Senior Vice President and Treasurer"
+ },
+ "Brian Newman": {
+  "avg_sentiment_score": 0.6599999999999999,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.4,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Kate Gutmann": {
+  "avg_sentiment_score": 0.82,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.9,
+   0.9,
+   0.4,
+   0.9,
+   0.75
+  ]
+ },
+ "Juan Perez": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Price": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jack Atkins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Scott Schneeberger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Ross": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

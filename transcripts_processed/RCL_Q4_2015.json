@@ -1,0 +1,230 @@
+{
+ "date": "2016-02-02 10:00:00",
+ "Jason T. Liberty - Chief Financial Officer": {
+  "avg_sentiment_score": 0.276,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.15,
+   0.55,
+   0.55,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8220000000000001,
+  "confidence": [
+   0.8,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Richard D. Fain - Chairman & Chief Executive Officer": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.9,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   0.65,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Tim A. Conder - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.5,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael W. Bayley - President & Chief Executive Officer, Royal Caribbean International": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.8,
+   0.85,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "President & CEO of Royal Caribbean International"
+ },
+ "Felicia Hendrix - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.55,
+   -1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76125,
+  "confidence": [
+   0.75,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Steven Wieczynski - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Harry C. Curtis - Nomura Securities International, Inc.": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jamie Rollo - Morgan Stanley & Co. International Plc": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Eric Kent - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.0,
+   -0.4,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Robin M. Farley - UBS Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

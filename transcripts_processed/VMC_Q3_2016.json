@@ -1,0 +1,275 @@
+{
+ "date": "2016-11-02 10:00:00",
+ "Mark D. Warren - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "J. Thomas Hill - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.40967741935483876,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   -0.35,
+   0.65,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.8238709677419355,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.67,
+   0.67,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.4
+  ],
+  "title": "CEO & Chairman"
+ },
+ "John R. McPherson - Vulcan Materials Co.": {
+  "avg_sentiment_score": 0.20535714285714285,
+  "sentiment_score": [
+   0.85,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.5,
+   0.55,
+   0.75,
+   -0.45,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial & Strategy Officer and Executive Vice President"
+ },
+ "Kathryn Ingram Thompson - Thompson Research Group LLC": {
+  "avg_sentiment_score": 0.32142857142857145,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8242857142857142,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Trey H. Grooms - Stephens, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.787,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Stanley Elliott - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.41,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Timna Beth Tanners - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9349999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Garik S. Shmois - Longbow Research LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

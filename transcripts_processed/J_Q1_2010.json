@@ -1,0 +1,489 @@
+{
+ "date": "2010-01-26 11:00:00",
+ "Patty Bruner": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "John W. Prosser Jr.": {
+  "avg_sentiment_score": 0.059375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   -0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.790625,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig L. Martin": {
+  "avg_sentiment_score": 0.11693548387096774,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.55,
+   -0.35,
+   0.45,
+   0.0,
+   0.85,
+   -0.15,
+   0.55,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   -1.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8341935483870968,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.9,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.5,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Andrea Wirth - Robert Baird": {
+  "avg_sentiment_score": 0.06000000000000001,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Dudas - Jefferies": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Gregory J. Landry": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ],
+  "title": "Executive Vice President of Operations"
+ },
+ "Operation": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tahira Afzal - KeyBanc": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Scott Levine - JP Morgan": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz - Barclays Capital": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew F. Kremer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steven Fisher - UBS": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs": {
+  "avg_sentiment_score": 0.18571428571428572,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Jamie Cook \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Rogers \u2013 D.A. Davidson": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Spittel - Pritchard Capital Partners": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Avram Fisher - BMO Capital Markets": {
+  "avg_sentiment_score": 0.15384615384615385,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8053846153846155,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.8,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Will Gabrielski - Broadpoint": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Yuschak - Madison Williams": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chase Jacobsen - Sterne Agee": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

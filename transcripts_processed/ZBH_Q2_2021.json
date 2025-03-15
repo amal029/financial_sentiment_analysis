@@ -1,0 +1,177 @@
+{
+ "date": "2021-08-03 08:30:00",
+ "Keri Mattox": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bryan Hanson": {
+  "avg_sentiment_score": 0.51875,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.05,
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.85,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.809375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Suky Upadhyay ": {
+  "avg_sentiment_score": 0.76,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.9
+  ],
+  "title": "CFO and Executive VP of Finance, Operations & Supply Chain"
+ },
+ "Josh Jennings": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Anthony Petrone": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Steven Lichtman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Pasquale": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matt Miksic": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Rick Wise": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew O\u2019Brien": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

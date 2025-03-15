@@ -1,0 +1,193 @@
+{
+ "date": "2013-10-24 11:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.46296296296296297,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.05,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   0.55,
+   0.55,
+   0.65,
+   1.0,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   -0.35,
+   0.85,
+   0.05,
+   -0.45,
+   0.85,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7314814814814815,
+  "confidence": [
+   0.8,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.0,
+   0.8,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Susan L. Main": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Tyler Hojo - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.5
+  ]
+ },
+ "James Ricchiuti - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Mark C. Jordan - Noble Financial Group, Inc., Research Division": {
+  "avg_sentiment_score": 0.01666666666666669,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Michael F. Ciarmoli - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Robert Benjamin Kirkpatrick - Cardinal Capital Management, L.L.C.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Quilty - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.8,
+   0.8,
+   0.8,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Stephen E. Levenson - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

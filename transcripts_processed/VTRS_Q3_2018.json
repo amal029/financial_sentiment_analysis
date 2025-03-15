@@ -1,0 +1,217 @@
+{
+ "date": "2018-11-05 17:00:00",
+ "Melissa Trombetta": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Heather Bresch": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "CEO & Executive Director"
+ },
+ "Rajiv Malik": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8857142857142858,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "President & Executive Director"
+ },
+ "Ken Parks": {
+  "avg_sentiment_score": 0.45625,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.65,
+   0.45,
+   0.6,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Elliot Wilbur": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ronny Gal": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Liav Abraham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tony Mauro": {
+  "avg_sentiment_score": 0.48750000000000004,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "President of Developed Markets"
+ },
+ "Gary Nachman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Chiang": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Irina Koffler": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jennifer Kim": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Gerberry": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ami Fadia": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

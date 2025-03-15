@@ -1,0 +1,187 @@
+{
+ "date": "2014-10-21 08:30:00",
+ "Shub Mukherjee": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Wren": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Phil Angelastro": {
+  "avg_sentiment_score": 0.2545454545454546,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.55,
+   1.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.740909090909091,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.5,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Alexia Quadrani \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Craig Huber \u2013 Huber Research Partners": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   0.4,
+   0.85,
+   0.4,
+   1.0
+  ]
+ },
+ "David Bank \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "William Bird \u2013 FBR": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim Nollen \u2013 Macquarie": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.35,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Ben Swinburne \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Janedis \u2013 Jefferies": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

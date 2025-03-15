@@ -1,0 +1,233 @@
+{
+ "date": "2023-07-25 10:00:00",
+ "Jack Sullivan": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Leon Topalian": {
+  "avg_sentiment_score": 0.5676470588235294,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.85,
+   0.75,
+   0.45,
+   0.45,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7588235294117647,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.5,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "President, CEO & Chairman of the Board"
+ },
+ "Steve Laxton": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.45,
+   -0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "CFO, Treasurer & Executive VP"
+ },
+ "Alex Hacking": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John Hollatz": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.05,
+   0.65,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75
+  ]
+ },
+ "Rex Query": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of Sheet, Tubular Products & Talent Resources"
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Lawson Winder": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Al Behr": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Bill Peterson": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Carlos de Alba": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Cleve Rueckert": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Tristan Gresser": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Martin Englert": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Dan Needham": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "Executive Vice President of Commercial"
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "date": "2010-11-05 10:00:00",
+ "James O\u2019Connor": {
+  "avg_sentiment_score": 0.8875,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.8,
+   0.4,
+   0.75,
+   0.8
+  ]
+ },
+ "Donald Slager": {
+  "avg_sentiment_score": 0.21842105263157896,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.15,
+   -0.45,
+   -0.15,
+   0.15,
+   -0.35,
+   0.55,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.7368421052631579,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   0.8,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.8,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Tod Holmes": {
+  "avg_sentiment_score": 0.20909090909090908,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.15,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7909090909090909,
+  "confidence": [
+   0.8,
+   0.75,
+   0.8,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Jonathan Ellis": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Hamzah Mazari": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Albert Kaschalk": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Vance Edelson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.4,
+   0.8,
+   0.4
+  ]
+ },
+ "Michael Hoffman": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "Scott Levine": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "William Fisher": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Corey Greendale": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

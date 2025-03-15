@@ -1,0 +1,370 @@
+{
+ "date": "2023-10-27 11:00:00",
+ "James Brunk": {
+  "avg_sentiment_score": 0.20789473684210527,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   -0.15,
+   0.6,
+   0.0,
+   0.75,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8089473684210526,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jeff Lorberbaum": {
+  "avg_sentiment_score": 0.1635135135135135,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   -0.15,
+   0.0,
+   -1.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.85,
+   0.45,
+   1.0,
+   0.15,
+   0.0,
+   0.15,
+   -0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.45,
+   0.05,
+   0.65,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.831081081081081,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Chris Wellborn": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.6214285714285713,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.4,
+   0.4,
+   1.0
+  ],
+  "title": "President, COO, President of Global Ceramic & Director"
+ },
+ "Matthew Bouley": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Lovallo": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Ahlersmeyer": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Susan Maklari": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Keith Hughes": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Phil Ng": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew Harvey": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Adam Baumgarten": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Kathryn Thompson": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Truman Patterson": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Laura Champine": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Bouchard": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Rafe Jadrosich": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.67
+  ]
+ }
+}

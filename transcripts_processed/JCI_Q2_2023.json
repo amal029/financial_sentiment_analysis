@@ -1,0 +1,315 @@
+{
+ "date": "2023-05-05 08:30:00",
+ "Jim Lucas": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "George Oliver": {
+  "avg_sentiment_score": 0.51,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.45,
+   1.0,
+   0.85,
+   0.55,
+   0.0,
+   0.85,
+   0.65,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8691428571428572,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.67,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.5,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.65,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.9,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Olivier Leonetti": {
+  "avg_sentiment_score": 0.446875,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.821875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Sprague": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Tusa": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Scott Davis": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Chris Snyder": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe O\u2019Dea": {
+  "avg_sentiment_score": 0.7666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0
+  ]
+ },
+ "Nicole DeBlase": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Brett Linzey": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

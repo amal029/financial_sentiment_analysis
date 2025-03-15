@@ -1,0 +1,321 @@
+{
+ "date": "2018-10-18 09:00:00",
+ "Abbe Goldstein": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Alan Schnitzer": {
+  "avg_sentiment_score": 0.2870967741935484,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.15,
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.15,
+   0.6,
+   0.45,
+   0.65,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   1.0,
+   0.15,
+   -0.45,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7941935483870968,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Dan Frey": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   1.0,
+   0.8,
+   0.75
+  ]
+ },
+ "Gregory Toczydlowski": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   0.75
+  ],
+  "title": "Executive VP & President of Business Insurance"
+ },
+ "Thomas Kunkel": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Michael Klein": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Kai Pan": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Tunis": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul Newsome": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Kumar": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8240000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Josh Shanker": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   -0.45,
+   0.6,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.8
+  ]
+ },
+ "William Heyman": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Vice Chairman"
+ },
+ "Larry Greenberg": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Cohen": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Michael Zaremski": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

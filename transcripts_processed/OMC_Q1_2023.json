@@ -1,0 +1,155 @@
+{
+ "date": "2023-04-18 11:10:00",
+ "Gregory Lundberg": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Wren": {
+  "avg_sentiment_score": 0.21818181818181817,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.35,
+   0.45,
+   0.45,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Phil Angelastro": {
+  "avg_sentiment_score": 0.35555555555555557,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   -0.15,
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "David Karnovsky": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ben Swinburne": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Tim Nollen": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Cahall": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Bazinet": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Huber": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

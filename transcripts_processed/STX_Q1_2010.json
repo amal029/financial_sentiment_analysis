@@ -1,0 +1,290 @@
+{
+ "date": "2009-10-20 17:00:00",
+ "Stephen J. Luczo": {
+  "avg_sentiment_score": 0.2894736842105263,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7894736842105263,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Chairman"
+ },
+ "William David Mosley": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Robert W. Whitmore": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior Technical Advisor"
+ },
+ "Patrick J. O'Malley": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.55,
+   0.05,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President"
+ },
+ "Kathryn Huberty \u2013 Morgan Stanley": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Richard Kugele \u2013 Needham & Company": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   0.75,
+   0.8,
+   1.0
+  ]
+ },
+ "David Bailey \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Moskowitz \u2013 JP Morgan": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jayson Noland - Robert W. Baird": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8233333333333334,
+  "confidence": [
+   1.0,
+   0.8,
+   0.67
+  ]
+ },
+ "Ananda Baruah - Brean, Murray, Carret & Co.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6783333333333333,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Craig - Bank of America-Merrill Lynch": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "W. Whitmore": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Aaron Sharma - UBS": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.8,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Hunt - Unidentified Company": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Aaron Rakers \u2013 Stifel Nicolaus": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Keith Bachman - BMO Capital Markets": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

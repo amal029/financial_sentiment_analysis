@@ -1,0 +1,351 @@
+{
+ "date": "2019-10-24 10:00:00",
+ "Greg Gantt": {
+  "avg_sentiment_score": 0.3038461538461539,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7538461538461539,
+  "confidence": [
+   1.0,
+   0.9,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Earl Congdon": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Adam Satterfield": {
+  "avg_sentiment_score": 0.12941176470588237,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.5,
+   0.6,
+   0.45,
+   0.55,
+   -0.15,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7985294117647058,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jack Atkins": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Adam Satterfield ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8042857142857143,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   1.0,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Ross": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Todd Fowler": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Matt Brooklier": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ariel Rosa": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kevin Sterling": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ben Hartford": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ }
+}

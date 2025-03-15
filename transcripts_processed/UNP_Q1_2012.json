@@ -1,0 +1,448 @@
+{
+ "date": "2012-04-19 08:45:00",
+ "John J. Koraleski": {
+  "avg_sentiment_score": 0.11444444444444445,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.898888888888889,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman and Executive Chairman of Union Pacific Railroad"
+ },
+ "Eric L. Butler": {
+  "avg_sentiment_score": 0.3416666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.85,
+   0.55,
+   0.15,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8388888888888889,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "Executive VP, Chief Administrative Officer & Corporate Secretary"
+ },
+ "Lance M. Fritz": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.865,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Robert M. Knight": {
+  "avg_sentiment_score": 0.36875,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.85,
+   0.0,
+   0.65,
+   -0.4,
+   1.0,
+   0.05,
+   1.0,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.715625,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Brandon R. Oglenski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Thomas R. Wadewitz - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Justin B. Yagerman - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Trahan & Co.": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "William J. Greene - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Christian Wetherbee - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Cherilyn Radbourne - TD Securities Equity Research": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "H. Peter Nesvold - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Christopher J. Ceraso - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Ken Hoexter - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Walter Spracklin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Jason H. Seidl - Dahlman Rose & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew Troy - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jeffrey A. Kauffman - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Vernon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Tyler Brown - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.4666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4
+  ]
+ },
+ "Keith Schoonmaker - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.65,
+   1.0
+  ]
+ }
+}

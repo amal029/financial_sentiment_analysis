@@ -1,0 +1,254 @@
+{
+ "date": "2012-02-01 16:45:00",
+ "Warren Kneeshaw": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Paul E. Jacobs": {
+  "avg_sentiment_score": 0.6357142857142858,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65,
+   0.65,
+   0.55,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Steven M. Mollenkopf": {
+  "avg_sentiment_score": 0.3944444444444445,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6777777777777777,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Special Advisor"
+ },
+ "William E. Keitel": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.58125,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   0.4,
+   0.6,
+   0.75,
+   0.75
+  ],
+  "title": "Special Advisor"
+ },
+ "Tim Long - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Simona Jankowski - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "T. Michael Walkley - Canaccord Genuity, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian T. Modoff - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Donald J. Rosenberg": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Eric A. Ghernati - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ittai Kidron - Oppenheimer & Co. Inc., Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark McKechnie - ThinkEquity LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Derek K. Aberle": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "President"
+ },
+ "Kulbinder Garcha - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stacy A. Rasgon - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.3,
+  "confidence": [
+   0.3
+  ]
+ },
+ "Rod B. Hall - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mark Sue - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey T. Kvaal - Barclays Capital, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Hoffman - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "date": "2011-05-02 17:00:00",
+ "Angela Yang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "William Sonneborn": {
+  "avg_sentiment_score": 0.27976190476190477,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.45,
+   0.55,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7811904761904762,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.67,
+   1.0,
+   0.4,
+   0.85,
+   0.67,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.65,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Michael McFerran": {
+  "avg_sentiment_score": 0.30500000000000005,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.5,
+   0.55,
+   0.55,
+   0.15,
+   1.0,
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "John Hecht \u2013 JMP Securities": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Sarcone \u2013 Sandler O'Neill": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Kwok \u2013 KBW": {
+  "avg_sentiment_score": -0.13749999999999998,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Gabe Poggi \u2013 FBR": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Jasper Burch \u2013 Macquarie": {
+  "avg_sentiment_score": 0.21428571428571427,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.45,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Lee Cooperman \u2013 Omega Advisors": {
+  "avg_sentiment_score": -0.024999999999999994,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Wayne Cooperman \u2013 Cobalt Capital": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

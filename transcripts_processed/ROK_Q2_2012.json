@@ -1,0 +1,247 @@
+{
+ "date": "2012-04-25 08:30:00",
+ "Rondi Rohr-Dralle": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith D. Nosbusch": {
+  "avg_sentiment_score": 0.361764705882353,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.15,
+   0.15,
+   0.0,
+   0.15,
+   0.85,
+   0.65,
+   0.45,
+   0.05,
+   0.15,
+   0.0,
+   0.65,
+   0.05,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7676470588235295,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Theodore D. Crandall": {
+  "avg_sentiment_score": -0.030555555555555544,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   -0.35,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   -1.0,
+   -0.15,
+   -0.45,
+   0.55,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.7933333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.68,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Senior Vice President of Control Products & Solutions"
+ },
+ "Richard M. Kwas - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Shannon O'Callaghan - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Winifred Clark - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.5
+  ]
+ },
+ "Terry Darling - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.01666666666666668,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   -0.35,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8083333333333332,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Julian Mitchell - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Scott R. Davis - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steven E. Winoker - Sanford C. Bernstein & Co., LLC., Research Division": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Nigel Coe - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   0.8
+  ]
+ },
+ "Jeffrey T. Sprague - Vertical Research Partners Inc.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Richard C. Eastman - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

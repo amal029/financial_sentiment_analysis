@@ -1,0 +1,196 @@
+{
+ "date": "2011-05-10 10:00:00",
+ "Michael DeVeau": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Douglas Tough": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Nicolas Mirzayantz": {
+  "avg_sentiment_score": 0.17,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.45,
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President of Nourish"
+ },
+ "Hernan Vaisman": {
+  "avg_sentiment_score": 0.62,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.9,
+   0.85
+  ],
+  "title": "Group President of Flavors"
+ },
+ "Kevin Berryman": {
+  "avg_sentiment_score": 0.29090909090909095,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7181818181818183,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   0.85
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Mark Astrachan - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Edward Aaron - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Lauren Lieberman - Barclays Capital": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75
+  ]
+ },
+ "Andrew Sawyer - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Silke Kueck-Valdes - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Emily Klingbeil - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Sison - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Erik Sjogren - Morgan Stanley": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

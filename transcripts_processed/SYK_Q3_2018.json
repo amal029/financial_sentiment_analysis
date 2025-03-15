@@ -1,0 +1,360 @@
+{
+ "date": "2018-10-25 16:30:00",
+ "Kevin A. Lobo - Stryker Corp.": {
+  "avg_sentiment_score": 0.6425,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.0,
+   0.75,
+   0.65,
+   -0.35,
+   1.0,
+   0.85,
+   0.55,
+   0.85,
+   0.65,
+   0.55,
+   0.0,
+   0.85,
+   0.85,
+   0.45,
+   0.85,
+   1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   0.9,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.4,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Katherine A. Owen - Stryker Corp.": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.75,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   -0.45,
+   0.65,
+   0.55,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.8425,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.9,
+   0.75
+  ]
+ },
+ "Glenn S. Boehnlein - Stryker Corp.": {
+  "avg_sentiment_score": 0.15555555555555556,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   -0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   0.75,
+   0.8,
+   0.6,
+   0.85,
+   0.6
+  ]
+ },
+ "Robbie J. Marcus - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.6,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Bob Hopkins - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "David Ryan Lewis - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Frederick A. Wise - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Pasquale - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Vijay Kumar - Evercore Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Glenn John Novarro - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Isaac Ro - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Lawrence Biegelsen - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joanne Karen Wuensch - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Lawrence Keusch - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kristen Stewart - Barclays Investment Bank": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Richard Newitter - Leerink Partners LLC": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Craig William Bijou - Cantor Fitzgerald Securities": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Matson - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Joshua Jennings - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "William G. Inglis - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Steven Lichtman - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kyle William Rose - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ }
+}

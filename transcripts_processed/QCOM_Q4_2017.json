@@ -1,0 +1,230 @@
+{
+ "date": "2017-11-01 16:45:00",
+ "John T. Sinnott - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Steven M. Mollenkopf - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.4916666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   0.65,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Special Advisor"
+ },
+ "George S. Davis - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.35,
+   0.15,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7444444444444445,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Matthew D. Ramsay - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "James E. Faucette - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Donald J. Rosenberg - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6
+  ]
+ },
+ "Alexander Rogers - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   0.05,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Timothy Patrick Long - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Cristiano R. Amon - QUALCOMM, Inc.": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Chief Executive Officer, President & Director"
+ },
+ "Ross C. Seymore - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "David M. Wong - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.68
+  ]
+ },
+ "Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.68,
+   0.75
+  ]
+ },
+ "Christopher Brett Danely - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.75,
+   0.65
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brett Simpson - Arete Research Services LLP": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John William Pitzer - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

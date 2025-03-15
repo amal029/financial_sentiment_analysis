@@ -1,0 +1,325 @@
+{
+ "date": "2016-04-21 11:00:00",
+ "Tricia Meyers": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Mark D. Millett": {
+  "avg_sentiment_score": 0.32962962962962966,
+  "sentiment_score": [
+   0.55,
+   0.75,
+   0.0,
+   0.0,
+   0.85,
+   0.65,
+   0.65,
+   -0.15,
+   0.65,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8511111111111112,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.68,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa E. Wagler": {
+  "avg_sentiment_score": 0.1590909090909091,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   -1.0,
+   0.0,
+   0.6,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "iron ore cost, and cheap Chinese billet restraining exports": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Matthew Korn": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Russell B. Rinn": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ],
+  "title": "Executive Vice President of Metals Recycling"
+ },
+ "Evan Kurtz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Anthony Rizzuto": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "David Gagliano": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Gambardella": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jorge Beristain": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Glenn Pushis": {
+  "avg_sentiment_score": 0.08571428571428573,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Senior Vice President of Special Projects"
+ },
+ "Philip Gibbs": {
+  "avg_sentiment_score": 0.17777777777777778,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9277777777777777,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Bradford": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Aldo Mazzaferro": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9339999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Richard Yu": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

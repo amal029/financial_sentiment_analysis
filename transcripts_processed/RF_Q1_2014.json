@@ -1,0 +1,454 @@
+{
+ "date": "2014-04-22 11:00:00",
+ "M. List Underwood": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "O. B. Grayson Hall, Jr.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.35,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.15,
+   0.45,
+   1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8452083333333333,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "David J. Turner Jr.": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0,
+   0.55,
+   0.45,
+   -0.35,
+   -0.15,
+   0.15,
+   0.15,
+   0.55,
+   0.45,
+   0.45,
+   -0.35,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin St. Pierre \u2013 Sanford C. Bernstein & Co., LLC": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Paul J. Miller \u2013 FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith E. Murray \u2013 International Strategy & Investment Group LLC": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Eric Wasserstrom \u2013 SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Ellen Jones": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "John Pancari \u2013 Evercore Partners, Inc.": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin \u2013 Jefferies LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy L. Graseck \u2013 Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ryan Nash \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Brian D Foran \u2013 Autonomous Research US LP": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Asbury": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Matthew H. Burnell \u2013 Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Marty Lacey Mosby \u2013 Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "C. Matthew Lusco": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sameer Gokhale": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.45,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.75,
+   0.85,
+   0.68
+  ]
+ },
+ "Gaston F. Ceron \u2013 Morningstar Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Tu Duong \u2013 RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Vivek Juneja \u2013 JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher W. Marinac \u2013 FIG Partners LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Matt D. O'Connor \u2013 Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

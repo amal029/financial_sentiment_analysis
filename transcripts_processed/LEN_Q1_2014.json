@@ -1,0 +1,247 @@
+{
+ "date": "2014-03-20 11:00:00",
+ "David Collins": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Stuart Miller": {
+  "avg_sentiment_score": 0.24500000000000002,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4
+  ],
+  "title": "Co-CEO & Executive Chairman"
+ },
+ "Bruce Gross": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.55,
+   0.0,
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.8,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Vice President"
+ },
+ "Ivy Zelman - Zelman & Associates": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Rick Beckwitt": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.45,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Co-CEO, Co-President & Director"
+ },
+ "Jon Jaffe": {
+  "avg_sentiment_score": 0.56,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.05,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "Co-CEO, President & Director"
+ },
+ "Eli Hackel - Goldman Sachs": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Rehaut - JPMorgan": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen East - ISI Group": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Kim - Barclays": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Desi DiPierro - RBC Capital Markets": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jade Rahmani - KBW": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "David Goldberg - UBS": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.67,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

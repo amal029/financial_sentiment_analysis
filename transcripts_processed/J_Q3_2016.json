@@ -1,0 +1,231 @@
+{
+ "date": "2016-08-09 10:00:00",
+ "Kevin C. Berryman - Executive Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.2733333333333334,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   0.55,
+   0.0,
+   0.15,
+   0.35,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Interim Chief Financial Officer"
+ },
+ "Steven J. Demetriou - Chairman, President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.3023809523809524,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -1.0,
+   -0.15,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.797142857142857,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chair"
+ },
+ "Jerry Revich - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jamie L. Cook - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven M. Fisher - UBS Securities LLC": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.22142857142857145,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9185714285714285,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Andrew J. Wittmann - Robert W. Baird & Co., Inc. (Broker)": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "John B. Rogers - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Chad Dillard - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "date": "2021-10-27 11:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.4757142857142857,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   0.55,
+   0.45,
+   0.45,
+   1.0,
+   0.55,
+   0.45,
+   1.0,
+   0.05,
+   0.45,
+   1.0,
+   0.85,
+   0.75,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.75,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8225714285714285,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Sue Main": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Greg Konrad": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Maugeri": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Elizabeth Grenfell": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Ricchiuti": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8859999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Andrew Buscaglia": {
+  "avg_sentiment_score": 0.13571428571428573,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joe Giordano": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7949999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ }
+}

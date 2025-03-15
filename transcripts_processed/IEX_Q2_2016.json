@@ -1,0 +1,495 @@
+{
+ "date": "2016-07-19 15:15:00",
+ "Presentation": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Yates": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Andy Silvernail": {
+  "avg_sentiment_score": 0.17333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   -0.35,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   1.0,
+   0.0,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.75,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   -0.35,
+   1.0,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.65,
+   0.85,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.1,
+   0.65,
+   1.0,
+   0.0,
+   0.35,
+   -0.45,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8468,
+  "confidence": [
+   0.0,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.65,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Heath Mitts": {
+  "avg_sentiment_score": 0.24090909090909093,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8772727272727273,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Steven Winoker": {
+  "avg_sentiment_score": -0.028571428571428574,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15,
+   -0.45,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt McConnell": {
+  "avg_sentiment_score": 0.5125,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Mike Halloran": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Charlie Brady": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Scott Graham": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9055555555555556,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Bhupender Bohra": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9071428571428571,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brett Linzey": {
+  "avg_sentiment_score": -0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.05,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Mishan": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Jim Giannakouros": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Walter Liptak": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jim Foung": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe Giordano": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "date": "2016-08-09 08:30:00",
+ "Andrea Resnick": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Victor Luis": {
+  "avg_sentiment_score": 0.43863636363636366,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   1.0,
+   -0.45,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.854090909090909,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.67,
+   0.4,
+   0.75,
+   0.75,
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.65,
+   0.9,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Jane Nielsen": {
+  "avg_sentiment_score": 0.4653846153846154,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55
+  ],
+  "avg_confidence": 0.8061538461538462,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Ike Boruchow": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "Andre Cohen": {
+  "avg_sentiment_score": 0.19,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.35,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "President of North America and Global Marketing"
+ },
+ "Erinn Murphy": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Anna Andreeva": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ },
+ "Oliver Chen": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.67,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Randal Konik": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Christian Buss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.7833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ }
+}

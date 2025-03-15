@@ -1,0 +1,169 @@
+{
+ "date": "2012-10-25 00:00:00",
+ "Jason VanWees": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Mehrabian": {
+  "avg_sentiment_score": 0.39399999999999996,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.45,
+   0.75,
+   -0.15,
+   -0.15,
+   0.15,
+   0.45,
+   0.75,
+   0.85,
+   0.15,
+   -0.15,
+   0.85,
+   0.45,
+   0.85,
+   -0.35,
+   -0.35,
+   0.55,
+   0.0,
+   -0.15,
+   0.65,
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.762,
+  "confidence": [
+   0.8,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Dale Schnittjer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ],
+  "title": "Chief Financial Officer, Senior Vice President and Member of Sarbanes-Oxley Disclosure Committee"
+ },
+ "Jeremy Devaney": {
+  "avg_sentiment_score": -0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.15,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7285714285714285,
+  "confidence": [
+   0.6,
+   0.8,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Jordan": {
+  "avg_sentiment_score": -0.1875,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Tyler Hojo": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen Levenson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kevin Ciabattoni": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

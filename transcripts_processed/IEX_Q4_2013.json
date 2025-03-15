@@ -1,0 +1,263 @@
+{
+ "date": "2014-01-30 10:30:00",
+ "Michael John Yates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andrew K. Silvernail": {
+  "avg_sentiment_score": 0.2558823529411765,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7411764705882353,
+  "confidence": [
+   0.0,
+   0.6,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.5,
+   0.8,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.8
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Michael Halloran - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.75,
+   0.8,
+   0.6,
+   0.6
+  ]
+ },
+ "Matthew W. McConnell - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Hall - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Allison Poliniak-Cusic - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "R. Scott Graham - Jefferies LLC, Research Division": {
+  "avg_sentiment_score": 0.14166666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9833333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Heath A. Mitts": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.6,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.858,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Financial Officer and Senior Vice President"
+ },
+ "Kevin R. Maczka - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Matt J. Summerville - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.8
+  ]
+ },
+ "Mark Douglass - Longbow Research LLC": {
+  "avg_sentiment_score": 0.07857142857142858,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9357142857142857,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Bryan Kipp - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Walter S. Liptak - Global Hunter Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

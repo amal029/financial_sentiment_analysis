@@ -1,0 +1,220 @@
+{
+ "date": "2016-07-29 17:00:00",
+ "Mary Finnegan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Olivier Filliol": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "William Donnelly": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   -0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Head of Finance, Supply Chain and IT"
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.45,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.852,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Isaac Ro": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": -0.03749999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Willoughby": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Richard Eastman": {
+  "avg_sentiment_score": 0.14375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Brandon Couillard": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

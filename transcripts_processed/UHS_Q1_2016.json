@@ -1,0 +1,252 @@
+{
+ "date": "2016-05-01 09:00:00",
+ "Steve Filton": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.85,
+   0.65,
+   0.65,
+   0.65,
+   0.15,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.75,
+   -0.15,
+   0.65,
+   0.05,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8205882352941176,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.8,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP, CFO & Secretary"
+ },
+ "Tejus Ujjani": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   1.0,
+   0.65
+  ]
+ },
+ "Frank Lee": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joanna Gajuk": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Paula Torch": {
+  "avg_sentiment_score": 0.39,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ]
+ },
+ "Whit Mayo": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Rice": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ana Gupte": {
+  "avg_sentiment_score": -0.13999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Lieberman": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Sarah James": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gary Taylor": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "date": "2017-04-27 11:00:00",
+ "Daniel J. D'Arrigo - MGM Resorts International": {
+  "avg_sentiment_score": 0.17727272727272728,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8863636363636364,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "James Joseph Murren - MGM Resorts International": {
+  "avg_sentiment_score": 0.24411764705882355,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.6,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Harry Curtis - Nomura Instinet": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Grant R. Bowie - MGM China Holdings Limited": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Joseph R. Greff - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Corey I. Sanders - MGM Resorts International": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.75,
+   0.4,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Carlo Santarelli - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Thomas G. Allen - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Felicia Hendrix - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.01818181818181818,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9409090909090909,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Shaun C. Kelley - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robin M. Farley - UBS Securities LLC": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "William Joseph Hornbuckle - MGM Resorts International": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

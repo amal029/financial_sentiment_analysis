@@ -1,0 +1,313 @@
+{
+ "date": "2017-10-23 10:00:00",
+ "Michael Larsen": {
+  "avg_sentiment_score": 0.23863636363636365,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.05,
+   -0.15,
+   0.65,
+   -0.45,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7613636363636364,
+  "confidence": [
+   0.4,
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Scott Santi": {
+  "avg_sentiment_score": 0.22763157894736843,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8544736842105263,
+  "confidence": [
+   0.9,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Andy Kaplowitz": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.808,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.69
+  ]
+ },
+ "Joe Ritchie": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.6375000000000001,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.73,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Mig Dobre": {
+  "avg_sentiment_score": 0.020000000000000007,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ann Duignan": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jamie Cook": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Steve Fisher": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe O'Dea": {
+  "avg_sentiment_score": 0.5599999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   1.0,
+   0.85,
+   0.4,
+   0.6,
+   1.0
+  ]
+ }
+}

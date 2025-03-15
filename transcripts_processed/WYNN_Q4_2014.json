@@ -1,0 +1,339 @@
+{
+ "date": "2015-02-03 16:30:00",
+ "Steve Cootey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Financial Officer, Senior Vice President and Treasurer"
+ },
+ "Steve Wynn": {
+  "avg_sentiment_score": 0.18055555555555555,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.5,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Founder, Chairman & CEO"
+ },
+ "Joe Greff": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8116666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Strzemp": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Chief Administrative Officer, Executive Vice President, Chief Financial Officer of Wynn Resorts Holdings and Executive Vice President of Wynn Resorts Holdings"
+ },
+ "Matt Maddox": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8888888888888888,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Shaun Kelley": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Ian Coughlan": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "ShaunKelley": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "FeliciaHendrix": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Felicia Hendrix": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Carlo Santarelli": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Kent": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Allen": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Gamal Aziz": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Harry Curtis": {
+  "avg_sentiment_score": 0.4083333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8383333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.68,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Maurice Wooden": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robin Farley": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8539999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Chris Jones": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ }
+}

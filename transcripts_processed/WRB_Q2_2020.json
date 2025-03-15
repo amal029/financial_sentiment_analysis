@@ -1,0 +1,176 @@
+{
+ "date": "2020-07-21 17:00:00",
+ "Rob Berkley": {
+  "avg_sentiment_score": 0.07608695652173914,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.15,
+   -0.45,
+   -0.35,
+   0.05,
+   0.65,
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   -0.45,
+   -0.15,
+   -0.15,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7978260869565218,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Rich Baio": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Phil Stefano": {
+  "avg_sentiment_score": -0.21666666666666667,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Mike Zaremski": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Bill Berkley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Yaron Kinar": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Meyer Shields": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.35,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President of Investments"
+ },
+ "Brian Meredith": {
+  "avg_sentiment_score": -0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Shanker": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "JoshShanker": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

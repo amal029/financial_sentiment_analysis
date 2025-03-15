@@ -1,0 +1,488 @@
+{
+ "date": "2015-01-28 17:00:00",
+ "Christine Skold": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregory A. Sandfort": {
+  "avg_sentiment_score": 0.30142857142857143,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8025714285714286,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.8,
+   0.6,
+   0.6,
+   0.4,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chief Executive Officer and Director"
+ },
+ "Anthony F. Crudele": {
+  "avg_sentiment_score": 0.21956521739130433,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.05,
+   1.0,
+   0.0,
+   0.45,
+   0.05,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7573913043478262,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.67,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Alan Rifkin": {
+  "avg_sentiment_score": 0.475,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": -0.2125,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Steve K. Barbarick": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7653846153846153,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.8,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "President and Chief Merchandising Officer"
+ },
+ "Peter Benedict": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "John Lawrence": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "David Magee": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Christopher Horvers": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Denise Chai": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Lee J. Downing": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ],
+  "title": "Executive Vice President of Operations and Real Estate"
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Adam Sindler": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jessica Schoen Mace": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Nemer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Miller": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Nagel": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew Fassler": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8116666666666666,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Chuck Cerankosky": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Aram Rubinson": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Seth Basham": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.96,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "Eric Bosshard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Joseph Feldman": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

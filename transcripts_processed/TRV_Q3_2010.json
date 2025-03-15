@@ -1,0 +1,334 @@
+{
+ "date": "2010-10-21 09:00:00",
+ "Gabriella Nawi": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Jay Fishman": {
+  "avg_sentiment_score": 0.37105263157894736,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.0,
+   0.15,
+   0.15,
+   0.0,
+   0.85,
+   1.0,
+   0.05,
+   0.85,
+   0.05,
+   0.45,
+   0.05,
+   0.55,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.7447368421052631,
+  "confidence": [
+   0.85,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.4,
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Executive Chairman, Chairman of Executive Committee and Member of Operating Committee"
+ },
+ "Jay Benet": {
+  "avg_sentiment_score": 0.23750000000000002,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.05,
+   0.45,
+   0.0,
+   0.75,
+   0.0,
+   0.05,
+   0.05,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "title": "Vice Chairman and Chief Financial Officer"
+ },
+ "Brian MacLean": {
+  "avg_sentiment_score": 0.06250000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -0.15,
+   0.55,
+   0.0,
+   -1.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Keith Walsh - Citi": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Greg Toczydlowski": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   -1.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.6625,
+  "confidence": [
+   1.0,
+   0.4,
+   0.85,
+   0.4
+  ]
+ },
+ "Jay Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Meredith - UBS": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Cliff Gallant - KBW": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Doreen Spadorcia": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew Heimermann - JPMorgan": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jay Gelb - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Cunningham": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Vinay Misquith - Credit Suisse": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Greg Locraft - Morgan Stanley": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9019999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jeff Fishman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "John Hall - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67,
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

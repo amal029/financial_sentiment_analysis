@@ -1,0 +1,151 @@
+{
+ "date": "2011-10-20 10:00:00",
+ "Leslie H. Kratcoski": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Nicholas T. Pinchuk": {
+  "avg_sentiment_score": 0.28500000000000003,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45,
+   0.55,
+   0.65,
+   0.15,
+   0.55,
+   0.05,
+   0.0,
+   0.55,
+   0.45,
+   0.05,
+   0.55,
+   -0.35,
+   0.15,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Aldo J. Pagliari": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP of Finance & CFO"
+ },
+ "James C. Lucas - Janney Montgomery Scott LLC, Research Division": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "David Leiker - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.6,
+   -0.45,
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Gary F. Prestopino - Barrington Research Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jarrod Rapalje - Longbow Research LLC": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

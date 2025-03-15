@@ -1,0 +1,187 @@
+{
+ "date": "2017-05-04 11:00:00",
+ "Alan Mark Finkelstein - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Robert Strangfeld - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75
+  ]
+ },
+ "Mark B. Grier - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert M. Falzon - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Ryan Krueger - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles F. Lowrey - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.23571428571428574,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   -0.45,
+   0.15,
+   0.05,
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Jamminder Singh Bhullar - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Humphrey Hung Fai Lee - Dowling & Partners Securities LLC": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Stephen P. Pelletier - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & COO of U.S. Businesses"
+ },
+ "John M. Nadel - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.38,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   1.0,
+   0.67,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Suneet Kamath - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Gallagher - Evercore Group LLC": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

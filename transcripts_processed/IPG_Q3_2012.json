@@ -1,0 +1,244 @@
+{
+ "date": "2012-10-26 08:30:00",
+ "Jerome J. Leshne": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael I. Roth": {
+  "avg_sentiment_score": 0.2608695652173913,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.35,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   -0.15,
+   0.55,
+   0.45,
+   1.0,
+   0.65,
+   -0.35,
+   -0.35,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7521739130434782,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Frank Mergenthaler": {
+  "avg_sentiment_score": 0.19333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8266666666666667,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Alexia S. Quadrani - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Nathanson - Nomura Securities Co. Ltd., Research Division": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Hersh Khadilkar - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John Janedis - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Stabler - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Matthew Chesler - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "Anthony J. DiClemente - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "James G. Dix - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "David Bank - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Daniel Salmon - BMO Capital Markets U.S.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

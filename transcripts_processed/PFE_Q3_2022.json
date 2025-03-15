@@ -1,0 +1,300 @@
+{
+ "date": "2022-11-01 10:00:00",
+ "Christopher Stevo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Albert Bourla": {
+  "avg_sentiment_score": 0.5428571428571429,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.05,
+   0.0,
+   0.65,
+   0.65,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8060714285714285,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   0.4,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4
+  ]
+ },
+ "David Denton": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.05,
+   0.75,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   0.85
+  ],
+  "title": "Chief Financial Officer & Executive VP"
+ },
+ "Mikael Dolsten": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "Colin Bristow": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Aamir Malik": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Angela Hwang": {
+  "avg_sentiment_score": 0.6357142857142858,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.55,
+   0.85,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.8142857142857143,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.9,
+   0.6,
+   0.9
+  ]
+ },
+ "Stephen Scala": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "William Pao": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   0.95,
+   1.0
+  ]
+ },
+ "Andrew Baum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Evan Seigerman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mohit Bansal": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Tsang": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christopher Schott": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Geoff Meacham": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Terence Flynn": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Shibutani": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

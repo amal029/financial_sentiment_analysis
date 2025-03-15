@@ -1,0 +1,304 @@
+{
+ "date": "2023-01-31 16:30:00",
+ "Kevin Lobo": {
+  "avg_sentiment_score": 0.5321428571428571,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   1.0,
+   0.65,
+   0.15,
+   0.75,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9196428571428571,
+  "confidence": [
+   0.9,
+   0.9,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Jason Beach": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.6,
+   0.9
+  ]
+ },
+ "Glenn Boehnlein": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.15,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.88,
+  "confidence": [
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.85
+  ]
+ },
+ "Robbie Marcus": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew O'Brien": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Shagun Singh": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7150000000000001,
+  "confidence": [
+   0.75,
+   0.68
+  ]
+ },
+ "Ryan Zimmerman": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Vik Chopra": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matt Miksic": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Pito Chickering": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Steven Lichtman": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Drew Ranieri": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Matson": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Anderson": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9625,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Fleming": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

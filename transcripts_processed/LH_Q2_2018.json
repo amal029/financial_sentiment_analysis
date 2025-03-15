@@ -1,0 +1,320 @@
+{
+ "date": "2018-07-25 09:00:00",
+ "Scott Frommer - Laboratory Corp. of America Holdings": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "David P. King - Laboratory Corp. of America Holdings": {
+  "avg_sentiment_score": 0.24782608695652175,
+  "sentiment_score": [
+   0.85,
+   -0.15,
+   0.65,
+   0.45,
+   0.65,
+   -0.35,
+   0.45,
+   0.65,
+   0.75,
+   0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.15,
+   -1.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7717391304347826,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Glenn Andrew Eisenberg - Laboratory Corp. of America Holdings": {
+  "avg_sentiment_score": -0.03749999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   -0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.95
+  ],
+  "title": "CFO & Executive VP"
+ },
+ "Jack Meehan - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Gary M. Huff - Laboratory Corp. of America Holdings": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ],
+  "title": "Chief Executive Officer of Labcorp Diagnostics"
+ },
+ "John D. Ratliff - Laboratory Corp. of America Holdings": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.0,
+   -0.15,
+   0.85,
+   0.85,
+   0.0,
+   0.15,
+   0.75,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8318181818181819,
+  "confidence": [
+   0.9,
+   0.4,
+   1.0,
+   0.6,
+   0.9,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Executive Officer of Covance Drug Development"
+ },
+ "Lisa C. Gill - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric W. Coldwell - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.1357142857142857,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.15,
+   0.0,
+   -0.45,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7528571428571428,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Ross Muken - Evercore ISI": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Erin Wilson Wright - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Patrick Donnelly - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Ralph Giacobbe - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Leonard - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Kevin Ellich - Craig-Hallum Capital Group LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Donald H. Hooker - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "William R. Quirk - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Max Smock - William Blair & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ricky R. Goldwasser - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.67
+  ]
+ }
+}

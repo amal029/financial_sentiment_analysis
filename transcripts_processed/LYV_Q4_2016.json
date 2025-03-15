@@ -1,0 +1,292 @@
+{
+ "date": "2017-02-23 17:00:00",
+ "Michael Rapino - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.378125,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.85,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Joe Berchtold - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.55,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   0.6,
+   1.0
+  ],
+  "title": "President & CFO"
+ },
+ "Kathy Willard - Live Nation Entertainment, Inc.": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Advisor"
+ },
+ "John Janedis - Jefferies LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Amy Yong - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": 0.2571428571428572,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.75,
+   1.0
+  ],
+  "avg_confidence": 0.9214285714285715,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "David Karnovsky - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Boisvert Bazinet - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "John Tinker - Gabelli & Company": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Joyce - Evercore ISI": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "John Healy - Northcoast Research Partners LLC": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Douglas M. Arthur - Huber Research Partners LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kyle Evans - Stephens, Inc.": {
+  "avg_sentiment_score": -0.12142857142857143,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Benjamin Mogil - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Brandon Ross - BTIG LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.84625,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.67
+  ]
+ }
+}

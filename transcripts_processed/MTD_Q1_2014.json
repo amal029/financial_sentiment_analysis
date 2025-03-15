@@ -1,0 +1,250 @@
+{
+ "date": "2014-05-11 17:00:00",
+ "Mary T. Finnegan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Olivier A. Filliol": {
+  "avg_sentiment_score": 0.3464285714285715,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   -0.15,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8321428571428572,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "William P. Donnelly": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.55,
+   0.45,
+   0.0,
+   0.55,
+   -0.35,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8260869565217391,
+  "confidence": [
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Head of Finance, Supply Chain and IT"
+ },
+ "Brandon Couillard - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Isaac Ro - Goldman Sachs": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Tycho Peterson - JP Morgan": {
+  "avg_sentiment_score": 0.08,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ },
+ "Bryan Kipp - Janney Montgomery Scott LLC": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "Ross Muken - ISI Group LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Steve Willoughby - Cleveland Research": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Richard Eastman - Robert W. Baird & Company, Inc.": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   1.0
+  ]
+ },
+ "Sung Ji Nam - Cantor Fitzgerald, L.P.": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ }
+}

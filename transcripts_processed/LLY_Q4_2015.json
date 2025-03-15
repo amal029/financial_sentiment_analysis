@@ -1,0 +1,439 @@
+{
+ "date": "2016-01-28 09:00:00",
+ "John C. Lechleiter - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.18,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Philip L. Johnson - Vice President, Investor Relations, Eli Lilly & Co.": {
+  "avg_sentiment_score": 0.2567307692307692,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8411538461538461,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.67,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.4,
+   0.67,
+   1.0,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Derica W. Rice - Chief Financial Officer & EVP-Global Services": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.75
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "CFO & Executive VP of Global Services"
+ },
+ "Timothy Minton Anderson - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Susan Mahony - Senior Vice President & President, Lilly Oncology": {
+  "avg_sentiment_score": 0.48125,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.45,
+   0.45,
+   0.0,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "David A. Ricks - President-Bio Medicines & Senior Vice President": {
+  "avg_sentiment_score": 0.31875000000000003,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.85,
+   0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.73125,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jami Rubin - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Enrique A. Conterno - Senior Vice President & President, Lilly Diabetes": {
+  "avg_sentiment_score": 0.5785714285714285,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.15,
+   0.85,
+   0.85,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.9,
+   0.9,
+   0.75,
+   0.85
+  ]
+ },
+ "Christopher Schott - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Charles Anthony Butler - Guggenheim Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen M. Scala - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark J. Schoenebaum - Evercore ISI": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Andrew S. Baum - Citigroup Global Markets Ltd.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gregg Gilbert - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jan M. Lundberg - Executive Vice President, Science and Technology": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Marc Goodman - UBS Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seamus Fernandez - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Colin N. Bristow - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "David R. Risinger - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vamil K. Divan - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.4
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alfonso G. Zulueta - Senior Vice President & President-Emerging Markets": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey N. Simmons - Senior Vice President and President, Elanco Animal Health": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Arfaei - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard J. Purkiss - Piper Jaffray Ltd.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Geoffrey Meacham - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Damien Conover - Morningstar Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

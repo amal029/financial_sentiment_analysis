@@ -1,0 +1,237 @@
+{
+ "date": "2018-08-22 17:00:00",
+ "Lisa Ewbank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Aart de Geus": {
+  "avg_sentiment_score": 0.5175,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   0.75,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.75,
+   0.65,
+   0.45,
+   0.65,
+   0.85,
+   0.65,
+   0.15,
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "Trac Pham": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.75,
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.790625,
+  "confidence": [
+   0.4,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Gary Mobley": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Rich Valera": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Tom Diffely": {
+  "avg_sentiment_score": 0.05000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.35,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mitch Steves": {
+  "avg_sentiment_score": -0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Monika Garg": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.75,
+   0.55
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Krish Sankar": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "date": "2013-05-22 17:00:00",
+ "Lisa Ewbank": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Aart J. de Geus": {
+  "avg_sentiment_score": 0.431578947368421,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.0,
+   0.5,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.65,
+   0.15,
+   0.45,
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.7868421052631579,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.5,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.9
+  ]
+ },
+ "Brian M. Beattie": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   0.75,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.859375,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Administrative Officer and Executive Vice President of Business Operations"
+ },
+ "Richard Valera - Needham & Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.024999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9583333333333334,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Krish Sankar - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Sterling P. Auty - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Thomas Diffely - D.A. Davidson & Co., Research Division": {
+  "avg_sentiment_score": 0.15625,
+  "sentiment_score": [
+   0.55,
+   0.35,
+   0.0,
+   0.15,
+   0.0,
+   0.05,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer - Griffin Securities, Inc., Research Division": {
+  "avg_sentiment_score": 0.08333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   0.75
+  ]
+ },
+ "Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Farhan Ahmad": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

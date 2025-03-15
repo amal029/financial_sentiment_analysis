@@ -1,0 +1,200 @@
+{
+ "date": "2011-05-24 08:00:00",
+ "Jeff Warren": {
+  "avg_sentiment_score": -0.0642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6785714285714286,
+  "confidence": [
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Gary Ellis": {
+  "avg_sentiment_score": 0.21785714285714283,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.45,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.35,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.05,
+   -1.0,
+   0.45,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.05,
+   -0.15,
+   0.45,
+   0.45,
+   0.85,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7678571428571429,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.8,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.85,
+   0.8,
+   0.85,
+   0.8,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Matthew Dodds": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Weinstein": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Kristen Stewart": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Robert Hopkins": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.8,
+   0.75,
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "David Lewis": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joanne Wuensch": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "David Roman": {
+  "avg_sentiment_score": -0.35000000000000003,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Larry Biegelsen": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "date": "2015-04-22 08:30:00",
+ "Sujal Shah": {
+  "avg_sentiment_score": 0.1464285714285714,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Tom Lynch": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.55,
+   0.75,
+   0.6,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   0.05,
+   0.0,
+   0.55,
+   0.35,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   -0.15,
+   0.85,
+   0.45,
+   0.65,
+   0.05,
+   0.65,
+   0.65,
+   0.15,
+   0.45,
+   -0.15,
+   0.85,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.65,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Bob Hau": {
+  "avg_sentiment_score": 0.4884615384615385,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   1.0,
+   0.65,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.7553846153846154,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.67,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "William Stein": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6950000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Amit Daryanani": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Amitabh Passi": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.25,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matt Sheerin": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Mike Wood": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.35,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Shawn Harrison": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Craig Hettenbach": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Sherri Scribner": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven Fox": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Delaney": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Suva": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

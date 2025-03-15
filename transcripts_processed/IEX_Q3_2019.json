@@ -1,0 +1,177 @@
+{
+ "date": "2019-10-31 10:30:00",
+ "Michael Yates": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Andrew Silvernail": {
+  "avg_sentiment_score": 0.1975,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.55,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.0,
+   0.15,
+   0.65,
+   -0.15,
+   -0.15,
+   0.15,
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.9
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "William Grogan": {
+  "avg_sentiment_score": -0.08124999999999999,
+  "sentiment_score": [
+   -1.0,
+   -0.45,
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "CFO & Senior VP"
+ },
+ "Michael Halloran": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Deane Dray": {
+  "avg_sentiment_score": -0.016666666666666646,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Nathan Jones": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Matt Summerville": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Brett Linzey": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Buscaglia": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Joseph Giordano": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ }
+}

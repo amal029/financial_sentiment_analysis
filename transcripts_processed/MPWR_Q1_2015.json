@@ -1,0 +1,283 @@
+{
+ "date": "2015-04-22 17:00:00",
+ "Meera Rao": {
+  "avg_sentiment_score": 0.4793103448275862,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   0.6,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7662068965517241,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.67,
+   0.8,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.4,
+   0.8,
+   1.0,
+   0.8,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Rick Schafer": {
+  "avg_sentiment_score": 0.08125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.91875,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Hsing": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.836,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ],
+  "title": "Founder, Chairman, President & CEO"
+ },
+ "Matt Diamond": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Smigie": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.75,
+   0.8,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "A \u2013 Meera Rao": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tore Svanberg": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.85,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Anil Doradla": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Liwen Zhang": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Micheal Hsing": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Chanda": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

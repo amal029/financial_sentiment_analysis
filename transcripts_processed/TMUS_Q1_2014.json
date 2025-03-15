@@ -1,0 +1,186 @@
+{
+ "date": "2014-05-01 09:00:00",
+ "Nils Paellmann": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John J. Legere": {
+  "avg_sentiment_score": 0.4421052631578948,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   -0.45,
+   0.85,
+   -0.15,
+   0.55,
+   0.65,
+   -0.15,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8289473684210527,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.4,
+   0.85,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "J. Braxton Carter": {
+  "avg_sentiment_score": 0.625,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Kevin R. Smithen - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "G. Michael Sievert": {
+  "avg_sentiment_score": 0.5416666666666666,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Philip Cusick - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Craig Moffett - MoffettNathanson LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Colby Synesael - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Simon Flannery - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Walter Piecyk - BTIG, LLC, Research Division": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Neville R. Ray": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "President of Technology"
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "date": "2014-10-23 10:00:00",
+ "John S. Marr": {
+  "avg_sentiment_score": 0.38863636363636367,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   1.0,
+   0.0,
+   0.15,
+   0.85,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.05,
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8054545454545454,
+  "confidence": [
+   0.8,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   1.0,
+   0.6,
+   0.9,
+   0.65,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Brian K. Miller": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.9083333333333333,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.85
+  ]
+ },
+ "Charles Strauzer \u2013 CJS Securities, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Jonathan Ho \u2013 William Blair & Company LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.4
+  ]
+ },
+ "Brian Kinstlinger \u2013 Maxim Group": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott R. Berg \u2013 Northland Capital Markets": {
+  "avg_sentiment_score": 0.35833333333333334,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aleksandr J. Zukin \u2013 Stephens, Inc.": {
+  "avg_sentiment_score": 0.8,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.85,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Liu \u2013 B. Riley Caris": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Matthew L. Williams \u2013 Evercore Partners, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

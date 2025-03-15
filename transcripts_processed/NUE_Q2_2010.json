@@ -1,0 +1,382 @@
+{
+ "date": "2010-07-23 17:00:00",
+ "Dan DiMicco": {
+  "avg_sentiment_score": 0.1472972972972973,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65,
+   0.75,
+   0.05,
+   0.65,
+   -0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.85,
+   -0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   -0.45,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   -1.0,
+   -0.45,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8162162162162162,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "Jim Frias": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8611111111111112,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ],
+  "title": "Executive VP & Special Advisor to the CEO"
+ },
+ "John Ferriola": {
+  "avg_sentiment_score": 0.3230769230769231,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   -0.35,
+   1.0,
+   0.6,
+   0.35,
+   -0.35,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7807692307692308,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Ham Lott": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Parrish": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   0.75
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.85
+  ],
+  "title": "Executive Vice President"
+ },
+ "Kuni Chen": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Luke Folta": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Gambardella": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Christopher Olin": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Keith Grass": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Vice President and Chief Executive Officer of DJJ"
+ },
+ "Wayne Atwell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "David Gagliano": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Joe Stratman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michelle Applebaum": {
+  "avg_sentiment_score": 0.24642857142857144,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8392857142857143,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Dave Martin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Ladd Hall": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Parr": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Liinamaa": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ }
+}

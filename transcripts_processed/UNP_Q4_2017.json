@@ -1,0 +1,412 @@
+{
+ "date": "2018-01-25 20:45:00",
+ "Lance Fritz": {
+  "avg_sentiment_score": 0.41521739130434787,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.45,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   -1.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.75,
+   0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7847826086956522,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.4,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Beth Whited": {
+  "avg_sentiment_score": 0.15357142857142855,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8642857142857142,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "President"
+ },
+ "Cameron Scott": {
+  "avg_sentiment_score": 0.17142857142857143,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.75
+  ],
+  "avg_confidence": 0.7642857142857142,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & COO of Union Pacific Railroad Company"
+ },
+ "Rob Knight": {
+  "avg_sentiment_score": 0.1823529411764706,
+  "sentiment_score": [
+   0.35,
+   0.45,
+   0.65,
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Van Kegel": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Fadi Chamoun": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Allison Landry": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Bascome Majors": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.855,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Matt Russell": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Justin Long": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6900000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.28,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.636,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.68
+  ]
+ },
+ "Ben Hartford": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

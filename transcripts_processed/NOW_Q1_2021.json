@@ -1,0 +1,205 @@
+{
+ "date": "2021-04-29 17:00:00",
+ "Lisa Banks": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "William McDermott": {
+  "avg_sentiment_score": 0.7676470588235295,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   1.0,
+   0.85,
+   0.65,
+   1.0,
+   0.65,
+   1.0,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8600000000000001,
+  "confidence": [
+   0.9,
+   0.9,
+   0.67,
+   0.9,
+   1.0,
+   0.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.85,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Gina Mastantuono": {
+  "avg_sentiment_score": 0.47333333333333333,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Karl Keirstead": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alex Zukin": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.84,
+  "confidence": [
+   0.85,
+   1.0,
+   0.67
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Kash Rangan": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Turits": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.65
+  ]
+ },
+ "Brad Sills": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Sterling Auty": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

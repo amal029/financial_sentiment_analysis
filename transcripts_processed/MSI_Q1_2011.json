@@ -1,0 +1,275 @@
+{
+ "date": "2011-04-28 08:00:00",
+ "Shep Dunlap": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Gregory Brown": {
+  "avg_sentiment_score": 0.3958333333333333,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.45,
+   0.05,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.85,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Edward Fitzpatrick": {
+  "avg_sentiment_score": 0.15416666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.05,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.7708333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75
+  ]
+ },
+ "Avi Silver - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Fidacaro - Susquehanna Financial Group, LLLP": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Moon": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Vice President of Sales and Marketing"
+ },
+ "Matthew Thornton - Avian Securities, LLC": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Pierre Ferragu - Sanford C. Bernstein & Co., Inc.": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Tavis McCourt - Morgan Keegan & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Peter Misek - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ehud Gelblum - Morgan Stanley": {
+  "avg_sentiment_score": 0.2111111111111111,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   -0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Modoff - Deutsche Bank AG": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.0,
+   1.0
+  ]
+ },
+ "Deepak Sitaraman - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

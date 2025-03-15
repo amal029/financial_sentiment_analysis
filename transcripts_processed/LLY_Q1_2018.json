@@ -1,0 +1,386 @@
+{
+ "date": "2018-04-24 11:00:00",
+ "David Ricks": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   -0.15,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.9
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Joshua Smiley": {
+  "avg_sentiment_score": 0.6166666666666667,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75
+  ],
+  "title": "Executive Officer"
+ },
+ "Phil Johnson": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7714285714285714,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.9,
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Greg Gilbert": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christi Shaw": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85,
+   0.0,
+   -0.45,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.35
+  ],
+  "avg_confidence": 0.865,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75
+  ]
+ },
+ "John Boris": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.375,
+  "confidence": [
+   0.0,
+   0.75
+  ]
+ },
+ "Christi": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Dan Skovronsky": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.15,
+   0.85,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Tim Anderson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Enrique Conterno": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   -0.35
+  ],
+  "avg_confidence": 0.80625,
+  "confidence": [
+   0.85,
+   0.9,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Geoff Meecham ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Schott ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Baum ": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Company Representative": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sue Mahony": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85,
+   0.75
+  ]
+ },
+ "Tony Butler ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Vamil Divan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Goodman": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Ricks ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jami Rubin": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Jeff Simmons": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ],
+  "title": "Senior Vice President and President of Elanco Animal Health"
+ },
+ "Umer Raffat": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Q \u2013 Jason Gerberry ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Prakhar": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Mirus": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

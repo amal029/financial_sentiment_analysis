@@ -1,0 +1,177 @@
+{
+ "date": "2020-11-10 10:00:00",
+ "Michael Deveau": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Andreas Fibig": {
+  "avg_sentiment_score": 0.359375,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.15,
+   0.65,
+   -0.45,
+   0.45,
+   0.55,
+   -0.15,
+   1.0,
+   0.0,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.745,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.85,
+   0.67,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Rustom Jilla": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   -0.45,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Astrachan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Heidi Vesterinen": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Lauren Lieberman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Faiza Alwy": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Gunther Zechmann": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Thomas Digenan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "John Roberts": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Matthew DeYoe": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Adam Samuelson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

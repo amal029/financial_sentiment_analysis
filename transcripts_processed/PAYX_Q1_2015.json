@@ -1,0 +1,570 @@
+{
+ "date": "2014-09-24 09:30:00",
+ "Martin Mucci": {
+  "avg_sentiment_score": 0.29000000000000004,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   0.0,
+   0.65,
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8418181818181818,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   0.4,
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Efrain Rivera": {
+  "avg_sentiment_score": 0.32410714285714287,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.65,
+   0.85,
+   0.55,
+   0.15,
+   -0.15,
+   0.15,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.85,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.5,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.65,
+   0.55,
+   0.05,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.7910714285714285,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.85,
+   0.85,
+   0.85,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   1.0
+  ]
+ },
+ "George Mihalos - Credit Suisse": {
+  "avg_sentiment_score": 0.5375,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "S.K. Prasad Borra \u2013 Goldman Sachs ": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Smitty Srethapramote - Morgan Stanley": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.65
+  ]
+ },
+ "Jason Kupferberg - Jefferies": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Martin Mucci ": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Kartik Mehta - Northcoast Research": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jeff Rossetti - Janney Capital Markets ": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   0.67,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Togut - Evercore Partners": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Glenn Greene - Oppenheimer & Co.": {
+  "avg_sentiment_score": 0.36428571428571427,
+  "sentiment_score": [
+   0.4,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6028571428571429,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   0.4,
+   0.67
+  ]
+ },
+ "Sara Gubins - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.35,
+   -1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.644,
+  "confidence": [
+   0.75,
+   0.4,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Jeff Silber - BMO Capital Markets": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.67
+  ]
+ },
+ "Brian Keen - Deutsche Bank": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim MacDonald - First Analysis ": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim McHugh - William Blair": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Grossman - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.5,
+   0.05,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.66875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Tim Wiley - Wells Fargo ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6166666666666667,
+  "confidence": [
+   0.6,
+   0.6,
+   0.65
+  ]
+ },
+ "Mark Marcon - Robert W. Baird": {
+  "avg_sentiment_score": 0.23500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.15,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Lisa Ellis - Sanford Bernstein ": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Tien-tsin Huang \u2013 JPMorgan": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.65
+  ]
+ }
+}

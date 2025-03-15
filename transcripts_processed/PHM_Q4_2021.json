@@ -1,0 +1,192 @@
+{
+ "date": "2022-02-01 08:30:00",
+ "Jim Zeumer": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Ryan Marshall": {
+  "avg_sentiment_score": 0.3368421052631579,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.0,
+   0.05,
+   0.5,
+   0.0,
+   0.45,
+   0.85,
+   0.55,
+   -0.45,
+   0.75,
+   0.65,
+   0.0,
+   0.45,
+   0.45,
+   0.05,
+   0.55,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8157894736842105,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Bob O'Shaughnessy": {
+  "avg_sentiment_score": 0.15625,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Mike Dahl": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7066666666666667,
+  "confidence": [
+   0.67,
+   0.6,
+   0.85
+  ]
+ },
+ "Ivy Zelman": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Anthony Pettinari": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Michael Rehaut": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Carl Reichardt": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "John Lovallo": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.4,
+   0.6
+  ]
+ },
+ "Truman Patterson": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ }
+}

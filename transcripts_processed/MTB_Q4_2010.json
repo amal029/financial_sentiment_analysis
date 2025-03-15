@@ -1,0 +1,383 @@
+{
+ "date": "2011-01-14 10:30:00",
+ "Don MacLeod": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4
+  ]
+ },
+ "Ren\u00e9 Jones": {
+  "avg_sentiment_score": 0.06724137931034484,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.55,
+   0.55,
+   0.45,
+   -0.15,
+   0.0,
+   -0.45,
+   0.15,
+   0.15,
+   -0.35,
+   0.05,
+   0.0,
+   0.45,
+   0.55,
+   0.05,
+   0.45,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.15,
+   0.15,
+   -1.0,
+   0.0,
+   0.05,
+   -0.35,
+   0.65,
+   0.0,
+   -0.35,
+   0.05,
+   0.65,
+   -0.45,
+   0.0,
+   -0.45,
+   0.45,
+   -1.0,
+   0.15,
+   0.05,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.743103448275862,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   0.5,
+   0.4,
+   0.4
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Todd Hagerman": {
+  "avg_sentiment_score": -0.2333333333333333,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Matthew O'Connor": {
+  "avg_sentiment_score": -0.012499999999999997,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew Clark": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Bob Ramsey": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Steve Alexopoulos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth Usdin": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "John Fox": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Andrew Jave": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Collyn Gilbert": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Gary Paul": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5900000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Brian Foran": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": -0.019999999999999997,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mac Hodgson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Sachin Shah": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Matthew Kelley": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

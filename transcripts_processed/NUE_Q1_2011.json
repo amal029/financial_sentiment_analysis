@@ -1,0 +1,204 @@
+{
+ "date": "2011-04-21 14:00:00",
+ "Daniel DiMicco": {
+  "avg_sentiment_score": 0.22291666666666668,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.75,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.55,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65,
+   0.05,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.4,
+   0.4
+  ],
+  "title": "Executive Chairman"
+ },
+ "James Frias": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Executive VP & Special Advisor to the CEO"
+ },
+ "John Ferriola": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   -1.0,
+   0.65,
+   0.15,
+   0.65,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.85,
+   0.75,
+   0.4,
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman, CEO & President"
+ },
+ "Christopher Olin": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Grass": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Executive Vice President and Chief Executive Officer of DJJ"
+ },
+ "Sal Tharani - Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0
+  ]
+ },
+ "David Gagliano - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.07499999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Brian Yu - Citigroup Inc": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "R. Stratman": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Chief Digital Officer"
+ },
+ "Mark Parr - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   1.0,
+   0.75
+  ]
+ },
+ "David Lipschitz - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

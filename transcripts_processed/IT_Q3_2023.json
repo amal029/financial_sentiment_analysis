@@ -1,0 +1,228 @@
+{
+ "date": "2023-11-03 08:00:00",
+ "David Cohen ": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gene Hall": {
+  "avg_sentiment_score": 0.4227272727272728,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.45,
+   -0.15,
+   0.05,
+   0.0,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8227272727272728,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Craig Safian": {
+  "avg_sentiment_score": 0.38636363636363635,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   -0.15,
+   -0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.35,
+   1.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7454545454545454,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ]
+ },
+ "Heather Balsky": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Gene Hall ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Seth Weber ": {
+  "avg_sentiment_score": 0.46666666666666673,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.9,
+   0.6,
+   0.75
+  ]
+ },
+ "Andrew Nicholas": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Safian ": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.55,
+   0.35
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Joshua Chan ": {
+  "avg_sentiment_score": 0.6000000000000001,
+  "sentiment_score": [
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   0.85
+  ]
+ },
+ "Manav Patnaik ": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeffrey Silber": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

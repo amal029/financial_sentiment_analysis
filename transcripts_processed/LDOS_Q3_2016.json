@@ -1,0 +1,232 @@
+{
+ "date": "2016-11-03 08:00:00",
+ "Kelly P. Hernandez - Leidos Holdings, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Roger A. Krone - Leidos Holdings, Inc.": {
+  "avg_sentiment_score": 0.3357142857142857,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.05,
+   0.0,
+   0.85,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8347619047619048,
+  "confidence": [
+   0.9,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.68,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Officer"
+ },
+ "James C. Reagan - Leidos Holdings, Inc.": {
+  "avg_sentiment_score": 0.4305555555555556,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   -0.15,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.65,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4,
+   0.4,
+   0.8,
+   0.67,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.9
+  ]
+ },
+ "Cai von Rumohr - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jonathan Raviv - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.11000000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.844,
+  "confidence": [
+   1.0,
+   0.8,
+   0.67,
+   0.75,
+   1.0
+  ]
+ },
+ "Edward S. Caso - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Robert M. Spingarn - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.06250000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   -0.35,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "William Loomis - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.35714285714285715,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7714285714285715,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Tobey Sommer - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Amit Singh - Jefferies LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ }
+}

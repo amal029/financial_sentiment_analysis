@@ -1,0 +1,358 @@
+{
+ "date": "2013-11-19 11:00:00",
+ "Carol M. Meyrowitz": {
+  "avg_sentiment_score": 0.5397058823529413,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   1.0,
+   0.55,
+   1.0,
+   1.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   1.0,
+   0.55,
+   0.15,
+   0.65,
+   0.85,
+   0.85,
+   0.85,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8205882352941176,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.4,
+   0.75,
+   0.4,
+   0.8,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.8,
+   0.75,
+   0.6,
+   0.85,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman"
+ },
+ "Debra McConnell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Goldenberg": {
+  "avg_sentiment_score": 0.28500000000000003,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   -0.35,
+   0.85,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "Senior Executive Vice President of Finance"
+ },
+ "Daniel Hofkin - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Lorraine Maikis Hutchinson - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Ernie L. Herrman": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Oliver Chen - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   0.85,
+   1.0
+  ]
+ },
+ "Kimberly C. Greenberger - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard Ellis Jaffe - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Baker - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Stephen W. Grambling - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Roxanne Meyer - UBS Investment Bank, Research Division": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian J. Tunick - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Lejuez - Wells Fargo Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Howard Tubin - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Jeffrey S. Stein - Northcoast Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Marni Shapiro - The Retail Tracker": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dana Lauren Telsey - Telsey Advisory Group LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Laura A. Champine - Canaccord Genuity, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mark K. Montagna - Avondale Partners, LLC, Research Division": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Patrick McKeever - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David J. Glick - The Buckingham Research Group Incorporated": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "date": "2018-07-26 17:00:00",
+ "Odette Marie Go - Lam Research Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Martin Brian Anstice - Lam Research Corp.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.75,
+   0.75,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.05,
+   0.05,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   1.0,
+   0.85,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7757692307692307,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   0.5,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.9,
+   0.6,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Douglas R. Bettinger - Lam Research Corp.": {
+  "avg_sentiment_score": 0.156,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8908,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "C. J. Muse - Evercore Group LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Timothy Arcuri - UBS Securities LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7675000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Harlan Sur - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.925,
+  "sentiment_score": [
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Krish Sankar - Cowen and Company LLC": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Toshiya Hari - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John William Pitzer - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Atif Malik - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Sidney Ho - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Patrick J Ho - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Robert Diffely - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mitch Steves - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Y. Edwin Mok - Needham & Co. LLC": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Weston David Twigg - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5566666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   0.67
+  ]
+ }
+}

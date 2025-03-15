@@ -1,0 +1,281 @@
+{
+ "date": "2019-02-15 11:30:00",
+ "Presentation": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Salli Schwartz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Ray McDaniel": {
+  "avg_sentiment_score": 0.4833333333333333,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.85,
+   -0.45,
+   0.85,
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.85,
+   -0.45,
+   0.85,
+   0.85,
+   -0.45,
+   0.55,
+   -0.35,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.4
+  ]
+ },
+ "Mark Kaye": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.65,
+   0.35,
+   0.45,
+   0.45,
+   0.85,
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.9
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Mark Almeida": {
+  "avg_sentiment_score": 0.32142857142857145,
+  "sentiment_score": [
+   0.45,
+   0.85,
+   0.15,
+   -0.45,
+   0.85,
+   0.85,
+   -0.45
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.9,
+   0.9,
+   0.75
+  ],
+  "title": "President of Moody's Analytics"
+ },
+ "RobFauber": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Rob Fauber": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Appert": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   -0.35,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Tim Mchugh": {
+  "avg_sentiment_score": 0.6166666666666666,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.85
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9
+  ]
+ },
+ "Craig Huber": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.9
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Joseph Foresi": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.85,
+   -0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Jeff Silber": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.5,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Bill Warmington": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.45
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Dan Dolev": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ }
+}

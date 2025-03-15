@@ -1,0 +1,251 @@
+{
+ "date": "2011-08-03 09:30:00",
+ "Kip Rupp": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "James O'Neil": {
+  "avg_sentiment_score": 0.42500000000000004,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   -0.35,
+   0.65,
+   0.45,
+   0.0,
+   0.65,
+   0.15,
+   0.85,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.8,
+   0.75,
+   0.7,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.9,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "James Haddox": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.5666666666666667,
+  "confidence": [
+   0.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75
+  ],
+  "title": "Executive Vice President"
+ },
+ "Sanjay Shrestha - Lazard Capital Markets LLC": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.75,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.85,
+   0.75
+  ]
+ },
+ "Tahira Afzal - KeyBanc Capital Markets Inc.": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Chang - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Will Gabrielski - Gleacher & Company, Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.85,
+   0.6
+  ]
+ },
+ "Daniel Mannes - Avondale Partners, LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.55,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Alexander Rygiel - FBR Capital Markets & Co.": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Wittmann - Robert W. Baird & Co. Incorporated": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Adam Thalhimer - BB&T Capital Markets": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Kenneth Trawick": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "President of Telecommunications & Renewables Division"
+ },
+ "Craig Irwin - Wedbush Securities Inc.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.85
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.75,
+   0.9
+  ]
+ },
+ "Scott Levine - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "Jeffrey Beach - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "John Rogers - D.A. Davidson & Co.": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ }
+}

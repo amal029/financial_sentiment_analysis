@@ -1,0 +1,191 @@
+{
+ "date": "2018-02-01 08:30:00",
+ "Scott Childress": {
+  "avg_sentiment_score": 0.265,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8150000000000001,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4
+  ]
+ },
+ "David Abney": {
+  "avg_sentiment_score": 0.4090909090909091,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.85,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "Myron Gray": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ],
+  "title": "Senior Vice President and President of United States Operations"
+ },
+ "Jim Barber": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Richard Peretz": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.85,
+   0.35,
+   0.15,
+   0.65,
+   0.65,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7928571428571428,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Senior Vice President and Treasurer"
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.35,
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Alan Gershenhorn": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ],
+  "title": "Chief Commercial Officer and Senior Vice President"
+ },
+ "Kate Gutmann": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.4,
+   0.85
+  ]
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

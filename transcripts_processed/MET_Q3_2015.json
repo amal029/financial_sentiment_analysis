@@ -1,0 +1,283 @@
+{
+ "date": "2015-11-05 08:00:00",
+ "Edward A. Spehar - Head of Investor Relations, MetLife, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Steven Albert Kandarian - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.061111111111111116,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.35,
+   0.45,
+   -0.35,
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "John C. R. Hele - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.040625,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.35
+  ],
+  "avg_confidence": 0.765625,
+  "confidence": [
+   0.75,
+   0.8,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "CFO and Executive Vice President"
+ },
+ "Thomas George Gallagher - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jamminder Singh Bhullar - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   0.8,
+   0.75,
+   1.0
+  ]
+ },
+ "Steven J. Goulart - Chief Investment Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive VP & Chief Investment Officer"
+ },
+ "Suneet L. Kamath - UBS Securities LLC": {
+  "avg_sentiment_score": -0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Seth M. Weiss - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Jay H. Gelb - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.03749999999999999,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ryan Krueger - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Thomas Steigerwalt - Chairman, President & Chief Executive Officer, MetLife Insurance Company of Connecticut": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.75
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Erik J. Bass - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher G. Townsend - President-Asia Region": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8500000000000001,
+  "confidence": [
+   0.9,
+   0.8
+  ],
+  "title": "President of Asia"
+ },
+ "Yaron J. Kinar - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Mike E. Kovac - Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "John M. Nadel - Piper Jaffray & Co (Broker)": {
+  "avg_sentiment_score": 0.13333333333333333,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Eric Berg - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

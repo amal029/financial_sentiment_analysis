@@ -1,0 +1,275 @@
+{
+ "date": "2011-07-19 09:00:00",
+ "Beth Mooney": {
+  "avg_sentiment_score": 0.3458333333333334,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.15,
+   0.15,
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7041666666666666,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   0.4
+  ],
+  "title": "Chairman, Chief Executive Officer and President"
+ },
+ "Jeffrey Weeden": {
+  "avg_sentiment_score": 0.06111111111111113,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.55,
+   -0.15,
+   0.65,
+   -0.15,
+   0.05,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   -0.15,
+   -0.35,
+   0.55,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7555555555555555,
+  "confidence": [
+   0.0,
+   0.8,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Financial Officer, Senior Executive Vice President and Member of Executive Council"
+ },
+ "Craig Siegenthaler - Cr\u00e9dit Suisse AG": {
+  "avg_sentiment_score": -0.03333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Gorman": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Ken Zerbe - Morgan Stanley": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Analyst - ": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Kenneth Usdin - Bank of America Securities": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Charles Hyle": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Risk Officer, Executive Vice President and Member of Executive Council"
+ },
+ "Erika Penala - Merrill Lynch": {
+  "avg_sentiment_score": -0.12,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "William Koehler": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.85,
+   0.4
+  ]
+ },
+ "Steven Alexopoulos - JP Morgan Chase & Co": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Mayo - Credit Agricole Securities (USA) Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Brent Erensel - Portales Partners": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Burnell - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Terence McEvoy - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gerard Cassidy - RBC Capital Markets, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "date": "2019-03-27 11:00:00",
+ "Alexandra Lumpkin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Stuart Miller": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.05,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6,
+   0.9,
+   1.0
+  ],
+  "title": "Co-CEO & Executive Chairman"
+ },
+ "Richard Beckwitt": {
+  "avg_sentiment_score": 0.24615384615384617,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8423076923076922,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Co-CEO, Co-President & Director"
+ },
+ "Jonathan Jaffe": {
+  "avg_sentiment_score": 0.6055555555555556,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.45,
+   1.0,
+   0.35,
+   0.15,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.6722222222222222,
+  "confidence": [
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   0.4,
+   0.75,
+   0.6,
+   0.9,
+   1.0
+  ],
+  "title": "Co-CEO, President & Director"
+ },
+ "Diane Bessette": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.6
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ],
+  "title": "VP, CFO & Treasurer"
+ },
+ "Buck Horne": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Kim": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Eisen": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Stuart Miller ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Alan Ratner ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Michael Rehaut ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Stephen East": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ }
+}

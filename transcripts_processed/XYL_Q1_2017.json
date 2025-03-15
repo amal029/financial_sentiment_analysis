@@ -1,0 +1,376 @@
+{
+ "date": "2017-05-02 09:00:00",
+ "Matt Latino - Xylem, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrick K. Decker - Xylem, Inc.": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   1.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   0.0,
+   0.35,
+   1.0,
+   0.0,
+   0.05,
+   0.55,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.05,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8443636363636363,
+  "confidence": [
+   0.9,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.67,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "E. Mark Rajkowski - Xylem, Inc.": {
+  "avg_sentiment_score": 0.17758620689655175,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   -1.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8620689655172413,
+  "confidence": [
+   0.8,
+   0.8,
+   1.0,
+   0.4,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Deane Dray - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.67,
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott R. Davis - Barclays Capital, Inc.": {
+  "avg_sentiment_score": -0.03,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Nathan Jones - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.2916666666666667,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7716666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Jim Giannakouros - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Chip Moore - Canaccord Genuity, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Joseph Giordano - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Lee - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "John Fred Walsh - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.65
+  ]
+ },
+ "Robert Barry - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.10500000000000001,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8480000000000001,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Jose Ricardo Garza - G.research LLC": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.68
+  ]
+ }
+}

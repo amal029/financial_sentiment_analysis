@@ -1,0 +1,330 @@
+{
+ "date": "2010-11-05 17:00:00",
+ "Steve Sanghi": {
+  "avg_sentiment_score": 0.2210526315789474,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   -0.15,
+   0.55,
+   0.0,
+   -0.35,
+   -1.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.35,
+   0.55,
+   0.45,
+   0.0,
+   0.55,
+   0.15,
+   0.75,
+   1.0,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.85,
+   -0.15,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7994736842105263,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.68,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.8
+  ],
+  "title": "Executive Chair"
+ },
+ "Eric Bjornholt": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Ganesh Moorthy": {
+  "avg_sentiment_score": 0.2222222222222222,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Doug Freedman": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Shawn Boyd": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Terence Whalen": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.1,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8466666666666667,
+  "confidence": [
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "James Schneider": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Chris Caso": {
+  "avg_sentiment_score": 0.0875,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Chris Danley": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Barton": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Brendan Furlong": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ray Rund": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.7
+  ]
+ },
+ "Steve Elisque [ph]": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kevin Cassidy": {
+  "avg_sentiment_score": 0.20625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8525,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "John Pitzer": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Janet Ramkissoon": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Ellis": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

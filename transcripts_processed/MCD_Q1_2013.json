@@ -1,0 +1,318 @@
+{
+ "date": "2013-04-19 11:00:00",
+ "Chris Stent": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Don Thompson": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.65,
+   -0.45,
+   0.45,
+   0.45,
+   0.45,
+   1.0,
+   -0.15,
+   -0.35,
+   0.15,
+   0.0,
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Executive Officer, President, Director and Chairman of Executive Committee"
+ },
+ "Peter J. Bensen": {
+  "avg_sentiment_score": -0.15454545454545454,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   -0.45,
+   -1.0,
+   -0.35,
+   0.55,
+   -1.0,
+   0.05,
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7181818181818183,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Administrative Officer"
+ },
+ "David S. Palmer \u2013 UBS Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Joseph T. Buckley \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Siegner \u2013 Credit Suisse Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Tim Fenton": {
+  "avg_sentiment_score": 0.5900000000000001,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0,
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.4,
+   0.6
+  ],
+  "title": "Chief Operating Officer"
+ },
+ "Matt J. DiFrisco \u2013 Lazard Capital Markets LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Michael Kelter \u2013 Goldman Sachs & Co.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "John S. Glass \u2013 Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David E. Tarantino \u2013 Robert W. Baird & Co.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Will E. Slabaugh \u2013 Stephens Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Tamas \u2013 Oppenheimer Securities": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeff A. Bernstein \u2013 Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff F. Omohundro \u2013 Davenport Securities": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason T. West \u2013 Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Andy M. Barish \u2013 Jefferies LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mitch Speiser \u2013 Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeff D. Farmer \u2013 Wells Fargo Advisors LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "John W. Ivankoe \u2013 JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Sara H. Senatore \u2013 Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "R. J. Hottovy \u2013 Morningstar Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

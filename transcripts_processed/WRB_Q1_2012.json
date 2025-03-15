@@ -1,0 +1,349 @@
+{
+ "date": "2012-04-24 09:00:00",
+ "William R. Berkley": {
+  "avg_sentiment_score": 0.13125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.85,
+   0.55,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0,
+   0.65,
+   0.55,
+   0.15,
+   -0.15,
+   -0.55,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.75
+  ],
+  "avg_confidence": 0.8296875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "W. Robert Berkley, Jr.": {
+  "avg_sentiment_score": 0.026470588235294117,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   -0.45,
+   0.0,
+   0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8558823529411765,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Eugene G. Ballard": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6749999999999999,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   0.6,
+   1.0,
+   0.6
+  ],
+  "title": "Executive Vice President"
+ },
+ "Amit Kumar \u2013 Macquarie Research Equities": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6599999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   0.69
+  ]
+ },
+ "Keith Walsh \u2013 Citigroup": {
+  "avg_sentiment_score": 0.43571428571428567,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Shanker \u2013 Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Vinay Misquith \u2013 Evercore Partners Inc.": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7266666666666667,
+  "confidence": [
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Larry Greenberg \u2013 Langen McAlenney": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.726,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Michael Nannizzi \u2013 Goldman Sachs Group Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Doug Mewhirter \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Meyer Shields \u2013 Stifel Nicolaus & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Executive Vice President of Investments"
+ },
+ "Jeffrey Cohen \u2013 Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.33999999999999997,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8039999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Eugene G Ballard": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Robert Farnam \u2013 Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Dan Johnson \u2013 Citadel": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

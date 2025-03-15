@@ -1,0 +1,205 @@
+{
+ "date": "2016-11-03 09:00:00",
+ "Alan Mark Finkelstein - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.5,
+   1.0
+  ]
+ },
+ "John Robert Strangfeld - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Mark B. Grier - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "Vice Chairman"
+ },
+ "Robert M. Falzon - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.2791666666666667,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.15,
+   0.85,
+   0.45,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.6,
+   0.6,
+   0.9,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Jamminder Singh Bhullar - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen P. Pelletier - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.64,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.65,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   0.75
+  ],
+  "title": "Executive VP & COO of U.S. Businesses"
+ },
+ "John M. Nadel - Credit Suisse Securities (USA) LLC (Broker)": {
+  "avg_sentiment_score": 0.175,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Charles F. Lowrey - Prudential Financial, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ryan Krueger - Keefe, Bruyette & Woods, Inc.": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   1.0,
+   0.6,
+   0.65
+  ]
+ },
+ "Thomas Gallagher - Evercore ISI": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Yaron J. Kinar - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.05,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Humphrey Hung Fai Lee - Dowling & Partners Securities LLC": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.15,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Michael Kovac - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

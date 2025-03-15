@@ -1,0 +1,325 @@
+{
+ "date": "2021-01-28 09:30:00",
+ "Mark Kowlzan": {
+  "avg_sentiment_score": 0.1864864864864865,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.15,
+   0.6,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   -0.45,
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8081081081081081,
+  "confidence": [
+   0.9,
+   0.8,
+   0.0,
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Tom Hassfurther": {
+  "avg_sentiment_score": 0.5444444444444445,
+  "sentiment_score": [
+   0.75,
+   1.0,
+   0.0,
+   0.55,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.65,
+   1.0,
+   0.85,
+   1.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8305555555555555,
+  "confidence": [
+   0.85,
+   0.4,
+   0.6,
+   0.75,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Mundy": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8875,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "George Staphos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Wilde": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mark Connelly": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Mark Weintraub": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Adam Josephson": {
+  "avg_sentiment_score": 0.03000000000000001,
+  "sentiment_score": [
+   -0.35,
+   -0.35,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gabe Hajde": {
+  "avg_sentiment_score": 0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8916666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Neel Kumar": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Anthony Pettinari": {
+  "avg_sentiment_score": -0.0875,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Kyle White": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Philip Ng": {
+  "avg_sentiment_score": 0.2714285714285714,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9285714285714286,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

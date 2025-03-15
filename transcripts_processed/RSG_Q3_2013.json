@@ -1,0 +1,244 @@
+{
+ "date": "2013-11-01 09:00:00",
+ "Edward A. Lang": {
+  "avg_sentiment_score": 0.061111111111111116,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "Donald W. Slager": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.15,
+   0.45,
+   -0.15,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.05,
+   0.15,
+   0.0,
+   0.65,
+   0.15,
+   0.55,
+   0.0,
+   0.55,
+   0.05,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.65,
+   0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Consultant"
+ },
+ "Glenn A. Culpepper": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.4,
+   0.4,
+   1.0
+  ]
+ },
+ "Hamzah Mazari": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Albert Leo Kaschalk": {
+  "avg_sentiment_score": 0.05000000000000002,
+  "sentiment_score": [
+   0.45,
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Michael E. Hoffman": {
+  "avg_sentiment_score": 0.67,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.35
+  ],
+  "avg_confidence": 0.67,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.4,
+   0.75
+  ]
+ },
+ "Corey Greendale": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joe Box": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Adam R. Thalhimer": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Alex Ovshey": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.6,
+   0.15
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Stewart Scharf": {
+  "avg_sentiment_score": -0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Barbara Noverini": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey D. Osborne": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

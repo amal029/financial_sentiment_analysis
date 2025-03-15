@@ -1,0 +1,406 @@
+{
+ "date": "2011-06-10 09:00:00",
+ "Joseph Teklits": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Christine M. Day": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.65,
+   0.45,
+   0.45,
+   0.05,
+   0.85,
+   0.0,
+   0.15,
+   0.45,
+   1.0,
+   0.75,
+   -1.0,
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.65,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   0.55,
+   0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7666666666666667,
+  "confidence": [
+   0.8,
+   0.4,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.4,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Executive Officer, President and Director"
+ },
+ "Christopher Ladd": {
+  "avg_sentiment_score": 0.32857142857142857,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "John E. Currie": {
+  "avg_sentiment_score": 0.33055555555555555,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.0,
+   1.0,
+   0.85,
+   0.0,
+   0.05,
+   1.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.4,
+   0.9,
+   1.0,
+   0.6,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.85,
+   0.85
+  ]
+ },
+ "Michelle Tan": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Delaney Schweitzer": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Executive Vice President of Retail Operations"
+ },
+ "Lorraine Maikis Hutchinson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Janet Kloppenburg": {
+  "avg_sentiment_score": 0.01,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Claire Armstrong  Gallacher": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Sharon Zackfia": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Paul Lejuez": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Taposh Bari": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Sheree Waterson": {
+  "avg_sentiment_score": 0.38333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Chief Product Officer"
+ },
+ "John Zolidis": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Lizabeth Dunn": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unknown Analyst -": {
+  "avg_sentiment_score": -0.045,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Howard Tubin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stacy W. Pak": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Jennifer Black": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Dana Telsey": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

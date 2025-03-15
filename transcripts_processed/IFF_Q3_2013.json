@@ -1,0 +1,128 @@
+{
+ "date": "2013-11-05 10:00:00",
+ "Shelley Young": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Douglas D. Tough": {
+  "avg_sentiment_score": 0.5750000000000001,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7916666666666666,
+  "confidence": [
+   0.6,
+   0.8,
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Nicolas Mirzayantz": {
+  "avg_sentiment_score": 0.55625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   1.0,
+   0.15,
+   0.65,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.70625,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.4
+  ],
+  "title": "President of Nourish"
+ },
+ "Hernan Vaisman": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ],
+  "title": "Group President of Flavors"
+ },
+ "Kevin C. Berryman": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   1.0,
+   0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.8,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Principal Accounting Officer and Executive Vice President"
+ },
+ "Mark S. Astrachan - Stifel, Nicolaus & Co., Inc., Research Division": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Michael J. Sison - KeyBanc Capital Markets Inc., Research Division": {
+  "avg_sentiment_score": -0.5,
+  "sentiment_score": [
+   0.0,
+   -1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Silke Kueck-Valdes - JP Morgan Chase & Co, Research Division": {
+  "avg_sentiment_score": -0.1,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ }
+}

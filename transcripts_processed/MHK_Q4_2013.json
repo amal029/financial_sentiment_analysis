@@ -1,0 +1,417 @@
+{
+ "date": "2014-02-21 11:00:00",
+ "Frank Boykin": {
+  "avg_sentiment_score": 0.25227272727272726,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   1.0,
+   -0.35,
+   -0.35,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7727272727272727,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.4,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jeffrey Lorberbaum": {
+  "avg_sentiment_score": 0.3225490196078431,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   1.0,
+   0.05,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.75,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0,
+   -0.15,
+   0.55,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8337254901960784,
+  "confidence": [
+   0.8,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.5,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.6,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Dennis McGill - Zelman & Associates": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Eli Hackel - Goldman Sachs": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Keith Hughes - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kathryn Thompson - Thompson Research Group": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Goldberg - UBS": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David MacGregor - Longbow Research": {
+  "avg_sentiment_score": 0.26875,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth Zener - KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.7666666666666666,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.85,
+   0.65
+  ]
+ },
+ "Steven Kim - Barclays Capital": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.0,
+   1.0
+  ]
+ },
+ "Jason Marcus - JP Morgan": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Stephen East - ISI Group": {
+  "avg_sentiment_score": 0.09166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6916666666666668,
+  "confidence": [
+   0.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Dahl - Credit Suisse": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6766666666666667,
+  "confidence": [
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Eric Bosshard - Cleveland Research Company": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.05,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "John Baugh - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.6375,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Sam Darkatsh - Raymond James": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ]
+ }
+}

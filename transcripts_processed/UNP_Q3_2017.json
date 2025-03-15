@@ -1,0 +1,434 @@
+{
+ "date": "2017-10-26 08:45:00",
+ "Lance M. Fritz - Union Pacific Corp.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.0,
+   0.6,
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8469696969696969,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Elizabeth F. Whited - Union Pacific Corp.": {
+  "avg_sentiment_score": 0.255,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.45,
+   0.45,
+   0.15,
+   0.55,
+   0.15,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.65,
+   1.0,
+   1.0
+  ],
+  "title": "President"
+ },
+ "Cameron A. Scott - Union Pacific Corp.": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ],
+  "title": "Executive VP & COO of Union Pacific Railroad Company"
+ },
+ "Robert M. Knight - Union Pacific Corp.": {
+  "avg_sentiment_score": 0.21333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.45,
+   0.65,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.7899999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.6
+  ]
+ },
+ "Chris Wetherbee - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jason Seidl - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Wadewitz - UBS Securities LLC": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7528571428571428,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Justin Long - Stephens, Inc.": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Fadi Chamoun - BMO Capital Markets (Canada)": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Allison M. Landry - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Brandon Oglenski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Cherilyn Radbourne - TD Securities, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9175,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "J. David Scott Vernon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Scott H. Group - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   -0.15,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Walter Spracklin - RBC Dominion Securities, Inc.": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.812857142857143,
+  "confidence": [
+   0.75,
+   0.67,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Ariel Rosa - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Bascome Majors - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": -0.13333333333333333,
+  "sentiment_score": [
+   0.05,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Brian P. Ossenbeck - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Diane Huang - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Amit Mehrotra - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ }
+}

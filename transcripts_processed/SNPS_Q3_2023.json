@@ -1,0 +1,265 @@
+{
+ "date": "2023-08-16 17:00:00",
+ "Trey Campbell": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Aart de Geus": {
+  "avg_sentiment_score": 0.42105263157894735,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   -0.15,
+   1.0,
+   0.65,
+   1.0,
+   0.6,
+   0.85,
+   0.0,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8852631578947369,
+  "confidence": [
+   0.95,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.67,
+   0.75,
+   0.9,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "Sassine Ghazi": {
+  "avg_sentiment_score": 0.64,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.85,
+   0.55,
+   1.0,
+   0.65,
+   0.45,
+   1.0,
+   0.6,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8413333333333334,
+  "confidence": [
+   0.4,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.67,
+   0.75,
+   1.0,
+   0.8
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Shelagh Glaser": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0,
+   0.55,
+   0.65,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85,
+   0.4
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Jason Celino": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.65
+  ]
+ },
+ "Gary Mobley": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Joshua Tilton": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Joseph Vruwink": {
+  "avg_sentiment_score": 0.7999999999999999,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": 0.04,
+  "sentiment_score": [
+   1.0,
+   -0.45,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Ruben Roy": {
+  "avg_sentiment_score": 0.82,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Charles Shi": {
+  "avg_sentiment_score": 0.825,
+  "sentiment_score": [
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.67,
+   0.85
+  ]
+ },
+ "Gianmarco Conti": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Blair Abernethy": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ }
+}

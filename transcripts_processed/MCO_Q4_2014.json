@@ -1,0 +1,386 @@
+{
+ "date": "2015-02-06 11:30:00",
+ "Salli Schwartz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Raymond McDaniel": {
+  "avg_sentiment_score": 0.2120689655172414,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7586206896551724,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Linda Huber": {
+  "avg_sentiment_score": 0.18888888888888888,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.45,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   -0.15,
+   0.0,
+   -0.15,
+   0.85,
+   -0.15,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.35,
+   0.55,
+   0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8138888888888889,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.8
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Andre Benjamin": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.8
+  ]
+ },
+ "Mark Almeida": {
+  "avg_sentiment_score": 0.6083333333333333,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.75,
+   0.4
+  ],
+  "title": "President of Moody's Analytics"
+ },
+ "Doug Arthur": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Michel Madelain": {
+  "avg_sentiment_score": 0.5833333333333334,
+  "sentiment_score": [
+   0.55,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "President of Moody's Investors Service Inc and Chief Operating Officer of Moody's Investors Service Inc"
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": 0.05833333333333334,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7583333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Craig Huber": {
+  "avg_sentiment_score": 0.05625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.77875,
+  "confidence": [
+   1.0,
+   0.4,
+   0.68,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Alex Kramm": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Peter Appert": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Bird": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Foresi": {
+  "avg_sentiment_score": 0.0625,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Bill Warmington": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Tim McHugh": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   0.6
+  ]
+ },
+ "Vincent Hung": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Patrick OShaughnessy": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

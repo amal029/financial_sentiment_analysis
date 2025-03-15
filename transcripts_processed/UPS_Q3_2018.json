@@ -1,0 +1,203 @@
+{
+ "date": "2018-10-24 08:30:00",
+ "Scott Childress - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   0.15,
+   0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "David P. Abney - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.37222222222222223,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.9055555555555556,
+  "confidence": [
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.75
+  ],
+  "title": "Chairman and Chief Executive Officer"
+ },
+ "James Jay Barber - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.5857142857142857,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   -0.15,
+   0.55,
+   1.0,
+   0.55,
+   0.85
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.9
+  ]
+ },
+ "Richard N. Peretz - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.45,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.6857142857142857,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   0.6,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Chief Financial Officer, Senior Vice President and Treasurer"
+ },
+ "Kathleen M. Gutmann - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.55,
+   0.75,
+   1.0,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.75,
+   0.85,
+   0.4,
+   0.85,
+   0.75
+  ]
+ },
+ "Scott Price - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85,
+   0.85
+  ]
+ },
+ "Ken Hoexter - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas Wadewitz - UBS Securities LLC": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Juan R. Perez - United Parcel Service, Inc.": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85,
+   0.85
+  ]
+ },
+ "J. David Scott Vernon - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Allison M. Landry - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

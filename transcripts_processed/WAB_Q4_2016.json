@@ -1,0 +1,336 @@
+{
+ "date": "2017-02-21 10:00:00",
+ "Timothy R. Wesley - Westinghouse Air Brake Technologies Corp.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Albert J. Neupaver - Westinghouse Air Brake Technologies Corp.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8529411764705882,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   1.0,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman of The Board"
+ },
+ "Raymond T. Betler - Westinghouse Air Brake Technologies Corp.": {
+  "avg_sentiment_score": 0.1763888888888889,
+  "sentiment_score": [
+   0.45,
+   1.0,
+   0.0,
+   -0.35,
+   -0.15,
+   -0.15,
+   -1.0,
+   -0.15,
+   0.0,
+   0.0,
+   -1.0,
+   0.55,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.05,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   0.4,
+   0.75,
+   0.67,
+   1.0,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.68
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Patrick D. Dugan - Westinghouse Air Brake Technologies Corp.": {
+  "avg_sentiment_score": 0.10625000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   -0.35,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.86875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP of Finance & CFO"
+ },
+ "Justin Long - Stephens, Inc.": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   1.0,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Samuel H. Eisner - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.27499999999999997,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.6,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.5366666666666667,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   0.4,
+   0.4,
+   0.67
+  ]
+ },
+ "Ivan Yi - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Allison A. Poliniak-Cusic - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Saree Boroditsky - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.61,
+  "confidence": [
+   0.4,
+   0.75,
+   0.68
+  ]
+ },
+ "Jason A. Rodgers - Great Lakes Review": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew S. Brooklier - Longbow Research LLC": {
+  "avg_sentiment_score": 0.03461538461538461,
+  "sentiment_score": [
+   0.6,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8269230769230769,
+  "confidence": [
+   0.75,
+   0.4,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Steve Barger - KeyBanc Capital Markets, Inc.": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.6,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Kristine Kubacki - CLSA Americas": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ }
+}

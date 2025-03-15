@@ -1,0 +1,248 @@
+{
+ "date": "2019-10-30 09:00:00",
+ "Andrew Markwick": {
+  "avg_sentiment_score": 0.37142857142857144,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8250000000000001,
+  "confidence": [
+   0.5,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.4
+  ]
+ },
+ "Ari Bousbib": {
+  "avg_sentiment_score": 0.2423076923076923,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.75,
+   0.85,
+   0.55,
+   1.0,
+   0.85,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9230769230769231,
+  "confidence": [
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.9,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   0.8
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Michael McDonnell": {
+  "avg_sentiment_score": 0.31428571428571433,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8571428571428571,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Coldwell": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Erin Wright": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Dan Brennan": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Ricky Goldwasser": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": 0.1875,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Jack Meehan ": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "David Windley": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

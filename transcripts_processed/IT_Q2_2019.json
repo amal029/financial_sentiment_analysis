@@ -1,0 +1,210 @@
+{
+ "date": "2019-07-30 08:00:00",
+ "David Cohen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Gene Hall": {
+  "avg_sentiment_score": 0.5555555555555556,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Craig Safian": {
+  "avg_sentiment_score": 0.2676470588235294,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.65,
+   -0.75,
+   -0.15,
+   0.85,
+   0.65,
+   -0.15,
+   0.85,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.55,
+   0.65
+  ],
+  "avg_confidence": 0.8264705882352942,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.85
+  ]
+ },
+ "Tim McHugh": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   -0.35,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeff Meuler": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.5,
+   0.75,
+   1.0
+  ]
+ },
+ "Manav Patnaik": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Toni Kaplan": {
+  "avg_sentiment_score": 0.0666666666666667,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gary Bisbee": {
+  "avg_sentiment_score": -0.4,
+  "sentiment_score": [
+   -0.35,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Bill Warmington": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.6,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Jeff Silber": {
+  "avg_sentiment_score": -0.10000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph Foresi": {
+  "avg_sentiment_score": 0.375,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.6,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

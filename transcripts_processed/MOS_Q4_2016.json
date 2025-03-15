@@ -1,0 +1,258 @@
+{
+ "date": "2017-02-07 09:00:00",
+ "Laura C. Gagnon - The Mosaic Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "James C. O'Rourke - The Mosaic Co.": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   -0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   -0.45,
+   0.15,
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8324999999999999,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Michael R. Rahm - The Mosaic Co.": {
+  "avg_sentiment_score": 0.4000000000000001,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.65,
+   0.55,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.85
+  ]
+ },
+ "Richard L. Mack - The Mosaic Co.": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.8,
+   0.75,
+   0.4
+  ]
+ },
+ "Andrew Wong - RBC Capital Markets": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Richard N. McLellan - The Mosaic Co.": {
+  "avg_sentiment_score": 0.4857142857142857,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.85,
+   0.35,
+   0.45,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.8285714285714285,
+  "confidence": [
+   0.9,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Senior Vice President of Commercial"
+ },
+ "Vincent S. Andrews - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jonas Oxgaard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Roberts - UBS Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joel Jackson - BMO Capital Markets (Canada)": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Don Carson - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew J. Korn - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Ian Bennett - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Yonah Weisz - HSBC Bank Plc (Tel Aviv Branch)": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Oliver Rowe - Scotia Capital, Inc.": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Graeme Welds - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Leith Piken - Cleveland Research Co. LLC": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "P.J. Juvekar - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

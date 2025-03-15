@@ -1,0 +1,429 @@
+{
+ "date": "2024-01-25 08:45:00",
+ "Jim Vena": {
+  "avg_sentiment_score": 0.34500000000000003,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.0,
+   0.65,
+   1.0,
+   0.55,
+   0.55,
+   0.05,
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.15,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8627499999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.67,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   1.0,
+   0.64,
+   0.4,
+   1.0,
+   0.9,
+   0.65,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.85
+  ],
+  "title": "CEO & Director"
+ },
+ "Jennifer Hamann": {
+  "avg_sentiment_score": 0.020588235294117654,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.35,
+   -0.35,
+   1.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.65,
+   -0.15,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.8176470588235294,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.6,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Kenny Rocker": {
+  "avg_sentiment_score": 0.44642857142857145,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.55,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.55,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Vice President of Marketing & Sales - Union Pacific Railroad Company"
+ },
+ "Eric Gehringer": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ],
+  "title": "Executive Vice President of Operations - Union Pacific Railroad Company"
+ },
+ "Chris Wetherbee": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Walter Spracklin": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Scott Group": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Tom Wadewitz": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Jon Chappell": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Amit Mehrotra": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Allison Poliniak": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Brandon Oglenski": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Bascome Majors": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Ken Hoexter": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Justin Long": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Ben Nolan": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ravi Shanker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Brian Ossenbeck": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jordan Alliger": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Jason Seidl": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Kauffman": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jairam Nathan": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "David Vernon": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

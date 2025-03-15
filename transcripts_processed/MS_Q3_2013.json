@@ -1,0 +1,337 @@
+{
+ "date": "2013-10-18 11:00:00",
+ "Celeste Brown": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "James Gorman": {
+  "avg_sentiment_score": 0.5357142857142857,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   0.65,
+   0.65,
+   0.0,
+   1.0,
+   0.35
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   1.0,
+   0.4,
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Ruth Porat": {
+  "avg_sentiment_score": 0.32916666666666666,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   1.0,
+   0.0,
+   0.65,
+   0.15,
+   0.45,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.15,
+   0.65,
+   0.65,
+   0.55,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8472916666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   0.85,
+   1.0,
+   0.67,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.8,
+   1.0,
+   0.6,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Glenn Schorr": {
+  "avg_sentiment_score": 9.25185853854297e-18,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.65,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.85,
+   0.6
+  ]
+ },
+ "Howard Chen": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Guy Moszkowski": {
+  "avg_sentiment_score": 0.2642857142857143,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8071428571428572,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Carrier": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7400000000000001,
+  "confidence": [
+   0.8,
+   0.75,
+   0.67
+  ]
+ },
+ "Brennan Hawken": {
+  "avg_sentiment_score": 0.0071428571428571435,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9428571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Fiona Swaffield": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Wasserstrom": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Roger Freeman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jim Mitchell": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

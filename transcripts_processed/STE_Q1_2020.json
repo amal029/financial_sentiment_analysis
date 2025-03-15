@@ -1,0 +1,184 @@
+{
+ "date": "2019-08-07 10:00:00",
+ "Julie Winter": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   1.0,
+   0.67,
+   0.6
+  ]
+ },
+ "Mike Tokich": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.8,
+   0.75,
+   0.6,
+   0.85,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Walt Rosebrough": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   0.0,
+   0.75,
+   -0.15,
+   0.6,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   0.85,
+   0.55,
+   0.45
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.6,
+   0.67,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.75
+  ]
+ },
+ "Matthew Mishan": {
+  "avg_sentiment_score": 0.36875,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.45,
+   0.0,
+   1.0,
+   0.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8125,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Chris Cooley": {
+  "avg_sentiment_score": 0.30000000000000004,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Jason Rodgers": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mitra Ramgopal": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7050000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Larry Keusch": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

@@ -1,0 +1,283 @@
+{
+ "date": "2010-04-15 09:00:00",
+ "Dan Janson": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.72,
+  "confidence": [
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.8
+  ]
+ },
+ "Mark Frey": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   1.0,
+   0.6,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Thompson": {
+  "avg_sentiment_score": 0.31071428571428567,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.75,
+   0.15,
+   0.45,
+   0.85,
+   0.65,
+   0.0,
+   0.15,
+   0.45,
+   -0.15,
+   0.85,
+   0.85,
+   0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   0.65,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8089285714285713,
+  "confidence": [
+   0.9,
+   0.85,
+   0.5,
+   1.0,
+   0.6,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0
+  ]
+ },
+ "Ross Seymore \u2013 Deutsche Bank": {
+  "avg_sentiment_score": 0.36,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Terence Whalen \u2013 Citi": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Romit Shah \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8640000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   0.75,
+   0.67
+  ]
+ },
+ "Parag Agarwal \u2013 UBS": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Berger \u2013 FBR Capital Markets": {
+  "avg_sentiment_score": 0.23000000000000004,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.74,
+  "confidence": [
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Tristan Gerra \u2013 Robert Baird": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   0.05,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "John Pitzer \u2013 Credit Suisse": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8133333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.69
+  ]
+ },
+ "Steve Smigie \u2013 Raymond James": {
+  "avg_sentiment_score": 0.2625,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Kevin Cassidy \u2013 Thomas Weisel Partners": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Brendan Furlong \u2013 Miller Tabak": {
+  "avg_sentiment_score": -0.024999999999999994,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   -0.35,
+   0.0,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Bill Ong \u2013 Merriman": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ }
+}

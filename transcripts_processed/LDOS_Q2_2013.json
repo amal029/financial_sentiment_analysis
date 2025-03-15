@@ -1,0 +1,231 @@
+{
+ "date": "2012-08-30 17:00:00",
+ "Paul E. Levi": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.4
+  ]
+ },
+ "John P. Jumper": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.5
+  ],
+  "title": "Chairman of The Board, Chief Executive Officer, Member of Classified Business Oversight Committee and Member of Ethics & Corporate Responsibility Committee"
+ },
+ "K. Stuart Shea": {
+  "avg_sentiment_score": 0.23333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8633333333333333,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   0.75
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Mark W. Sopp": {
+  "avg_sentiment_score": 0.12352941176470589,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   -1.0,
+   0.0,
+   0.45,
+   0.0,
+   0.45,
+   0.6,
+   0.0,
+   0.05,
+   0.45,
+   0.05,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7529411764705882,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Michael Smith": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Kupferberg - Jefferies & Company, Inc., Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.5333333333333333,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4
+  ]
+ },
+ "Cai Von Rumohr - Cowen and Company, LLC, Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Glenn Fodor - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Robert Spingarn - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.016666666666666673,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Timothy McHugh - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "George A. Price - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

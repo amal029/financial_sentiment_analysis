@@ -1,0 +1,284 @@
+{
+ "date": "2016-05-09 10:00:00",
+ "Michael Charles A. Booth - Vice President-Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Herv\u00e9 Hoppenot - Chairman, President & Chief Executive Officer": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.7821428571428571,
+  "confidence": [
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.75,
+   0.85
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Barry P. Flannelly - Executive Vice President & General Manager": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   0.85,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.4,
+   0.6,
+   0.9,
+   0.8,
+   0.4,
+   1.0
+  ]
+ },
+ "Steven H. Stein - Chief Medical Officer & Senior Vice President": {
+  "avg_sentiment_score": 0.13636363636363635,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.55,
+   0.05,
+   0.0,
+   0.05,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.759090909090909,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "David W. Gryska - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Brian Abrahams - Jefferies LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Salveen Richter - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Schmidt - Leerink Partners LLC": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Morgan T. Haller - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7799999999999999,
+  "confidence": [
+   0.75,
+   0.5,
+   1.0,
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Ying Huang - Merrill Lynch, Pierce, Fenner & Smith, Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8233333333333334,
+  "confidence": [
+   0.8,
+   1.0,
+   0.67
+  ]
+ },
+ "Reid M. Huber - Chief Scientific Officer & Executive VP": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.9,
+   1.0
+  ]
+ },
+ "Eric Schmidt - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Liisa A. Bayko - JMP Securities LLC": {
+  "avg_sentiment_score": 0.24,
+  "sentiment_score": [
+   0.15,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.774,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Reni Benjamin - Raymond James & Associates, Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8133333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.69
+  ]
+ },
+ "Andrew Scott Berens - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.13,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.728,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   0.69
+  ]
+ }
+}

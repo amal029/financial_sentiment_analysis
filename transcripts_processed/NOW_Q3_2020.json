@@ -1,0 +1,169 @@
+{
+ "date": "2020-10-29 17:00:00",
+ "Lisa Banks": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Bill McDermott": {
+  "avg_sentiment_score": 0.8363636363636363,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.9,
+   1.0
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Gina Mastantuono": {
+  "avg_sentiment_score": 0.68125,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.0,
+   0.85,
+   0.85,
+   0.65,
+   0.75
+  ],
+  "avg_confidence": 0.89375,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   1.0,
+   0.9,
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Raimo Lenschow": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Samad Samana": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Kirk Materne": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Karl Keirstead": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Weiss": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9
+  ]
+ },
+ "Phil Winslow": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Derrick Wood": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brad Zelnick": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Zane Chrane": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ }
+}

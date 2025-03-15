@@ -1,0 +1,138 @@
+{
+ "date": "2023-08-03 08:30:00",
+ "Gillian Tiltman": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "William Meaney": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.9,
+   0.9
+  ]
+ },
+ "Barry Hytinen": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.0,
+   0.55,
+   0.45,
+   0.75,
+   0.85,
+   0.55,
+   0.05
+  ],
+  "avg_confidence": 0.8055555555555556,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "George Tong": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Nate Crossett": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Alex Hess": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Shlomo Rosenbaum": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Jonathan Atkin": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kevin McVeigh": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Eric Luebchow": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brendan Lynch": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

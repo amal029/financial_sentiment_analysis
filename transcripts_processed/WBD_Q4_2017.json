@@ -1,0 +1,158 @@
+{
+ "date": "2018-02-27 08:30:00",
+ "Andrew T. Slabin - Discovery Communications, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David M. Zaslav - Discovery Communications, Inc.": {
+  "avg_sentiment_score": 0.6136363636363636,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.85,
+   0.65,
+   0.55,
+   0.65,
+   0.55,
+   0.45,
+   0.55,
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.8045454545454546,
+  "confidence": [
+   0.9,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Gunnar Wiedenfels - Discovery Communications, Inc.": {
+  "avg_sentiment_score": 0.5142857142857143,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.55,
+   0.65,
+   0.45,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.7571428571428571,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.4,
+   0.85
+  ]
+ },
+ "Steven Cahall - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Jessica Jean Reif Cohen - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Tim Nollen - Macquarie Capital (USA), Inc.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Todd Michael Juenger - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Alexia S. Quadrani - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John Janedis - Jefferies LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jason Boisvert Bazinet - Citigroup Global Markets, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.15,
+   0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Mark Kelley - BTIG LLC": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

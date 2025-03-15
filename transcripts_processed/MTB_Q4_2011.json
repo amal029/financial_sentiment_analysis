@@ -1,0 +1,317 @@
+{
+ "date": "2012-01-17 11:00:00",
+ "Donald J. MacLeod": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "Ren\u00e9 F. Jones": {
+  "avg_sentiment_score": 0.11224489795918367,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   0.0,
+   0.05,
+   0.45,
+   1.0,
+   0.15,
+   0.85,
+   0.0,
+   -0.15,
+   -0.45,
+   0.65,
+   -0.15,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   0.15,
+   0.6,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   -0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.4,
+   0.4,
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.8,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.4,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Matthew T. Clark": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Marty Mosby": {
+  "avg_sentiment_score": 0.07142857142857142,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Kenneth M. Usdin": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.55,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "John G. Pancari": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Bob Ramsey": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Leanne Erika Penala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.625,
+  "confidence": [
+   0.5,
+   0.6,
+   0.6,
+   0.8
+  ]
+ },
+ "Adam Chaim": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steven A. Alexopoulos": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Craig Siegenthaler": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "John D. Fox": {
+  "avg_sentiment_score": 0.1,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.93,
+  "confidence": [
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75
+  ]
+ },
+ "Collyn Bement Gilbert": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Turner": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6
+  ]
+ }
+}

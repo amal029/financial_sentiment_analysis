@@ -1,0 +1,264 @@
+{
+ "date": "2012-02-02 16:30:00",
+ "Henry A. Diamond": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Strauss Zelnick": {
+  "avg_sentiment_score": 0.27380952380952384,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.55,
+   0.55,
+   0.65,
+   0.55,
+   0.15,
+   0.05,
+   -0.35,
+   0.45,
+   -0.35,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7738095238095238,
+  "confidence": [
+   0.9,
+   0.8,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Karl Slatoff": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.78125,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   0.85
+  ],
+  "title": "President"
+ },
+ "Lainie Goldstein": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.8,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Justin Post": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Arvind Bhatia": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "James Hardiman": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.35,
+   0.5
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Handler": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Michael Hickey": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6
+  ]
+ },
+ "Benjamin Schachter": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Daniel Ernst": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Fitzgerald": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Douglas Creutz": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Edward Williams": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Gregor Schauer": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Atul Bagga": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Olson": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

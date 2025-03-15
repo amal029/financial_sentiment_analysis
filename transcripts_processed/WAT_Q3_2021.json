@@ -1,0 +1,174 @@
+{
+ "date": "2021-11-02 08:00:00",
+ "Caspar Tudor": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.05,
+   0.85
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.6,
+   0.9
+  ]
+ },
+ "Udit Batra": {
+  "avg_sentiment_score": 0.721875,
+  "sentiment_score": [
+   0.75,
+   0.85,
+   0.55,
+   0.85,
+   0.85,
+   0.65,
+   0.45,
+   0.45,
+   0.35,
+   0.65,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.81875,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.9,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   0.9,
+   0.9,
+   0.4
+  ]
+ },
+ "Amol Chaubal": {
+  "avg_sentiment_score": 0.21250000000000002,
+  "sentiment_score": [
+   0.65,
+   -0.15,
+   -0.15,
+   0.5
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Dan Brennan Alan": {
+  "avg_sentiment_score": 0.7,
+  "sentiment_score": [
+   0.85,
+   0.55
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.9,
+   0.75
+  ]
+ },
+ "Tycho Peterson": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   0.05,
+   -0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Vijay Kumar": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jack Meehan": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Patrick Donnelly": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.75,
+   0.4
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": 0.19999999999999998,
+  "sentiment_score": [
+   0.05,
+   0.35
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Puneet Souda": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Josh Waldman": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Catherine Schulte": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

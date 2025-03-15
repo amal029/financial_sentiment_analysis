@@ -1,0 +1,146 @@
+{
+ "date": "2015-05-03 09:00:00",
+ "John Woolford": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Don Morel": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6,
+   0.6
+  ]
+ },
+ "Eric Green": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ],
+  "title": "Non-Independent Chair of the Board, President & CEO"
+ },
+ "Bill Federici": {
+  "avg_sentiment_score": 0.12142857142857143,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7071428571428572,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "Rafael Tejada": {
+  "avg_sentiment_score": 0.33888888888888885,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.45,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8266666666666667,
+  "confidence": [
+   0.67,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "A - Don Morel": {
+  "avg_sentiment_score": 0.4277777777777778,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.45,
+   0.65,
+   0.15,
+   1.0,
+   0.75,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7777777777777778,
+  "confidence": [
+   0.68,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.67,
+   0.85,
+   0.6,
+   1.0
+  ]
+ },
+ "Larry Solow": {
+  "avg_sentiment_score": 0.2285714285714286,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.55,
+   0.65,
+   -0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8357142857142856,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "A -Don Morel": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ }
+}

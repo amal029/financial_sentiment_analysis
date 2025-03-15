@@ -1,0 +1,186 @@
+{
+ "date": "2016-08-17 16:30:00",
+ "Jason Kary": {
+  "avg_sentiment_score": 0.6833333333333332,
+  "sentiment_score": [
+   0.05,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.67,
+   0.6
+  ]
+ },
+ "Ron Nersesian": {
+  "avg_sentiment_score": 0.41111111111111115,
+  "sentiment_score": [
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   -0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.7722222222222223,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   1.0,
+   0.4,
+   0.85,
+   0.75,
+   0.6,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Neil Dougherty": {
+  "avg_sentiment_score": 0.38846153846153847,
+  "sentiment_score": [
+   0.55,
+   0.65,
+   0.0,
+   0.55,
+   0.55,
+   0.0,
+   0.65,
+   0.65,
+   0.45,
+   0.05,
+   -0.15,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.8269230769230769,
+  "confidence": [
+   0.85,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Sachin Kulkarni": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   1.0,
+   1.0,
+   0.4,
+   1.0
+  ]
+ },
+ "Mike Gasparian": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.85,
+   1.0,
+   0.4,
+   0.85
+  ],
+  "title": "Advisor"
+ },
+ "Patrick Newton": {
+  "avg_sentiment_score": 0.45999999999999996,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.876,
+  "confidence": [
+   0.85,
+   1.0,
+   0.68,
+   0.85,
+   1.0
+  ]
+ },
+ "Charles Long": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Guy S\u00e9n\u00e9": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Brian Modoff": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Richard Eastman": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.68,
+   1.0
+  ]
+ }
+}

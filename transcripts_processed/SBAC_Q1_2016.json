@@ -1,0 +1,313 @@
+{
+ "date": "2016-05-02 20:15:00",
+ "Mark C. DeRussy, CFA - Vice President, Finance": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.8416666666666667,
+  "confidence": [
+   1.0,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Brendan T. Cavanagh - Chief Financial Officer & Executive Vice President": {
+  "avg_sentiment_score": 0.1105263157894737,
+  "sentiment_score": [
+   0.55,
+   0.6,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   -1.0,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   0.95,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Jeffrey A. Stoops - President, Chief Executive Officer & Director": {
+  "avg_sentiment_score": 0.2113636363636364,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.45,
+   0.15,
+   0.65,
+   0.0,
+   -0.35,
+   0.15,
+   0.45,
+   0.0,
+   -0.35,
+   0.45,
+   -0.15,
+   -0.45,
+   -0.45,
+   0.65,
+   0.85,
+   1.0
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.9,
+   0.4
+  ]
+ },
+ "Jonathan Atkin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   -1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Philip A. Cusick - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   -0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8242857142857142,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Jonathan Schildkraut - Evercore ISI": {
+  "avg_sentiment_score": 0.3625,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6174999999999999,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "David W. Barden - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Amir Rozwadowski - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Simon Flannery - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike L. McCormack - Jefferies LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.535,
+  "confidence": [
+   0.4,
+   0.67
+  ]
+ },
+ "Brett Feldman - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   -0.45,
+   0.65,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.85,
+   0.6,
+   0.4
+  ]
+ },
+ "Whitney Fletcher - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Colby Synesael - Cowen and Company": {
+  "avg_sentiment_score": 0.13999999999999999,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Nicholas Del Deo - MoffettNathanson": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   -0.35,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Matthew Heinz - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6875,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Bowen - Pacific Crest Securities": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

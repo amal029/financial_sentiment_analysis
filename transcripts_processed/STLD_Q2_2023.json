@@ -1,0 +1,204 @@
+{
+ "date": "2023-07-20 11:00:00",
+ "David Lipschitz": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Millett": {
+  "avg_sentiment_score": 0.4846153846153846,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.85,
+   0.85
+  ],
+  "avg_confidence": 0.8384615384615385,
+  "confidence": [
+   0.85,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   0.9,
+   0.9
+  ],
+  "title": "Chairman, Co-Founder & CEO"
+ },
+ "Theresa Wagler": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.55,
+   0.55,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.85,
+   -0.15
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   0.6
+  ],
+  "title": "Executive VP, CFO & Company Secretary"
+ },
+ "Curt Woodworth": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Cleveland Rueckert": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Barry Schneider": {
+  "avg_sentiment_score": 0.43,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   -0.35,
+   0.65,
+   0.55
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   0.85,
+   0.75
+  ],
+  "title": "President & COO"
+ },
+ "Tristan Gresser": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Carlos De Alba": {
+  "avg_sentiment_score": 0.1625,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0
+  ]
+ },
+ "Timna Tanners": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "Bill Peterson": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Tumazos": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

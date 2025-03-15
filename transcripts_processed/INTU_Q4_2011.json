@@ -1,0 +1,267 @@
+{
+ "date": "2011-08-18 16:30:00",
+ "Matthew Rhodes": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Brad Smith": {
+  "avg_sentiment_score": 0.54,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   0.65,
+   0.45,
+   0.65,
+   0.55,
+   0.45,
+   0.45,
+   0.45,
+   0.75,
+   0.65,
+   1.0,
+   0.15,
+   0.15,
+   0.65,
+   0.0,
+   0.45,
+   0.85,
+   0.05,
+   0.65,
+   0.55,
+   0.45,
+   0.85,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7552,
+  "confidence": [
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.68,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.9,
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.4
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "R. Williams": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.75,
+   0.35,
+   0.65,
+   0.05
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.6
+  ]
+ },
+ "Kash Rangan - BofA Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Peter Goldmacher - Cowen and Company, LLC": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Adam Holt - Morgan Stanley": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75
+  ]
+ },
+ "Brent Thill - UBS Investment Bank": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Laura Lederman - William Blair & Company L.L.C.": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kenneth Wong": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Gil Luria - Wedbush Securities Inc.": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Scott Cook": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Founder & Director"
+ },
+ "James Macdonald - First Analysis Securities Corporation": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Scott Schneeberger - Oppenheimer & Co. Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Sonya Banerjee - Jefferies & Company, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Millman - Millman Research Associates": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Kartik Mehta - Northcoast Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Priya Parasuraman - Wells Fargo Securities, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bhavin Shah - Macquarie Research": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

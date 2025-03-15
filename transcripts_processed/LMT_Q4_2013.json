@@ -1,0 +1,223 @@
+{
+ "date": "2014-01-23 15:00:00",
+ "Jerry F. Kircher, III": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.4,
+   1.0
+  ]
+ },
+ "Marillyn A. Hewson": {
+  "avg_sentiment_score": 0.49642857142857144,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.55,
+   0.65,
+   0.85
+  ],
+  "avg_confidence": 0.8928571428571429,
+  "confidence": [
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   0.85,
+   0.9
+  ],
+  "title": "Strategic Adviser to CEO"
+ },
+ "Bruce L. Tanner": {
+  "avg_sentiment_score": 0.22647058823529412,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8794117647058823,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Doug Harned \u2013 Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Sam Pearlstein - Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   1.0,
+   0.0
+  ]
+ },
+ "William Loomis - Stifel Nicolaus": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Gursky - Citigroup Global Markets Inc.": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Richard Safran - Buckingham Research Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.8
+  ]
+ },
+ "Ronald Epstein - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   0.0,
+   -0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Peter Arment - Sterne, Agee & Leach, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Joseph Nadol - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Carter Copeland - Barclays Capital": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   1.0,
+   0.0
+  ]
+ },
+ "Noah Poponak - Goldman Sachs & Company": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Howard Rubel - Jefferies & Co. Inc.": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

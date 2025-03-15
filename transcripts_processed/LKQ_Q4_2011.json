@@ -1,0 +1,211 @@
+{
+ "date": "2012-02-23 10:00:00",
+ "Joseph P. Boutross": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Robert L. Wagman": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.85,
+   0.65,
+   0.55,
+   0.35,
+   0.0,
+   0.65,
+   0.85,
+   0.65,
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7847826086956522,
+  "confidence": [
+   0.4,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   1.0,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   1.0,
+   0.4
+  ],
+  "title": "Consultant"
+ },
+ "John S. Quinn": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7958333333333334,
+  "confidence": [
+   0.8,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.6,
+   1.0
+  ],
+  "title": "Chief Executive Officer of Europe and Managing Director of Europe"
+ },
+ "Joshua Wilson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Craig R. Kennison - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.1285714285714286,
+  "sentiment_score": [
+   0.35,
+   0.05,
+   -0.15,
+   0.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.8
+  ]
+ },
+ "John Lovallo - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Anthony F. Cristello - BB&T Capital Markets, Research Division": {
+  "avg_sentiment_score": 0.16999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8300000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4
+  ]
+ },
+ "Nathan Brochmann - William Blair & Company L.L.C., Research Division": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Scott L. Stember - Sidoti & Company, LLC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Scot Ciccarelli - RBC Capital Markets, LLC, Research Division": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

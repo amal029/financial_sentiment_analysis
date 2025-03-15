@@ -1,0 +1,262 @@
+{
+ "date": "2019-04-30 08:00:00",
+ "Kelly Hernandez": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.4,
+   0.8
+  ]
+ },
+ "Roger Krone": {
+  "avg_sentiment_score": 0.34210526315789475,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.05,
+   0.55,
+   0.55,
+   0.45,
+   0.0,
+   0.35,
+   0.45,
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7963157894736842,
+  "confidence": [
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.68
+  ],
+  "title": "Executive Officer"
+ },
+ "Jim Reagan": {
+  "avg_sentiment_score": 0.39629629629629626,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   1.0,
+   0.45,
+   1.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0,
+   0.55,
+   0.65,
+   0.55,
+   0.0,
+   1.0,
+   0.15,
+   1.0,
+   0.05,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7851851851851852,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.6,
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rob Spingarn": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.05,
+   0.0,
+   0.0,
+   0.15,
+   0.45,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.845,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Cai von Rumohr": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Shelia Kahyaoglu": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Krishna Sinha": {
+  "avg_sentiment_score": 0.2857142857142857,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.15,
+   1.0,
+   0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7885714285714285,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Gavin Parsons": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Tobey Summer": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jon Ladewig": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Justin Donati": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,420 @@
+{
+ "date": "2010-11-05 13:00:00",
+ "Clemente Teng": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "John Reyes": {
+  "avg_sentiment_score": 0.25333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.45,
+   0.55,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.55,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7633333333333333,
+  "confidence": [
+   0.4,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.8
+  ]
+ },
+ "Ron Havner": {
+  "avg_sentiment_score": 0.2560606060606061,
+  "sentiment_score": [
+   0.65,
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   1.0,
+   0.55,
+   0.85,
+   0.45,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.4,
+   0.15,
+   1.0,
+   0.65,
+   0.65,
+   0.45,
+   0.65,
+   0.55,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7803030303030303,
+  "confidence": [
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.75,
+   0.9,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.4,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6,
+   0.6,
+   0.4,
+   1.0,
+   0.4,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Jay Habermann \u2013 Goldman Sachs": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9359999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "David Doll": {
+  "avg_sentiment_score": -0.5166666666666667,
+  "sentiment_score": [
+   -1.0,
+   0.0,
+   -0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.85
+  ],
+  "title": "Senior Vice President and President of Real Estate Group"
+ },
+ "Jordan Sadler \u2013 Keybanc Capital Markets": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Eric Wolfe \u2013 Citi": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8560000000000001,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.68
+  ]
+ },
+ "David Harris \u2013 Gleacher": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.90875,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0
+  ]
+ },
+ "Paul Adornato \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Salinsky \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Mueller \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Dave Doll": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Paula Poskon \u2013 Robert W. Baird": {
+  "avg_sentiment_score": 0.08125,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.88125,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Ross Nussbaum \u2013 UBS": {
+  "avg_sentiment_score": 0.05555555555555555,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8555555555555556,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   0.75,
+   0.4,
+   1.0
+  ]
+ },
+ "Todd Thomas \u2013 KeyBanc Capital Markets": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Bilerman \u2013 Citi": {
+  "avg_sentiment_score": 0.0642857142857143,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9642857142857143,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Roy Havner": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8785714285714287,
+  "confidence": [
+   0.6,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Michael Salinsky \u2013 RBC": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Mueller \u2013 J.P. Morgan": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.64,
+  "confidence": [
+   0.6,
+   0.68
+  ]
+ },
+ "Smedes Rose \u2013 Keefe, Bruyette & Woods": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

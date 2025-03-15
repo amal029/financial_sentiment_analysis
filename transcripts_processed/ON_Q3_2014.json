@@ -1,0 +1,293 @@
+{
+ "date": "2014-10-30 09:00:00",
+ "Parag Agarwal": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6000000000000001,
+  "confidence": [
+   0.8,
+   0.4
+  ]
+ },
+ "Bernard Gutmann": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.6,
+   1.0,
+   0.0,
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8214285714285714,
+  "confidence": [
+   0.8,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.4,
+   1.0,
+   1.0
+  ],
+  "title": "Advisor"
+ },
+ "Keith D. Jackson": {
+  "avg_sentiment_score": 0.39999999999999997,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.85,
+   -0.15,
+   1.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.15,
+   0.65,
+   0.85,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.85,
+   1.0,
+   0.15,
+   0.65,
+   0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7803571428571429,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85,
+   1.0,
+   0.8,
+   0.9,
+   0.6,
+   0.8,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.9,
+   0.4,
+   0.75,
+   0.85,
+   0.75,
+   0.5
+  ],
+  "title": "Advisor"
+ },
+ "Matt Diamond - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Vivek Arya - BofA Merrill Lynch, Research Division": {
+  "avg_sentiment_score": 0.3166666666666667,
+  "sentiment_score": [
+   0.55,
+   -0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Gabriela Borges - Goldman Sachs Group Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Craig A. Ellis - B. Riley Caris, Research Division": {
+  "avg_sentiment_score": 0.03333333333333333,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Christopher Rolland - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.6833333333333332,
+  "confidence": [
+   0.6,
+   0.6,
+   0.85
+  ]
+ },
+ "Tristan Gerra - Robert W. Baird & Co. Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ian Ing - MKM Partners LLC, Research Division": {
+  "avg_sentiment_score": -0.037500000000000006,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.6375,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   0.75
+  ]
+ },
+ "Jonathan Steven Smigie - Raymond James & Associates, Inc., Research Division": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.65
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.85
+  ]
+ },
+ "Dean Grumlose - Stifel, Nicolaus & Company, Incorporated, Research Division": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Betsy Van Hees - Wedbush Securities Inc., Research Division": {
+  "avg_sentiment_score": 0.28750000000000003,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6,
+   0.75
+  ]
+ },
+ "Vijay R. Rakesh - Sterne Agee & Leach Inc., Research Division": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Christopher Caso - Susquehanna Financial Group, LLLP, Research Division": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Vinayak Rao - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75
+  ]
+ }
+}

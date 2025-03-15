@@ -1,0 +1,230 @@
+{
+ "date": "2023-02-03 08:30:00",
+ "Ryan Crowe": {
+  "avg_sentiment_score": 0.04230769230769231,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9807692307692307,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Leonard Schleifer": {
+  "avg_sentiment_score": 0.4272727272727273,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   0.45,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.8545454545454546,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "George Yancopoulos": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.05,
+   0.0,
+   0.75,
+   0.55,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.84375,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.85
+  ]
+ },
+ "Marion McCourt": {
+  "avg_sentiment_score": 0.75,
+  "sentiment_score": [
+   0.85,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85
+  ],
+  "title": "Executive Vice President of Commercial"
+ },
+ "Bob Landry": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Tyler Van Buren": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Harrison": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Carter Gould": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Brian Abrams": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Evan Seigerman": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Salveen Richter": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Mohit Bansal": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Colin Bristow": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Raymond": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Robyn Karnauskas": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

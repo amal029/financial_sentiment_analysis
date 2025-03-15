@@ -1,0 +1,233 @@
+{
+ "date": "2021-05-06 08:30:00",
+ "Steve Frank": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kristin Peck": {
+  "avg_sentiment_score": 0.56,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.75,
+   0.85,
+   0.85,
+   0.15,
+   0.65,
+   0.05,
+   0.65,
+   0.85,
+   0.85,
+   0.65,
+   0.85,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8266666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.9,
+   0.9,
+   0.85,
+   0.9,
+   0.75,
+   0.8
+  ],
+  "title": "CEO & Director"
+ },
+ "Glenn David": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.75,
+   0.85,
+   0.85,
+   0.45,
+   0.65,
+   0.55,
+   0.45,
+   1.0,
+   0.65
+  ],
+  "avg_confidence": 0.7954545454545454,
+  "confidence": [
+   0.9,
+   0.85,
+   0.85,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.4,
+   0.85
+  ],
+  "title": "Executive VP & Group President of U.S. Operations, Global Diagnostics and BioDevices"
+ },
+ "Erin Wright": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jon Block": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "John Kreger": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "David Westenberg": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Elliot Wilbur": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Balaji Prasad": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kathy Miner": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Risinger": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nathan Rich": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Greg Fraser ": {
+  "avg_sentiment_score": 0.85,
+  "sentiment_score": [
+   0.85
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.9
+  ]
+ },
+ "Navaan Ty": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "David Steinberg": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

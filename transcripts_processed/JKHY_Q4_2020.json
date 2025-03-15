@@ -1,0 +1,198 @@
+{
+ "date": "2020-08-19 08:45:00",
+ "Kevin Williams": {
+  "avg_sentiment_score": 0.15526315789473685,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.45,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.05,
+   0.65,
+   1.0,
+   0.0,
+   0.85,
+   0.65
+  ],
+  "avg_confidence": 0.8142105263157895,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.75,
+   0.85,
+   0.67,
+   1.0,
+   0.9,
+   0.85
+  ]
+ },
+ "David Foss": {
+  "avg_sentiment_score": 0.22000000000000003,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.65,
+   0.0,
+   0.05,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.88,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Chairman of the Board & CEO"
+ },
+ "Peter Heckmann": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Kartik Mehta": {
+  "avg_sentiment_score": 0.1375,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "John Davis": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.4,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Vasu Govil": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Josh Siegler": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.45,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Dave Koning": {
+  "avg_sentiment_score": 0.4625,
+  "sentiment_score": [
+   0.55,
+   -0.35,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.67
+  ]
+ },
+ "Brett Huff": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0
+  ]
+ }
+}

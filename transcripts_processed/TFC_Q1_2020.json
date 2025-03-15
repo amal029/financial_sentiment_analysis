@@ -1,0 +1,362 @@
+{
+ "date": "2020-04-20 08:00:00",
+ "Ryan Richards": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Kelly King": {
+  "avg_sentiment_score": 0.11818181818181818,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   0.45,
+   0.45,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   -0.35,
+   0.05
+  ],
+  "avg_confidence": 0.7772727272727273,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "Executive Director"
+ },
+ "Daryl Bible ": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Kelly King ": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Ryan Richards ": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Saul Martinez": {
+  "avg_sentiment_score": -0.1285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   -0.45,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8714285714285713,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Daryl Bible": {
+  "avg_sentiment_score": 0.10333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.15,
+   0.15,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   -0.45,
+   0.85,
+   -0.15,
+   -0.45,
+   0.05,
+   0.0,
+   0.15,
+   -0.15,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.15,
+   -0.15,
+   0.05,
+   0.0,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.9,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.6,
+   0.6,
+   0.6,
+   1.0,
+   0.6,
+   0.85
+  ]
+ },
+ "Clarke Starnes III": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.45,
+   -0.45,
+   0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.795,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.68
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": -0.07500000000000001,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.6,
+   0.8,
+   1.0
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": -0.1125,
+  "sentiment_score": [
+   -0.45,
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Henson": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ],
+  "title": "Senior EVP and Head of Banking & Insurance"
+ },
+ "Kenneth Usdin": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Matthew O'Connor": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "William Rogers, Jr.": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Chairman & CEO"
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.775,
+  "sentiment_score": [
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Stephen Scouten": {
+  "avg_sentiment_score": 0.43333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Christopher Marinac": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.16,
+  "sentiment_score": [
+   0.0,
+   0.35,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Unidentified Company Speaker": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

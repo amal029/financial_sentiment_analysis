@@ -1,0 +1,185 @@
+{
+ "date": "2024-05-07 08:30:00",
+ "Aijana Zellner": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Blake Moret": {
+  "avg_sentiment_score": 0.46153846153846156,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   0.65,
+   0.85,
+   0.65,
+   0.65,
+   0.45,
+   0.15,
+   0.15,
+   0.55,
+   0.65,
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.7961538461538461,
+  "confidence": [
+   0.75,
+   0.8,
+   0.85,
+   0.9,
+   0.85,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Nicholas Gangestad": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   -0.15,
+   1.0,
+   0.15,
+   0.45,
+   0.65,
+   0.15,
+   -0.15,
+   0.65,
+   0.0,
+   0.55,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   0.75,
+   0.4,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Andrew Kaplowitz": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.15,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Noah Kaye": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.45,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "C. Stephen Tusa": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "Robert Mason": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Joseph Ritchie": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   1.0,
+   0.4
+  ]
+ },
+ "Joseph O'Dea": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "date": "2021-02-11 11:00:00",
+ "Tom McFall": {
+  "avg_sentiment_score": 0.14444444444444446,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   -0.15,
+   -0.15,
+   -0.35,
+   0.15,
+   0.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7466666666666666,
+  "confidence": [
+   0.6,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.6,
+   0.67
+  ],
+  "title": "Executive Vice President"
+ },
+ "Greg Johnson": {
+  "avg_sentiment_score": 0.24642857142857144,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.45,
+   0.05,
+   -1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.45,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.8035714285714286,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4
+  ],
+  "title": "Chief Executive Officer"
+ },
+ "Jeff Shaw": {
+  "avg_sentiment_score": 0.6666666666666666,
+  "sentiment_score": [
+   0.85,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.9,
+   0.6,
+   1.0
+  ],
+  "title": "Co-President"
+ },
+ "Simeon Gutman": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Michael Lasser": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Chris Horvers": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Scot Ciccarelli": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Chris Bottiglieri": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "David O'Reilly": {
+  "avg_sentiment_score": 0.6875,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.85,
+   0.85,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Vice Chairman"
+ },
+ "Daniel Imbro ": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Greg Henslee": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ],
+  "title": "Executive Chairman"
+ },
+ "Seth Sigman": {
+  "avg_sentiment_score": 0.7000000000000001,
+  "sentiment_score": [
+   0.65,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Greg Johnson ": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

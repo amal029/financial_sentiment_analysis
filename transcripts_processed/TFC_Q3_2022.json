@@ -1,0 +1,196 @@
+{
+ "date": "2022-10-18 08:00:00",
+ "Ankur Vyas": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Rogers": {
+  "avg_sentiment_score": 0.453125,
+  "sentiment_score": [
+   0.15,
+   0.55,
+   0.65,
+   0.65,
+   1.0,
+   0.0,
+   0.65,
+   0.85,
+   0.55,
+   0.0,
+   0.15,
+   0.65,
+   0.05,
+   0.65,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   1.0,
+   0.75,
+   0.85,
+   0.6,
+   0.85,
+   0.6,
+   0.85
+  ]
+ },
+ "Mike Maguire": {
+  "avg_sentiment_score": 0.26875,
+  "sentiment_score": [
+   0.75,
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.76875,
+  "confidence": [
+   0.85,
+   0.85,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.6,
+   0.4
+  ],
+  "title": "Senior EVP & CFO"
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.45,
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Ryan Nash": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": -0.3,
+  "sentiment_score": [
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Clarke Starnes": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.45,
+   0.65,
+   -0.15,
+   -0.15
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.85,
+   0.75,
+   0.75
+  ]
+ },
+ "Mike Mayo": {
+  "avg_sentiment_score": -0.075,
+  "sentiment_score": [
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Ebrahim Poonawala": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Matt O'Connor": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ }
+}

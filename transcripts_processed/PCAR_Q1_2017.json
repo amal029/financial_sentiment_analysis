@@ -1,0 +1,357 @@
+{
+ "date": "2017-04-26 11:00:00",
+ "Ken Hastings - PACCAR, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.5
+  ]
+ },
+ "Ronald E. Armstrong - PACCAR, Inc.": {
+  "avg_sentiment_score": 0.27033898305084747,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   1.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   0.65,
+   0.45,
+   0.15,
+   -0.35,
+   1.0,
+   0.0,
+   0.0,
+   0.45,
+   0.55,
+   -0.15,
+   1.0,
+   0.0,
+   0.55,
+   0.0,
+   1.0,
+   0.0,
+   0.15,
+   0.85,
+   1.0,
+   0.65,
+   0.0,
+   0.55,
+   1.0,
+   0.0,
+   0.55,
+   1.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8830508474576272,
+  "confidence": [
+   0.9,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   0.67,
+   1.0,
+   0.75,
+   0.68,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Jerry Revich - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.20000000000000004,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8616666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Unknown Speaker": {
+  "avg_sentiment_score": 0.09285714285714286,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9199999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.69,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Emily McLaughlin - RBC Capital Markets LLC": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Timothy W. Thein - Citigroup Investment Research": {
+  "avg_sentiment_score": 0.34285714285714286,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.86,
+  "confidence": [
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Ross P. Gilardi - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": -0.08333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Joe D. Vruwink - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.45,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6
+  ]
+ },
+ "Cleve Rueckert - UBS Securities LLC": {
+  "avg_sentiment_score": -0.06,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "John Joyner - BMO Capital Markets (United States)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael J. Baudendistel - Stifel, Nicolaus & Co., Inc.": {
+  "avg_sentiment_score": 0.3125,
+  "sentiment_score": [
+   0.55,
+   -0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Barry George Haimes - Sage Asset Management LP": {
+  "avg_sentiment_score": 0.6333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7233333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.67
+  ]
+ },
+ "Alexander Eugene Potter - Piper Jaffray & Co.": {
+  "avg_sentiment_score": 0.3666666666666667,
+  "sentiment_score": [
+   0.05,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6233333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   0.67
+  ]
+ },
+ "Faheem F. Sabeiha - Longbow Research LLC": {
+  "avg_sentiment_score": 0.14285714285714285,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8571428571428571,
+  "confidence": [
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

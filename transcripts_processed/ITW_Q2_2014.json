@@ -1,0 +1,183 @@
+{
+ "date": "2014-07-29 10:00:00",
+ "John L. Brooklier": {
+  "avg_sentiment_score": 0.49000000000000005,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.47000000000000003,
+  "confidence": [
+   0.6,
+   0.6,
+   0.0,
+   0.75,
+   0.4
+  ]
+ },
+ "E. Scott Santi": {
+  "avg_sentiment_score": 0.27999999999999997,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.45,
+   0.0,
+   0.45,
+   0.05,
+   0.85,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.655,
+  "confidence": [
+   0.8,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.9,
+   0.4,
+   0.6,
+   0.4
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Michael M. Larsen": {
+  "avg_sentiment_score": 0.4041666666666666,
+  "sentiment_score": [
+   1.0,
+   0.85,
+   0.35,
+   0.15,
+   -0.15,
+   0.45,
+   1.0,
+   0.65,
+   1.0,
+   0.45,
+   -0.45,
+   -0.45
+  ],
+  "avg_confidence": 0.7041666666666666,
+  "confidence": [
+   0.8,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Andrew Kaplowitz - Barclays Capital, Research Division": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.6333333333333333,
+  "confidence": [
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Deane M. Dray - Citigroup Inc, Research Division": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.9,
+   0.6
+  ]
+ },
+ "Andrew Buscaglia - Cr\u00e9dit Suisse AG, Research Division": {
+  "avg_sentiment_score": 0.325,
+  "sentiment_score": [
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.925,
+  "confidence": [
+   1.0,
+   0.85
+  ]
+ },
+ "Karen K. Lau - Deutsche Bank AG, Research Division": {
+  "avg_sentiment_score": -0.225,
+  "sentiment_score": [
+   -0.45,
+   0.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.8
+  ]
+ },
+ "Jiayan Zhou - Morgan Stanley, Research Division": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4
+  ]
+ },
+ "James Krapfel - Morningstar Inc., Research Division": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Walter S. Liptak - Global Hunter Securities, LLC, Research Division": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ },
+ "Ajay Kejriwal - FBR Capital Markets & Co., Research Division": {
+  "avg_sentiment_score": 0.23333333333333336,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   1.0,
+   0.6
+  ]
+ }
+}

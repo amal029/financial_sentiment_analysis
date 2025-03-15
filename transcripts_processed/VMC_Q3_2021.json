@@ -1,0 +1,372 @@
+{
+ "date": "2021-11-04 10:00:00",
+ "Mark Warren": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Tom Hill": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85,
+   0.85
+  ],
+  "title": "CEO & Chairman"
+ },
+ "Suzanne Wood": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stanley Elliott ": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.71,
+  "confidence": [
+   0.75,
+   0.67
+  ]
+ },
+ "Tom Hill ": {
+  "avg_sentiment_score": 0.3942857142857143,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   1.0,
+   0.55,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.65,
+   1.0,
+   0.45,
+   0.0,
+   0.75,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   1.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.8611428571428572,
+  "confidence": [
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   0.67,
+   0.9,
+   0.9,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.75,
+   0.67,
+   0.9,
+   1.0
+  ]
+ },
+ "Trey Grooms ": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.4,
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Stevenson ": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   1.0,
+   0.5,
+   1.0
+  ]
+ },
+ "Suzanne Wood ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.6,
+   0.0,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8478571428571428,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.4,
+   0.67,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Analyst": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Anthony Pettinari ": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Courtney Yakavonis ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Brian Biros": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Adam Thalhimer ": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.7875,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Keith Hughes ": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "David Macgregor ": {
+  "avg_sentiment_score": 0.8166666666666668,
+  "sentiment_score": [
+   1.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.7166666666666667,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0
+  ]
+ },
+ "Timna Tanners ": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.975,
+  "confidence": [
+   1.0,
+   0.9,
+   1.0,
+   1.0
+  ]
+ },
+ "Unknown Analyst ": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Josh Wilson ": {
+  "avg_sentiment_score": 0.7166666666666667,
+  "sentiment_score": [
+   1.0,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7600000000000001,
+  "confidence": [
+   0.68,
+   0.6,
+   1.0
+  ]
+ },
+ "Brent Thielman ": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Michael Dudas ": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "A - Tom Hill ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "A - Suzanne Wood ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ }
+}

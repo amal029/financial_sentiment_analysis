@@ -1,0 +1,121 @@
+{
+ "date": "2023-11-10 08:00:00",
+ "Clay Crumbliss": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Scott Ford": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.15,
+   0.85,
+   0.15,
+   0.65,
+   -0.45,
+   -1.0,
+   0.65,
+   0.15,
+   -0.15,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.7541666666666668,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   0.75,
+   0.85,
+   0.85,
+   0.4,
+   0.85,
+   0.6,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Chris Pledger": {
+  "avg_sentiment_score": 0.11666666666666668,
+  "sentiment_score": [
+   -0.15,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.85,
+   0.75,
+   0.6
+  ]
+ },
+ "Jack Hardin": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Todd Brooks": {
+  "avg_sentiment_score": 0.08750000000000001,
+  "sentiment_score": [
+   -0.35,
+   -0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Matt Smith": {
+  "avg_sentiment_score": 0.22999999999999998,
+  "sentiment_score": [
+   -0.45,
+   0.15,
+   0.6,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6759999999999999,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   0.68
+  ]
+ },
+ "Joseph Feldman": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ }
+}

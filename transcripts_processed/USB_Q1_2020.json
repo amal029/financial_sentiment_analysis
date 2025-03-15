@@ -1,0 +1,195 @@
+{
+ "date": "2020-04-15 09:00:00",
+ "Jen Thompson": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.4,
+   1.0,
+   0.8
+  ]
+ },
+ "Andy Cecere": {
+  "avg_sentiment_score": 0.22500000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55,
+   0.05,
+   0.65
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.85
+  ],
+  "title": "Chairman, President & CEO"
+ },
+ "Terry Dolan": {
+  "avg_sentiment_score": 0.0925,
+  "sentiment_score": [
+   -0.15,
+   0.35,
+   -0.45,
+   0.55,
+   0.0,
+   -0.15,
+   0.15,
+   -0.15,
+   0.15,
+   0.55,
+   -0.15,
+   0.0,
+   0.0,
+   -0.15,
+   -0.15,
+   0.6,
+   0.0,
+   0.85,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8025,
+  "confidence": [
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   1.0,
+   0.6
+  ],
+  "title": "Chief Administration Officer & Vice Chair"
+ },
+ "Q - Erika Najarian": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0
+  ]
+ },
+ "Bill Carcache": {
+  "avg_sentiment_score": -0.25,
+  "sentiment_score": [
+   -0.15,
+   -0.45,
+   -0.15
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Unidentified Analyst": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Runkel": {
+  "avg_sentiment_score": 0.3375,
+  "sentiment_score": [
+   0.65,
+   0.15,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.85,
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Vivek Juneja": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Rahul Patil": {
+  "avg_sentiment_score": -0.05,
+  "sentiment_score": [
+   -0.15,
+   0.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.82,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "UnidentifiedAnalyst": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

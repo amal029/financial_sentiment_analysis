@@ -1,0 +1,232 @@
+{
+ "date": "2021-10-21 11:00:00",
+ "Melanie Hart": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.05,
+   0.85,
+   0.15,
+   1.0,
+   0.55,
+   0.6,
+   0.35,
+   0.45
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   0.6,
+   0.9,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ]
+ },
+ "Peter Arvan": {
+  "avg_sentiment_score": 0.4129032258064516,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   0.55,
+   0.65,
+   0.0,
+   0.15,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.45,
+   0.45,
+   0.0,
+   0.55,
+   0.55,
+   1.0,
+   0.0,
+   -0.45,
+   0.65,
+   0.55,
+   0.65,
+   0.15,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8541935483870968,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.68,
+   1.0,
+   0.75,
+   0.85,
+   0.75,
+   0.85,
+   0.75,
+   1.0,
+   0.6
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Ryan Merkel": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.55,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "David Manthey": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.75,
+   0.6,
+   0.4
+  ]
+ },
+ "Susan Maklari": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.575,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.4
+  ]
+ },
+ "Noah Merkousko": {
+  "avg_sentiment_score": -0.125,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Stephen Volkmann": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.776,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   0.6,
+   0.68
+  ]
+ },
+ "Joseph Nolan": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Garik Shmois": {
+  "avg_sentiment_score": 0.2875,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8175,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Kenneth Zener": {
+  "avg_sentiment_score": 0.17142857142857146,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   -0.35,
+   -0.35,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.8099999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.67
+  ]
+ }
+}

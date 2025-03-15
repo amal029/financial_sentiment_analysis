@@ -1,0 +1,299 @@
+{
+ "date": "2014-07-23 08:30:00",
+ "Sujal Shah": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Tom Lynch": {
+  "avg_sentiment_score": 0.3838709677419355,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.65,
+   0.65,
+   0.0,
+   0.0,
+   0.65,
+   0.55,
+   0.0,
+   0.45,
+   -0.45,
+   0.0,
+   0.55,
+   0.05,
+   0.0,
+   0.65,
+   0.75,
+   1.0,
+   0.65,
+   0.85,
+   0.15,
+   1.0,
+   0.05,
+   0.15,
+   0.55,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.8522580645161291,
+  "confidence": [
+   0.9,
+   0.9,
+   0.85,
+   0.85,
+   1.0,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   0.75,
+   0.67,
+   0.6,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.9
+  ],
+  "title": "Executive Chairman"
+ },
+ "Bob Hau": {
+  "avg_sentiment_score": 0.3807692307692308,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0,
+   0.55,
+   0.6,
+   -0.35,
+   0.0,
+   0.05,
+   1.0,
+   1.0,
+   0.65,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7592307692307692,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.67,
+   0.85,
+   0.4,
+   1.0
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Amit Daryanani - RBC Capital Markets": {
+  "avg_sentiment_score": 0.4375,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   1.0
+  ]
+ },
+ "Amitabh Passi - UBS": {
+  "avg_sentiment_score": 0.03333333333333335,
+  "sentiment_score": [
+   0.45,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Wamsi Mohan - Bank of America/Merrill Lynch": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Mike Wood - Macquarie Capital (USA) Inc.": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Matt Sheerin - Stifel, Nicolaus & Co.": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Jim Suva - Citigroup": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Kirti Shetty - Deutsche Bank Securities": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.76,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "William Stein - SunTrust Robinson Humphrey": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.0,
+   -0.45,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Mark Delaney - Goldman Sachs": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Fox - Cross Research ": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Shawn Harrison - Longbow Research": {
+  "avg_sentiment_score": 0.09,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.6,
+   1.0
+  ]
+ }
+}

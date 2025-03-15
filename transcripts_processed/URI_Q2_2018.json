@@ -1,0 +1,245 @@
+{
+ "date": "2018-07-19 11:00:00",
+ "Michael Kneeland": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.05,
+   0.65,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.896875,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   0.6,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "President, CEO & Director"
+ },
+ "Matthew Flannery": {
+  "avg_sentiment_score": 0.42000000000000004,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.0,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.63,
+  "confidence": [
+   0.9,
+   0.75,
+   0.0,
+   0.75,
+   0.75
+  ],
+  "title": "President, CEO & Director"
+ },
+ "William Plummer": {
+  "avg_sentiment_score": 0.4543478260869565,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.45,
+   1.0,
+   0.45,
+   0.6,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.65,
+   0.85,
+   1.0,
+   0.65,
+   1.0,
+   0.15,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8630434782608696,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.85,
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "David Raso": {
+  "avg_sentiment_score": 0.5125000000000001,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.05,
+   1.0
+  ],
+  "avg_confidence": 0.6925,
+  "confidence": [
+   0.75,
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Ross Gilardi": {
+  "avg_sentiment_score": 0.44000000000000006,
+  "sentiment_score": [
+   1.0,
+   -0.35,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.834,
+  "confidence": [
+   0.67,
+   0.75,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth Weber": {
+  "avg_sentiment_score": 0.31,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.754,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.67
+  ]
+ },
+ "Rob Wertheimer": {
+  "avg_sentiment_score": 0.12,
+  "sentiment_score": [
+   0.0,
+   0.45,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8699999999999999,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Joseph O'Dea": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7833333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Courtney Yakavonis": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   -0.15,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.6839999999999999,
+  "confidence": [
+   0.6,
+   0.75,
+   0.4,
+   1.0,
+   0.67
+  ]
+ },
+ "Tim Thein": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Stanley Elliott": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   1.0,
+   0.67
+  ]
+ }
+}

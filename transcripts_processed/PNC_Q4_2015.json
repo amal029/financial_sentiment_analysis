@@ -1,0 +1,193 @@
+{
+ "date": "2016-01-15 11:00:00",
+ "Brian Gill": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Bill Demchak": {
+  "avg_sentiment_score": 0.26176470588235295,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.55,
+   0.0,
+   0.55,
+   0.15,
+   1.0,
+   0.45,
+   -0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   -0.15,
+   1.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.7458823529411764,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.4,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.68,
+   0.75,
+   0.6
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Rob Reilly": {
+  "avg_sentiment_score": 0.12307692307692308,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.8692307692307693,
+  "confidence": [
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.16666666666666666,
+  "sentiment_score": [
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "John Pancari": {
+  "avg_sentiment_score": 0.1125,
+  "sentiment_score": [
+   0.15,
+   0.45,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7375,
+  "confidence": [
+   0.6,
+   0.75,
+   0.6,
+   1.0
+  ]
+ },
+ "Rob Placet": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.26,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "Scott Siefers": {
+  "avg_sentiment_score": 0.575,
+  "sentiment_score": [
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.635,
+  "confidence": [
+   0.6,
+   0.67
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.5333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.6733333333333333,
+  "confidence": [
+   0.75,
+   0.6,
+   0.67
+  ]
+ },
+ "Paul Miller": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ }
+}

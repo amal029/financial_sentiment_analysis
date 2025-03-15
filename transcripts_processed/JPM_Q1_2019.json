@@ -1,0 +1,337 @@
+{
+ "date": "2019-04-12 08:30:00",
+ "Company Representatives": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Marianne Lake": {
+  "avg_sentiment_score": 0.24473684210526317,
+  "sentiment_score": [
+   0.85,
+   0.05,
+   0.15,
+   0.65,
+   0.15,
+   0.15,
+   0.15,
+   0.0,
+   0.05,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   0.0,
+   0.85,
+   0.85,
+   0.55,
+   0.55,
+   0.0,
+   0.15,
+   0.15,
+   0.05,
+   0.0,
+   0.85,
+   0.45,
+   0.45,
+   0.0,
+   -0.15,
+   0.0,
+   -0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.05,
+   0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.815,
+  "confidence": [
+   0.9,
+   0.6,
+   0.75,
+   0.85,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ],
+  "title": "Chief Executive Officer of Consumer & Community Banking"
+ },
+ "John McDonald": {
+  "avg_sentiment_score": 0.525,
+  "sentiment_score": [
+   0.45,
+   0.6
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Mike Mayo ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Glenn Schorr ": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Jamie Dimon": {
+  "avg_sentiment_score": -0.06999999999999999,
+  "sentiment_score": [
+   0.15,
+   -0.35,
+   0.0,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75
+  ],
+  "title": "Chairman & CEO"
+ },
+ "Betsy Graseck": {
+  "avg_sentiment_score": 0.2125,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Steven Chubak": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666668,
+  "confidence": [
+   0.6,
+   0.85,
+   1.0
+  ]
+ },
+ "Brian Kleinhanzl": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8066666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   0.67
+  ]
+ },
+ "Gerard Cassidy": {
+  "avg_sentiment_score": 0.29,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.45,
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.884,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   0.67,
+   1.0
+  ]
+ },
+ "Alevizos Alevizakos": {
+  "avg_sentiment_score": 0.425,
+  "sentiment_score": [
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Matt O\u2019Connor": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.45,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Erika Najarian": {
+  "avg_sentiment_score": 0.26666666666666666,
+  "sentiment_score": [
+   -0.35,
+   0.15,
+   1.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Ken Usdin": {
+  "avg_sentiment_score": 0.6,
+  "sentiment_score": [
+   0.15,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.7066666666666667,
+  "confidence": [
+   0.6,
+   0.85,
+   0.67
+  ]
+ },
+ "Jim Mitchell ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   -0.15,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Saul Martinez ": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.65,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8625,
+  "confidence": [
+   0.85,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Marty Mosby": {
+  "avg_sentiment_score": -0.049999999999999996,
+  "sentiment_score": [
+   -0.15,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Marty Mosby ": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Andrew Lim ": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   -0.35,
+   1.0,
+   -0.35,
+   0.0
+  ],
+  "avg_confidence": 0.7925,
+  "confidence": [
+   0.75,
+   0.67,
+   0.75,
+   1.0
+  ]
+ }
+}

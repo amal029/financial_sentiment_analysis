@@ -1,0 +1,334 @@
+{
+ "date": "2014-11-18 11:00:00",
+ "Carol Meyrowitz": {
+  "avg_sentiment_score": 0.41944444444444445,
+  "sentiment_score": [
+   0.0,
+   0.85,
+   0.85,
+   0.45,
+   0.65,
+   0.0,
+   1.0,
+   0.65,
+   0.0,
+   0.85,
+   1.0,
+   0.0,
+   0.55,
+   0.15,
+   0.55,
+   0.65,
+   0.0,
+   0.45,
+   0.15,
+   0.45,
+   -0.15,
+   0.0,
+   1.0,
+   0.55,
+   1.0,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8319444444444444,
+  "confidence": [
+   1.0,
+   0.9,
+   0.9,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   0.85,
+   1.0,
+   0.9,
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   0.75,
+   0.4,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   1.0
+  ],
+  "title": "Executive Chairman"
+ },
+ "Deb McConnell": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8
+  ]
+ },
+ "Scott Goldenberg": {
+  "avg_sentiment_score": 0.2833333333333333,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.15,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.4,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior Executive Vice President of Finance"
+ },
+ "Daniel Hofkin-William Blair": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Tracy Kogan-Wells Fargo Securities": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Ernie Herrman": {
+  "avg_sentiment_score": 0.5428571428571429,
+  "sentiment_score": [
+   0.0,
+   1.0,
+   0.55,
+   0.15,
+   0.65,
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   1.0,
+   0.4,
+   0.75,
+   0.75,
+   0.85,
+   0.4,
+   0.75
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Lorraine Hutchinson-Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Mike Baker-Deutsche Bank": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Stephen Grambling-Goldman Sachs": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Roxanne Meyer-UBS": {
+  "avg_sentiment_score": 0.55,
+  "sentiment_score": [
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Omar Saad-ISI Group": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Bob Drbul-Nomura": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Richard Jaffe-Stifel Nicolaus": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Jeff Stein-Northcoast Research": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Patrick McKeever-MKM Partners": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   0.0,
+   0.75,
+   0.0
+  ],
+  "avg_confidence": 0.9500000000000001,
+  "confidence": [
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "Ike Boruchow-Sterne Agee": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Pam Quintiliano-SunTrust": {
+  "avg_sentiment_score": 0.7875,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.55,
+  "confidence": [
+   0.6,
+   0.6,
+   0.4,
+   0.6
+  ]
+ },
+ "David Mann-Johnson Rice": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   0.75,
+   1.0
+  ]
+ },
+ "Mark Montagna-Avondale Partners": {
+  "avg_sentiment_score": -0.175,
+  "sentiment_score": [
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Laura Champine-Canaccord Genuity": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

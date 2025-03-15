@@ -1,0 +1,303 @@
+{
+ "date": "2018-11-06 11:00:00",
+ "Liza Sabol - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "W. Nicholas Howley - TransDigm Group, Inc.": {
+  "avg_sentiment_score": -0.027999999999999997,
+  "sentiment_score": [
+   0.65,
+   0.05,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -1.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.89,
+  "confidence": [
+   0.85,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.8,
+   0.75,
+   1.0
+  ],
+  "title": "Executive Chairman of the Board"
+ },
+ "Kevin M. Stein - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.18333333333333335,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.05,
+   0.15,
+   0.0,
+   0.45,
+   0.65,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   0.65,
+   0.0,
+   0.0,
+   0.0,
+   -0.35,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666666,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.75,
+   0.85,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.85,
+   1.0
+  ]
+ },
+ "Michael Lisman - TransDigm Group, Inc.": {
+  "avg_sentiment_score": 0.32,
+  "sentiment_score": [
+   0.75,
+   0.0,
+   0.0,
+   0.85,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   0.85,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ],
+  "title": "Co-Chief Operating Officer"
+ },
+ "Myles Alexander Walton - UBS": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.7175,
+  "confidence": [
+   0.67,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Robert M. Spingarn - Credit Suisse Securities (USA) LLC": {
+  "avg_sentiment_score": 0.03,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8400000000000001,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Carter Copeland - Melius Research LLC": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Gautam Khanna - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.35000000000000003,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   0.67
+  ]
+ },
+ "Robert Stallard - Vertical Research Partners LLC": {
+  "avg_sentiment_score": 0.25,
+  "sentiment_score": [
+   1.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.95,
+  "confidence": [
+   1.0,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.37,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8140000000000001,
+  "confidence": [
+   0.65,
+   0.75,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "David Strauss - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.5285714285714286,
+  "sentiment_score": [
+   1.0,
+   0.55,
+   0.0,
+   0.15,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.7271428571428571,
+  "confidence": [
+   0.8,
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.67,
+   0.67
+  ]
+ },
+ "Sheila Kahyaoglu - Jefferies LLC": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.78,
+  "confidence": [
+   1.0,
+   1.0,
+   0.5,
+   0.4,
+   1.0
+  ]
+ },
+ "Michael Ciarmoli - SunTrust Robinson Humphrey, Inc.": {
+  "avg_sentiment_score": 0.30833333333333335,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8583333333333334,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

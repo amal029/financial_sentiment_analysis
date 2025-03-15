@@ -1,0 +1,190 @@
+{
+ "date": "2021-11-04 08:30:00",
+ "Steve Frank": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Kristin Peck": {
+  "avg_sentiment_score": 0.4428571428571429,
+  "sentiment_score": [
+   0.85,
+   0.55,
+   0.75,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   0.85,
+   0.85,
+   0.45,
+   0.15,
+   0.45,
+   -0.15,
+   0.85
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.5,
+   1.0,
+   0.6,
+   0.9,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.9
+  ],
+  "title": "CEO & Director"
+ },
+ "Wetteny Joseph": {
+  "avg_sentiment_score": 0.48,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0,
+   0.65,
+   0.15,
+   0.75,
+   0.65
+  ],
+  "avg_confidence": 0.77,
+  "confidence": [
+   0.0,
+   0.85,
+   0.85,
+   0.85,
+   0.85,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   0.85
+  ]
+ },
+ "Michael Ryskin": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Louise Chen": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Nathan Rich": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jon Block": {
+  "avg_sentiment_score": 0.65,
+  "sentiment_score": [
+   0.65
+  ],
+  "avg_confidence": 0.85,
+  "confidence": [
+   0.85
+  ]
+ },
+ "Erin Wright": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Chris Schott": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Balaji Prasad": {
+  "avg_sentiment_score": 0.3,
+  "sentiment_score": [
+   0.15,
+   0.45
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.6,
+   0.75
+  ]
+ },
+ "Steve Scala": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Christine Rains": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Navaan Ty ": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dave Westenberg": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

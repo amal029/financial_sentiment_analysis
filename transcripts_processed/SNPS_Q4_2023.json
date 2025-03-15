@@ -1,0 +1,201 @@
+{
+ "date": "2023-11-29 17:00:00",
+ "Trey Campbell": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Aart de Geus": {
+  "avg_sentiment_score": 0.5666666666666667,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.9333333333333332,
+  "confidence": [
+   0.9,
+   1.0,
+   0.9
+  ]
+ },
+ "Sassine Ghazi": {
+  "avg_sentiment_score": 0.5466666666666666,
+  "sentiment_score": [
+   0.65,
+   0.65,
+   0.85,
+   1.0,
+   0.45,
+   0.65,
+   0.0,
+   0.45,
+   1.0,
+   0.05,
+   1.0,
+   0.65,
+   0.0,
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.8019999999999999,
+  "confidence": [
+   0.85,
+   0.85,
+   0.9,
+   0.67,
+   0.75,
+   0.85,
+   1.0,
+   0.75,
+   0.68,
+   0.6,
+   0.68,
+   0.85,
+   1.0,
+   0.75,
+   0.85
+  ],
+  "title": "CEO, President & Director"
+ },
+ "Shelagh Glaser": {
+  "avg_sentiment_score": 0.39166666666666666,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.15,
+   -0.15,
+   -0.35,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.0,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.8283333333333333,
+  "confidence": [
+   0.9,
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.69,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.75
+  ],
+  "title": "Chief Financial Officer"
+ },
+ "Harlan Sur": {
+  "avg_sentiment_score": 0.8125,
+  "sentiment_score": [
+   1.0,
+   0.65,
+   0.6,
+   1.0
+  ],
+  "avg_confidence": 0.825,
+  "confidence": [
+   0.6,
+   0.85,
+   0.85,
+   1.0
+  ]
+ },
+ "Joe Vruwink": {
+  "avg_sentiment_score": 0.7333333333333334,
+  "sentiment_score": [
+   0.65,
+   0.55,
+   1.0
+  ],
+  "avg_confidence": 0.7566666666666667,
+  "confidence": [
+   0.85,
+   0.75,
+   0.67
+  ]
+ },
+ "Vivek Arya": {
+  "avg_sentiment_score": -0.11666666666666665,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jason Celino": {
+  "avg_sentiment_score": 0.09999999999999999,
+  "sentiment_score": [
+   0.85,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9125,
+  "confidence": [
+   0.9,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Jay Vleeschhouwer": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.5,
+  "confidence": [
+   0.6,
+   0.4
+  ]
+ },
+ "Charles Shi": {
+  "avg_sentiment_score": -0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   -0.35
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75
+  ]
+ },
+ "Gianmarco Conti": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

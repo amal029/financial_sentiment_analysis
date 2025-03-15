@@ -1,0 +1,115 @@
+{
+ "date": "2024-01-31 08:30:00",
+ "Michael Rednor": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Judy Marks": {
+  "avg_sentiment_score": 0.545,
+  "sentiment_score": [
+   0.85,
+   0.65,
+   0.0,
+   0.65,
+   0.65,
+   0.75,
+   0.05,
+   0.55,
+   0.65,
+   0.65
+  ],
+  "avg_confidence": 0.835,
+  "confidence": [
+   0.9,
+   0.85,
+   1.0,
+   0.85,
+   0.85,
+   0.85,
+   0.6,
+   0.75,
+   0.85,
+   0.85
+  ],
+  "title": "Chair, President & CEO"
+ },
+ "Anurag Maheshwari": {
+  "avg_sentiment_score": 0.6214285714285713,
+  "sentiment_score": [
+   0.75,
+   0.45,
+   0.45,
+   0.55,
+   0.85,
+   0.75,
+   0.55
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.85,
+   0.75,
+   0.75,
+   0.75,
+   0.9,
+   0.85,
+   0.75
+  ],
+  "title": "Executive VP & CFO"
+ },
+ "Nigel Coe": {
+  "avg_sentiment_score": 0.4166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.15,
+   0.55
+  ],
+  "avg_confidence": 0.7000000000000001,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75
+  ]
+ },
+ "Gautam Khanna": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Julian Mitchell": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Miguel Borrega": {
+  "avg_sentiment_score": 0.4,
+  "sentiment_score": [
+   0.15,
+   0.65
+  ],
+  "avg_confidence": 0.725,
+  "confidence": [
+   0.6,
+   0.85
+  ]
+ }
+}

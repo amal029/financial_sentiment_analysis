@@ -1,0 +1,251 @@
+{
+ "date": "2016-10-27 09:00:00",
+ "Todd Ernst - Raytheon Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Thomas A. Kennedy - Raytheon Co.": {
+  "avg_sentiment_score": 0.26842105263157895,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.65,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.85,
+   0.0,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.9263157894736843,
+  "confidence": [
+   0.9,
+   1.0,
+   0.85,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.75
+  ]
+ },
+ "Anthony F. O'Brien - Raytheon Co.": {
+  "avg_sentiment_score": 0.2263157894736842,
+  "sentiment_score": [
+   0.85,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   -0.15,
+   0.55,
+   0.0,
+   0.0,
+   0.15,
+   0.0,
+   0.65,
+   0.45,
+   0.65,
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.55
+  ],
+  "avg_confidence": 0.863157894736842,
+  "confidence": [
+   0.9,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.85,
+   0.75,
+   0.85,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "Carter Copeland - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.049999999999999996,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "George D. Shapiro - Shapiro Research LLC": {
+  "avg_sentiment_score": 0.07500000000000001,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.775,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.6
+  ]
+ },
+ "Jason Gursky - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.5499999999999999,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   1.0
+  ],
+  "avg_confidence": 0.8433333333333334,
+  "confidence": [
+   1.0,
+   0.85,
+   0.68
+  ]
+ },
+ "Douglas Stuart Harned - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.19166666666666665,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8783333333333333,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ },
+ "Cai von Rumohr - Cowen & Co. LLC": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Howard Alan Rubel - Jefferies": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Seth M. Seifman - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.075,
+  "sentiment_score": [
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Samuel J. Pearlstein - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.225,
+  "sentiment_score": [
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Hunter K. Keay - Wolfe Research LLC": {
+  "avg_sentiment_score": 0.725,
+  "sentiment_score": [
+   1.0,
+   0.45
+  ],
+  "avg_confidence": 0.875,
+  "confidence": [
+   1.0,
+   0.75
+  ]
+ },
+ "Richard T. Safran - The Buckingham Research Group, Inc.": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6
+  ]
+ },
+ "Myles Alexander Walton - Deutsche Bank Securities, Inc.": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.5
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ }
+}

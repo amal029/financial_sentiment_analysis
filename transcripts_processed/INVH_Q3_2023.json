@@ -1,0 +1,284 @@
+{
+ "date": "2023-10-26 11:00:00",
+ "Scott McLaughlin": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Dallas Tanner": {
+  "avg_sentiment_score": 0.4291666666666667,
+  "sentiment_score": [
+   0.85,
+   0.45,
+   0.15,
+   0.0,
+   0.55,
+   0.0,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.65,
+   0.0
+  ],
+  "avg_confidence": 0.8291666666666666,
+  "confidence": [
+   0.9,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.85,
+   0.85,
+   0.75,
+   0.85,
+   1.0
+  ],
+  "title": "Co-Founder, CEO & Director"
+ },
+ "Charles Young": {
+  "avg_sentiment_score": 0.4928571428571429,
+  "sentiment_score": [
+   0.75,
+   0.55,
+   0.65,
+   0.65,
+   0.65,
+   0.15,
+   0.05
+  ],
+  "avg_confidence": 0.7857142857142857,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.85,
+   0.85,
+   0.75,
+   0.6
+  ],
+  "title": "President & COO"
+ },
+ "Jonathan Olsen": {
+  "avg_sentiment_score": 0.15714285714285717,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.45,
+   0.65,
+   -0.15,
+   0.45,
+   0.05
+  ],
+  "avg_confidence": 0.7785714285714286,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   0.85,
+   0.75,
+   0.75,
+   0.6
+  ],
+  "title": "Executive VP, CFO & Treasurer"
+ },
+ "Michael Goldsmith": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Eric Wolfe": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jeffrey Spector": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "James Feldman": {
+  "avg_sentiment_score": 0.10000000000000003,
+  "sentiment_score": [
+   -0.35,
+   0.55
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Austin Wurschmidt": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Stephen Sakwa": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Juan Sanabria": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Adam Kramer": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keegan Carl": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Buck Horne": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Daniel Tricarico": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Alan Peterson": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Tyler Batory": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jesse Lederman": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Bradley Heffern": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Anthony Paolone": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jason Sabshon": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Haendel St. Juste": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Anthony Powell": {
+  "avg_sentiment_score": -0.35,
+  "sentiment_score": [
+   -0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ }
+}

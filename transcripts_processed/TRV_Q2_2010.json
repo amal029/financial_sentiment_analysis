@@ -1,0 +1,251 @@
+{
+ "date": "2010-07-22 09:00:00",
+ "Gabriella Nawi": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4,
+   0.4
+  ]
+ },
+ "Jay Fishman": {
+  "avg_sentiment_score": 0.05384615384615384,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.05,
+   0.45
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.8,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   0.75
+  ],
+  "title": "Executive Chairman, Chairman of Executive Committee and Member of Operating Committee"
+ },
+ "Jay Benet": {
+  "avg_sentiment_score": 0.1388888888888889,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15,
+   0.45,
+   0.15,
+   0.0,
+   0.5,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.7888888888888889,
+  "confidence": [
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   0.75
+  ],
+  "title": "Vice Chairman and Chief Financial Officer"
+ },
+ "Brian MacLean": {
+  "avg_sentiment_score": 0.08125,
+  "sentiment_score": [
+   1.0,
+   -0.15,
+   0.0,
+   0.05,
+   -0.15,
+   0.0,
+   -0.45,
+   0.0,
+   -0.15,
+   0.0,
+   0.55,
+   0.15,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.79375,
+  "confidence": [
+   0.4,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   0.75,
+   0.6,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ],
+  "title": "President and Chief Operating Officer"
+ },
+ "Bill Heyman": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.55,
+   0.45,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "Vice Chairman"
+ },
+ "Jay Gelb \u2013 Barclays Capital": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Matthew Heimermann \u2013 JP Morgan": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Keith Walsh \u2013 Citi": {
+  "avg_sentiment_score": 0.0375,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Michael Nannizzi \u2013 Oppenheimer": {
+  "avg_sentiment_score": 0.24166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.05,
+   0.0,
+   0.0,
+   -0.15,
+   1.0
+  ],
+  "avg_confidence": 0.7633333333333333,
+  "confidence": [
+   0.75,
+   0.4,
+   1.0,
+   1.0,
+   0.75,
+   0.68
+  ]
+ },
+ "Jay Cohen \u2013 Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.2333333333333333,
+  "sentiment_score": [
+   0.15,
+   1.0,
+   -0.45
+  ],
+  "avg_confidence": 0.5833333333333334,
+  "confidence": [
+   0.6,
+   0.4,
+   0.75
+  ]
+ },
+ "Cliff Gallant \u2013 KBW": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.35
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Brian Meredith \u2013 UBS": {
+  "avg_sentiment_score": 0.17500000000000002,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   0.0,
+   0.15
+  ],
+  "avg_confidence": 0.8375,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   0.6
+  ]
+ },
+ "Paul Newsome \u2013 Sandler O'Neill": {
+  "avg_sentiment_score": -0.2,
+  "sentiment_score": [
+   -0.45,
+   0.05
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Greg Toczydlowski": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ }
+}

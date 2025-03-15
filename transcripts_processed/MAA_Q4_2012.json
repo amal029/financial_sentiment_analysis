@@ -1,0 +1,353 @@
+{
+ "date": "2013-02-07 10:00:00",
+ "Leslie Wolfgang": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Eric Bolton": {
+  "avg_sentiment_score": 0.20714285714285713,
+  "sentiment_score": [
+   0.75,
+   0.6,
+   0.6,
+   1.0,
+   0.0,
+   1.0,
+   0.0,
+   0.6,
+   -0.35,
+   0.0,
+   0.35,
+   -0.15,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.65,
+   0.45,
+   0.0,
+   0.0,
+   -0.15,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8439285714285714,
+  "confidence": [
+   0.85,
+   0.75,
+   0.85,
+   0.4,
+   1.0,
+   0.68,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   0.4,
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.85,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Al Campbell": {
+  "avg_sentiment_score": 0.01346153846153847,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   -0.35,
+   -0.45,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.05,
+   -0.35,
+   0.0,
+   0.55,
+   0.0,
+   0.0,
+   0.65,
+   0.0,
+   0.05,
+   -0.15,
+   -0.45,
+   0.0,
+   0.0,
+   0.0,
+   0.05,
+   0.0
+  ],
+  "avg_confidence": 0.8153846153846154,
+  "confidence": [
+   0.4,
+   1.0,
+   0.75,
+   0.75,
+   0.75,
+   0.75,
+   1.0,
+   0.75,
+   0.4,
+   1.0,
+   0.6,
+   0.75,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.85,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "Karin Ford \u2013 KeyBanc": {
+  "avg_sentiment_score": -0.024999999999999998,
+  "sentiment_score": [
+   -0.15,
+   0.05,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.7,
+  "confidence": [
+   0.6,
+   0.6,
+   0.6,
+   1.0
+  ]
+ },
+ "Tom Grimes": {
+  "avg_sentiment_score": 0.4222222222222222,
+  "sentiment_score": [
+   0.65,
+   1.0,
+   1.0,
+   0.15,
+   -0.45,
+   0.0,
+   1.0,
+   0.0,
+   0.45
+  ],
+  "avg_confidence": 0.7355555555555555,
+  "confidence": [
+   0.85,
+   0.4,
+   0.67,
+   0.6,
+   0.75,
+   1.0,
+   0.6,
+   1.0,
+   0.75
+  ]
+ },
+ "Rob Stevenson \u2013 Macquarie": {
+  "avg_sentiment_score": 0.02222222222222223,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   -0.45,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8222222222222223,
+  "confidence": [
+   0.75,
+   1.0,
+   0.75,
+   0.75,
+   0.8,
+   0.6,
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Gaurav Mehta \u2013 Cantor Fitzgerald": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Rich Anderson \u2013 BMO Capital Markets": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.0,
+   -0.35,
+   0.15,
+   0.0,
+   0.35,
+   -0.45,
+   0.0,
+   0.0,
+   0.05,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8166666666666667,
+  "confidence": [
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   0.75,
+   0.75,
+   0.6,
+   0.4,
+   0.6,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Paula Poskon \u2013 Robert Baird": {
+  "avg_sentiment_score": 0.21000000000000002,
+  "sentiment_score": [
+   0.0,
+   0.05,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   1.0,
+   0.4
+  ]
+ },
+ "Mike Salinsky \u2013 RBC Capital Markets": {
+  "avg_sentiment_score": 0.02142857142857143,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   0.0,
+   0.15,
+   0.0,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6,
+   0.8,
+   0.6,
+   1.0
+  ]
+ },
+ "Buck Horne \u2013 Raymond James": {
+  "avg_sentiment_score": 0.10833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9049999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Tayo Okusanya \u2013 Jefferies": {
+  "avg_sentiment_score": 0.5166666666666667,
+  "sentiment_score": [
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9166666666666666,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0
+  ]
+ },
+ "Carol Kemple \u2013 Hilliard Lyons": {
+  "avg_sentiment_score": 0.2,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9339999999999999,
+  "confidence": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67
+  ]
+ }
+}

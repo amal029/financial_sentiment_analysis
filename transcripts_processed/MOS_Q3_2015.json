@@ -1,0 +1,252 @@
+{
+ "date": "2015-11-03 09:00:00",
+ "Laura C. Gagnon - Vice President Investor Relations": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "James O'Rourke - President and Chief Executive Officer": {
+  "avg_sentiment_score": 0.41111111111111115,
+  "sentiment_score": [
+   0.65,
+   0.85,
+   0.45,
+   0.15,
+   0.15,
+   0.45,
+   0.05,
+   0.0,
+   0.85,
+   0.55,
+   0.65,
+   0.45,
+   0.15,
+   0.0,
+   0.15,
+   1.0,
+   0.0,
+   0.85
+  ],
+  "avg_confidence": 0.79,
+  "confidence": [
+   0.85,
+   0.9,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.9,
+   0.75,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   0.9
+  ]
+ },
+ "Richard L. Mack - Executive Vice President and Chief Financial Officer": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Andrew Wong - RBC Capital Markets": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Richard N. McLellan - Senior Vice President-Commercial": {
+  "avg_sentiment_score": 0.34,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.45,
+   0.55,
+   0.55
+  ],
+  "avg_confidence": 0.6799999999999999,
+  "confidence": [
+   0.4,
+   0.75,
+   0.75,
+   0.75,
+   0.75
+  ],
+  "title": "Senior Vice President of Commercial"
+ },
+ "Ben Isaacson - Scotiabank Global Banking and Markets": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Joel Jackson - BMO Capital Markets (Canada)": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Michael Rahm - VP-Market Analysis & Strategic Planning": {
+  "avg_sentiment_score": 0.3333333333333333,
+  "sentiment_score": [
+   0.45,
+   0.55,
+   0.85,
+   0.05,
+   0.55,
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75,
+   0.9,
+   0.6,
+   0.75,
+   0.75
+  ]
+ },
+ "Jacob Bout - CIBC World Markets, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Walter F. Precourt - Senior Vice President-Potash Operations": {
+  "avg_sentiment_score": 1.0,
+  "sentiment_score": [
+   1.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Adam Samuelson - Goldman Sachs & Co.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 0.4,
+  "confidence": [
+   0.4
+  ]
+ },
+ "Sandy Klugman - Vertical Research Partners": {
+  "avg_sentiment_score": -0.15,
+  "sentiment_score": [
+   -0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Stephen Byrne - Bank of America Merrill Lynch": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Don Carson - Susquehanna Financial Group LLLP": {
+  "avg_sentiment_score": 0.45,
+  "sentiment_score": [
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Jeffrey J. Zekauskas - JPMorgan Securities LLC": {
+  "avg_sentiment_score": -0.45,
+  "sentiment_score": [
+   -0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75
+  ]
+ },
+ "Yonah Weisz - HSBC Bank Plc (Tel Aviv Branch)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Daniel Jester - Citigroup Global Markets, Inc. (Broker)": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0,
+   1.0
+  ]
+ },
+ "Neel Kumar - Morgan Stanley & Co. LLC": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Jonas Oxgaard - Sanford C. Bernstein & Co. LLC": {
+  "avg_sentiment_score": 0.5,
+  "sentiment_score": [
+   1.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ }
+}

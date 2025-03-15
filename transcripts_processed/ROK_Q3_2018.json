@@ -1,0 +1,305 @@
+{
+ "date": "2018-07-25 08:30:00",
+ "Steven W. Etzel - Rockwell Automation, Inc.": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8800000000000001,
+  "confidence": [
+   0.4,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Blake Moret - Rockwell Automation, Inc.": {
+  "avg_sentiment_score": 0.5538461538461539,
+  "sentiment_score": [
+   0.85,
+   0.85,
+   0.55,
+   0.0,
+   0.65,
+   0.15,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   0.45,
+   0.65,
+   0.65,
+   0.85,
+   0.65,
+   0.55,
+   0.15,
+   0.0,
+   0.0,
+   0.55,
+   0.85,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "avg_confidence": 0.8007692307692308,
+  "confidence": [
+   0.9,
+   0.9,
+   0.75,
+   0.8,
+   0.85,
+   0.75,
+   0.8,
+   1.0,
+   0.8,
+   0.4,
+   0.75,
+   0.85,
+   0.85,
+   0.9,
+   0.85,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   0.75,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   0.4
+  ],
+  "title": "President, Chairman & CEO"
+ },
+ "Patrick Goris - Rockwell Automation, Inc.": {
+  "avg_sentiment_score": 0.30357142857142855,
+  "sentiment_score": [
+   1.0,
+   1.0,
+   0.0,
+   0.65,
+   0.0,
+   0.45,
+   0.0,
+   0.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.45,
+   0.55,
+   0.0,
+   0.0,
+   0.0,
+   0.55,
+   -0.35,
+   0.0,
+   0.0,
+   -0.35,
+   0.0,
+   1.0,
+   0.0,
+   0.0,
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.8585714285714285,
+  "confidence": [
+   0.4,
+   0.67,
+   1.0,
+   0.85,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.6,
+   0.67,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.75,
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ],
+  "title": "Senior VP & CFO"
+ },
+ "Rich M. Kwas - Wells Fargo Securities LLC": {
+  "avg_sentiment_score": 0.0125,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.9,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "Charles Stephen Tusa - JPMorgan Securities LLC": {
+  "avg_sentiment_score": 0.21666666666666667,
+  "sentiment_score": [
+   -0.35,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7999999999999999,
+  "confidence": [
+   0.75,
+   1.0,
+   0.65
+  ]
+ },
+ "Steven Winoker - UBS Securities LLC": {
+  "avg_sentiment_score": 0.20833333333333334,
+  "sentiment_score": [
+   0.0,
+   0.6,
+   -0.35,
+   0.0,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8633333333333333,
+  "confidence": [
+   1.0,
+   0.75,
+   0.75,
+   1.0,
+   1.0,
+   0.68
+  ]
+ },
+ "Richard Eastman - Robert W. Baird & Co., Inc.": {
+  "avg_sentiment_score": 0.35,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   0.15,
+   0.45,
+   1.0
+  ],
+  "avg_confidence": 0.726,
+  "confidence": [
+   1.0,
+   0.6,
+   0.6,
+   0.75,
+   0.68
+  ]
+ },
+ "Julian Mitchell - Barclays Capital, Inc.": {
+  "avg_sentiment_score": 0.3833333333333333,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.8666666666666667,
+  "confidence": [
+   0.6,
+   1.0,
+   1.0
+  ]
+ },
+ "Nigel Coe - Wolfe Research LLC": {
+  "avg_sentiment_score": -0.09999999999999999,
+  "sentiment_score": [
+   -0.15,
+   -0.15,
+   0.0
+  ],
+  "avg_confidence": 0.8333333333333334,
+  "confidence": [
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "Andrew Kaplowitz - Citi Research": {
+  "avg_sentiment_score": 0.125,
+  "sentiment_score": [
+   0.0,
+   -0.15,
+   -0.35,
+   1.0
+  ],
+  "avg_confidence": 0.755,
+  "confidence": [
+   1.0,
+   0.6,
+   0.75,
+   0.67
+  ]
+ },
+ "Joe Ritchie - Goldman Sachs & Co. LLC": {
+  "avg_sentiment_score": 0.4125,
+  "sentiment_score": [
+   0.0,
+   0.65,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.7625,
+  "confidence": [
+   1.0,
+   0.85,
+   0.6,
+   0.6
+  ]
+ },
+ "Kristen Owen - Oppenheimer & Co., Inc.": {
+  "avg_sentiment_score": 0.48333333333333334,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.81,
+  "confidence": [
+   0.75,
+   1.0,
+   0.68
+  ]
+ },
+ "Justin Laurence Bergner - Gabelli & Company": {
+  "avg_sentiment_score": 0.3875,
+  "sentiment_score": [
+   0.0,
+   0.55,
+   0.0,
+   1.0
+  ],
+  "avg_confidence": 0.9375,
+  "confidence": [
+   1.0,
+   0.75,
+   1.0,
+   1.0
+  ]
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "date": "2013-01-23 00:00:00",
+ "Bob Blair": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0
+  ],
+  "avg_confidence": 1.0,
+  "confidence": [
+   1.0
+  ]
+ },
+ "Stephen Milligan": {
+  "avg_sentiment_score": 0.22894736842105262,
+  "sentiment_score": [
+   0.05,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   1.0,
+   0.85,
+   0.0,
+   0.0,
+   0.15,
+   0.15,
+   0.55,
+   0.05,
+   0.55,
+   0.15,
+   0.0
+  ],
+  "avg_confidence": 0.7973684210526316,
+  "confidence": [
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.75,
+   0.6,
+   0.75,
+   0.4,
+   0.9,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   0.75,
+   0.75,
+   1.0
+  ],
+  "title": "CEO & Director"
+ },
+ "Wolfgang Nickl": {
+  "avg_sentiment_score": 0.18125,
+  "sentiment_score": [
+   0.0,
+   0.15,
+   1.0,
+   0.65,
+   1.0,
+   -0.15,
+   -0.15,
+   0.0,
+   0.05,
+   0.45,
+   0.15,
+   -0.15,
+   0.0,
+   -0.75,
+   0.0,
+   0.65
+  ],
+  "avg_confidence": 0.709375,
+  "confidence": [
+   0.4,
+   0.75,
+   0.4,
+   0.85,
+   0.4,
+   0.75,
+   0.6,
+   0.8,
+   0.6,
+   0.75,
+   0.75,
+   0.6,
+   1.0,
+   0.85,
+   1.0,
+   0.85
+  ],
+  "title": "Chief Financial Officer and Executive Vice President"
+ },
+ "Ananda Baruah": {
+  "avg_sentiment_score": -0.15000000000000002,
+  "sentiment_score": [
+   -0.45,
+   0.15
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Richard Kugele": {
+  "avg_sentiment_score": 0.025,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0,
+   0.1
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   1.0,
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Aaron Rakers": {
+  "avg_sentiment_score": 0.275,
+  "sentiment_score": [
+   0.55,
+   0.0
+  ],
+  "avg_confidence": 0.675,
+  "confidence": [
+   0.75,
+   0.6
+  ]
+ },
+ "Cindy Shaw": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15,
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Sherri Scribner": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05,
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6,
+   0.6
+  ]
+ },
+ "Jayson Noland": {
+  "avg_sentiment_score": 0.016666666666666666,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   1.0,
+   0.4,
+   0.6
+  ]
+ },
+ "Scott Craig": {
+  "avg_sentiment_score": 0.05,
+  "sentiment_score": [
+   0.05
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Steven Fox": {
+  "avg_sentiment_score": 0.06666666666666667,
+  "sentiment_score": [
+   0.15,
+   0.0,
+   0.05
+  ],
+  "avg_confidence": 0.7333333333333334,
+  "confidence": [
+   0.6,
+   1.0,
+   0.6
+  ]
+ },
+ "Keith Bachman": {
+  "avg_sentiment_score": 0.10000000000000002,
+  "sentiment_score": [
+   0.45,
+   0.0,
+   -0.15
+  ],
+  "avg_confidence": 0.65,
+  "confidence": [
+   0.75,
+   0.6,
+   0.6
+  ]
+ },
+ "Nehal Chokshi": {
+  "avg_sentiment_score": 0.15000000000000002,
+  "sentiment_score": [
+   -0.15,
+   0.45
+  ],
+  "avg_confidence": 0.75,
+  "confidence": [
+   0.75,
+   0.75
+  ]
+ },
+ "Eric Sterling": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.8,
+  "confidence": [
+   0.6,
+   1.0
+  ]
+ },
+ "Robert Cihra": {
+  "avg_sentiment_score": 0.15,
+  "sentiment_score": [
+   0.15
+  ],
+  "avg_confidence": 0.6,
+  "confidence": [
+   0.6
+  ]
+ },
+ "Mark Miller": {
+  "avg_sentiment_score": 0.0,
+  "sentiment_score": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "avg_confidence": 0.6666666666666666,
+  "confidence": [
+   0.6,
+   0.4,
+   1.0
+  ]
+ }
+}
