@@ -6,6 +6,8 @@ import json
 from ollama import chat
 from pydantic import BaseModel
 from zipfile import ZipFile
+from os import listdir
+from os.path import isfile, join
 
 
 class Output(BaseModel):
@@ -65,8 +67,9 @@ def get_sentiment(text, company_name, model=None):
 
 
 def process(fName):
-    # with open(fName) as ff:
     soup = BeautifulSoup(ff, 'lxml')
+    if (len(soup.get_text()) == 0):
+        return None, None
 
     # XXX: Get the company name here
     span = re.search('COMPANY CONFORMED NAME:.*', soup.get_text()).span()
@@ -112,6 +115,8 @@ def get_sheets_only(tables):
 
 def process_file(ff, fname):
     res, company_name = process(ff)
+    if res is None or company_name is None:
+        return None
     print('Doing company: ', company_name)
     if res == '':
         print('Nothing obtained to perform sentiment analysis')
@@ -124,11 +129,20 @@ def process_file(ff, fname):
 
 if __name__ == '__main__':
 
+    # XXX: Get the files that have already been processed
+    mypath = './10X_filing_sentiment'
+    donefiles = [f.split('.')[0]
+                 for f in listdir(mypath) if isfile(join(mypath, f))]
+
     # XXX: Process the zipfile and then getting the sentiment
     with ZipFile('./10X_filings/10-X_2021.zip') as myzip:
         for i, f in enumerate(myzip.namelist()):
             if i >= 2:
+                # XXX: Here if we are already done, then continue
                 filename = f.split('/')[-1].split('.')[0]
+                if filename in donefiles:
+                    print('Skipping: ', filename, ' already done!')
+                    continue
                 with myzip.open(f) as myfile:
                     ff = myfile.read()
                     process_file(ff, filename)
