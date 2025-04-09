@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
 import re
@@ -112,6 +112,10 @@ def get_sheets_only(tables):
 
 def process_file(ff, fname):
     res, company_name = process(ff)
+    print('Doing company: ', company_name)
+    if res == '':
+        print('Nothing obtained to perform sentiment analysis')
+        return
     res = get_sheets_only(res)
     res = get_sentiment(res, company_name, model='llama3.2')
     with open('./10X_filing_sentiment/%s.json' % fname, 'w') as fd:
@@ -121,7 +125,7 @@ def process_file(ff, fname):
 if __name__ == '__main__':
 
     # XXX: Process the zipfile and then getting the sentiment
-    with ZipFile('./10X_filings/10-X_2011.zip') as myzip:
+    with ZipFile('./10X_filings/10-X_2021.zip') as myzip:
         for i, f in enumerate(myzip.namelist()):
             if i >= 2:
                 filename = f.split('/')[-1].split('.')[0]
