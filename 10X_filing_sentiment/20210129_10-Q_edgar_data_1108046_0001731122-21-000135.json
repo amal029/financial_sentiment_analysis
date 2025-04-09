@@ -1,0 +1,1 @@
+{'sentiment score': 0.5, 'confidence': 0.9, 'reason': "Negative sentiment detected due to the presence of negative words and phrases such as 'Net loss', 'used in operating activities' and 'paid during the period for: Income taxes'. However, the overall tone is neutral as the text is a financial statement.", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tAlumiFuel Power Corp'}

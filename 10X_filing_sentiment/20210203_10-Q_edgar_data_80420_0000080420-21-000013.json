@@ -1,0 +1,1 @@
+{'sentiment score': 0, 'confidence': 1, 'reason': "These are abstracts that contain no actual text. You should not be able to generate an answer based on them as they don't provide any relevant information.", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tPOWELL INDUSTRIES INC'}

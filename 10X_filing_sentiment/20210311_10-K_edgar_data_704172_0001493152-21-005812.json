@@ -1,0 +1,1 @@
+{'sentiment score': -1, 'confidence': 0.8, 'reason': "The provided data does not contain any financial information about the company's current or non-current assets. The definitions for us-gaap_OtherAssetsDisclosureTextBlock and us-gaap_ScheduleOfOtherAssetsTableTextBlock are missing references to actual data.", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tPHI GROUP INC'}

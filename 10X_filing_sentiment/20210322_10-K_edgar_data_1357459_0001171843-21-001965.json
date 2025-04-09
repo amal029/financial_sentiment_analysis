@@ -1,0 +1,1 @@
+{'sentiment score': 0, 'confidence': 0.98, 'reason': '{\r\n  "name": "us-gaap_OperatingLeaseRightofuseAssetAndOtherAssetsNoncurrent",\r\n  "namespacePrefix": "us-gaap_",\r\n  "dataType": "xbrli:monetaryItemType",\r\n  "balanceType": "debit",\r\n  "periodType": "instant"\r\n}', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tSeneca Biopharma, Inc.'}

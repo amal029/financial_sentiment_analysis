@@ -1,0 +1,1 @@
+{'sentiment score': -1, 'confidence': 0.9, 'reason': "[{'sentiment': 'negative', 'pos_count': 0, 'neg_count': 12, 'neu_count': 7}, {'sentiment': 'neutral', 'pos_count': 4, 'neg_count': 1, 'neu_count': 5}, {'sentiment': 'positive', 'pos_count': 3, 'neg_count': 2, 'neu_count': 6}]}", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tRumbleON, Inc.'}

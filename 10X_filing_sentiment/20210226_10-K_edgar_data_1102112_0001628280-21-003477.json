@@ -1,0 +1,1 @@
+{'sentiment score': -1, 'confidence': 0.5, 'reason': 'This is not a sentiment analysis of the provided text, but rather an analysis of the XBRL tags present in the document. The text appears to be a financial statement or report, and the XBRL tags indicate that it is a condensed cash flow statement.', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tPACWEST BANCORP'}

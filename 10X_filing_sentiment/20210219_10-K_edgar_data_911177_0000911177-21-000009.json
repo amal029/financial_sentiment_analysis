@@ -1,0 +1,1 @@
+{'sentiment score': -1, 'confidence': 0.65, 'reason': 'Overall Sentiment: NEUTRAL\nReasoning Error: No data point has a score greater than the average.\n\nPositive Sentiment Ratio: 44/70 (62.86%) \n\nNegative Sentiment Ratio: 26/70 (37.14%)\n\nNeutral Sentiment Ratio: 0/70 (0%)', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tCASELLA WASTE SYSTEMS INC'}
