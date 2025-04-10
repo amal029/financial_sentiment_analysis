@@ -1,1 +1,0 @@
-{'sentiment score': -1, 'confidence': 0.5, 'reason': 'Negative sentiment due to negative numbers in the table. Confidence level is low due to missing information about the companies and their performance.', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tCalifornia Resources Corp'}

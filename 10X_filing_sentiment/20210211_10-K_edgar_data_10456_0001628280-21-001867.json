@@ -1,1 +1,0 @@
-{'sentiment score': 1, 'confidence': 0.9, 'reason': "[{'category': 'entity', 'type': 'PRAGMA table_info(consolidated_statement)', 'value': 4}, {'category': 'core ', 'type': 'PRAGMA table_info(statement)', 'value': 6}, {'category': 'core ', 'type': 'PRAGMA table_info(resultset)', 'value': 7}]}", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tBAXTER INTERNATIONAL INC'}

@@ -1,1 +1,0 @@
-{'sentiment score': 0, 'confidence': 0, 'reason': 'This is a financial statement in the format of a balance sheet. The information given does not make sense because it is missing some key elements like revenues and expenses.', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tMotorola Solutions, Inc.'}

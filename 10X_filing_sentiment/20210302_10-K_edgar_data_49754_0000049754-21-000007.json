@@ -1,1 +1,0 @@
-{'sentiment score': -0.17, 'confidence': 0.83, 'reason': "The balance type 'credit' is not consistent with the overall context of other current assets, which are typically expected to be debits in a cash flow statement. Therefore, this value should likely be marked as 'debit'.", 'company_name': 'COMPANY CONFORMED NAME:\t\t\tDine Brands Global, Inc.'}

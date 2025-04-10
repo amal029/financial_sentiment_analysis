@@ -1,1 +1,0 @@
-{'sentiment score': -1, 'confidence': 0.0, 'reason': 'Multiple categories have been used to categorize the input data, including `us-gaap`, `catc_` and `xbrli` prefixes. This makes it difficult for the sentiment analysis model to determine the overall sentiment of the text data.', 'company_name': 'COMPANY CONFORMED NAME:\t\t\tCAMBRIDGE BANCORP'}
