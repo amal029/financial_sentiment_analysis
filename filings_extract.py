@@ -24,7 +24,9 @@ def get_sentiment(text, company_name, model=None):
     else:
         model = model
         ftext = r"You are an expert financial analyst. You will analyse \
-        the financial data given to you. You will give a sentiment from \
+        the financial reports. You will analyse the balance sheets, cashflow,\
+        and income sheets, \
+        given to you. You will give a sentiment from \
         -1 to 1 for very negative to very positive for the data. \
         You will also give a confidence score from 0 to 1 indicating \
         how confident you are when giving the sentiment score. \
@@ -66,8 +68,10 @@ def get_sentiment(text, company_name, model=None):
             'reason': reason, 'company_name': company_name}
 
 
-def process(fName):
+def process(fName, pp=False):
     soup = BeautifulSoup(ff, 'lxml')
+    if (pp):
+        print(soup.get_text())
     if (len(soup.get_text()) == 0):
         return None, None
 
@@ -88,8 +92,11 @@ def process(fName):
             for c in row.find_all('td'):
                 text = c.get_text().rstrip().strip()
                 # XXX: Search for these words in the sentence
-                if re.search('CONSOLIDATED +BALANCE +SHEETS', text,
-                             re.IGNORECASE):
+                if (re.search('CONSOLIDATED +BALANCE +SHEETS', text,
+                              re.IGNORECASE) or
+                    re.search('CONSOLIDATED *STATEMENTS *OF *CASH *FLOWS',
+                              text,
+                              re.IGNORECASE)):
                     to_print = True
                 if text.isascii() and text != '' and to_print:
                     s.append(text)
@@ -104,17 +111,46 @@ def process(fName):
 
 def get_sheets_only(tables):
     toret = list()
+    asset_table = None
+    liability_table = None
+    cashflow_table = None
     for t in tables:
         t = t[0]
-        if ((re.search('CURRENT ASSETS', t, re.IGNORECASE) or
-             re.search('LIABILITIES:', t, re.IGNORECASE) or
-             re.search('CASHFLOW', t, re.IGNORECASE))):
-            toret.append(t)
+        if ((re.search('CURRENT ASSETS:*', t, re.IGNORECASE) and
+             asset_table is None) or
+            (re.search('ASSETS', t, re.IGNORECASE) and
+             asset_table is None)):
+            asset_table = t
+        if ((re.search('LIABILITIES:*', t, re.X) and
+             liability_table is None)):
+            liability_table = t
+        if ((re.search('Cash *Flow', t, re.IGNORECASE) and
+             cashflow_table is None)):
+            cashflow_table = t
+
+    toret.append(asset_table)
+    toret.append(liability_table)
+    toret.append(cashflow_table)
+    toret = list(set(toret))
+    toret = [i if i is not None else "" for i in toret]
+    # XXX: For debugging
+    if asset_table is None:
+        print('Assets not found!')
+        print(''.join(toret))
+        assert (False)
+    if liability_table is None:
+        print('Liabilities not found!')
+        print(''.join(toret))
+        assert (False)
+    if cashflow_table is None:
+        print('Cashflow not found!')
+        print(''.join(toret))
+        assert (False)
     return ''.join(toret)
 
 
-def process_file(ff, fname):
-    res, company_name = process(ff)
+def process_file(ff, fname, pp=False):
+    res, company_name = process(ff, pp=pp)
     if res is None or company_name is None:
         return None
     print('Doing company: ', company_name)
@@ -141,9 +177,26 @@ if __name__ == '__main__':
                 # XXX: Here if we are already done, then continue
                 filename = f.split('/')[-1].split('.')[0]
                 if filename in donefiles:
-                    print('Skipping: ', filename, ' already done!')
+                    # print('Skipping: ', filename, ' already done!')
                     continue
                 with myzip.open(f) as myfile:
                     ff = myfile.read()
-                    process_file(ff, filename)
+                    # FIXME: This is because there are garbage files in
+                    # the database!
+                    if len(ff) > 50_000_000 or len(ff) == 0:
+                        print('Skipping: %s, too big: %s!' % (filename,
+                                                              len(ff)))
+                        continue
+                    with open('/tmp/tutu.html', 'wb') as fd:
+                        fd.write(ff)
                     # assert (False)
+                    fft = filename.split('_')
+                    pp = False
+                    # XXX: Only do quarters
+                    if len(fft) > 1 and (not fft[1].startswith('10-Q')):
+                        continue
+                    # else:
+                    #     pp = False
+                    print('filename: ', filename)
+                    process_file(ff, filename, pp=pp)
+                    donefiles.append(filename)
