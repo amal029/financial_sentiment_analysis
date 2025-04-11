@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import requests
 import pandas as pd
-import os
+# import os
 
 
 def mainbalancesheet(c):
@@ -88,12 +88,12 @@ if __name__ == '__main__':
     #     mainratios(c)
     #     files.append(c)
 
-    files = [f.split('.json')[0]
-             for f in os.listdir('./prices_daily/')
-             if os.path.isfile(os.path.join('./prices_daily/', f))]
+    # files = [f.split('.json')[0]
+    #          for f in os.listdir('./prices_daily/')
+    #          if os.path.isfile(os.path.join('./prices_daily/', f))]
 
-    for c in sp500:
-        if c in files:
-            continue
-        mainprices(c)
-        files.append(c)
+    # for c in sp500:
+    #     if c in files:
+    #         continue
+    #     mainprices(c)
+    #     files.append(c)
