@@ -44,26 +44,26 @@ if __name__ == '__main__':
     sp500 = [x.strip() for x in list(pd.read_csv('sp500.csv')['Symbol'])]
 
     # XXX: Still need to complete this
-    # files = [f.split('.json')[0]
-    #          for f in os.listdir('./balance_sheets/')
-    #          if os.path.isfile(os.path.join('./balance_sheets/', f))]
-
-    # for c in sp500:
-    #     if c in files:
-    #         continue
-    #     mainbalancesheet(c)
-    #     files.append(c)
-
-    # XXX: Still need to complete this
     files = [f.split('.json')[0]
-             for f in os.listdir('./cash_flow/')
-             if os.path.isfile(os.path.join('./cash_flow/', f))]
+             for f in os.listdir('./balance_sheets/')
+             if os.path.isfile(os.path.join('./balance_sheets/', f))]
 
     for c in sp500:
         if c in files:
             continue
-        maincashflow(c)
+        mainbalancesheet(c)
         files.append(c)
+
+    # XXX: Still need to complete this
+    # files = [f.split('.json')[0]
+    #          for f in os.listdir('./cash_flow/')
+    #          if os.path.isfile(os.path.join('./cash_flow/', f))]
+
+    # for c in sp500:
+    #     if c in files:
+    #         continue
+    #     maincashflow(c)
+    #     files.append(c)
 
     # XXX: Still need to complete this
     # files = [f.split('.json')[0]
