@@ -28,14 +28,15 @@ def get_sentiment(table, tick=None, q=None, y1=None,
         %s year. The third column will give the numbers for quarter %s \
         quarter from %s year.\
         Analyse the balance sheet across the two different quarters and years.\
-        You will give a sentiment score for the company, after \
-        analysing the balance sheet, from -1 to 1.\
+        Use trend analysis and ratio analysis, from the balance sheet, \
+        to determine a sentiment score. Give a sentiment score from -1 to 1.\
         A sentiment score of -1 indicates a very negative sentiment.\
         A sentiment score of 1 indicates a very positive sentiment.\
         You will also give a confidence score from 0 to 1.\
         Confidence score of 0 means you have no confidence in your analysis.\
         A score of 1 indicates you have full confidence in your analysis.\
         Finally, you will give a detailed reason for you analysis.\
+        Your reaoning should include the trend analysis and ratio analysis.\
         The output should be in json format only." % (q, y1, q, y2))
 
     if model is not None:
@@ -59,8 +60,8 @@ def get_sentiment(table, tick=None, q=None, y1=None,
         rc = 0
         reason = ''
 
-    # print('sentiment score: ', res, 'confidence: ', rc, 'reason: ', reason,
-    #       'filingdate: ', filingdate)
+    print('sentiment score: ', res, 'confidence: ', rc, 'reason: ', reason,
+          'filingdate: ', filingdate)
 
     return {'sentiment_score': res,
             'confidence': rc,
@@ -69,7 +70,7 @@ def get_sentiment(table, tick=None, q=None, y1=None,
             'filingdate': filingdate}
 
 
-def getBalanceSheetData():
+def getBalanceSheetData(model):
     years = list(reversed(list(range(2010, 2025))))
     quarters = list(reversed(list(range(1, 5))))
     sp500 = pd.read_csv('sp500.csv')[['CIK', 'Symbol']]
@@ -106,15 +107,16 @@ def getBalanceSheetData():
                     ftable = tb.tabulate(fdata, headers=headers,
                                          showindex='never')
                     ret = get_sentiment(ftable, tick=s, q=q, y1=y, y2=y-1,
-                                        filingdate=filingdate)
-                    with open('./10X_filing_sentiment/%s_Q%s_%s.json' %
-                              (s, q, y), 'w') as fd:
+                                        filingdate=filingdate, model=model)
+                    with open('./10X_filing_sentiment/%s_Q%s_%s_%s.json' %
+                              (s, q, y, model), 'w') as fd:
                         json.dump(ret, fd)
-                        fdata.to_csv('./10X_filing_sentiment/%s_Q%s_%s.csv' %
-                                     (s, q, y))
+                        fdata.to_csv('./10X_filing_sentiment/%s_Q%s_%s_%s.csv'
+                                     % (s, q, y, model))
                 except Exception:
                     pass
 
 
 if __name__ == '__main__':
-    getBalanceSheetData()
+    for model in ['gemma3:12b', 'llama3.2', 'deepseek-r1']:
+        getBalanceSheetData(model=model)
