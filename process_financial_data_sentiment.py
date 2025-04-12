@@ -60,8 +60,8 @@ def get_sentiment(table, tick=None, q=None, y1=None,
         rc = 0
         reason = ''
 
-    print('sentiment score: ', res, 'confidence: ', rc, 'reason: ', reason,
-          'filingdate: ', filingdate)
+    # print('sentiment score: ', res, 'confidence: ', rc, 'reason: ', reason,
+    #       'filingdate: ', filingdate)
 
     return {'sentiment_score': res,
             'confidence': rc,
