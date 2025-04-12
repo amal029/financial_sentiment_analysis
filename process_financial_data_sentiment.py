@@ -145,5 +145,5 @@ def getBalanceSheetData(model):
 
 
 if __name__ == '__main__':
-    for model in ['gemma3:12b', 'llama3.2', 'deepseek-r1']:
+    for model in ['gemma3:12b', 'llama3.2', 'deepseek-r1:14b']:
         getBalanceSheetData(model=model)
