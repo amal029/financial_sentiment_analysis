@@ -79,43 +79,42 @@ def getBalanceSheetData():
     balance_data = data_cols[:-4]
     balance_data_desc = list(balance_mnemonics['Description'][:-4])
     data = pd.read_csv('./Quarter_financial_data.csv', usecols=data_cols)
-    # XXX: Just read these columns (balance sheet information only)
-    # for c in ['MSFT']:
+
     for (c, s) in zip(sp500['CIK'], sp500['Symbol']):
         # XXX: Now process the transcripts
         for y in years:
             for q in quarters:
-                print('Doing Company: ', s, 'Quarter: Q', q, 'Year: ', y)
-
-                pdata = data[(data['cik'] == c) &
-                             (data['fqtr'] == q) &
-                             ((data['fyearq'] == y) |
-                              (data['fyearq'] == y-1))]
-                # XXX: We now have the required balance sheet
-                # information
-                pdata = pdata[balance_data]
-                filingdate = list(pdata['datadate'])
-                fdata = pd.DataFrame({'': balance_data_desc[:-1],
-                                      '%s_Q%s' % (y, q): pdata.iloc[1, :-1],
-                                      '%s_Q%s' % (y-1, q): pdata.iloc[0, :-1]},
-                                     index=balance_data[:-1]).dropna()
-                # XXX: Tabulate the data
-                headers = ['Account Items',
-                           '%s_Q%s' % (y, q),
-                           '%s_Q%s' % (y-1, q)]
-                ftable = tb.tabulate(fdata, headers=headers,
-                                     showindex='never')
-                ret = get_sentiment(ftable, tick=s, q=q, y1=y, y2=y-1,
-                                    filingdate=filingdate)
-                with open('./10X_filing_sentiment/%s_Q%s_%s.json' % (s, q, y),
-                          'w') as fd:
-                    json.dump(ret, fd)
-                fdata.to_csv('./10X_filing_sentiment/%s_Q%s_%s.csv' %
-                             (s, q, y))
+                try:
+                    print('Doing: ', s, 'Q', q, y)
+                    pdata = data[(data['cik'] == c) &
+                                 (data['fqtr'] == q) &
+                                 ((data['fyearq'] == y) |
+                                  (data['fyearq'] == y-1))]
+                    # XXX: We now have the required balance sheet
+                    # information
+                    pdata = pdata[balance_data]
+                    filingdate = list(pdata['datadate'])
+                    fdata = pd.DataFrame({'': balance_data_desc[:-1],
+                                          '%s_Q%s' % (y, q):
+                                          pdata.iloc[1, :-1],
+                                          '%s_Q%s' % (y-1, q):
+                                          pdata.iloc[0, :-1]},
+                                         index=balance_data[:-1]).dropna()
+                    # XXX: Tabulate the data
+                    headers = ['Account Items', '%s_Q%s' % (y, q),
+                               '%s_Q%s' % (y-1, q)]
+                    ftable = tb.tabulate(fdata, headers=headers,
+                                         showindex='never')
+                    ret = get_sentiment(ftable, tick=s, q=q, y1=y, y2=y-1,
+                                        filingdate=filingdate)
+                    with open('./10X_filing_sentiment/%s_Q%s_%s.json' %
+                              (s, q, y), 'w') as fd:
+                        json.dump(ret, fd)
+                        fdata.to_csv('./10X_filing_sentiment/%s_Q%s_%s.csv' %
+                                     (s, q, y))
+                except Exception:
+                    pass
 
 
 if __name__ == '__main__':
-    try:
-        getBalanceSheetData()
-    except Exception:
-        pass
+    getBalanceSheetData()
