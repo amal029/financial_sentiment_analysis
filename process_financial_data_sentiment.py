@@ -45,8 +45,8 @@ def get_sentiment(table, itable, tick=None, q=None, y1=None,
     if model is not None:
         text = ftext + '\n\nBalance sheet: \n\n' + table +\
             '\n\nIncome statement: \n\n' + itable
-    print(text)
-    assert (False)
+    # print(text)
+    # assert (False)
     mresponse = list()
     for response in chat(model=model, messages=[
             {
