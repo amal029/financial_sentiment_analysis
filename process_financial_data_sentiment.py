@@ -115,4 +115,7 @@ def getBalanceSheetData():
 
 
 if __name__ == '__main__':
-    getBalanceSheetData()
+    try:
+        getBalanceSheetData()
+    except Exception:
+        pass
