@@ -12,27 +12,30 @@ class Output(BaseModel):
     reason: str
 
 
-def get_sentiment(table, tick=None, q=None, y1=None,
+def get_sentiment(table, itable, tick=None, q=None, y1=None,
                   y2=None, filingdate=None, model=None):
     if model is None:
         model = "llama3.2"
     else:
         model = model
 
-    ftext = (r"You are a financial analyst. \
-        You will analyse the balance sheet given to you.\
-        The balance sheet will be given as a table.\
-        The first column of the balance sheet gives details \
-        of the accounting items. The second column will give the numbers\
-        for each row for quarter %s of\
+    ftext = (r"You are the best financial analyst. \
+        You will analyse the balance sheet and income statement given to you.\
+        The balance sheet and the income statement will be given as two \
+        different tables.\ The first column of the balance sheet and\
+        income statement gives details of the accounting items. \
+        The second column of the balance sheet and income statement\
+        will give the numbers for each row for quarter %s of\
         %s year. The third column will give the numbers for quarter %s \
-        quarter from %s year.\
-        Analyse the balance sheet across the two different quarters and years.\
-        Use trend analysis and ratio analysis, from the balance sheet, \
-        to determine a sentiment score. Give a sentiment score from -1 to 1.\
-        A sentiment score of -1 indicates a very negative sentiment.\
-        A sentiment score of 1 indicates a very positive sentiment.\
-        You will also give a confidence score from 0 to 1.\
+        for %s year.\
+        Analyse the balance sheet and income statement across the two\
+        different quarters and years.\
+        Use trend analysis and ratio analysis, from the balance sheet and, \
+        Income statement to determine a sentiment score. \
+        Give a sentiment score from -1 to 1.\
+        A sentiment score of -1 indicates a very negative sentiment for \
+        the company. A sentiment score of 1 indicates a very positive\
+        sentiment. You will also give a confidence score from 0 to 1.\
         Confidence score of 0 means you have no confidence in your analysis.\
         A score of 1 indicates you have full confidence in your analysis.\
         Finally, you will give a detailed reason for you analysis.\
@@ -40,7 +43,8 @@ def get_sentiment(table, tick=None, q=None, y1=None,
         The output should be in json format only." % (q, y1, q, y2))
 
     if model is not None:
-        text = ftext + '\n\n' + table
+        text = ftext + '\n\nBalance sheet: \n\n' + table +\
+            '\n\nIncome statement: \n\n' + itable
     mresponse = list()
     for response in chat(model=model, messages=[
             {
@@ -75,46 +79,67 @@ def getBalanceSheetData(model):
     quarters = list(reversed(list(range(1, 5))))
     sp500 = pd.read_csv('sp500.csv')[['CIK', 'Symbol']]
     balance_mnemonics = pd.read_csv('./finance_mnemonics.csv')
+    income_mnemonics = pd.read_csv('./income_statement_mnemonic.csv')
+    income_description = list(income_mnemonics['Description'])
     # XXX: Read the csv from compustat
     data_cols = list(balance_mnemonics['mnemonic'])
     balance_data = data_cols[:-4]
     balance_data_desc = list(balance_mnemonics['Description'][:-4])
-    data = pd.read_csv('./Quarter_financial_data.csv', usecols=data_cols)
+    data = pd.read_csv('./Quarter_financial_data.csv',
+                       usecols=data_cols+list(income_mnemonics['mnemonic']))
 
     for (c, s) in zip(sp500['CIK'], sp500['Symbol']):
         # XXX: Now process the transcripts
         for y in years:
             for q in quarters:
                 try:
-                    print('Doing: ', s, 'Q', q, y)
+                    print('Doing Company %s: Q%s%s' % (s, q, y))
                     pdata = data[(data['cik'] == c) &
                                  (data['fqtr'] == q) &
                                  ((data['fyearq'] == y) |
                                   (data['fyearq'] == y-1))]
                     # XXX: We now have the required balance sheet
                     # information
-                    pdata = pdata[balance_data]
-                    filingdate = list(pdata['datadate'])
+                    bdata = pdata[balance_data]
+                    filingdate = list(bdata['datadate'])
                     fdata = pd.DataFrame({'': balance_data_desc[:-1],
                                           '%s_Q%s' % (y, q):
-                                          pdata.iloc[1, :-1],
+                                          bdata.iloc[1, :-1],
                                           '%s_Q%s' % (y-1, q):
-                                          pdata.iloc[0, :-1]},
+                                          bdata.iloc[0, :-1]},
                                          index=balance_data[:-1]).dropna()
+                    # XXX: Read the income statement data
+                    idata = pdata[income_mnemonics['mnemonic']]
+                    itable = pd.DataFrame({'': income_description,
+                                           '%s_Q%s' % (y, q):
+                                           idata.iloc[1, :],
+                                           '%s_Q%s' % (y-1, q):
+                                           idata.iloc[0, :]},
+                                          index=list(
+                                              income_mnemonics['mnemonic'])
+                                          ).dropna()
+
                     # XXX: Tabulate the data
                     headers = ['Account Items', '%s_Q%s' % (y, q),
                                '%s_Q%s' % (y-1, q)]
                     ftable = tb.tabulate(fdata, headers=headers,
                                          showindex='never')
-                    ret = get_sentiment(ftable, tick=s, q=q, y1=y, y2=y-1,
+                    itablet = tb.tabulate(itable, headers=headers,
+                                          showindex='never')
+                    ret = get_sentiment(ftable, itablet,
+                                        tick=s, q=q, y1=y, y2=y-1,
                                         filingdate=filingdate, model=model)
                     with open('./10X_filing_sentiment/%s_Q%s_%s_%s.json' %
                               (s, q, y, model), 'w') as fd:
                         json.dump(ret, fd)
-                        fdata.to_csv('./10X_filing_sentiment/%s_Q%s_%s_%s.csv'
-                                     % (s, q, y, model))
+                        fdata.to_csv(
+                            './10X_filing_sentiment/%s_Q%s_%s_%s_balance.csv'
+                            % (s, q, y, model))
+                        itable.to_csv(
+                            './10X_filing_sentiment/%s_Q%s_%s_%s_income.csv'
+                            % (s, q, y, model))
                 except Exception:
-                    pass
+                    raise Exception
 
 
 if __name__ == '__main__':
