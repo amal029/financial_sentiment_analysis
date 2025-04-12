@@ -70,7 +70,7 @@ def get_sentiment(table, tick=None, q=None, y1=None,
 
 
 def getBalanceSheetData():
-    years = reversed(list(range(2010, 2025)))
+    years = list(reversed(list(range(2010, 2025))))
     quarters = list(reversed(list(range(1, 5))))
     sp500 = pd.read_csv('sp500.csv')[['CIK', 'Symbol']]
     balance_mnemonics = pd.read_csv('./finance_mnemonics.csv')
