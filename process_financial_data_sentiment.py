@@ -45,6 +45,8 @@ def get_sentiment(table, itable, tick=None, q=None, y1=None,
     if model is not None:
         text = ftext + '\n\nBalance sheet: \n\n' + table +\
             '\n\nIncome statement: \n\n' + itable
+    print(text)
+    assert (False)
     mresponse = list()
     for response in chat(model=model, messages=[
             {
@@ -139,7 +141,7 @@ def getBalanceSheetData(model):
                             './10X_filing_sentiment/%s_Q%s_%s_%s_income.csv'
                             % (s, q, y, model))
                 except Exception:
-                    raise Exception
+                    pass
 
 
 if __name__ == '__main__':
