@@ -29,8 +29,18 @@ def get_sentiment(person, text, model=None):
         smodel = "gemma-2/gemma-2-sentiment_analysis_with_reasoning:2b-f16"
         model = "seandearnaley"+smodel
     else:
+        # XXX: Need to do this to fix the issue with : in dir name
+        model = 'gemma3:12b' if model == 'gemma3' else model
         model = model
-        ftext = r"you are an assistant that performs sentiment analysis. Given text you will give a sentiment score between -1 and 1 for negative to  positive. You will also give a confidence score between 0 and 1 for no confidence to very confident. Finally, you will give a reason in 1-2 sentence describing the reason for your sentiment score. You will only give the sentiment score, confidence score, and reason as output in json format."
+        ftext = r"you are an assistant that performs sentiment analysis. \
+        Given text you will give a sentiment score between -1 and 1 for \
+        very negative to very positive. You will also give a confidence score \
+        between 0 and 1. 0 for no confidence to 1 for very confident. \
+        Finally, you will give a reason for \
+        in 1-2 sentences describing\
+        the reason for your sentiment score and confidence. You will only give\
+        the sentiment score, confidence score, and reason as output\
+        in json format."
     if omodel is not None:
         text = ftext + "text: " + text
         # XXX: First set the role of ollama
@@ -59,13 +69,15 @@ def get_sentiment(person, text, model=None):
         # assert (False)
         res = json.loads(response)['sentiment']
         rc = json.loads(response)['confidence']
+        reason = json.loads(response)['reason']
     except Exception:
         print('Exception occured: %s' % ' '.join(mresponse))
         res = 0
         rc = 0
+        reason = ''
 
-    print(' sentiment score: ', res, 'confidence: ', rc)
-    return res, rc
+    # print(' sentiment score: ', res, 'confidence: ', rc, 'reason:', reason)
+    return res, rc, reason
 
 
 def process(f, others, model):
@@ -100,13 +112,15 @@ def process(f, others, model):
             s_score = [get_sentiment(s, v[0], model) for v in sayings[s]]
             sentiment_score = [float(s[0]) for s in s_score]
             confidence_score = [float(s[1]) for s in s_score]
+            reason = [str(s[2]) for s in s_score]
             # XXX: The average sentiment score for this person in the call
             sentiments[s] = {'avg_sentiment_score':
                              sum(sentiment_score)/len(sentiment_score),
                              'sentiment_score': sentiment_score,
                              'avg_confidence':
                              sum(confidence_score)/len(confidence_score),
-                             'confidence': confidence_score}
+                             'confidence': confidence_score,
+                             'reasons': reason}
     return sentiments
 
 
@@ -118,7 +132,9 @@ if __name__ == '__main__':
     sp500 = [x.strip() for x in list(pd.read_csv('sp500.csv')['Symbol'])]
     others = ['Executives', 'Operator', 'Analysts']
     models = [  # 'llama3.2',
-              'deepseek-r1']
+              # 'deepseek-r1',
+              'gemma3'
+              ]
     for model in models:
         done_df = [x.strip()
                    for x in
@@ -127,9 +143,9 @@ if __name__ == '__main__':
             if c in done_df:
                 print('Already Done: ', c)
                 continue
-        # XXX: First download the transcript
-        # TD.main(c)
-        # XXX: Now process the downloaded files
+            # XXX: First download the transcript
+            # TD.main(c)
+            # XXX: Now process the downloaded files
             for y in years:
                 for q in quarters:
                     senscore = process(
@@ -138,9 +154,9 @@ if __name__ == '__main__':
                     with open('./transcript_scores_%s/%s_Q%s_%s.json'
                               % (model, c, q, y), 'w') as f:
                         json.dump(senscore, f)
-        # XXX: Append to the done company list too
-        done_df.append(c)
-        # XXX: Write the done company name to done.csv
-        with open('./done_%s.csv' % model, 'a+') as f:
-            f.write(c+'\n')
-        print('Processed and wrote: ', c)
+            # XXX: Append to the done company list too
+            done_df.append(c)
+            # XXX: Write the done company name to done.csv
+            with open('./done_%s.csv' % model, 'a+') as f:
+                f.write(c+'\n')
+            print('Processed and wrote: ', c)
