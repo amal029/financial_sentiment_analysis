@@ -134,16 +134,16 @@ def getBalanceSheetData(model):
                     with open('./10X_filing_sentiment/%s_Q%s_%s_%s.json' %
                               (s, q, y, model), 'w') as fd:
                         json.dump(ret, fd)
-                        fdata.to_csv(
-                            './10X_filing_sentiment/%s_Q%s_%s_%s_balance.csv'
-                            % (s, q, y, model))
-                        itable.to_csv(
-                            './10X_filing_sentiment/%s_Q%s_%s_%s_income.csv'
-                            % (s, q, y, model))
+                        # fdata.to_csv(
+                        #     './10X_filing_sentiment/%s_Q%s_%s_%s_balance.csv'
+                        #     % (s, q, y, model))
+                        # itable.to_csv(
+                        #     './10X_filing_sentiment/%s_Q%s_%s_%s_income.csv'
+                        #     % (s, q, y, model))
                 except Exception:
                     pass
 
 
 if __name__ == '__main__':
-    for model in ['gemma3:12b', 'llama3.2', 'deepseek-r1:14b']:
+    for model in ['gemma3:12b']:
         getBalanceSheetData(model=model)
