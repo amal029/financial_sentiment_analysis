@@ -4,6 +4,8 @@ import tabulate as tb
 import json
 from pydantic import BaseModel
 from ollama import chat
+from os import listdir
+from os.path import isfile, join
 
 
 class Output(BaseModel):
@@ -77,6 +79,10 @@ def get_sentiment(table, itable, tick=None, q=None, y1=None,
 
 
 def getBalanceSheetData(model):
+    # Get the files that are already done
+    done_files = ['_'.join(f.split('_')[:3])
+                  for f in listdir('./10X_filing_sentiment/')
+                  if isfile(join('./10X_filing_sentiment/', f))]
     years = list(reversed(list(range(2010, 2025))))
     quarters = list(reversed(list(range(1, 5))))
     sp500 = pd.read_csv('sp500.csv')[['CIK', 'Symbol']]
@@ -95,7 +101,13 @@ def getBalanceSheetData(model):
         for y in years:
             for q in quarters:
                 try:
-                    print('Doing Company %s: Q%s%s' % (s, q, y))
+                    # If it is already done then move on!
+                    ff = '%s_Q%s_%s' % (s, q, y)
+                    if ff in done_files:
+                        print('Already done: %s' % ff)
+                        continue
+                    # Else process
+                    print('Doing: %s' % ff)
                     pdata = data[(data['cik'] == c) &
                                  (data['fqtr'] == q) &
                                  ((data['fyearq'] == y) |
