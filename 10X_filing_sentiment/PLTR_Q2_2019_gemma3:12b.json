@@ -1,0 +1,1 @@
+{"sentiment_score": 0.0, "confidence": 0.2, "reason": "Insufficient data provided. Both the balance sheet and income statement are empty. Therefore, any analysis and sentiment scoring would be impossible. The lack of financial information leads to a low confidence score.", "ticker": "PLTR", "filingdate": ["2018-06-30", "2019-06-30"]}

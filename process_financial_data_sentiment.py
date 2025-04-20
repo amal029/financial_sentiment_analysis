@@ -54,7 +54,8 @@ def get_sentiment(table, itable, tick=None, q=None, y1=None,
             {
                 'role': 'user',
                 'content': text,
-            },], format=Output.model_json_schema(), stream=True):
+            },], format=Output.model_json_schema(), keep_alive=0,
+                         stream=True):
         mresponse.append(response['message']['content'])
     try:
         response = ''.join(mresponse)

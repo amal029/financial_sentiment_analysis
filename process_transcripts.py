@@ -55,7 +55,7 @@ def get_sentiment(person, text, model=None):
                 'content': text,
             },],
                          format=Output.model_json_schema(),
-                         stream=True):
+                         stream=True, keep_alive=1):
         # print(response['message']['content'], end='', flush=True)
         count += 1
         if count > 1000:
