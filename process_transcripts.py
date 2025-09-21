@@ -30,7 +30,7 @@ def get_sentiment(person, text, model=None):
         model = "seandearnaley"+smodel
     else:
         # XXX: Need to do this to fix the issue with : in dir name
-        model = 'gemma3:12b' if model == 'gemma3' else model
+        model = 'gemma2:2b' if model == 'gemma2' else model
         model = model
         ftext = r"you are an assistant that performs sentiment analysis. \
         Given text you will give a sentiment score between -1 and 1 for \
@@ -55,7 +55,7 @@ def get_sentiment(person, text, model=None):
                 'content': text,
             },],
                          format=Output.model_json_schema(),
-                         stream=True, keep_alive=1):
+                         stream=True, keep_alive=0):
         # print(response['message']['content'], end='', flush=True)
         count += 1
         if count > 1000:
@@ -133,7 +133,7 @@ if __name__ == '__main__':
     others = ['Executives', 'Operator', 'Analysts']
     models = [  # 'llama3.2',
               # 'deepseek-r1',
-              'gemma3'
+              'gemma2'
               ]
     for model in models:
         done_df = [x.strip()
